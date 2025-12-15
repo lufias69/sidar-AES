@@ -628,9 +628,9 @@ Penelitian ini dirancang untuk menjawab empat research questions utama yang masi
 
 **Formula ICC:**
 
-```
-ICC = (MS_B - MS_W) / [MS_B + (k-1)×MS_W + (k/n)×(MS_J - MS_W)]
-```
+$$
+ICC = \frac{MS_B - MS_W}{MS_B + (k-1) \times MS_W + \frac{k}{n} \times (MS_J - MS_W)}
+$$
 
 **Penjelasan Variabel:**
 - $MS_B$ = Mean Square Between subjects (varians antar esai)
@@ -639,7 +639,7 @@ ICC = (MS_B - MS_W) / [MS_B + (k-1)×MS_W + (k/n)×(MS_J - MS_W)]
 - $k$ = jumlah raters per subjek (jumlah trials per esai)
 - $n$ = jumlah subjek (jumlah esai)
 
-**Interpretasi:** ICC > 0.75 (good), 0.60-0.74 (moderate), < 0.60 (poor reliability) (Cicchetti, 1994; Koo & Li, 2016).
+**Interpretasi:** $ICC > 0.75$ (good), $0.60-0.74$ (moderate), $< 0.60$ (poor reliability) (Cicchetti, 1994; Koo & Li, 2016).
 
 **Contoh Perhitungan ICC (Simplified):**
 ```
@@ -675,16 +675,16 @@ Interpretasi: ICC = 0.858 → Good reliability (>0.75)
 
 **Formula Cronbach's Alpha:**
 
-```
-α = (k/(k-1)) × (1 - Σσᵢ²/σₜ²)
-```
+$$
+\alpha = \frac{k}{k-1} \times \left(1 - \frac{\sum \sigma_i^2}{\sigma_t^2}\right)
+$$
 
 **Penjelasan Variabel:**
 - $k$ = jumlah item (kriteria penilaian dalam rubrik)
 - $\sigma_i^2$ = varians kriteria ke-i
 - $\sigma_t^2$ = varians total skor composite
 
-**Interpretasi:** α > 0.90 (excellent), 0.80-0.89 (good), 0.70-0.79 (acceptable), < 0.70 (questionable) (George & Mallery, 2023; Nunnally & Bernstein, 1994).
+**Interpretasi:** $\alpha > 0.90$ (excellent), $0.80-0.89$ (good), $0.70-0.79$ (acceptable), $< 0.70$ (questionable) (George & Mallery, 2023; Nunnally & Bernstein, 1994).
 
 **C. Fleiss' Kappa**
 
@@ -696,18 +696,18 @@ Interpretasi: ICC = 0.858 → Good reliability (>0.75)
 
 **Formula Fleiss' Kappa:**
 
-```
-κ = (P̄ - P̄e) / (1 - P̄e)
-```
+$$
+\kappa = \frac{\bar{P} - \bar{P}_e}{1 - \bar{P}_e}
+$$
 
 **Penjelasan Variabel:**
 - $\bar{P}$ = mean proportion of agreement across all subjects
-- $\bar{P_e}$ = mean expected proportion of agreement by chance
+- $\bar{P}_e$ = mean expected proportion of agreement by chance
 - $N$ = number of subjects (essays)
 - $n$ = number of raters per subject (trials per essay)  
 - $k$ = number of categories (A, B, C, D, E)
 
-**Interpretasi:** κ > 0.75 (excellent), 0.60-0.74 (good), 0.40-0.59 (fair), < 0.40 (poor) (Fleiss et al., 2003; Altman, 1991).
+**Interpretasi:** $\kappa > 0.75$ (excellent), $0.60-0.74$ (good), $0.40-0.59$ (fair), $< 0.40$ (poor) (Fleiss et al., 2003; Altman, 1991).
 
 **Catatan Implementasi:** Dalam penelitian ini, Fleiss Kappa akan digunakan sebagai **benchmark comparison** dengan literature standards human inter-rater reliability, bukan sebagai direct measure dari AI performance. AI performance diukur menggunakan ICC untuk inter-trial reliability dan QWK untuk agreement dengan gold standard.
 
@@ -741,9 +741,9 @@ Interpretasi: ICC = 0.858 → Good reliability (>0.75)
 
 **Formula QWK:**
 
-```
-κw = 1 - (Σᵢⱼ wᵢⱼ × Oᵢⱼ) / (Σᵢⱼ wᵢⱼ × Eᵢⱼ)
-```
+$$
+\kappa_w = 1 - \frac{\sum_{i,j} w_{ij} \times O_{ij}}{\sum_{i,j} w_{ij} \times E_{ij}}
+$$
 
 **Penjelasan Variabel:**
 - $w_{ij}$ = weight matrix (bobot untuk disagreement level)
@@ -751,7 +751,7 @@ Interpretasi: ICC = 0.858 → Good reliability (>0.75)
 - $E_{ij}$ = expected agreement matrix (kesepakatan yang diharapkan by chance)
 - $i,j$ = kategori rating (A, B, C, D/E)
 
-**Interpretasi:** κw > 0.61 (substantial), 0.41-0.60 (moderate), 0.21-0.40 (fair), < 0.20 (poor) (Landis & Koch, 1977; Viera & Garrett, 2005).
+**Interpretasi:** $\kappa_w > 0.61$ (substantial), $0.41-0.60$ (moderate), $0.21-0.40$ (fair), $< 0.20$ (poor) (Landis & Koch, 1977; Viera & Garrett, 2005).
 
 **B. Pearson Correlation**
 
@@ -763,9 +763,9 @@ Interpretasi: ICC = 0.858 → Good reliability (>0.75)
 
 **Formula Pearson Correlation:**
 
-```
-r = Σ(xᵢ - x̄)(yᵢ - ȳ) / √[Σ(xᵢ - x̄)² × Σ(yᵢ - ȳ)²]
-```
+$$
+r = \frac{\sum(x_i - \bar{x})(y_i - \bar{y})}{\sqrt{\sum(x_i - \bar{x})^2 \times \sum(y_i - \bar{y})^2}}
+$$
 
 **Penjelasan Variabel:**
 - $x_i$ = skor AI untuk esai ke-i
@@ -773,7 +773,7 @@ r = Σ(xᵢ - x̄)(yᵢ - ȳ) / √[Σ(xᵢ - x̄)² × Σ(yᵢ - ȳ)²]
 - $\bar{x}, \bar{y}$ = mean skor AI dan human
 - $n$ = jumlah esai yang dibandingkan
 
-**Interpretasi:** r > 0.70 (strong), 0.40-0.69 (moderate), < 0.40 (weak) (Cohen, 1988; Hinkle et al., 2003); r² menunjukkan proportion of variance explained.
+**Interpretasi:** $r > 0.70$ (strong), $0.40-0.69$ (moderate), $< 0.40$ (weak) (Cohen, 1988; Hinkle et al., 2003); $r^2$ menunjukkan proportion of variance explained.
 
 ### 3.6.4 Analisis Konsistensi
 
@@ -805,9 +805,9 @@ r = Σ(xᵢ - x̄)(yᵢ - ȳ) / √[Σ(xᵢ - x̄)² × Σ(yᵢ - ȳ)²]
 
 **Formula CV:**
 
-```
-CV = (σ/μ) × 100%
-```
+$$
+CV = \frac{\sigma}{\mu} \times 100\%
+$$
 
 **Penjelasan Variabel:**
 - $\sigma$ = standard deviation dari multiple trials untuk esai yang sama
@@ -849,15 +849,15 @@ Interpretasi: CV = 16.1% → Cukup konsisten (masih dalam batas wajar <25%)
 
 **Formula MAE:**
 
-```
-MAE = (1/n) × Σ|yᵢ - ŷᵢ|
-```
+$$
+MAE = \frac{1}{n} \times \sum |y_i - \hat{y}_i|
+$$
 
 **Formula RMSE:**
 
-```
-RMSE = √[(1/n) × Σ(yᵢ - ŷᵢ)²]
-```
+$$
+RMSE = \sqrt{\frac{1}{n} \times \sum (y_i - \hat{y}_i)^2}
+$$
 
 **Penjelasan Variabel:**
 - $y_i$ = skor human gold standard untuk esai ke-i
@@ -1065,9 +1065,10 @@ Interpretasi:
 **Effect Size Analysis (Cohen's d)**
 
 **Formula Cohen's d:**
-```
-d = (M₁ - M₂) / SDpooled
-```
+
+$$
+d = \frac{M_1 - M_2}{SD_{pooled}}
+$$
 
 **Deskripsi**: Ukuran magnitude perbedaan antar groups yang tidak dependent pada sample size (Cohen, 1988; Lakens, 2013).
 
@@ -1095,9 +1096,9 @@ d = (M₁ - M₂) / SDpooled
 
 **Model Equation:**
 
-```
-Yᵢⱼₖ = μ + αᵢ + βⱼ + (αβ)ᵢⱼ + γₖ + εᵢⱼₖ
-```
+$$
+Y_{ijk} = \mu + \alpha_i + \beta_j + (\alpha\beta)_{ij} + \gamma_k + \varepsilon_{ijk}
+$$
 
 **Penjelasan Komponen:**
 - $Y_{ijk}$ = observed score untuk essay k dengan model i dan strategy j
