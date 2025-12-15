@@ -1,0 +1,468 @@
+{
+  "student_index": 11,
+  "student_name": "Mahasiswa 12",
+  "questions": [
+    {
+      "question": "1.\tJelaskan singkat tentang topik capstone project yang sedang kamu kerjakan. Apa masalah utama yang ingin kamu selesaikan dan apa tujuan dari proyek tersebut? (15 poin)",
+      "answer": "Saya sedang membuat aplikasi berbasis web untuk memonitor kualitas air. Masalah yang ingin saya selesaikan adalah kurangnya pemantauan kualitas air yang memadai. Tujuan proyek ini adalah memberi informasi kualitas air secara real-time.",
+      "chatgpt": {
+        "student_id": "Mahasiswa 12",
+        "question_id": "Q1",
+        "trial": 1,
+        "model": "gpt-4o",
+        "scores": {
+          "Pemahaman Konten": {
+            "grade": "B",
+            "justification": "The student demonstrates a good understanding of the project topic by identifying the main problem of inadequate water quality monitoring and the goal of providing real-time information. However, the explanation lacks depth and detail that would show a more advanced insight into the topic, such as specific technologies or methods used in the project."
+          },
+          "Organisasi & Struktur": {
+            "grade": "A",
+            "justification": "The response is well-organized with a clear structure. The student introduces the project, states the problem, and concludes with the project’s goal in a logical sequence. The concise nature of the response ensures that the flow is easy to follow, meeting the criteria for a clear and coherent structure."
+          },
+          "Argumen & Bukti": {
+            "grade": "C",
+            "justification": "While the student presents a basic argument for the necessity of the project, there is a lack of detailed explanation or supporting evidence. The response does not provide examples or analyses that could strengthen the argument, such as potential impacts or benefits of real-time water quality monitoring."
+          },
+          "Gaya Bahasa & Mekanik": {
+            "grade": "A",
+            "justification": "The language used is clear and effective, with no noticeable grammatical or spelling errors. The writing style is appropriate for an academic context, and the sentences are well-constructed, contributing to the overall clarity and readability of the response."
+          }
+        },
+        "weighted_score": 3.2,
+        "overall_comment": "The essay provides a clear and organized overview of the capstone project, but could benefit from more detailed content and supporting arguments to enhance the depth of understanding.",
+        "metadata": {
+          "tokens": 1912,
+          "api_call_time": 5.042208433151245
+        },
+        "timestamp": "2025-12-10T12:29:08.722115"
+      },
+      "gemini": {
+        "student_id": "Mahasiswa 12",
+        "question_id": "Q1",
+        "trial": 1,
+        "model": "gemini-2.0-flash-exp",
+        "scores": {
+          "Pemahaman Konten": {
+            "grade": "B",
+            "justification": "The student demonstrates a good understanding of the project's purpose and the problem it addresses. The explanation is accurate and mostly complete, identifying the lack of adequate water quality monitoring as the core issue and real-time information delivery as the goal. However, the response could benefit from more detail regarding the specific aspects of water quality being monitored or the target audience for the application."
+          },
+          "Organisasi & Struktur": {
+            "grade": "A",
+            "justification": "The response is well-organized and follows a clear structure. It directly addresses the prompt by first stating the project topic, then the problem, and finally the project's objective. This logical flow makes the answer easy to understand and follow."
+          },
+          "Argumen & Bukti": {
+            "grade": "C",
+            "justification": "The response lacks detailed explanation and supporting evidence. While the problem and objective are stated, there's no elaboration on why the current monitoring is inadequate or how the real-time information will be used. The answer would be stronger with specific examples or a brief analysis of the potential impact of the project."
+          },
+          "Gaya Bahasa & Mekanik": {
+            "grade": "A",
+            "justification": "The language used is effective and clear, with no noticeable errors in grammar or spelling. The writing style is concise and appropriate for the prompt. The sentence structure is also good, contributing to the overall readability of the response."
+          }
+        },
+        "weighted_score": 3.2,
+        "overall_comment": "The student provides a concise overview of their capstone project. Adding more detail and specific examples would strengthen the response.",
+        "metadata": {
+          "tokens": 1924,
+          "api_call_time": 3.6411983966827393
+        },
+        "timestamp": "2025-12-10T12:29:12.363899"
+      }
+    },
+    {
+      "question": "2.\tSebutkan dan jelaskan tiga teknologi, alat, atau cara yang kamu pakai dalam capstone project ini. Kenapa kamu memilih yang tersebut? (15 poin)",
+      "answer": "Menggunakan Raspberry Pi untuk kontrol sistem, sensor kualitas air untuk deteksi polutan, dan Wi-Fi untuk menghubungkan data ke cloud. Raspberry Pi fleksibel dan dapat diprogram, sensor memadai untuk mendeteksi kualitas air, dan Wi-Fi memungkinkan pengiriman data.",
+      "chatgpt": {
+        "student_id": "Mahasiswa 12",
+        "question_id": "Q2",
+        "trial": 1,
+        "model": "gpt-4o",
+        "scores": {
+          "Pemahaman Konten": {
+            "grade": "B",
+            "justification": "The student demonstrates a good understanding of the technologies used in the project, mentioning Raspberry Pi, water quality sensors, and Wi-Fi. However, the explanation lacks depth and detail about each technology's specific role and advantages, which prevents it from reaching an 'A' level of insight."
+          },
+          "Organisasi & Struktur": {
+            "grade": "B",
+            "justification": "The response is organized with a clear listing of the technologies used, but it lacks a structured introduction or conclusion. While the information is logically presented, the essay could benefit from smoother transitions and a more defined structure to enhance coherence."
+          },
+          "Argumen & Bukti": {
+            "grade": "C",
+            "justification": "The student provides basic reasoning for the choice of technologies, such as flexibility and data transmission capabilities. However, the argument is not well-developed, and there is a lack of specific examples or detailed analysis to support the claims made about each technology."
+          },
+          "Gaya Bahasa & Mekanik": {
+            "grade": "A",
+            "justification": "The language used is clear and effective, with no noticeable grammatical errors. The student employs concise and direct sentences, which aids in the clarity of the explanation. The essay maintains a consistent tone appropriate for an academic setting."
+          }
+        },
+        "weighted_score": 3.0,
+        "overall_comment": "The essay provides a good overview of the technologies used but lacks depth and detailed justification. Improving the structure and expanding on the arguments could enhance the overall quality.",
+        "metadata": {
+          "tokens": 1897,
+          "api_call_time": 4.950592041015625
+        },
+        "timestamp": "2025-12-10T12:29:17.315356"
+      },
+      "gemini": {
+        "student_id": "Mahasiswa 12",
+        "question_id": "Q2",
+        "trial": 1,
+        "model": "gemini-2.0-flash-exp",
+        "scores": {
+          "Pemahaman Konten": {
+            "grade": "B",
+            "justification": "The student demonstrates a good understanding of the technologies used in the capstone project. They correctly identify Raspberry Pi, water quality sensors, and Wi-Fi as relevant components. However, the explanation lacks depth; it could benefit from elaborating on the specific types of sensors used or the specific applications of the Raspberry Pi beyond general programmability."
+          },
+          "Organisasi & Struktur": {
+            "grade": "B",
+            "justification": "The response is organized and easy to follow. The student lists the technologies and then provides a brief explanation for each. While there isn't a formal introduction or conclusion, the structure is clear enough for the short answer format."
+          },
+          "Argumen & Bukti": {
+            "grade": "B",
+            "justification": "The student provides a basic justification for choosing each technology, such as the Raspberry Pi's flexibility and the Wi-Fi's ability to transmit data. The arguments are reasonable, but they lack specific details or examples to strengthen them. More specific examples of how these technologies were applied in the project would improve this section."
+          },
+          "Gaya Bahasa & Mekanik": {
+            "grade": "A",
+            "justification": "The language is clear and effective. There are no noticeable grammatical errors or spelling mistakes. The writing style is appropriate for the task."
+          }
+        },
+        "weighted_score": 3.1,
+        "overall_comment": "The student provides a satisfactory answer, demonstrating a basic understanding of the technologies used. Adding more specific details and examples would improve the response.",
+        "metadata": {
+          "tokens": 1899,
+          "api_call_time": 3.510310411453247
+        },
+        "timestamp": "2025-12-10T12:29:20.826218"
+      }
+    },
+    {
+      "question": "3. Jelaskan manfaat atau kegunaan hasil capstone projectmu bagi orang lain atau bidang yang kamu tekuni. (10 poin)",
+      "answer": "Membantu masyarakat dalam memantau kualitas air di sekitar mereka dan meningkatkan kesadaran akan kebersihan air.",
+      "chatgpt": {
+        "student_id": "Mahasiswa 12",
+        "question_id": "Q3",
+        "trial": 1,
+        "model": "gpt-4o",
+        "scores": {
+          "Pemahaman Konten": {
+            "grade": "C",
+            "justification": "The response provides a basic understanding of the project's benefits, mentioning water quality monitoring and awareness. However, it lacks depth and detail, failing to elaborate on how these benefits are achieved or their broader impact. The explanation is minimal and does not demonstrate a comprehensive understanding of the project's potential applications."
+          },
+          "Organisasi & Struktur": {
+            "grade": "D/E",
+            "justification": "The response lacks clear organization and structure, consisting of a single sentence without any introduction, body, or conclusion. There are no transitions or logical flow, making it difficult to follow the argument. The structure is minimal and does not meet the criteria for effective organization."
+          },
+          "Argumen & Bukti": {
+            "grade": "D/E",
+            "justification": "There is no clear argument or supporting evidence provided in the response. The statement is vague and lacks examples or analysis to substantiate the claims about the project's benefits. Without specific details or evidence, the argument remains weak and unsupported."
+          },
+          "Gaya Bahasa & Mekanik": {
+            "grade": "B",
+            "justification": "The language used is clear and free from grammatical errors, making the statement easy to understand. However, the response is very brief, limiting the opportunity for varied sentence structure. Despite its brevity, the language is effective for the content provided."
+          }
+        },
+        "weighted_score": 1.8,
+        "overall_comment": "The response provides a basic idea of the project's benefits but lacks depth, organization, and supporting evidence. More detailed explanations and examples are needed to fully convey the project's impact.",
+        "metadata": {
+          "tokens": 1872,
+          "api_call_time": 6.694596529006958
+        },
+        "timestamp": "2025-12-10T12:29:27.521649"
+      },
+      "gemini": {
+        "student_id": "Mahasiswa 12",
+        "question_id": "Q3",
+        "trial": 1,
+        "model": "gemini-2.0-flash-exp",
+        "scores": {
+          "Pemahaman Konten": {
+            "grade": "B",
+            "justification": "The answer demonstrates a good understanding of the potential benefits of a capstone project related to water quality monitoring. It identifies two key benefits: helping the community monitor water quality and increasing awareness of water cleanliness. While accurate, the response could be more in-depth by elaborating on specific aspects of water quality or the types of monitoring involved."
+          },
+          "Organisasi & Struktur": {
+            "grade": "A",
+            "justification": "The response is concise and presents its points in a clear and straightforward manner. The structure is implicitly present, with a clear statement of the benefits. The answer is easy to follow and understand, demonstrating good organization."
+          },
+          "Argumen & Bukti": {
+            "grade": "C",
+            "justification": "The response provides a general statement of benefits without specific examples or detailed explanations. It lacks concrete evidence or examples to support the claims made. To improve, the response could include specific scenarios or examples of how the capstone project would achieve these benefits."
+          },
+          "Gaya Bahasa & Mekanik": {
+            "grade": "A",
+            "justification": "The language used is clear, concise, and effective. There are no grammatical errors or spelling mistakes. The writing style is appropriate for the question and demonstrates good command of the language."
+          }
+        },
+        "weighted_score": 3.2,
+        "overall_comment": "The answer provides a basic understanding of the benefits, but lacks depth and specific examples to support the claims.",
+        "metadata": {
+          "tokens": 1843,
+          "api_call_time": 3.599013566970825
+        },
+        "timestamp": "2025-12-10T12:29:31.121160"
+      }
+    },
+    {
+      "question": "1.Ceritakan tahap-tahap pengerjaan capstone project dari awal sampai sekarang. Sebutkan juga hal penting atau target yang sudah kamu capai. (15 poin)",
+      "answer": "Merakit sistem monitoring dengan Raspberry Pi, sensor, dan menghubungkannya dengan cloud. Saat ini, sistem berfungsi dengan baik dan sudah mengirimkan data ke cloud.",
+      "chatgpt": {
+        "student_id": "Mahasiswa 12",
+        "question_id": "Q4",
+        "trial": 1,
+        "model": "gpt-4o",
+        "scores": {
+          "Pemahaman Konten": {
+            "grade": "C",
+            "justification": "The response provides a basic understanding of the project involving Raspberry Pi and cloud integration. However, it lacks depth and completeness, as it does not detail the stages of the project or specific targets achieved. The explanation is minimal and misses several important aspects of the prompt."
+          },
+          "Organisasi & Struktur": {
+            "grade": "D/E",
+            "justification": "The essay lacks clear organization and structure. It consists of a single sentence without any introduction, body, or conclusion. There are no transitions or logical flow, making it difficult to follow the development of ideas."
+          },
+          "Argumen & Bukti": {
+            "grade": "D/E",
+            "justification": "The response does not provide any arguments or supporting evidence. It merely states the current status of the project without offering examples, analysis, or detailed explanation. This lack of detail and support weakens the response significantly."
+          },
+          "Gaya Bahasa & Mekanik": {
+            "grade": "B",
+            "justification": "The language used is clear and free of grammatical errors, making it easy to understand. However, the response is very brief, limiting the opportunity for varied sentence structures. Despite this, the mechanics are sound with correct spelling and grammar."
+          }
+        },
+        "weighted_score": 1.8,
+        "overall_comment": "The response is very brief and lacks the necessary detail and structure to fully address the prompt. More depth and organization are needed to improve the overall quality.",
+        "metadata": {
+          "tokens": 1867,
+          "api_call_time": 6.873580455780029
+        },
+        "timestamp": "2025-12-10T12:29:37.995483"
+      },
+      "gemini": {
+        "student_id": "Mahasiswa 12",
+        "question_id": "Q4",
+        "trial": 1,
+        "model": "gemini-2.0-flash-exp",
+        "scores": {
+          "Pemahaman Konten": {
+            "grade": "C",
+            "justification": "The answer demonstrates a basic understanding of the project, mentioning the components used (Raspberry Pi, sensors, cloud). However, it lacks depth and detail regarding the specific stages of the capstone project. The response only states that the system is functioning and sending data, without elaborating on the challenges faced, solutions implemented, or specific functionalities achieved, indicating a lack of complete understanding as per the rubric."
+          },
+          "Organisasi & Struktur": {
+            "grade": "D/E",
+            "justification": "The response lacks any discernible structure. It doesn't follow a logical progression or present information in an organized manner. There is no introduction, body, or conclusion, and the information is presented as a single, brief statement, making it difficult to understand the project's development process."
+          },
+          "Argumen & Bukti": {
+            "grade": "D/E",
+            "justification": "The response provides no arguments or evidence to support the claims made. It simply states that the system is working without providing any specific examples or details to back up this assertion. There is no analysis or explanation of the data being sent to the cloud or the significance of this achievement."
+          },
+          "Gaya Bahasa & Mekanik": {
+            "grade": "B",
+            "justification": "The language is clear and concise, but the response is very brief. There are no grammatical errors or spelling mistakes. However, the sentence structure is simple and lacks variety, but it's adequate for the limited scope of the answer."
+          }
+        },
+        "weighted_score": 1.8,
+        "overall_comment": "The response is too brief and lacks the necessary detail to adequately address the prompt. It needs to be significantly expanded to provide a comprehensive overview of the capstone project.",
+        "metadata": {
+          "tokens": 1927,
+          "api_call_time": 3.8096656799316406
+        },
+        "timestamp": "2025-12-10T12:29:41.805627"
+      }
+    },
+    {
+      "question": "3. Apakah ada perubahan pada rencana (ingin mengubah project) atau cara pengerjaan selama proyek berjalan? Jika iya, jelaskan apa yang berubah dan bagaimana pengaruhnya ke hasil proyek. (10 poin)",
+      "answer": "Menambah fitur notifikasi yang mengingatkan pengguna jika kualitas air menurun.",
+      "chatgpt": {
+        "student_id": "Mahasiswa 12",
+        "question_id": "Q5",
+        "trial": 1,
+        "model": "gpt-4o",
+        "scores": {
+          "Pemahaman Konten": {
+            "grade": "D/E",
+            "justification": "The response lacks depth and completeness, providing only a brief mention of adding a notification feature without explaining the change's impact on the project. There is no detailed explanation or insight into how this change affects the project's outcome, indicating a fundamental misunderstanding of the prompt's requirements."
+          },
+          "Organisasi & Struktur": {
+            "grade": "D/E",
+            "justification": "The response is a single, incomplete sentence that lacks any clear structure or organization. There is no introduction, body, or conclusion, and the lack of transition or logical flow makes it difficult to follow. This indicates a lack of organization and coherence."
+          },
+          "Argumen & Bukti": {
+            "grade": "D/E",
+            "justification": "The response does not present any argument or supporting evidence. It merely states a change without elaborating on the reasoning behind it or providing examples or analysis. This lack of detail and support results in a weak argument."
+          },
+          "Gaya Bahasa & Mekanik": {
+            "grade": "C",
+            "justification": "The language used is clear but minimal, with no evident grammatical errors. However, the brevity and lack of complexity in the sentence structure limit the effectiveness of the communication. The response could benefit from more varied sentence structures and detailed language."
+          }
+        },
+        "weighted_score": 1.1,
+        "overall_comment": "The response is minimal and lacks the necessary depth and structure to effectively address the prompt. More detailed explanations and a clear organizational structure are needed to improve the quality of the essay.",
+        "metadata": {
+          "tokens": 1872,
+          "api_call_time": 5.770387649536133
+        },
+        "timestamp": "2025-12-10T12:29:47.576822"
+      },
+      "gemini": {
+        "student_id": "Mahasiswa 12",
+        "question_id": "Q5",
+        "trial": 1,
+        "model": "gemini-2.0-flash-exp",
+        "scores": {
+          "Pemahaman Konten": {
+            "grade": "C",
+            "justification": "The answer identifies a change in the project (adding a notification feature). However, it lacks depth and detail regarding the original plan, the reasons for the change, and the specific impact on the project's outcome. It only mentions the added feature without explaining the context or implications, indicating a basic but incomplete understanding."
+          },
+          "Organisasi & Struktur": {
+            "grade": "D/E",
+            "justification": "The response lacks any discernible structure. It's a single sentence without any introduction, body, or conclusion. There's no logical flow or organization of ideas, making it difficult to assess any coherence."
+          },
+          "Argumen & Bukti": {
+            "grade": "D/E",
+            "justification": "The response provides no argument or evidence to support the change. There's no explanation of why the notification feature was added, how it improves the project, or any analysis of its impact. The answer is simply a statement without any supporting details or reasoning."
+          },
+          "Gaya Bahasa & Mekanik": {
+            "grade": "B",
+            "justification": "The language is clear and grammatically correct, although simple. There are no noticeable errors in grammar or spelling. However, the sentence structure is basic and lacks sophistication."
+          }
+        },
+        "weighted_score": 1.8,
+        "overall_comment": "The response is minimal and lacks sufficient detail and explanation to adequately answer the question. It needs significant improvement in content, organization, and argumentation.",
+        "metadata": {
+          "tokens": 1842,
+          "api_call_time": 3.544572114944458
+        },
+        "timestamp": "2025-12-10T12:29:51.121840"
+      }
+    },
+    {
+      "question": "1.\tTulislah Konsep kerangka proposal penelitian dari capstone project kamu yang mencakup:\n1.\tLatar belakang masalah\n2.\tMasalah penelitian (rumusan masalah)\n3.\tTujuan penelitian\n4.\tCara atau metode yang akan kamu gunakan \n(20 poin)",
+      "answer": "Latar belakang masalah: Kurangnya pemantauan kualitas air. Masalah penelitian: Bagaimana mendeteksi kualitas air dengan sistem otomatis. Tujuan penelitian: Membangun sistem yang bisa memantau kualitas air secara real-time. Metode: Raspberry Pi dengan sensor kualitas air dan cloud storage.",
+      "chatgpt": {
+        "student_id": "Mahasiswa 12",
+        "question_id": "Q6",
+        "trial": 1,
+        "model": "gpt-4o",
+        "scores": {
+          "Pemahaman Konten": {
+            "grade": "B",
+            "justification": "The student demonstrates a good understanding of the research proposal components, identifying a clear problem and objective. However, the explanation lacks depth and detail, particularly in the background and methodology sections, which limits the completeness of the understanding."
+          },
+          "Organisasi & Struktur": {
+            "grade": "A",
+            "justification": "The essay is well-organized with a clear structure, including distinct sections for each component of the research proposal. The logical flow is easy to follow, and each part is presented in a coherent manner, fulfilling the criteria for a well-structured response."
+          },
+          "Argumen & Bukti": {
+            "grade": "C",
+            "justification": "While the student presents a basic argument for the research, there is a lack of detailed explanation and supporting evidence. The proposal does not provide specific examples or a thorough analysis, which weakens the overall argument and support."
+          },
+          "Gaya Bahasa & Mekanik": {
+            "grade": "B",
+            "justification": "The language used is clear and mostly effective, with only minor grammatical errors. The writing style is straightforward, but there is limited variation in sentence structure, which slightly affects the overall fluency."
+          }
+        },
+        "weighted_score": 3.1,
+        "overall_comment": "The student provides a solid foundation for a research proposal but needs to expand on details and provide more supporting evidence to strengthen the argument.",
+        "metadata": {
+          "tokens": 1906,
+          "api_call_time": 4.353145122528076
+        },
+        "timestamp": "2025-12-10T12:29:55.475818"
+      },
+      "gemini": {
+        "student_id": "Mahasiswa 12",
+        "question_id": "Q6",
+        "trial": 1,
+        "model": "gemini-2.0-flash-exp",
+        "scores": {
+          "Pemahaman Konten": {
+            "grade": "B",
+            "justification": "The student demonstrates a good understanding of the core concepts required for a research proposal. They correctly identify the key elements: background, problem statement, objectives, and methods. However, the depth of understanding could be improved with more detailed explanations for each section, particularly in elaborating on the 'why' behind the problem and the specific sensors to be used."
+          },
+          "Organisasi & Struktur": {
+            "grade": "B",
+            "justification": "The response is organized according to the prompt, addressing each required element in a sequential manner. While the structure is clear, the transitions between sections are implicit rather than explicit. Adding introductory sentences or phrases to each section would improve the flow and coherence of the response."
+          },
+          "Argumen & Bukti": {
+            "grade": "C",
+            "justification": "The response lacks detailed argumentation and supporting evidence. While the student identifies the problem, objective, and method, they do not provide sufficient justification or explanation for their choices. For example, the choice of Raspberry Pi is stated but not justified with its advantages for this specific application, and the type of cloud storage is not specified."
+          },
+          "Gaya Bahasa & Mekanik": {
+            "grade": "B",
+            "justification": "The language is clear and concise, facilitating understanding. There are no apparent grammatical errors. However, the writing style is somewhat simplistic and could benefit from more sophisticated vocabulary and sentence structure to enhance its academic tone."
+          }
+        },
+        "weighted_score": 2.9,
+        "overall_comment": "The student provides a basic framework for a research proposal, but needs to elaborate on the details and justifications for each section to strengthen the proposal's overall quality.",
+        "metadata": {
+          "tokens": 1986,
+          "api_call_time": 4.258931636810303
+        },
+        "timestamp": "2025-12-10T12:29:59.735247"
+      }
+    },
+    {
+      "question": "2.\tJelaskan bagaimana proposal penelitianmu bisa membantu mengembangkan ilmu pengetahuan atau teknologi di bidangmu. (10 poin)",
+      "answer": "Penelitian ini akan membuka pengembangan teknologi pemantauan lingkungan berbasis IoT yang bisa diterapkan di berbagai sektor.",
+      "chatgpt": {
+        "student_id": "Mahasiswa 12",
+        "question_id": "Q7",
+        "trial": 1,
+        "model": "gpt-4o",
+        "scores": {
+          "Pemahaman Konten": {
+            "grade": "D/E",
+            "justification": "The response lacks depth and completeness, providing only a brief mention of IoT-based environmental monitoring technology without further elaboration. There is no detailed explanation or demonstration of advanced insight into how the research contributes to the field. The answer is minimal and does not meet the criteria for a deeper understanding."
+          },
+          "Organisasi & Struktur": {
+            "grade": "D/E",
+            "justification": "The response is a single sentence, lacking any clear structure or organization. There is no introduction, body, or conclusion, making it difficult to follow any logical progression or argument. The lack of structure makes the response hard to evaluate in terms of coherence."
+          },
+          "Argumen & Bukti": {
+            "grade": "D/E",
+            "justification": "The response does not provide any argument or supporting evidence. It merely states a potential application without elaborating on how this contributes to knowledge or technology in the field. There are no examples or analysis to support the claim, making the argument very weak."
+          },
+          "Gaya Bahasa & Mekanik": {
+            "grade": "B",
+            "justification": "The language used is clear and free from grammatical errors, but it is very basic and lacks complexity. While the sentence is correctly structured, the lack of variety and depth in language limits the effectiveness of communication. Overall, the mechanics are correct but simplistic."
+          }
+        },
+        "weighted_score": 1.2,
+        "overall_comment": "The response is minimal and lacks depth, structure, and supporting arguments. While grammatically correct, it fails to meet the requirements of the prompt in terms of content and organization.",
+        "metadata": {
+          "tokens": 1877,
+          "api_call_time": 5.790058374404907
+        },
+        "timestamp": "2025-12-10T12:30:05.526108"
+      },
+      "gemini": {
+        "student_id": "Mahasiswa 12",
+        "question_id": "Q7",
+        "trial": 1,
+        "model": "gemini-2.0-flash-exp",
+        "scores": {
+          "Pemahaman Konten": {
+            "grade": "B",
+            "justification": "The answer demonstrates a good understanding of how the research could contribute to the field by mentioning IoT-based environmental monitoring. However, it lacks depth and detail. While accurate, it could be more complete by specifying potential applications or elaborating on the technology's impact."
+          },
+          "Organisasi & Struktur": {
+            "grade": "A",
+            "justification": "The response is concise and presents a clear idea. Although brief, it follows a logical structure by directly addressing the prompt. The single sentence effectively conveys the core concept."
+          },
+          "Argumen & Bukti": {
+            "grade": "C",
+            "justification": "The argument is weak due to the lack of supporting details or examples. While it mentions IoT-based environmental monitoring, it doesn't provide any specific instances or elaborate on how this technology would be applied or what benefits it would offer. The response lacks the necessary depth to be considered a strong argument."
+          },
+          "Gaya Bahasa & Mekanik": {
+            "grade": "A",
+            "justification": "The language is effective and clear, with no grammatical errors. The sentence is well-constructed and easy to understand. The writing style is appropriate for the context."
+          }
+        },
+        "weighted_score": 3.2,
+        "overall_comment": "The answer is a good start but needs more detail and specific examples to fully address the prompt and demonstrate a deeper understanding.",
+        "metadata": {
+          "tokens": 1818,
+          "api_call_time": 3.3290066719055176
+        },
+        "timestamp": "2025-12-10T12:30:08.855639"
+      }
+    }
+  ]
+}

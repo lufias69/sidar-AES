@@ -1,0 +1,227 @@
+{
+  "student_id": "unknown",
+  "student_name": "Mahasiswa 1",
+  "experiment_id": "exp_chatgpt_few",
+  "trial": 1,
+  "model": "chatgpt",
+  "strategy": "few-shot",
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "1.\tJelaskan singkat tentang topik capstone project yang sedang kamu kerjakan. Apa masalah utama yang ingin kamu selesaikan dan apa tujuan dari proyek tersebut? (15 poin)",
+      "answer": "Membuat sistem pendeteksi hujan otomatis untuk jemuran. Masalah utama yang ingin saya selesaikan adalah pakaian yang basah karena hujan. Tujuan proyek ini adalah agar pakaian yang dijemur tetap kering meskipun hujan.",
+      "grades": {
+        "Pemahaman Konten": {
+          "grade": "B",
+          "justification": "Jawaban menunjukkan pemahaman yang baik tentang proyek dengan menyebutkan masalah utama dan tujuan yang jelas. Namun, penjelasan kurang mendalam dan tidak mencakup detail teknis atau pendekatan yang akan digunakan untuk mencapai tujuan tersebut."
+        },
+        "Organisasi & Struktur": {
+          "grade": "B",
+          "justification": "Struktur jawaban cukup jelas dengan pernyataan masalah dan tujuan yang terorganisir. Meskipun singkat, alur logika dapat diikuti dengan baik, tetapi bisa lebih baik jika ada penjelasan lebih lanjut tentang langkah-langkah atau metode yang direncanakan."
+        },
+        "Argumen & Bukti": {
+          "grade": "C",
+          "justification": "Jawaban memberikan argumen dasar tentang pentingnya proyek, namun tidak ada bukti atau contoh spesifik yang mendukung klaim tersebut. Analisis lebih lanjut tentang bagaimana sistem ini akan bekerja atau mengapa ini adalah solusi terbaik akan memperkuat argumen."
+        },
+        "Gaya Bahasa & Mekanik": {
+          "grade": "A",
+          "justification": "Bahasa yang digunakan jelas dan efektif dengan sedikit atau tanpa kesalahan tata bahasa. Kalimatnya sederhana tetapi langsung ke inti, membuatnya mudah dipahami."
+        }
+      },
+      "weighted_score": 3.0,
+      "justification": "{\"Pemahaman Konten\": {\"grade\": \"B\", \"justification\": \"Jawaban menunjukkan pemahaman yang baik tentang proyek dengan menyebutkan masalah utama dan tujuan yang jelas. Namun, penjelasan kurang mendalam dan tidak mencakup detail teknis atau pendekatan yang akan digunakan untuk mencapai tujuan tersebut.\"}, \"Organisasi & Struktur\": {\"grade\": \"B\", \"justification\": \"Struktur jawaban cukup jelas dengan pernyataan masalah dan tujuan yang terorganisir. Meskipun singkat, alur logika dapat diikuti dengan baik, tetapi bisa lebih baik jika ada penjelasan lebih lanjut tentang langkah-langkah atau metode yang direncanakan.\"}, \"Argumen & Bukti\": {\"grade\": \"C\", \"justification\": \"Jawaban memberikan argumen dasar tentang pentingnya proyek, namun tidak ada bukti atau contoh spesifik yang mendukung klaim tersebut. Analisis lebih lanjut tentang bagaimana sistem ini akan bekerja atau mengapa ini adalah solusi terbaik akan memperkuat argumen.\"}, \"Gaya Bahasa & Mekanik\": {\"grade\": \"A\", \"justification\": \"Bahasa yang digunakan jelas dan efektif dengan sedikit atau tanpa kesalahan tata bahasa. Kalimatnya sederhana tetapi langsung ke inti, membuatnya mudah dipahami.\"}}",
+      "overall_comment": "Jawaban cukup baik dalam menjelaskan tujuan proyek, namun bisa lebih mendalam dengan menambahkan detail teknis dan argumen pendukung.",
+      "metadata": {
+        "tokens_used": 2259,
+        "api_call_time": 7.05874490737915,
+        "timestamp": "2025-12-10T17:49:05.103074"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": "2.\tSebutkan dan jelaskan tiga teknologi, alat, atau cara yang kamu pakai dalam capstone project ini. Kenapa kamu memilih yang tersebut? (15 poin)",
+      "answer": "Arduino, sensor hujan, alarm sensor. Arduino dipilih karena mudah diprogram dan murah. Sensor hujan untuk mendeteksi hujan, dan alarm untuk memberi peringatan.",
+      "grades": {
+        "Pemahaman Konten": {
+          "grade": "C",
+          "justification": "Jawaban hanya menyebutkan tiga teknologi tanpa penjelasan mendalam. Tidak ada detail tentang bagaimana masing-masing teknologi berfungsi atau bagaimana mereka diintegrasikan dalam proyek. Pemahaman dasar ada, tetapi kurang lengkap dan mendalam."
+        },
+        "Organisasi & Struktur": {
+          "grade": "D/E",
+          "justification": "Struktur jawaban sangat minimalis dan tidak terorganisir dengan baik. Tidak ada pengantar atau kesimpulan yang jelas, dan penjelasan setiap teknologi tidak terstruktur. Alur logika sulit diikuti karena kurangnya transisi dan penjelasan yang runtut."
+        },
+        "Argumen & Bukti": {
+          "grade": "C",
+          "justification": "Alasan pemilihan teknologi diberikan tetapi sangat dangkal. Tidak ada analisis mendalam atau perbandingan dengan alternatif lain. Argumen lemah karena kurangnya dukungan bukti atau contoh spesifik."
+        },
+        "Gaya Bahasa & Mekanik": {
+          "grade": "B",
+          "justification": "Bahasa yang digunakan cukup jelas dan efektif meskipun sangat singkat. Tidak ada kesalahan tata bahasa yang mencolok, tetapi variasi kalimat sangat terbatas. Kesederhanaan bahasa membuat jawaban mudah dipahami."
+        }
+      },
+      "weighted_score": 1.9,
+      "justification": "{\"Pemahaman Konten\": {\"grade\": \"C\", \"justification\": \"Jawaban hanya menyebutkan tiga teknologi tanpa penjelasan mendalam. Tidak ada detail tentang bagaimana masing-masing teknologi berfungsi atau bagaimana mereka diintegrasikan dalam proyek. Pemahaman dasar ada, tetapi kurang lengkap dan mendalam.\"}, \"Organisasi & Struktur\": {\"grade\": \"D/E\", \"justification\": \"Struktur jawaban sangat minimalis dan tidak terorganisir dengan baik. Tidak ada pengantar atau kesimpulan yang jelas, dan penjelasan setiap teknologi tidak terstruktur. Alur logika sulit diikuti karena kurangnya transisi dan penjelasan yang runtut.\"}, \"Argumen & Bukti\": {\"grade\": \"C\", \"justification\": \"Alasan pemilihan teknologi diberikan tetapi sangat dangkal. Tidak ada analisis mendalam atau perbandingan dengan alternatif lain. Argumen lemah karena kurangnya dukungan bukti atau contoh spesifik.\"}, \"Gaya Bahasa & Mekanik\": {\"grade\": \"B\", \"justification\": \"Bahasa yang digunakan cukup jelas dan efektif meskipun sangat singkat. Tidak ada kesalahan tata bahasa yang mencolok, tetapi variasi kalimat sangat terbatas. Kesederhanaan bahasa membuat jawaban mudah dipahami.\"}}",
+      "overall_comment": "Jawaban memerlukan penjelasan lebih mendalam dan struktur yang lebih baik untuk meningkatkan pemahaman dan argumen.",
+      "metadata": {
+        "tokens_used": 2242,
+        "api_call_time": 6.290303707122803,
+        "timestamp": "2025-12-10T17:49:11.414525"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": "3. Jelaskan manfaat atau kegunaan hasil capstone projectmu bagi orang lain atau bidang yang kamu tekuni. (10 poin)",
+      "answer": "Membantu orang untuk menjemur pakaian tanpa khawatir hujan, menghemat waktu dan tenaga.",
+      "grades": {
+        "Pemahaman Konten": {
+          "grade": "C",
+          "justification": "Jawaban mahasiswa menyebutkan manfaat proyek secara umum, yaitu membantu menjemur pakaian tanpa khawatir hujan dan menghemat waktu serta tenaga. Namun, penjelasan ini kurang mendalam dan tidak menyertakan detail bagaimana proyek tersebut berfungsi atau dampaknya secara lebih luas."
+        },
+        "Organisasi & Struktur": {
+          "grade": "D/E",
+          "justification": "Jawaban sangat singkat dan tidak terorganisir dengan baik. Tidak ada struktur yang jelas seperti pengantar, penjelasan, dan kesimpulan. Alur logika tidak dapat diikuti karena hanya berupa pernyataan singkat tanpa elaborasi."
+        },
+        "Argumen & Bukti": {
+          "grade": "D/E",
+          "justification": "Tidak ada argumen yang jelas atau bukti pendukung dalam jawaban ini. Mahasiswa tidak memberikan contoh spesifik atau analisis yang mendukung klaim manfaat proyeknya, sehingga sulit untuk menilai kekuatan argumennya."
+        },
+        "Gaya Bahasa & Mekanik": {
+          "grade": "B",
+          "justification": "Bahasa yang digunakan cukup jelas dan tidak ada kesalahan tata bahasa yang mencolok. Namun, karena jawaban sangat singkat, variasi kalimat dan kompleksitas bahasa tidak dapat dinilai secara mendalam."
+        }
+      },
+      "weighted_score": 1.8,
+      "justification": "{\"Pemahaman Konten\": {\"grade\": \"C\", \"justification\": \"Jawaban mahasiswa menyebutkan manfaat proyek secara umum, yaitu membantu menjemur pakaian tanpa khawatir hujan dan menghemat waktu serta tenaga. Namun, penjelasan ini kurang mendalam dan tidak menyertakan detail bagaimana proyek tersebut berfungsi atau dampaknya secara lebih luas.\"}, \"Organisasi & Struktur\": {\"grade\": \"D/E\", \"justification\": \"Jawaban sangat singkat dan tidak terorganisir dengan baik. Tidak ada struktur yang jelas seperti pengantar, penjelasan, dan kesimpulan. Alur logika tidak dapat diikuti karena hanya berupa pernyataan singkat tanpa elaborasi.\"}, \"Argumen & Bukti\": {\"grade\": \"D/E\", \"justification\": \"Tidak ada argumen yang jelas atau bukti pendukung dalam jawaban ini. Mahasiswa tidak memberikan contoh spesifik atau analisis yang mendukung klaim manfaat proyeknya, sehingga sulit untuk menilai kekuatan argumennya.\"}, \"Gaya Bahasa & Mekanik\": {\"grade\": \"B\", \"justification\": \"Bahasa yang digunakan cukup jelas dan tidak ada kesalahan tata bahasa yang mencolok. Namun, karena jawaban sangat singkat, variasi kalimat dan kompleksitas bahasa tidak dapat dinilai secara mendalam.\"}}",
+      "overall_comment": "Jawaban ini perlu diperluas dengan penjelasan yang lebih mendalam dan terstruktur untuk memberikan gambaran yang lebih jelas tentang manfaat proyek.",
+      "metadata": {
+        "tokens_used": 2232,
+        "api_call_time": 6.1208131313323975,
+        "timestamp": "2025-12-10T17:49:17.555204"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": "1.Ceritakan tahap-tahap pengerjaan capstone project dari awal sampai sekarang. Sebutkan juga hal penting atau target yang sudah kamu capai. (15 poin)",
+      "answer": "Merancang sistem dengan Arduino dan sensor hujan, sudah membuat prototipe yang berfungsi.",
+      "grades": {
+        "Pemahaman Konten": {
+          "grade": "C",
+          "justification": "Jawaban mahasiswa menunjukkan pemahaman dasar tentang proyek dengan menyebutkan penggunaan Arduino dan sensor hujan. Namun, detail tentang tahap-tahap pengerjaan dan target yang telah dicapai tidak dijelaskan secara lengkap. Beberapa bagian penting dari pertanyaan tidak terjawab, seperti rincian proses atau milestone lain yang dicapai."
+        },
+        "Organisasi & Struktur": {
+          "grade": "D/E",
+          "justification": "Jawaban sangat singkat dan tidak memiliki struktur yang jelas. Tidak ada pembagian yang jelas antara tahap-tahap proyek atau penjelasan tentang target yang dicapai. Alur logika sulit diikuti karena kurangnya detail dan transisi antar ide."
+        },
+        "Argumen & Bukti": {
+          "grade": "D/E",
+          "justification": "Tidak ada argumen atau bukti yang mendukung pernyataan. Jawaban hanya menyebutkan hasil akhir tanpa menjelaskan proses atau memberikan contoh spesifik yang relevan. Tidak ada analisis atau dukungan bukti yang memadai."
+        },
+        "Gaya Bahasa & Mekanik": {
+          "grade": "B",
+          "justification": "Bahasa yang digunakan cukup jelas dan tidak ada kesalahan tata bahasa yang signifikan. Namun, karena jawaban sangat singkat, variasi kalimat dan kompleksitas bahasa tidak dapat dievaluasi secara mendalam."
+        }
+      },
+      "weighted_score": 1.8,
+      "justification": "{\"Pemahaman Konten\": {\"grade\": \"C\", \"justification\": \"Jawaban mahasiswa menunjukkan pemahaman dasar tentang proyek dengan menyebutkan penggunaan Arduino dan sensor hujan. Namun, detail tentang tahap-tahap pengerjaan dan target yang telah dicapai tidak dijelaskan secara lengkap. Beberapa bagian penting dari pertanyaan tidak terjawab, seperti rincian proses atau milestone lain yang dicapai.\"}, \"Organisasi & Struktur\": {\"grade\": \"D/E\", \"justification\": \"Jawaban sangat singkat dan tidak memiliki struktur yang jelas. Tidak ada pembagian yang jelas antara tahap-tahap proyek atau penjelasan tentang target yang dicapai. Alur logika sulit diikuti karena kurangnya detail dan transisi antar ide.\"}, \"Argumen & Bukti\": {\"grade\": \"D/E\", \"justification\": \"Tidak ada argumen atau bukti yang mendukung pernyataan. Jawaban hanya menyebutkan hasil akhir tanpa menjelaskan proses atau memberikan contoh spesifik yang relevan. Tidak ada analisis atau dukungan bukti yang memadai.\"}, \"Gaya Bahasa & Mekanik\": {\"grade\": \"B\", \"justification\": \"Bahasa yang digunakan cukup jelas dan tidak ada kesalahan tata bahasa yang signifikan. Namun, karena jawaban sangat singkat, variasi kalimat dan kompleksitas bahasa tidak dapat dievaluasi secara mendalam.\"}}",
+      "overall_comment": "Jawaban perlu diperluas dengan detail lebih lanjut tentang tahap-tahap proyek dan target yang dicapai untuk memenuhi kriteria penilaian dengan lebih baik.",
+      "metadata": {
+        "tokens_used": 2249,
+        "api_call_time": 6.037424564361572,
+        "timestamp": "2025-12-10T17:49:23.613044"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": "3. Apakah ada perubahan pada rencana (ingin mengubah project) atau cara pengerjaan selama proyek berjalan? Jika iya, jelaskan apa yang berubah dan bagaimana pengaruhnya ke hasil proyek. (10 poin)",
+      "answer": "Menambahkan sensor tambahan untuk meningkatkan akurasi.",
+      "grades": {
+        "Pemahaman Konten": {
+          "grade": "D/E",
+          "justification": "Jawaban sangat singkat dan tidak memberikan detail tentang perubahan spesifik yang dilakukan. Tidak ada penjelasan mengenai bagaimana penambahan sensor meningkatkan akurasi atau bagaimana hal ini mempengaruhi hasil proyek secara keseluruhan."
+        },
+        "Organisasi & Struktur": {
+          "grade": "D/E",
+          "justification": "Jawaban tidak terstruktur dan tidak memiliki alur logika yang jelas. Tidak ada pembukaan, isi, atau penutupan yang dapat diidentifikasi, membuatnya sulit untuk diikuti."
+        },
+        "Argumen & Bukti": {
+          "grade": "D/E",
+          "justification": "Tidak ada argumen atau bukti yang mendukung pernyataan. Jawaban hanya berupa klaim tanpa penjelasan atau contoh spesifik yang menunjukkan dampak dari perubahan tersebut."
+        },
+        "Gaya Bahasa & Mekanik": {
+          "grade": "C",
+          "justification": "Bahasa yang digunakan jelas, namun sangat minimalis. Tidak ada kesalahan tata bahasa yang mencolok, tetapi kurangnya variasi kalimat dan detail membuat jawaban kurang efektif."
+        }
+      },
+      "weighted_score": 1.1,
+      "justification": "{\"Pemahaman Konten\": {\"grade\": \"D/E\", \"justification\": \"Jawaban sangat singkat dan tidak memberikan detail tentang perubahan spesifik yang dilakukan. Tidak ada penjelasan mengenai bagaimana penambahan sensor meningkatkan akurasi atau bagaimana hal ini mempengaruhi hasil proyek secara keseluruhan.\"}, \"Organisasi & Struktur\": {\"grade\": \"D/E\", \"justification\": \"Jawaban tidak terstruktur dan tidak memiliki alur logika yang jelas. Tidak ada pembukaan, isi, atau penutupan yang dapat diidentifikasi, membuatnya sulit untuk diikuti.\"}, \"Argumen & Bukti\": {\"grade\": \"D/E\", \"justification\": \"Tidak ada argumen atau bukti yang mendukung pernyataan. Jawaban hanya berupa klaim tanpa penjelasan atau contoh spesifik yang menunjukkan dampak dari perubahan tersebut.\"}, \"Gaya Bahasa & Mekanik\": {\"grade\": \"C\", \"justification\": \"Bahasa yang digunakan jelas, namun sangat minimalis. Tidak ada kesalahan tata bahasa yang mencolok, tetapi kurangnya variasi kalimat dan detail membuat jawaban kurang efektif.\"}}",
+      "overall_comment": "Jawaban perlu diperluas dengan detail dan penjelasan yang lebih mendalam untuk memenuhi kriteria penilaian yang ada.",
+      "metadata": {
+        "tokens_used": 2192,
+        "api_call_time": 5.74573016166687,
+        "timestamp": "2025-12-10T17:49:29.380115"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": "1.\tTulislah Konsep kerangka proposal penelitian dari capstone project kamu yang mencakup:\n1.\tLatar belakang masalah\n2.\tMasalah penelitian (rumusan masalah)\n3.\tTujuan penelitian\n4.\tCara atau metode yang akan kamu gunakan \n(20 poin)",
+      "answer": "Latar belakang masalah adalah kesulitan menjemur pakaian saat hujan. Masalah penelitian: Bagaimana mendeteksi hujan secara otomatis. Tujuan: Membuat sistem otomatis yang bisa memantau hujan. Metode: Arduino dengan sensor hujan.",
+      "grades": {
+        "Pemahaman Konten": {
+          "grade": "C",
+          "justification": "Jawaban mahasiswa menunjukkan pemahaman dasar tentang elemen proposal penelitian, namun kurang mendalam. Latar belakang masalah dan tujuan penelitian disebutkan, tetapi tidak ada penjelasan yang mendetail atau analisis lebih lanjut tentang konteks atau dampak dari masalah tersebut."
+        },
+        "Organisasi & Struktur": {
+          "grade": "B",
+          "justification": "Struktur jawaban cukup jelas dengan pembagian elemen proposal yang terpisah. Namun, transisi antar elemen tidak terlalu halus dan bisa lebih dikembangkan untuk meningkatkan koherensi dan alur logika."
+        },
+        "Argumen & Bukti": {
+          "grade": "D/E",
+          "justification": "Tidak ada argumen yang kuat atau bukti pendukung yang disertakan dalam jawaban. Pernyataan tentang metode dan tujuan tidak didukung dengan analisis atau contoh yang relevan, sehingga argumen terasa lemah."
+        },
+        "Gaya Bahasa & Mekanik": {
+          "grade": "B",
+          "justification": "Bahasa yang digunakan cukup jelas dan efektif, meskipun sederhana. Tidak ditemukan kesalahan tata bahasa yang signifikan, namun variasi kalimat bisa lebih ditingkatkan untuk memperkaya gaya penulisan."
+        }
+      },
+      "weighted_score": 2.2,
+      "justification": "{\"Pemahaman Konten\": {\"grade\": \"C\", \"justification\": \"Jawaban mahasiswa menunjukkan pemahaman dasar tentang elemen proposal penelitian, namun kurang mendalam. Latar belakang masalah dan tujuan penelitian disebutkan, tetapi tidak ada penjelasan yang mendetail atau analisis lebih lanjut tentang konteks atau dampak dari masalah tersebut.\"}, \"Organisasi & Struktur\": {\"grade\": \"B\", \"justification\": \"Struktur jawaban cukup jelas dengan pembagian elemen proposal yang terpisah. Namun, transisi antar elemen tidak terlalu halus dan bisa lebih dikembangkan untuk meningkatkan koherensi dan alur logika.\"}, \"Argumen & Bukti\": {\"grade\": \"D/E\", \"justification\": \"Tidak ada argumen yang kuat atau bukti pendukung yang disertakan dalam jawaban. Pernyataan tentang metode dan tujuan tidak didukung dengan analisis atau contoh yang relevan, sehingga argumen terasa lemah.\"}, \"Gaya Bahasa & Mekanik\": {\"grade\": \"B\", \"justification\": \"Bahasa yang digunakan cukup jelas dan efektif, meskipun sederhana. Tidak ditemukan kesalahan tata bahasa yang signifikan, namun variasi kalimat bisa lebih ditingkatkan untuk memperkaya gaya penulisan.\"}}",
+      "overall_comment": "Jawaban menunjukkan pemahaman dasar tetapi perlu pengembangan lebih lanjut dalam detail dan dukungan argumen.",
+      "metadata": {
+        "tokens_used": 2276,
+        "api_call_time": 5.441620826721191,
+        "timestamp": "2025-12-10T17:49:34.841831"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": "2.\tJelaskan bagaimana proposal penelitianmu bisa membantu mengembangkan ilmu pengetahuan atau teknologi di bidangmu. (10 poin)",
+      "answer": "Penelitian ini dapat meningkatkan teknologi rumah tangga pintar untuk otomatisasi yang lebih baik.",
+      "grades": {
+        "Pemahaman Konten": {
+          "grade": "D/E",
+          "justification": "Jawaban mahasiswa sangat singkat dan tidak memberikan detail tentang bagaimana penelitian ini dapat mengembangkan ilmu pengetahuan atau teknologi. Tidak ada penjelasan tentang aspek spesifik dari teknologi rumah tangga pintar yang akan ditingkatkan."
+        },
+        "Organisasi & Struktur": {
+          "grade": "D/E",
+          "justification": "Jawaban tidak memiliki struktur yang jelas, hanya terdiri dari satu kalimat yang tidak terorganisir dengan baik. Tidak ada pengantar, isi, atau kesimpulan yang dapat diidentifikasi."
+        },
+        "Argumen & Bukti": {
+          "grade": "D/E",
+          "justification": "Tidak ada argumen yang jelas atau bukti pendukung dalam jawaban ini. Mahasiswa tidak memberikan contoh atau analisis yang relevan untuk mendukung klaimnya tentang peningkatan teknologi rumah tangga pintar."
+        },
+        "Gaya Bahasa & Mekanik": {
+          "grade": "C",
+          "justification": "Bahasa yang digunakan cukup jelas dan tidak ada kesalahan tata bahasa yang mencolok, namun kalimatnya sangat sederhana dan tidak bervariasi. Penggunaan bahasa akademik yang lebih efektif diperlukan."
+        }
+      },
+      "weighted_score": 1.1,
+      "justification": "{\"Pemahaman Konten\": {\"grade\": \"D/E\", \"justification\": \"Jawaban mahasiswa sangat singkat dan tidak memberikan detail tentang bagaimana penelitian ini dapat mengembangkan ilmu pengetahuan atau teknologi. Tidak ada penjelasan tentang aspek spesifik dari teknologi rumah tangga pintar yang akan ditingkatkan.\"}, \"Organisasi & Struktur\": {\"grade\": \"D/E\", \"justification\": \"Jawaban tidak memiliki struktur yang jelas, hanya terdiri dari satu kalimat yang tidak terorganisir dengan baik. Tidak ada pengantar, isi, atau kesimpulan yang dapat diidentifikasi.\"}, \"Argumen & Bukti\": {\"grade\": \"D/E\", \"justification\": \"Tidak ada argumen yang jelas atau bukti pendukung dalam jawaban ini. Mahasiswa tidak memberikan contoh atau analisis yang relevan untuk mendukung klaimnya tentang peningkatan teknologi rumah tangga pintar.\"}, \"Gaya Bahasa & Mekanik\": {\"grade\": \"C\", \"justification\": \"Bahasa yang digunakan cukup jelas dan tidak ada kesalahan tata bahasa yang mencolok, namun kalimatnya sangat sederhana dan tidak bervariasi. Penggunaan bahasa akademik yang lebih efektif diperlukan.\"}}",
+      "overall_comment": "Jawaban ini sangat kurang dalam hal kedalaman dan detail. Diperlukan penjelasan lebih lanjut dan dukungan argumen yang lebih kuat.",
+      "metadata": {
+        "tokens_used": 2193,
+        "api_call_time": 5.997617959976196,
+        "timestamp": "2025-12-10T17:49:40.861453"
+      }
+    }
+  ]
+}

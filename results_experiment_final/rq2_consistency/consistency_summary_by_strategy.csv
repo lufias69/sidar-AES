@@ -1,0 +1,7 @@
+model,strategy,std_dev_mean,std_dev_median,std_dev_std,range_mean,range_median,range_max,cv_percent_mean,cv_percent_median,n_trials_first
+chatgpt,few,0.1259,0.0966,0.1151,0.3314,0.2,1.0,6.9257,4.2747,10
+chatgpt,lenient,0.1024,0.0632,0.1153,0.2814,0.2,1.0,4.2073,2.4993,10
+chatgpt,zero,0.0961,0.0632,0.1023,0.2514,0.2,1.0,4.7127,3.4794,10
+gemini,few,0.3381,0.3387,0.1189,1.0243,0.95,1.9,17.2284,18.1243,10
+gemini,lenient,0.0754,0.0369,0.0995,0.2014,0.1,1.4,2.995,1.3534,10
+gemini,zero,0.237,0.2517,0.1313,0.6814,0.65,1.4,10.9205,10.9044,10

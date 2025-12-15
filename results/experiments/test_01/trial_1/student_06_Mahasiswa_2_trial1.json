@@ -1,0 +1,143 @@
+{
+  "student_id": "student_06",
+  "student_name": "Mahasiswa 2",
+  "experiment_id": "test_01",
+  "trial": 1,
+  "model": "chatgpt",
+  "strategy": "zero-shot",
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "1.\tJelaskan singkat tentang topik capstone project yang sedang kamu kerjakan. Apa masalah utama yang ingin kamu selesaikan dan apa tujuan dari proyek tersebut? (15 poin)",
+      "answer": "Saya sedang mengembangkan sistem irigasi pintar untuk pertanian. Masalah utama yang ingin saya selesaikan adalah penggunaan air yang tidak efisien dalam irigasi. Tujuan proyek ini adalah menghemat air dengan menyiram tanaman hanya ketika diperlukan.",
+      "grades": {
+        "Pemahaman Konten": "B",
+        "Organisasi & Struktur": "A",
+        "Argumen & Bukti": "C",
+        "Gaya Bahasa & Mekanik": "A"
+      },
+      "weighted_score": 3.2,
+      "justification": "{\"Pemahaman Konten\": \"Mahasiswa menunjukkan pemahaman yang baik tentang topik irigasi pintar dan masalah penggunaan air yang tidak efisien. Namun, penjelasan mengenai bagaimana sistem ini bekerja atau teknologi spesifik yang digunakan tidak dijelaskan secara mendalam, sehingga tidak sepenuhnya lengkap.\", \"Organisasi & Struktur\": \"Jawaban terstruktur dengan jelas, dimulai dengan pernyataan masalah dan diikuti oleh tujuan proyek. Alur logika mudah diikuti dan ide-ide disampaikan secara terorganisir.\", \"Argumen & Bukti\": \"Jawaban memberikan argumen dasar mengenai tujuan proyek, tetapi kurang dalam memberikan contoh spesifik atau bukti yang mendukung efektivitas sistem irigasi pintar yang diusulkan. Analisis lebih lanjut diperlukan untuk memperkuat argumen.\", \"Gaya Bahasa & Mekanik\": \"Bahasa yang digunakan efektif dan jelas, tanpa kesalahan tata bahasa atau ejaan yang mencolok. Kalimat disusun dengan baik dan mudah dipahami.\"}",
+      "overall_comment": "Jawaban mahasiswa cukup baik dengan struktur yang jelas, namun perlu lebih banyak detail dan bukti untuk memperkuat argumen.",
+      "metadata": {
+        "tokens_used": 1979,
+        "api_call_time": 4.50575590133667,
+        "timestamp": "2025-12-10T13:42:40.487756"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": "2.\tSebutkan dan jelaskan tiga teknologi, alat, atau cara yang kamu pakai dalam capstone project ini. Kenapa kamu memilih yang tersebut? (15 poin)",
+      "answer": "Raspberry Pi, sensor kelembaban tanah, Wi-Fi. Raspberry Pi fleksibel dan dapat mengontrol perangkat keras lain dengan mudah. Sensor kelembaban untuk mendeteksi kebutuhan air. Wi-Fi untuk komunikasi data.",
+      "grades": {
+        "Pemahaman Konten": "C",
+        "Organisasi & Struktur": "C",
+        "Argumen & Bukti": "D/E",
+        "Gaya Bahasa & Mekanik": "B"
+      },
+      "weighted_score": 2.0,
+      "justification": "{\"Pemahaman Konten\": \"Jawaban mahasiswa menyebutkan tiga teknologi yang digunakan, tetapi penjelasannya sangat minimal dan tidak mendalam. Tidak ada detail tentang bagaimana masing-masing teknologi berfungsi dalam konteks proyek capstone. Pemahaman dasar ada, tetapi kurang lengkap dan tidak menunjukkan insight tingkat lanjut.\", \"Organisasi & Struktur\": \"Jawaban disajikan dalam bentuk daftar tanpa struktur yang jelas. Tidak ada pengantar atau kesimpulan, dan transisi antar ide tidak ada, membuat alur logika sulit diikuti. Struktur yang lebih baik akan membantu dalam menyampaikan informasi dengan lebih efektif.\", \"Argumen & Bukti\": \"Tidak ada argumen atau bukti yang mendukung alasan pemilihan teknologi. Penjelasan sangat minimal dan tidak ada contoh spesifik atau analisis mendalam yang diberikan. Ini menunjukkan kurangnya dukungan bukti yang memadai untuk klaim yang dibuat.\", \"Gaya Bahasa & Mekanik\": \"Bahasa yang digunakan cukup jelas dan efektif, meskipun sangat singkat. Tidak ada kesalahan tata bahasa yang mencolok, tetapi variasi kalimat sangat terbatas. Penggunaan bahasa bisa lebih baik dengan memberikan penjelasan yang lebih rinci.\"}",
+      "overall_comment": "Jawaban mahasiswa memberikan informasi dasar tetapi kurang dalam penjelasan dan dukungan argumen. Struktur dan detail yang lebih baik akan meningkatkan kualitas esai.",
+      "metadata": {
+        "tokens_used": 2015,
+        "api_call_time": 5.416014671325684,
+        "timestamp": "2025-12-10T13:42:46.418236"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": "3. Jelaskan manfaat atau kegunaan hasil capstone projectmu bagi orang lain atau bidang yang kamu tekuni. (10 poin)",
+      "answer": "Menghemat air dalam pertanian dan mengurangi pemborosan.",
+      "grades": {
+        "Pemahaman Konten": "D/E",
+        "Organisasi & Struktur": "D/E",
+        "Argumen & Bukti": "D/E",
+        "Gaya Bahasa & Mekanik": "C"
+      },
+      "weighted_score": 1.1,
+      "justification": "{\"Pemahaman Konten\": \"Jawaban mahasiswa sangat minim dan tidak menunjukkan pemahaman mendalam atau detail tentang manfaat capstone project. Tidak ada penjelasan lebih lanjut mengenai bagaimana proyek tersebut menghemat air atau mengurangi pemborosan dalam konteks pertanian.\", \"Organisasi & Struktur\": \"Jawaban tidak memiliki struktur yang jelas. Tidak ada pengantar, tubuh, atau kesimpulan yang dapat diidentifikasi. Jawaban hanya terdiri dari satu kalimat yang tidak terorganisir dengan baik.\", \"Argumen & Bukti\": \"Tidak ada argumen yang jelas atau bukti yang mendukung pernyataan yang diberikan. Mahasiswa tidak menyertakan contoh atau analisis yang relevan untuk mendukung klaim tentang manfaat proyek.\", \"Gaya Bahasa & Mekanik\": \"Bahasa yang digunakan cukup jelas tetapi sangat singkat. Tidak ada kesalahan tata bahasa yang mencolok, namun kalimatnya terlalu sederhana dan tidak menunjukkan variasi atau kompleksitas.\"}",
+      "overall_comment": "Jawaban sangat singkat dan kurang mendalam, tidak memenuhi kriteria penilaian yang diharapkan.",
+      "metadata": {
+        "tokens_used": 1921,
+        "api_call_time": 5.105863332748413,
+        "timestamp": "2025-12-10T13:42:52.040534"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": "1.Ceritakan tahap-tahap pengerjaan capstone project dari awal sampai sekarang. Sebutkan juga hal penting atau target yang sudah kamu capai. (15 poin)",
+      "answer": "Membuat sistem otomatis menggunakan Raspberry Pi, saat ini sedang menguji sensor kelembaban.",
+      "grades": {
+        "Pemahaman Konten": "D/E",
+        "Organisasi & Struktur": "D/E",
+        "Argumen & Bukti": "D/E",
+        "Gaya Bahasa & Mekanik": "C"
+      },
+      "weighted_score": 1.1,
+      "justification": "{\"Pemahaman Konten\": \"Jawaban mahasiswa sangat minimal dan tidak menunjukkan pemahaman mendalam atau lengkap tentang tahap-tahap pengerjaan capstone project. Tidak ada penjelasan detail mengenai proses atau target yang telah dicapai, hanya menyebutkan pengujian sensor kelembaban.\", \"Organisasi & Struktur\": \"Jawaban tidak terstruktur dengan baik. Tidak ada pembukaan, isi, atau penutup yang jelas, serta tidak ada transisi antar ide. Jawaban hanya terdiri dari satu kalimat yang tidak memberikan alur logika yang dapat diikuti.\", \"Argumen & Bukti\": \"Tidak ada argumen atau bukti yang mendukung pernyataan. Jawaban hanya menyebutkan aktivitas tanpa memberikan contoh spesifik atau analisis yang mendalam mengenai proses atau hasil yang dicapai.\", \"Gaya Bahasa & Mekanik\": \"Bahasa yang digunakan cukup jelas, namun sangat singkat dan tidak memberikan variasi kalimat. Tidak ada kesalahan tata bahasa yang mencolok, tetapi kurang dalam hal pengembangan ide.\"}",
+      "overall_comment": "Jawaban sangat minimal dan tidak memenuhi kriteria esai yang diharapkan. Diperlukan penjelasan lebih mendalam dan terstruktur.",
+      "metadata": {
+        "tokens_used": 1959,
+        "api_call_time": 5.423937082290649,
+        "timestamp": "2025-12-10T13:42:57.981487"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": "3. Apakah ada perubahan pada rencana (ingin mengubah project) atau cara pengerjaan selama proyek berjalan? Jika iya, jelaskan apa yang berubah dan bagaimana pengaruhnya ke hasil proyek. (10 poin)",
+      "answer": "Menambah aplikasi mobile untuk memantau irigasi secara real-time.",
+      "grades": {
+        "Pemahaman Konten": "D/E",
+        "Organisasi & Struktur": "D/E",
+        "Argumen & Bukti": "D/E",
+        "Gaya Bahasa & Mekanik": "C"
+      },
+      "weighted_score": 1.1,
+      "justification": "{\"Pemahaman Konten\": \"Jawaban mahasiswa sangat minimal dan tidak memberikan penjelasan mengenai perubahan rencana atau cara pengerjaan proyek. Tidak ada detail tentang bagaimana penambahan aplikasi mobile mempengaruhi hasil proyek, sehingga tidak menunjukkan pemahaman yang memadai.\", \"Organisasi & Struktur\": \"Jawaban hanya terdiri dari satu kalimat tanpa struktur yang jelas. Tidak ada pengantar, isi, atau kesimpulan yang terorganisir, sehingga sulit untuk diikuti dan tidak memenuhi kriteria struktur esai yang baik.\", \"Argumen & Bukti\": \"Tidak ada argumen yang jelas atau bukti yang mendukung dalam jawaban ini. Mahasiswa tidak memberikan penjelasan atau contoh spesifik yang menunjukkan bagaimana perubahan tersebut berdampak pada proyek.\", \"Gaya Bahasa & Mekanik\": \"Bahasa yang digunakan cukup jelas dan tidak terdapat kesalahan tata bahasa atau ejaan. Namun, karena jawaban sangat singkat, tidak ada variasi kalimat yang bisa dinilai.\"}",
+      "overall_comment": "Jawaban sangat singkat dan kurang mendalam, tidak memenuhi kriteria esai yang diharapkan.",
+      "metadata": {
+        "tokens_used": 1942,
+        "api_call_time": 7.87002158164978,
+        "timestamp": "2025-12-10T13:43:06.367792"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": "1.\tTulislah Konsep kerangka proposal penelitian dari capstone project kamu yang mencakup:\n1.\tLatar belakang masalah\n2.\tMasalah penelitian (rumusan masalah)\n3.\tTujuan penelitian\n4.\tCara atau metode yang akan kamu gunakan \n(20 poin)",
+      "answer": "Latar belakang masalah adalah pemborosan air dalam pertanian. Masalah penelitian: Bagaimana mengotomatisasi irigasi untuk menghemat air. Tujuan: Merancang sistem irigasi otomatis berbasis sensor kelembaban tanah. Metode: Raspberry Pi dan sensor kelembaban tanah.",
+      "grades": {
+        "Pemahaman Konten": "B",
+        "Organisasi & Struktur": "B",
+        "Argumen & Bukti": "C",
+        "Gaya Bahasa & Mekanik": "A"
+      },
+      "weighted_score": 3.0,
+      "justification": "{\"Pemahaman Konten\": \"Jawaban mahasiswa menunjukkan pemahaman yang baik mengenai topik irigasi otomatis dan penggunaan teknologi seperti Raspberry Pi dan sensor kelembaban tanah. Namun, penjelasan masih kurang mendalam dan tidak ada detail lebih lanjut mengenai bagaimana sistem ini akan diimplementasikan atau tantangan yang mungkin dihadapi.\", \"Organisasi & Struktur\": \"Struktur esai cukup jelas dengan pembagian yang tepat antara latar belakang, masalah penelitian, tujuan, dan metode. Namun, transisi antar bagian bisa lebih halus untuk meningkatkan koherensi dan alur logika.\", \"Argumen & Bukti\": \"Penjelasan mengenai argumen dan bukti kurang detail. Mahasiswa tidak memberikan contoh spesifik atau analisis mendalam tentang bagaimana sistem irigasi otomatis akan mengatasi pemborosan air, sehingga argumen terasa kurang kuat.\", \"Gaya Bahasa & Mekanik\": \"Bahasa yang digunakan jelas dan efektif dengan sedikit atau tanpa kesalahan tata bahasa. Ejaan juga tepat dan kalimat tersusun dengan baik, menunjukkan penguasaan bahasa yang baik.\"}",
+      "overall_comment": "Jawaban menunjukkan pemahaman yang baik, tetapi bisa ditingkatkan dengan lebih banyak detail dan analisis mendalam.",
+      "metadata": {
+        "tokens_used": 2026,
+        "api_call_time": 6.054582834243774,
+        "timestamp": "2025-12-10T13:43:12.938860"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": "2.\tJelaskan bagaimana proposal penelitianmu bisa membantu mengembangkan ilmu pengetahuan atau teknologi di bidangmu. (10 poin)",
+      "answer": "Penelitian ini akan memberikan solusi untuk pertanian yang lebih efisien, mengurangi pemborosan air, dan membuka peluang bagi pengembangan sistem irigasi otomatis yang lebih canggih.",
+      "grades": {
+        "Pemahaman Konten": "C",
+        "Organisasi & Struktur": "C",
+        "Argumen & Bukti": "D/E",
+        "Gaya Bahasa & Mekanik": "B"
+      },
+      "weighted_score": 2.0,
+      "justification": "{\"Pemahaman Konten\": \"Jawaban mahasiswa menunjukkan pemahaman dasar tentang bagaimana penelitian dapat mengembangkan teknologi irigasi. Namun, penjelasan kurang mendalam dan tidak ada detail spesifik tentang mekanisme atau teknologi yang akan digunakan. Beberapa bagian penting, seperti dampak spesifik pada ilmu pengetahuan, terlewat.\", \"Organisasi & Struktur\": \"Struktur jawaban kurang jelas karena tidak ada pembukaan atau penutupan yang terdefinisi. Ide-ide yang disampaikan tidak terorganisir dengan baik, sehingga alur logika sulit diikuti. Transisi antar ide juga tidak terlihat jelas.\", \"Argumen & Bukti\": \"Tidak ada argumen yang jelas dan tidak ada bukti atau contoh yang mendukung klaim yang dibuat. Penjelasan sangat minimal dan tidak ada analisis mendalam tentang bagaimana penelitian ini akan berdampak pada bidang tersebut.\", \"Gaya Bahasa & Mekanik\": \"Bahasa yang digunakan cukup jelas dan efektif, meskipun kalimatnya sederhana. Tidak ada kesalahan tata bahasa atau ejaan yang signifikan, tetapi variasi kalimat bisa ditingkatkan untuk meningkatkan daya tarik pembaca.\"}",
+      "overall_comment": "Jawaban ini membutuhkan lebih banyak detail dan struktur yang lebih baik untuk menjelaskan dampak penelitian secara efektif.",
+      "metadata": {
+        "tokens_used": 1979,
+        "api_call_time": 5.872042179107666,
+        "timestamp": "2025-12-10T13:43:19.328811"
+      }
+    }
+  ]
+}

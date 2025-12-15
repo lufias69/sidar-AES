@@ -1,0 +1,227 @@
+{
+  "student_id": "student_05",
+  "student_name": "Mahasiswa 5",
+  "experiment_id": "exp_chatgpt_lenient_06",
+  "trial": 1,
+  "model": "chatgpt",
+  "strategy": "lenient",
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "1.\tJelaskan singkat tentang topik capstone project yang sedang kamu kerjakan. Apa masalah utama yang ingin kamu selesaikan dan apa tujuan dari proyek tersebut? (15 poin)",
+      "answer": "Membuat aplikasi pengiriman makanan dengan pilihan sehat. Tujuan proyek ini adalah membuat makanan sehat lebih mudah diakses.",
+      "grades": {
+        "Pemahaman Konten": {
+          "grade": "B",
+          "justification": "Mahasiswa menunjukkan pemahaman yang baik tentang proyek yang dikerjakan dengan menyebutkan tujuan utama yaitu membuat makanan sehat lebih mudah diakses. Namun, penjelasan kurang mendalam karena tidak ada detail lebih lanjut mengenai bagaimana aplikasi tersebut akan mencapai tujuan tersebut."
+        },
+        "Organisasi & Struktur": {
+          "grade": "B",
+          "justification": "Jawaban terstruktur dengan baik meskipun singkat. Mahasiswa langsung menyebutkan topik dan tujuan proyek dengan jelas, namun kurang ada pengembangan lebih lanjut yang bisa memperkuat struktur esai."
+        },
+        "Argumen & Bukti": {
+          "grade": "C",
+          "justification": "Penjelasan mengenai masalah dan tujuan proyek ada, tetapi kurang didukung dengan argumen atau contoh yang lebih spesifik. Tidak ada analisis atau bukti yang mendukung bagaimana aplikasi ini akan membuat makanan sehat lebih mudah diakses."
+        },
+        "Gaya Bahasa & Mekanik": {
+          "grade": "A",
+          "justification": "Bahasa yang digunakan jelas dan efektif dengan tidak ada kesalahan tata bahasa atau ejaan yang terlihat. Kalimatnya singkat namun padat, menunjukkan penggunaan bahasa yang baik."
+        }
+      },
+      "weighted_score": 3.0,
+      "justification": "{\"Pemahaman Konten\": {\"grade\": \"B\", \"justification\": \"Mahasiswa menunjukkan pemahaman yang baik tentang proyek yang dikerjakan dengan menyebutkan tujuan utama yaitu membuat makanan sehat lebih mudah diakses. Namun, penjelasan kurang mendalam karena tidak ada detail lebih lanjut mengenai bagaimana aplikasi tersebut akan mencapai tujuan tersebut.\"}, \"Organisasi & Struktur\": {\"grade\": \"B\", \"justification\": \"Jawaban terstruktur dengan baik meskipun singkat. Mahasiswa langsung menyebutkan topik dan tujuan proyek dengan jelas, namun kurang ada pengembangan lebih lanjut yang bisa memperkuat struktur esai.\"}, \"Argumen & Bukti\": {\"grade\": \"C\", \"justification\": \"Penjelasan mengenai masalah dan tujuan proyek ada, tetapi kurang didukung dengan argumen atau contoh yang lebih spesifik. Tidak ada analisis atau bukti yang mendukung bagaimana aplikasi ini akan membuat makanan sehat lebih mudah diakses.\"}, \"Gaya Bahasa & Mekanik\": {\"grade\": \"A\", \"justification\": \"Bahasa yang digunakan jelas dan efektif dengan tidak ada kesalahan tata bahasa atau ejaan yang terlihat. Kalimatnya singkat namun padat, menunjukkan penggunaan bahasa yang baik.\"}}",
+      "overall_comment": "Jawaban menunjukkan pemahaman dasar yang baik, namun bisa diperkuat dengan lebih banyak detail dan argumen pendukung.",
+      "metadata": {
+        "tokens_used": 2031,
+        "api_call_time": 7.8593528270721436,
+        "timestamp": "2025-12-10T21:34:09.557376"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": "2.\tSebutkan dan jelaskan tiga teknologi, alat, atau cara yang kamu pakai dalam capstone project ini. Kenapa kamu memilih yang tersebut? (15 poin)",
+      "answer": "Flutter untuk aplikasi, Firebase untuk backend, Google Maps API untuk pelacakan lokasi. Flutter untuk pengembangan aplikasi mobile, Firebase untuk manajemen database, Google Maps untuk lokasi.",
+      "grades": {
+        "Pemahaman Konten": {
+          "grade": "B",
+          "justification": "Mahasiswa menunjukkan pemahaman dasar yang baik tentang teknologi yang digunakan dalam proyek, yaitu Flutter, Firebase, dan Google Maps API. Namun, penjelasan mengenai alasan pemilihan teknologi tersebut kurang mendalam dan tidak ada detail tambahan tentang bagaimana setiap teknologi mendukung proyek secara spesifik."
+        },
+        "Organisasi & Struktur": {
+          "grade": "C",
+          "justification": "Jawaban mahasiswa cukup singkat dan tidak terstruktur dengan jelas. Meskipun ide-ide utama disebutkan, tidak ada pengantar atau kesimpulan yang mengikat penjelasan secara keseluruhan. Transisi antar ide juga kurang terlihat, membuat alur jawaban agak terputus-putus."
+        },
+        "Argumen & Bukti": {
+          "grade": "C",
+          "justification": "Mahasiswa menyebutkan teknologi yang digunakan, namun tidak memberikan argumen kuat atau contoh spesifik yang mendukung pilihan tersebut. Penjelasan tentang bagaimana setiap teknologi berkontribusi terhadap proyek tidak disertai dengan bukti atau analisis yang memadai."
+        },
+        "Gaya Bahasa & Mekanik": {
+          "grade": "B",
+          "justification": "Bahasa yang digunakan cukup jelas dan efektif, meskipun ada beberapa bagian yang bisa lebih diperinci. Tidak ada kesalahan tata bahasa yang signifikan, dan ejaan umumnya benar. Namun, variasi kalimat dapat ditingkatkan untuk meningkatkan kejelasan dan daya tarik."
+        }
+      },
+      "weighted_score": 2.7,
+      "justification": "{\"Pemahaman Konten\": {\"grade\": \"B\", \"justification\": \"Mahasiswa menunjukkan pemahaman dasar yang baik tentang teknologi yang digunakan dalam proyek, yaitu Flutter, Firebase, dan Google Maps API. Namun, penjelasan mengenai alasan pemilihan teknologi tersebut kurang mendalam dan tidak ada detail tambahan tentang bagaimana setiap teknologi mendukung proyek secara spesifik.\"}, \"Organisasi & Struktur\": {\"grade\": \"C\", \"justification\": \"Jawaban mahasiswa cukup singkat dan tidak terstruktur dengan jelas. Meskipun ide-ide utama disebutkan, tidak ada pengantar atau kesimpulan yang mengikat penjelasan secara keseluruhan. Transisi antar ide juga kurang terlihat, membuat alur jawaban agak terputus-putus.\"}, \"Argumen & Bukti\": {\"grade\": \"C\", \"justification\": \"Mahasiswa menyebutkan teknologi yang digunakan, namun tidak memberikan argumen kuat atau contoh spesifik yang mendukung pilihan tersebut. Penjelasan tentang bagaimana setiap teknologi berkontribusi terhadap proyek tidak disertai dengan bukti atau analisis yang memadai.\"}, \"Gaya Bahasa & Mekanik\": {\"grade\": \"B\", \"justification\": \"Bahasa yang digunakan cukup jelas dan efektif, meskipun ada beberapa bagian yang bisa lebih diperinci. Tidak ada kesalahan tata bahasa yang signifikan, dan ejaan umumnya benar. Namun, variasi kalimat dapat ditingkatkan untuk meningkatkan kejelasan dan daya tarik.\"}}",
+      "overall_comment": "Jawaban menunjukkan pemahaman dasar yang baik, namun bisa lebih mendalam dan terstruktur untuk meningkatkan kualitas keseluruhan.",
+      "metadata": {
+        "tokens_used": 2093,
+        "api_call_time": 9.590354681015015,
+        "timestamp": "2025-12-10T21:34:19.170130"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": "3. Jelaskan manfaat atau kegunaan hasil capstone projectmu bagi orang lain atau bidang yang kamu tekuni. (10 poin)",
+      "answer": "Membantu orang membuat pilihan makan sehat dengan mudah dan mengantarnya langsung.",
+      "grades": {
+        "Pemahaman Konten": {
+          "grade": "C",
+          "justification": "Jawaban mahasiswa menunjukkan pemahaman dasar tentang manfaat proyek capstone, yaitu membantu orang membuat pilihan makan sehat. Namun, penjelasan ini kurang mendalam dan tidak lengkap, karena tidak menjelaskan bagaimana proyek tersebut bekerja atau dampaknya secara lebih rinci."
+        },
+        "Organisasi & Struktur": {
+          "grade": "D/E",
+          "justification": "Jawaban tidak memiliki struktur yang jelas, dengan hanya satu kalimat yang tidak menunjukkan pembagian ide yang terorganisir. Tidak ada pengantar atau kesimpulan yang mendukung alur logika dari argumen yang disampaikan."
+        },
+        "Argumen & Bukti": {
+          "grade": "D/E",
+          "justification": "Tidak ada argumen yang kuat atau bukti pendukung dalam jawaban ini. Mahasiswa tidak memberikan contoh spesifik atau analisis yang mendalam tentang bagaimana proyek tersebut akan bermanfaat bagi orang lain."
+        },
+        "Gaya Bahasa & Mekanik": {
+          "grade": "B",
+          "justification": "Bahasa yang digunakan jelas dan tidak ada kesalahan tata bahasa yang signifikan. Namun, karena jawaban sangat singkat, variasi kalimat tidak dapat dinilai secara mendalam."
+        }
+      },
+      "weighted_score": 1.8,
+      "justification": "{\"Pemahaman Konten\": {\"grade\": \"C\", \"justification\": \"Jawaban mahasiswa menunjukkan pemahaman dasar tentang manfaat proyek capstone, yaitu membantu orang membuat pilihan makan sehat. Namun, penjelasan ini kurang mendalam dan tidak lengkap, karena tidak menjelaskan bagaimana proyek tersebut bekerja atau dampaknya secara lebih rinci.\"}, \"Organisasi & Struktur\": {\"grade\": \"D/E\", \"justification\": \"Jawaban tidak memiliki struktur yang jelas, dengan hanya satu kalimat yang tidak menunjukkan pembagian ide yang terorganisir. Tidak ada pengantar atau kesimpulan yang mendukung alur logika dari argumen yang disampaikan.\"}, \"Argumen & Bukti\": {\"grade\": \"D/E\", \"justification\": \"Tidak ada argumen yang kuat atau bukti pendukung dalam jawaban ini. Mahasiswa tidak memberikan contoh spesifik atau analisis yang mendalam tentang bagaimana proyek tersebut akan bermanfaat bagi orang lain.\"}, \"Gaya Bahasa & Mekanik\": {\"grade\": \"B\", \"justification\": \"Bahasa yang digunakan jelas dan tidak ada kesalahan tata bahasa yang signifikan. Namun, karena jawaban sangat singkat, variasi kalimat tidak dapat dinilai secara mendalam.\"}}",
+      "overall_comment": "Jawaban menunjukkan pemahaman dasar tetapi kurang dalam detail dan struktur. Usaha lebih dalam menjelaskan dan mengorganisir ide akan meningkatkan kualitas esai.",
+      "metadata": {
+        "tokens_used": 2020,
+        "api_call_time": 7.8860015869140625,
+        "timestamp": "2025-12-10T21:34:27.082356"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": "1.Ceritakan tahap-tahap pengerjaan capstone project dari awal sampai sekarang. Sebutkan juga hal penting atau target yang sudah kamu capai. (15 poin)",
+      "answer": "Membuat aplikasi dengan Flutter dan menghubungkan ke Firebase. Saat ini sedang mengembangkan sistem pembayaran.",
+      "grades": {
+        "Pemahaman Konten": {
+          "grade": "C",
+          "justification": "Mahasiswa menunjukkan pemahaman dasar dengan menyebutkan penggunaan Flutter dan Firebase, serta pengembangan sistem pembayaran. Namun, penjelasan kurang mendalam dan tidak mencakup tahap-tahap pengerjaan proyek secara lengkap. Beberapa bagian penting dari proses pengerjaan proyek terlewat."
+        },
+        "Organisasi & Struktur": {
+          "grade": "C",
+          "justification": "Jawaban mahasiswa sangat singkat dan tidak memiliki struktur yang jelas. Tidak ada pembagian yang jelas antara tahap-tahap pengerjaan proyek, sehingga alur logika sulit diikuti. Struktur yang lebih terorganisir akan membantu dalam memahami proses pengerjaan proyek."
+        },
+        "Argumen & Bukti": {
+          "grade": "D/E",
+          "justification": "Tidak ada argumen atau bukti yang mendukung pernyataan mahasiswa. Jawaban hanya berupa pernyataan singkat tanpa penjelasan atau contoh spesifik yang relevan. Analisis dan dukungan bukti sangat diperlukan untuk memperkuat jawaban."
+        },
+        "Gaya Bahasa & Mekanik": {
+          "grade": "B",
+          "justification": "Bahasa yang digunakan jelas dan tidak ada kesalahan tata bahasa yang mencolok. Meskipun jawaban singkat, kalimat yang digunakan sudah efektif dan mudah dipahami. Namun, variasi kalimat bisa ditingkatkan untuk memberikan penjelasan yang lebih mendalam."
+        }
+      },
+      "weighted_score": 2.0,
+      "justification": "{\"Pemahaman Konten\": {\"grade\": \"C\", \"justification\": \"Mahasiswa menunjukkan pemahaman dasar dengan menyebutkan penggunaan Flutter dan Firebase, serta pengembangan sistem pembayaran. Namun, penjelasan kurang mendalam dan tidak mencakup tahap-tahap pengerjaan proyek secara lengkap. Beberapa bagian penting dari proses pengerjaan proyek terlewat.\"}, \"Organisasi & Struktur\": {\"grade\": \"C\", \"justification\": \"Jawaban mahasiswa sangat singkat dan tidak memiliki struktur yang jelas. Tidak ada pembagian yang jelas antara tahap-tahap pengerjaan proyek, sehingga alur logika sulit diikuti. Struktur yang lebih terorganisir akan membantu dalam memahami proses pengerjaan proyek.\"}, \"Argumen & Bukti\": {\"grade\": \"D/E\", \"justification\": \"Tidak ada argumen atau bukti yang mendukung pernyataan mahasiswa. Jawaban hanya berupa pernyataan singkat tanpa penjelasan atau contoh spesifik yang relevan. Analisis dan dukungan bukti sangat diperlukan untuk memperkuat jawaban.\"}, \"Gaya Bahasa & Mekanik\": {\"grade\": \"B\", \"justification\": \"Bahasa yang digunakan jelas dan tidak ada kesalahan tata bahasa yang mencolok. Meskipun jawaban singkat, kalimat yang digunakan sudah efektif dan mudah dipahami. Namun, variasi kalimat bisa ditingkatkan untuk memberikan penjelasan yang lebih mendalam.\"}}",
+      "overall_comment": "Mahasiswa menunjukkan usaha dalam menjelaskan proyeknya, namun perlu memperbaiki kedalaman dan struktur penjelasan untuk memberikan gambaran yang lebih lengkap.",
+      "metadata": {
+        "tokens_used": 2075,
+        "api_call_time": 8.089112997055054,
+        "timestamp": "2025-12-10T21:34:35.194021"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": "3. Apakah ada perubahan pada rencana (ingin mengubah project) atau cara pengerjaan selama proyek berjalan? Jika iya, jelaskan apa yang berubah dan bagaimana pengaruhnya ke hasil proyek. (10 poin)",
+      "answer": "Menambah fitur pelacakan makanan sehat dan pilihan lebih banyak.",
+      "grades": {
+        "Pemahaman Konten": {
+          "grade": "C",
+          "justification": "Jawaban mahasiswa menunjukkan pemahaman dasar tentang perubahan proyek dengan menambah fitur pelacakan makanan sehat. Namun, penjelasan kurang mendalam dan tidak mencakup bagaimana perubahan ini mempengaruhi hasil proyek secara spesifik, yang mengindikasikan pemahaman yang tidak sepenuhnya lengkap."
+        },
+        "Organisasi & Struktur": {
+          "grade": "D/E",
+          "justification": "Jawaban sangat singkat dan tidak memiliki struktur yang jelas. Tidak ada pembagian yang jelas antara bagian pengantar, isi, dan kesimpulan. Hal ini membuat alur logika sulit diikuti dan tidak terorganisir dengan baik."
+        },
+        "Argumen & Bukti": {
+          "grade": "D/E",
+          "justification": "Tidak ada argumen atau bukti yang disajikan untuk mendukung pernyataan tentang penambahan fitur. Jawaban tidak memberikan contoh atau analisis yang relevan untuk menjelaskan dampak dari perubahan yang disebutkan."
+        },
+        "Gaya Bahasa & Mekanik": {
+          "grade": "B",
+          "justification": "Bahasa yang digunakan jelas dan tidak ada kesalahan tata bahasa yang mencolok. Meskipun singkat, kalimatnya cukup efektif dalam menyampaikan ide dasar, meskipun kurang dalam variasi dan kedalaman."
+        }
+      },
+      "weighted_score": 1.8,
+      "justification": "{\"Pemahaman Konten\": {\"grade\": \"C\", \"justification\": \"Jawaban mahasiswa menunjukkan pemahaman dasar tentang perubahan proyek dengan menambah fitur pelacakan makanan sehat. Namun, penjelasan kurang mendalam dan tidak mencakup bagaimana perubahan ini mempengaruhi hasil proyek secara spesifik, yang mengindikasikan pemahaman yang tidak sepenuhnya lengkap.\"}, \"Organisasi & Struktur\": {\"grade\": \"D/E\", \"justification\": \"Jawaban sangat singkat dan tidak memiliki struktur yang jelas. Tidak ada pembagian yang jelas antara bagian pengantar, isi, dan kesimpulan. Hal ini membuat alur logika sulit diikuti dan tidak terorganisir dengan baik.\"}, \"Argumen & Bukti\": {\"grade\": \"D/E\", \"justification\": \"Tidak ada argumen atau bukti yang disajikan untuk mendukung pernyataan tentang penambahan fitur. Jawaban tidak memberikan contoh atau analisis yang relevan untuk menjelaskan dampak dari perubahan yang disebutkan.\"}, \"Gaya Bahasa & Mekanik\": {\"grade\": \"B\", \"justification\": \"Bahasa yang digunakan jelas dan tidak ada kesalahan tata bahasa yang mencolok. Meskipun singkat, kalimatnya cukup efektif dalam menyampaikan ide dasar, meskipun kurang dalam variasi dan kedalaman.\"}}",
+      "overall_comment": "Jawaban menunjukkan usaha untuk menjawab pertanyaan, namun kurang dalam detail dan struktur. Perlu pengembangan lebih lanjut untuk menjelaskan dampak perubahan proyek.",
+      "metadata": {
+        "tokens_used": 2058,
+        "api_call_time": 6.918940544128418,
+        "timestamp": "2025-12-10T21:34:42.136751"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": "1.\tTulislah Konsep kerangka proposal penelitian dari capstone project kamu yang mencakup:\n1.\tLatar belakang masalah\n2.\tMasalah penelitian (rumusan masalah)\n3.\tTujuan penelitian\n4.\tCara atau metode yang akan kamu gunakan \n(20 poin)",
+      "answer": "Latar belakang masalah: Kebiasaan makan tidak sehat. Masalah penelitian: Bagaimana menghubungkan orang dengan pilihan makanan sehat. Tujuan: Membuat aplikasi yang menghubungkan pengguna dengan makanan sehat. Metode: Flutter dan Firebase.",
+      "grades": {
+        "Pemahaman Konten": {
+          "grade": "B",
+          "justification": "Mahasiswa menunjukkan pemahaman dasar yang baik tentang konsep proposal penelitian dengan menyebutkan latar belakang, masalah, tujuan, dan metode. Namun, penjelasan kurang mendalam dan tidak ada detail tambahan yang menunjukkan insight tingkat lanjut."
+        },
+        "Organisasi & Struktur": {
+          "grade": "B",
+          "justification": "Struktur jawaban cukup jelas dengan bagian-bagian yang teridentifikasi dengan baik. Namun, transisi antar bagian bisa lebih halus untuk meningkatkan koherensi dan alur logika."
+        },
+        "Argumen & Bukti": {
+          "grade": "C",
+          "justification": "Argumen yang disajikan cukup jelas, tetapi kurang didukung dengan contoh atau bukti yang relevan. Penjelasan tentang metode yang akan digunakan juga bisa lebih detail untuk memperkuat argumen."
+        },
+        "Gaya Bahasa & Mekanik": {
+          "grade": "A",
+          "justification": "Bahasa yang digunakan efektif dan jelas, dengan sedikit atau tanpa kesalahan tata bahasa. Kalimat disusun dengan baik dan mudah dipahami."
+        }
+      },
+      "weighted_score": 3.0,
+      "justification": "{\"Pemahaman Konten\": {\"grade\": \"B\", \"justification\": \"Mahasiswa menunjukkan pemahaman dasar yang baik tentang konsep proposal penelitian dengan menyebutkan latar belakang, masalah, tujuan, dan metode. Namun, penjelasan kurang mendalam dan tidak ada detail tambahan yang menunjukkan insight tingkat lanjut.\"}, \"Organisasi & Struktur\": {\"grade\": \"B\", \"justification\": \"Struktur jawaban cukup jelas dengan bagian-bagian yang teridentifikasi dengan baik. Namun, transisi antar bagian bisa lebih halus untuk meningkatkan koherensi dan alur logika.\"}, \"Argumen & Bukti\": {\"grade\": \"C\", \"justification\": \"Argumen yang disajikan cukup jelas, tetapi kurang didukung dengan contoh atau bukti yang relevan. Penjelasan tentang metode yang akan digunakan juga bisa lebih detail untuk memperkuat argumen.\"}, \"Gaya Bahasa & Mekanik\": {\"grade\": \"A\", \"justification\": \"Bahasa yang digunakan efektif dan jelas, dengan sedikit atau tanpa kesalahan tata bahasa. Kalimat disusun dengan baik dan mudah dipahami.\"}}",
+      "overall_comment": "Jawaban menunjukkan pemahaman dasar yang baik, tetapi bisa ditingkatkan dengan menambahkan lebih banyak detail dan dukungan argumen.",
+      "metadata": {
+        "tokens_used": 2061,
+        "api_call_time": 5.298479080200195,
+        "timestamp": "2025-12-10T21:34:47.456522"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": "2.\tJelaskan bagaimana proposal penelitianmu bisa membantu mengembangkan ilmu pengetahuan atau teknologi di bidangmu. (10 poin)",
+      "answer": "Penelitian ini dapat membantu perkembangan aplikasi kesehatan dan pemantauan gizi berbasis teknologi.",
+      "grades": {
+        "Pemahaman Konten": {
+          "grade": "C",
+          "justification": "Jawaban mahasiswa menunjukkan pemahaman dasar bahwa penelitian dapat berkontribusi pada aplikasi kesehatan dan pemantauan gizi berbasis teknologi. Namun, penjelasan kurang mendalam dan tidak memberikan detail spesifik tentang bagaimana penelitian tersebut akan mengembangkan ilmu pengetahuan atau teknologi di bidang tersebut."
+        },
+        "Organisasi & Struktur": {
+          "grade": "D/E",
+          "justification": "Jawaban terdiri dari satu kalimat yang tidak terstruktur dengan baik. Tidak ada pengenalan, isi, atau kesimpulan yang jelas, sehingga sulit untuk mengikuti alur logika dari argumen yang disampaikan."
+        },
+        "Argumen & Bukti": {
+          "grade": "D/E",
+          "justification": "Tidak ada argumen yang jelas atau bukti yang mendukung klaim yang dibuat. Jawaban hanya menyebutkan potensi kontribusi tanpa memberikan contoh atau analisis yang relevan untuk mendukung pernyataan tersebut."
+        },
+        "Gaya Bahasa & Mekanik": {
+          "grade": "B",
+          "justification": "Bahasa yang digunakan cukup jelas dan tidak ada kesalahan tata bahasa yang signifikan. Namun, karena jawaban sangat singkat, variasi kalimat tidak dapat dinilai secara mendalam."
+        }
+      },
+      "weighted_score": 1.8,
+      "justification": "{\"Pemahaman Konten\": {\"grade\": \"C\", \"justification\": \"Jawaban mahasiswa menunjukkan pemahaman dasar bahwa penelitian dapat berkontribusi pada aplikasi kesehatan dan pemantauan gizi berbasis teknologi. Namun, penjelasan kurang mendalam dan tidak memberikan detail spesifik tentang bagaimana penelitian tersebut akan mengembangkan ilmu pengetahuan atau teknologi di bidang tersebut.\"}, \"Organisasi & Struktur\": {\"grade\": \"D/E\", \"justification\": \"Jawaban terdiri dari satu kalimat yang tidak terstruktur dengan baik. Tidak ada pengenalan, isi, atau kesimpulan yang jelas, sehingga sulit untuk mengikuti alur logika dari argumen yang disampaikan.\"}, \"Argumen & Bukti\": {\"grade\": \"D/E\", \"justification\": \"Tidak ada argumen yang jelas atau bukti yang mendukung klaim yang dibuat. Jawaban hanya menyebutkan potensi kontribusi tanpa memberikan contoh atau analisis yang relevan untuk mendukung pernyataan tersebut.\"}, \"Gaya Bahasa & Mekanik\": {\"grade\": \"B\", \"justification\": \"Bahasa yang digunakan cukup jelas dan tidak ada kesalahan tata bahasa yang signifikan. Namun, karena jawaban sangat singkat, variasi kalimat tidak dapat dinilai secara mendalam.\"}}",
+      "overall_comment": "Mahasiswa menunjukkan pemahaman dasar tentang kontribusi penelitian, tetapi perlu memperluas dan merinci argumen serta struktur jawaban untuk meningkatkan kualitas esai.",
+      "metadata": {
+        "tokens_used": 2030,
+        "api_call_time": 6.58483624458313,
+        "timestamp": "2025-12-10T21:34:54.065435"
+      }
+    }
+  ]
+}

@@ -1,0 +1,468 @@
+{
+  "student_index": 15,
+  "student_name": "Mahasiswa 16",
+  "questions": [
+    {
+      "question": "1.\tJelaskan singkat tentang topik capstone project yang sedang kamu kerjakan. Apa masalah utama yang ingin kamu selesaikan dan apa tujuan dari proyek tersebut? (15 poin)",
+      "answer": "Saya sedang mengerjakan sistem monitoring kualitas udara berbasis IoT. Masalah yang ingin saya selesaikan adalah kualitas udara yang buruk di lingkungan dalam ruangan, yang dapat menyebabkan masalah kesehatan seperti gangguan pernapasan. Tujuan proyek ini adalah untuk memantau kualitas udara secara real-time dan memberikan peringatan kepada pengguna jika kualitas udara menurun.",
+      "chatgpt": {
+        "student_id": "Mahasiswa 16",
+        "question_id": "Q1",
+        "trial": 1,
+        "model": "gpt-4o",
+        "scores": {
+          "Pemahaman Konten": {
+            "grade": "B",
+            "justification": "The student demonstrates a good understanding of the topic by identifying the main problem of poor indoor air quality and its health impacts. However, the explanation lacks depth and detail about how the IoT system will function and address the issue, which prevents it from achieving a higher grade."
+          },
+          "Organisasi & Struktur": {
+            "grade": "A",
+            "justification": "The essay is well-organized with a clear structure, beginning with the introduction of the project, followed by the problem statement, and concluding with the project's goal. The logical flow is easy to follow, and the ideas are presented in a coherent manner."
+          },
+          "Argumen & Bukti": {
+            "grade": "C",
+            "justification": "While the student presents a clear argument about the need for monitoring air quality, the essay lacks specific examples or detailed analysis of how the IoT system will provide solutions. The argument is not strongly supported by evidence or detailed explanation."
+          },
+          "Gaya Bahasa & Mekanik": {
+            "grade": "A",
+            "justification": "The language used is clear and effective, with no noticeable grammatical or spelling errors. The writing style is appropriate for an academic context, and sentence structures are varied and well-constructed."
+          }
+        },
+        "weighted_score": 3.2,
+        "overall_comment": "The essay provides a solid overview of the project but would benefit from more detailed explanations and examples to strengthen the argument.",
+        "metadata": {
+          "tokens": 1901,
+          "api_call_time": 6.3707780838012695
+        },
+        "timestamp": "2025-12-10T12:24:35.141335"
+      },
+      "gemini": {
+        "student_id": "Mahasiswa 16",
+        "question_id": "Q1",
+        "trial": 1,
+        "model": "gemini-2.0-flash-exp",
+        "scores": {
+          "Pemahaman Konten": {
+            "grade": "B",
+            "justification": "The student demonstrates a good understanding of the project's core concepts, including IoT-based air quality monitoring and its relevance to indoor air quality and health issues. The explanation is reasonably complete, covering the problem and the project's objective. However, it lacks depth; it could benefit from elaborating on the specific sensors used, the data analysis methods, or the types of alerts provided."
+          },
+          "Organisasi & Struktur": {
+            "grade": "A",
+            "justification": "The response is well-organized and follows a clear structure. It directly addresses the prompt by first stating the project topic, then the problem, and finally the objective. The flow of information is logical and easy to follow, making the response coherent and effective."
+          },
+          "Argumen & Bukti": {
+            "grade": "C",
+            "justification": "The response provides a basic explanation of the problem and the project's aim, but it lacks detailed support or specific examples. While the connection between poor indoor air quality and health issues is mentioned, it could be strengthened with specific data or examples of respiratory problems. The analysis is superficial, lacking depth in explaining how the IoT system will effectively address the problem."
+          },
+          "Gaya Bahasa & Mekanik": {
+            "grade": "B",
+            "justification": "The language is clear and effective, facilitating easy understanding. There are no noticeable grammatical errors or spelling mistakes. While the language is functional, it could be enhanced with more varied sentence structures and a more academic tone to achieve a higher grade."
+          }
+        },
+        "weighted_score": 3.1,
+        "overall_comment": "The student provides a satisfactory overview of their capstone project. While the response is clear and well-organized, it could benefit from more in-depth explanations and supporting details to demonstrate a more comprehensive understanding.",
+        "metadata": {
+          "tokens": 2015,
+          "api_call_time": 4.310563087463379
+        },
+        "timestamp": "2025-12-10T12:24:39.452359"
+      }
+    },
+    {
+      "question": "2.\tSebutkan dan jelaskan tiga teknologi, alat, atau cara yang kamu pakai dalam capstone project ini. Kenapa kamu memilih yang tersebut? (15 poin)",
+      "answer": "Sensor Kualitas Udara (MQ-135): Untuk mendeteksi polutan seperti amonia dan karbon dioksida. Sensor ini cukup murah dan akurat untuk aplikasi ini. Mikrokontroler ESP32: Untuk mengolah data dari sensor dan mengirimkannya ke cloud melalui Wi-Fi. ESP32 dipilih karena mendukung konektivitas Wi-Fi. Cloud Storage (Firebase): Untuk menyimpan data kualitas udara secara real-time dan memudahkan integrasi dengan aplikasi mobile. Firebase dipilih karena kemudahan integrasinya dengan aplikasi.",
+      "chatgpt": {
+        "student_id": "Mahasiswa 16",
+        "question_id": "Q2",
+        "trial": 1,
+        "model": "gpt-4o",
+        "scores": {
+          "Pemahaman Konten": {
+            "grade": "B",
+            "justification": "The student demonstrates a good understanding of the technologies used in the capstone project. The explanation of each technology is accurate and relevant, but the depth could be improved by providing more details on how each technology specifically contributes to the project goals. The student meets most of the rubric indicators for a solid understanding but lacks advanced insight."
+          },
+          "Organisasi & Struktur": {
+            "grade": "B",
+            "justification": "The response is organized logically, with each technology discussed in a separate segment. However, the structure could be improved by including a brief introduction and conclusion to provide a clearer framework. The transitions between ideas are adequate, allowing the reader to follow the explanation without confusion."
+          },
+          "Argumen & Bukti": {
+            "grade": "B",
+            "justification": "The student provides clear explanations for the choice of each technology, supported by relevant reasons such as cost-effectiveness and ease of integration. While the arguments are generally strong, the analysis could be enhanced by including more specific examples or data to illustrate the effectiveness of these technologies in the project."
+          },
+          "Gaya Bahasa & Mekanik": {
+            "grade": "A",
+            "justification": "The language used is clear and effective, with no noticeable grammatical or spelling errors. The writing style is concise and appropriate for an academic context, and the sentence structure is varied enough to maintain reader interest. The student demonstrates a strong command of language mechanics."
+          }
+        },
+        "weighted_score": 3.1,
+        "overall_comment": "The essay provides a solid explanation of the technologies used in the capstone project, with clear organization and effective language use. Further depth in content and more detailed examples could enhance the overall quality.",
+        "metadata": {
+          "tokens": 1989,
+          "api_call_time": 6.7734291553497314
+        },
+        "timestamp": "2025-12-10T12:24:46.226410"
+      },
+      "gemini": {
+        "student_id": "Mahasiswa 16",
+        "question_id": "Q2",
+        "trial": 1,
+        "model": "gemini-2.0-flash-exp",
+        "scores": {
+          "Pemahaman Konten": {
+            "grade": "B",
+            "justification": "The student demonstrates a good understanding of the chosen technologies. They accurately identify the purpose of each component (MQ-135, ESP32, Firebase) and provide a basic reason for their selection. However, the explanation lacks depth; for example, the student could elaborate on the specific advantages of Firebase beyond just \"kemudahan integrasinya dengan aplikasi.\""
+          },
+          "Organisasi & Struktur": {
+            "grade": "A",
+            "justification": "The essay is well-organized, presenting each technology in a clear and logical sequence. Each technology is presented in a separate point, making it easy to follow. The structure is clear and effective."
+          },
+          "Argumen & Bukti": {
+            "grade": "B",
+            "justification": "The student provides a basic justification for each technology choice, such as the ESP32's Wi-Fi connectivity and Firebase's ease of integration. However, the arguments could be strengthened with more specific details or examples. The explanations are clear but lack depth and detailed analysis."
+          },
+          "Gaya Bahasa & Mekanik": {
+            "grade": "A",
+            "justification": "The language used is clear and effective. There are no noticeable grammatical or spelling errors. The writing style is appropriate for the task."
+          }
+        },
+        "weighted_score": 3.3,
+        "overall_comment": "The student provides a good overview of the chosen technologies, but the explanations could benefit from more depth and specific examples.",
+        "metadata": {
+          "tokens": 1919,
+          "api_call_time": 3.149796724319458
+        },
+        "timestamp": "2025-12-10T12:24:49.376655"
+      }
+    },
+    {
+      "question": "3. Jelaskan manfaat atau kegunaan hasil capstone projectmu bagi orang lain atau bidang yang kamu tekuni. (10 poin)",
+      "answer": "Membantu orang menjaga kesehatan dengan memantau kualitas udara, yang sangat penting bagi orang dengan masalah pernapasan atau yang tinggal di daerah dengan polusi tinggi.",
+      "chatgpt": {
+        "student_id": "Mahasiswa 16",
+        "question_id": "Q3",
+        "trial": 1,
+        "model": "gpt-4o",
+        "scores": {
+          "Pemahaman Konten": {
+            "grade": "C",
+            "justification": "The student's response demonstrates a basic understanding of the project's purpose, which is to help people monitor air quality. However, the explanation lacks depth and completeness, as it does not elaborate on how the project achieves this or the specific benefits it provides. Key details and insights into the project's impact are missing, indicating a superficial grasp of the content."
+          },
+          "Organisasi & Struktur": {
+            "grade": "D/E",
+            "justification": "The response is very brief and lacks any clear organizational structure. There is no introduction, body, or conclusion, and the ideas are not developed in a coherent manner. The lack of structure makes it difficult to follow the student's line of reasoning or to understand the full scope of the project's benefits."
+          },
+          "Argumen & Bukti": {
+            "grade": "D/E",
+            "justification": "The response does not provide any specific arguments or supporting evidence to substantiate the claim about the project's benefits. There are no examples or detailed explanations that illustrate how the project helps people with respiratory issues or those in polluted areas, resulting in a weak and unsupported argument."
+          },
+          "Gaya Bahasa & Mekanik": {
+            "grade": "B",
+            "justification": "The language used is clear and free from grammatical errors, making the response easy to understand. However, the style is very basic and lacks variation or sophistication. While there are no major mechanical issues, the simplicity of the language does not enhance the argument or engage the reader effectively."
+          }
+        },
+        "weighted_score": 1.8,
+        "overall_comment": "The response provides a basic idea of the project's purpose but lacks depth, structure, and supporting evidence. More detailed explanations and examples are needed to fully convey the project's benefits.",
+        "metadata": {
+          "tokens": 1911,
+          "api_call_time": 7.341156244277954
+        },
+        "timestamp": "2025-12-10T12:24:56.718407"
+      },
+      "gemini": {
+        "student_id": "Mahasiswa 16",
+        "question_id": "Q3",
+        "trial": 1,
+        "model": "gemini-2.0-flash-exp",
+        "scores": {
+          "Pemahaman Konten": {
+            "grade": "B",
+            "justification": "The answer demonstrates a good understanding of the potential benefits of an air quality monitoring capstone project. It correctly identifies the importance for individuals with respiratory issues and those in polluted areas. However, it lacks depth and detail regarding specific health benefits or the extent of the impact, thus not fully meeting the criteria for an 'A'."
+          },
+          "Organisasi & Struktur": {
+            "grade": "A",
+            "justification": "The response is concise and presents a clear, single idea. While brief, it is well-organized with a clear subject and purpose. The structure is simple but effective, fulfilling the requirements for an 'A' in this category given the length constraint."
+          },
+          "Argumen & Bukti": {
+            "grade": "C",
+            "justification": "The answer provides a basic argument for the project's usefulness, but it lacks specific examples or detailed explanations. It mentions the benefit of monitoring air quality but doesn't elaborate on how this monitoring translates into tangible improvements or specific actions users can take. Therefore, it only meets the criteria for a 'C'."
+          },
+          "Gaya Bahasa & Mekanik": {
+            "grade": "A",
+            "justification": "The language used is clear, concise, and grammatically correct. There are no errors in spelling or sentence structure. The writing is effective in conveying the intended meaning, earning an 'A' in this category."
+          }
+        },
+        "weighted_score": 3.2,
+        "overall_comment": "The response is a good start but could benefit from more specific examples and a deeper explanation of the project's impact.",
+        "metadata": {
+          "tokens": 1868,
+          "api_call_time": 3.6358935832977295
+        },
+        "timestamp": "2025-12-10T12:25:00.355468"
+      }
+    },
+    {
+      "question": "1.Ceritakan tahap-tahap pengerjaan capstone project dari awal sampai sekarang. Sebutkan juga hal penting atau target yang sudah kamu capai. (15 poin)",
+      "answer": "Saya mulai dengan riset tentang sensor kualitas udara yang cocok, kemudian merakit alat dengan ESP32 dan sensor MQ-135. Sekarang, sistem sudah mengirimkan data ke cloud dan bisa dipantau melalui aplikasi mobile.",
+      "chatgpt": {
+        "student_id": "Mahasiswa 16",
+        "question_id": "Q4",
+        "trial": 1,
+        "model": "gpt-4o",
+        "scores": {
+          "Pemahaman Konten": {
+            "grade": "B",
+            "justification": "The student demonstrates a good understanding of the capstone project by outlining the steps taken, such as researching air quality sensors and assembling the device with ESP32 and MQ-135. However, the explanation lacks depth and detail about the process and challenges faced, which prevents it from reaching an 'A' level."
+          },
+          "Organisasi & Struktur": {
+            "grade": "B",
+            "justification": "The response is organized in a logical sequence, starting from research to the current status of the project. However, the essay lacks a clear introduction and conclusion, which would enhance the overall structure and coherence."
+          },
+          "Argumen & Bukti": {
+            "grade": "C",
+            "justification": "While the student provides a basic explanation of the project steps, there is a lack of detailed evidence or examples to support the claims. The response would benefit from more specific examples or data to strengthen the argument."
+          },
+          "Gaya Bahasa & Mekanik": {
+            "grade": "A",
+            "justification": "The language used is clear and effective, with no noticeable grammatical or spelling errors. The sentences are well-constructed, making the response easy to read and understand."
+          }
+        },
+        "weighted_score": 3.0,
+        "overall_comment": "The student provides a clear overview of the project steps but could enhance the response with more detailed explanations and supporting evidence.",
+        "metadata": {
+          "tokens": 1861,
+          "api_call_time": 6.226545572280884
+        },
+        "timestamp": "2025-12-10T12:25:06.583012"
+      },
+      "gemini": {
+        "student_id": "Mahasiswa 16",
+        "question_id": "Q4",
+        "trial": 1,
+        "model": "gemini-2.0-flash-exp",
+        "scores": {
+          "Pemahaman Konten": {
+            "grade": "B",
+            "justification": "The answer demonstrates a good understanding of the project stages, mentioning research, hardware assembly, and data transmission to the cloud. However, it lacks depth and detail regarding the specific challenges faced or the intricacies of each stage. While the key components (ESP32, MQ-135) are mentioned, the explanation could be more complete by elaborating on the selection criteria for the sensor or the data processing methods used."
+          },
+          "Organisasi & Struktur": {
+            "grade": "B",
+            "justification": "The response presents a chronological sequence of events, making it relatively easy to follow the project's progression. The structure is implicitly clear, outlining the initial research, the assembly phase, and the current status. However, it could benefit from more explicit transitions between stages to enhance coherence."
+          },
+          "Argumen & Bukti": {
+            "grade": "C",
+            "justification": "The response provides a basic overview of the project's achievements but lacks detailed examples or evidence to support the claims. For instance, stating that the system can be monitored via a mobile app is a claim that could be strengthened by mentioning specific functionalities or data visualizations available on the app. The answer lacks specific examples to showcase the project's success."
+          },
+          "Gaya Bahasa & Mekanik": {
+            "grade": "B",
+            "justification": "The language used is clear and understandable, with only minor grammatical concerns. The writing style is straightforward and appropriate for the context. While there are no significant errors, the language could be more descriptive and engaging to enhance the overall quality."
+          }
+        },
+        "weighted_score": 2.9,
+        "overall_comment": "The answer provides a basic overview of the capstone project but lacks depth and specific details. Expanding on the challenges, solutions, and specific achievements would significantly improve the response.",
+        "metadata": {
+          "tokens": 1973,
+          "api_call_time": 3.735156297683716
+        },
+        "timestamp": "2025-12-10T12:25:10.318681"
+      }
+    },
+    {
+      "question": "3. Apakah ada perubahan pada rencana (ingin mengubah project) atau cara pengerjaan selama proyek berjalan? Jika iya, jelaskan apa yang berubah dan bagaimana pengaruhnya ke hasil proyek. (10 poin)",
+      "answer": "Tidak ada perubahan besar dalam proyek ini. Namun, saya menambah fitur notifikasi jika kualitas udara menurun. Fitur ini membuat sistem lebih responsif dan berguna.",
+      "chatgpt": {
+        "student_id": "Mahasiswa 16",
+        "question_id": "Q5",
+        "trial": 1,
+        "model": "gpt-4o",
+        "scores": {
+          "Pemahaman Konten": {
+            "grade": "B",
+            "justification": "The student demonstrates a good understanding of the project by mentioning the addition of a notification feature. However, the explanation lacks depth and detail about how this change impacts the overall project. The response is accurate but could benefit from more comprehensive insight into the project's dynamics."
+          },
+          "Organisasi & Struktur": {
+            "grade": "B",
+            "justification": "The response is concise and logically structured, with a clear statement about the lack of major changes followed by the specific change implemented. However, the brevity of the response limits the potential for a more developed structure, such as a detailed introduction or conclusion."
+          },
+          "Argumen & Bukti": {
+            "grade": "C",
+            "justification": "The student provides a basic argument by stating the addition of a notification feature. However, the explanation lacks supporting details or examples of how this feature improves the system's responsiveness and usefulness. The argument is present but not well-supported or elaborated."
+          },
+          "Gaya Bahasa & Mekanik": {
+            "grade": "A",
+            "justification": "The language used is clear and effective, with no noticeable grammatical or spelling errors. The student uses straightforward and precise language to convey their point, demonstrating good command of the language mechanics."
+          }
+        },
+        "weighted_score": 3.0,
+        "overall_comment": "The essay is clear and concise, showing a good understanding of the project's changes. However, it would benefit from more detailed explanations and examples to strengthen the argument and content depth.",
+        "metadata": {
+          "tokens": 1881,
+          "api_call_time": 5.3969690799713135
+        },
+        "timestamp": "2025-12-10T12:25:15.716672"
+      },
+      "gemini": {
+        "student_id": "Mahasiswa 16",
+        "question_id": "Q5",
+        "trial": 1,
+        "model": "gemini-2.0-flash-exp",
+        "scores": {
+          "Pemahaman Konten": {
+            "grade": "B",
+            "justification": "The student demonstrates a good understanding of the prompt by acknowledging the possibility of changes during the project and identifying a specific addition. The explanation is reasonably complete, noting the addition of a notification feature. However, it lacks depth in explaining the initial project plan and the specific reasons for adding the notification feature, which would elevate it to an 'A'."
+          },
+          "Organisasi & Struktur": {
+            "grade": "B",
+            "justification": "The response is organized and coherent, presenting a clear answer to the question. It directly addresses the prompt and provides a concise explanation. While the structure is simple, it effectively conveys the information without unnecessary complexity, meeting the criteria for a 'B'."
+          },
+          "Argumen & Bukti": {
+            "grade": "B",
+            "justification": "The student provides a clear explanation of the added feature and its impact on the project. The argument that the feature makes the system more responsive and useful is presented. While the explanation is clear, it could benefit from more specific details or examples to further strengthen the argument, which keeps it from being an 'A'."
+          },
+          "Gaya Bahasa & Mekanik": {
+            "grade": "A",
+            "justification": "The language used is effective and clear, with no noticeable errors in grammar or spelling. The writing style is concise and easy to understand. The sentence structure is appropriate, contributing to the overall clarity of the response, thus earning an 'A'."
+          }
+        },
+        "weighted_score": 3.1,
+        "overall_comment": "The student provides a satisfactory answer, demonstrating a good understanding of the question and providing a clear explanation. Adding more detail and specific examples would further strengthen the response.",
+        "metadata": {
+          "tokens": 1936,
+          "api_call_time": 3.563368082046509
+        },
+        "timestamp": "2025-12-10T12:25:19.280574"
+      }
+    },
+    {
+      "question": "1.\tTulislah Konsep kerangka proposal penelitian dari capstone project kamu yang mencakup:\n1.\tLatar belakang masalah\n2.\tMasalah penelitian (rumusan masalah)\n3.\tTujuan penelitian\n4.\tCara atau metode yang akan kamu gunakan \n(20 poin)",
+      "answer": "Latar belakang masalah: Kualitas udara dalam ruangan yang buruk dapat menyebabkan masalah kesehatan, seperti gangguan pernapasan dan alergi. Masalah penelitian: Bagaimana cara memonitor kualitas udara secara real-time dan memberikan peringatan kepada pengguna jika kualitas udara menurun? Tujuan penelitian: Membangun sistem pemantauan kualitas udara berbasis IoT yang dapat memberikan data kualitas udara secara real-time kepada pengguna dan memberikan peringatan jika terjadi penurunan kualitas udara. Metode: Menggunakan sensor kualitas udara MQ-135 untuk mendeteksi polutan, mikrokontroler ESP32 untuk pengolahan data dan komunikasi, serta Firebase untuk penyimpanan data dan pengiriman notifikasi.",
+      "chatgpt": {
+        "student_id": "Mahasiswa 16",
+        "question_id": "Q6",
+        "trial": 1,
+        "model": "gpt-4o",
+        "scores": {
+          "Pemahaman Konten": {
+            "grade": "A",
+            "justification": "The student demonstrates a thorough understanding of the research proposal components. The background, research problem, objectives, and methods are clearly articulated and relevant to the topic. There are no conceptual errors, and the explanation is complete and insightful, meeting all rubric indicators for depth and accuracy."
+          },
+          "Organisasi & Struktur": {
+            "grade": "A",
+            "justification": "The essay is well-organized with a clear structure that includes all required components: background, research problem, objectives, and methods. Each section flows logically into the next, making it easy to follow the student's thought process. The organization effectively supports the clarity of the content."
+          },
+          "Argumen & Bukti": {
+            "grade": "B",
+            "justification": "The student provides a clear explanation of the research proposal, supported by relevant examples such as the use of MQ-135 sensors and ESP32 microcontrollers. However, the analysis could be more detailed, particularly in explaining why these specific technologies were chosen. The argument is strong but could benefit from additional depth."
+          },
+          "Gaya Bahasa & Mekanik": {
+            "grade": "A",
+            "justification": "The language used is clear and effective, with no noticeable grammatical errors. The essay is well-written with appropriate academic tone and varied sentence structure. The writing style enhances the clarity and professionalism of the proposal, meeting all criteria for language and mechanics."
+          }
+        },
+        "weighted_score": 3.9,
+        "overall_comment": "The student has crafted a well-structured and insightful research proposal with clear objectives and methods. While the argument is strong, it could be improved with more detailed analysis of the chosen technologies.",
+        "metadata": {
+          "tokens": 2039,
+          "api_call_time": 6.586732864379883
+        },
+        "timestamp": "2025-12-10T12:25:25.868060"
+      },
+      "gemini": {
+        "student_id": "Mahasiswa 16",
+        "question_id": "Q6",
+        "trial": 1,
+        "model": "gemini-2.0-flash-exp",
+        "scores": {
+          "Pemahaman Konten": {
+            "grade": "B",
+            "justification": "The student demonstrates a good understanding of the core concepts required for a capstone project proposal, including background, problem statement, objectives, and methods. The explanation is reasonably complete, covering the essential elements of each section. However, the depth of explanation could be improved, particularly in elaborating on the specific pollutants the MQ-135 sensor will detect and the specific functionalities of the Firebase integration."
+          },
+          "Organisasi & Struktur": {
+            "grade": "A",
+            "justification": "The response is well-organized and follows a clear structure, addressing each of the requested components (background, problem, objectives, and methods) in a logical sequence. Each section is clearly delineated, making it easy to follow the student's proposed research framework. The structure is very clear and effective for the given prompt."
+          },
+          "Argumen & Bukti": {
+            "grade": "C",
+            "justification": "The response provides a basic explanation of the proposed methods, but lacks detailed justification or evidence to support the chosen technologies. While the student mentions the MQ-135 sensor, ESP32, and Firebase, there is no discussion of why these specific components were selected over alternatives, or how they will effectively address the research problem. The argument for the chosen methods is weak due to the lack of supporting detail."
+          },
+          "Gaya Bahasa & Mekanik": {
+            "grade": "B",
+            "justification": "The language used is clear and effective, with only minor errors. The writing is generally easy to understand and conveys the student's ideas adequately. There are no significant grammatical or spelling errors that impede comprehension, and the sentence structure is sufficiently varied."
+          }
+        },
+        "weighted_score": 3.1,
+        "overall_comment": "The student provides a decent outline of a capstone project proposal. More detail and justification are needed, especially regarding the chosen methods.",
+        "metadata": {
+          "tokens": 2128,
+          "api_call_time": 4.107750654220581
+        },
+        "timestamp": "2025-12-10T12:25:29.976370"
+      }
+    },
+    {
+      "question": "2.\tJelaskan bagaimana proposal penelitianmu bisa membantu mengembangkan ilmu pengetahuan atau teknologi di bidangmu. (10 poin)",
+      "answer": "Proposal ini dapat membantu mengembangkan teknologi pemantauan kualitas udara berbasis IoT yang lebih canggih, dan membuka peluang untuk pengembangan alat rumah tangga pintar lainnya yang dapat memonitor dan mengelola kualitas lingkungan secara otomatis.",
+      "chatgpt": {
+        "student_id": "Mahasiswa 16",
+        "question_id": "Q7",
+        "trial": 1,
+        "model": "gpt-4o",
+        "scores": {
+          "Pemahaman Konten": {
+            "grade": "B",
+            "justification": "The student demonstrates a good understanding of the potential impact of their research proposal on technology development in their field. The explanation is accurate and relevant, focusing on IoT and smart home devices. However, the response lacks depth and detail about how exactly these advancements will occur, which prevents it from achieving an 'A'."
+          },
+          "Organisasi & Struktur": {
+            "grade": "B",
+            "justification": "The response is clear and logically structured, with a coherent flow from the introduction of the proposal to its potential impacts. However, it is quite brief and could benefit from a more detailed breakdown or additional sections to enhance clarity and depth, which is why it does not reach an 'A'."
+          },
+          "Argumen & Bukti": {
+            "grade": "C",
+            "justification": "While the student presents a valid argument about the potential benefits of their research, the explanation lacks supporting evidence or examples to strengthen the claims. The argument is somewhat vague and does not provide specific instances or data, which limits its effectiveness."
+          },
+          "Gaya Bahasa & Mekanik": {
+            "grade": "A",
+            "justification": "The language used is clear and effective, with no noticeable grammatical or spelling errors. The style is appropriate for an academic setting, and the sentences are well-constructed, demonstrating a good command of language mechanics."
+          }
+        },
+        "weighted_score": 3.0,
+        "overall_comment": "The essay provides a solid overview of the research proposal's potential impact but could benefit from more detailed arguments and evidence to support its claims.",
+        "metadata": {
+          "tokens": 1889,
+          "api_call_time": 6.091179370880127
+        },
+        "timestamp": "2025-12-10T12:25:36.068199"
+      },
+      "gemini": {
+        "student_id": "Mahasiswa 16",
+        "question_id": "Q7",
+        "trial": 1,
+        "model": "gemini-2.0-flash-exp",
+        "scores": {
+          "Pemahaman Konten": {
+            "grade": "B",
+            "justification": "The answer demonstrates a good understanding of how the research proposal can contribute to the field. It mentions the development of more advanced IoT-based air quality monitoring technology and the potential for smart home appliances. However, it lacks depth and specific details on the scientific or technological advancements involved, thus not fully meeting the 'A' grade criteria."
+          },
+          "Organisasi & Struktur": {
+            "grade": "A",
+            "justification": "The answer is concise and presents a clear idea. It has a clear structure, stating the impact on technology development and then providing an example. The flow of logic is easy to follow, making it well-organized."
+          },
+          "Argumen & Bukti": {
+            "grade": "C",
+            "justification": "The argument is present but lacks detailed explanation and supporting evidence. While it mentions potential applications, it doesn't provide specific examples or analysis of how the proposed research will lead to these advancements. This lack of detail prevents it from achieving a higher grade."
+          },
+          "Gaya Bahasa & Mekanik": {
+            "grade": "A",
+            "justification": "The language used is effective and clear. There are no grammatical errors or spelling mistakes. The writing style is appropriate for the context, contributing to a high score in this category."
+          }
+        },
+        "weighted_score": 3.2,
+        "overall_comment": "The answer provides a reasonable overview of the potential impact of the research, but it could benefit from more specific details and supporting evidence to strengthen the argument.",
+        "metadata": {
+          "tokens": 1884,
+          "api_call_time": 3.5009326934814453
+        },
+        "timestamp": "2025-12-10T12:25:39.569647"
+      }
+    }
+  ]
+}

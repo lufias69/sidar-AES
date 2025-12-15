@@ -1,0 +1,468 @@
+{
+  "student_index": 7,
+  "student_name": "Mahasiswa 8",
+  "questions": [
+    {
+      "question": "1.\tJelaskan singkat tentang topik capstone project yang sedang kamu kerjakan. Apa masalah utama yang ingin kamu selesaikan dan apa tujuan dari proyek tersebut? (15 poin)",
+      "answer": "Membuat aplikasi pelacakan olahraga dan kalori yang terbakar. Tujuan proyek ini adalah membantu orang memantau kesehatan mereka.",
+      "chatgpt": {
+        "student_id": "Mahasiswa 8",
+        "question_id": "Q1",
+        "trial": 1,
+        "model": "gpt-4o",
+        "scores": {
+          "Pemahaman Konten": {
+            "grade": "C",
+            "justification": "Respons tersebut memberikan pemahaman dasar tentang proyek tersebut, mengidentifikasi pembuatan aplikasi pelacakan olahraga dan tujuannya untuk membantu masyarakat memantau kesehatan mereka. Namun, hal ini kurang mendalam dan detail, seperti fitur spesifik aplikasi atau cara mengatasi masalah. Hal ini menghasilkan penjelasan yang dangkal tanpa menunjukkan pemahaman komprehensif mengenai ruang lingkup proyek."
+          },
+          "Organisasi & Struktur": {
+            "grade": "C",
+            "justification": "Strukturnya minimal, terdiri dari dua kalimat singkat yang tidak menggambarkan pendahuluan, isi, atau kesimpulan dengan jelas. Kurangnya transisi membuat respons terasa tiba-tiba dan kurang berkembang. Kesederhanaan ini mempengaruhi keseluruhan koherensi dan alur logis, sehingga sulit untuk mengikuti perkembangan ide."
+          },
+          "Argumen & Bukti": {
+            "grade": "D/E",
+            "justification": "Tanggapan tersebut tidak memiliki argumen rinci atau bukti pendukung. Pernyataan ini hanya menyatakan proyek dan tujuannya tanpa memberikan contoh atau analisis untuk mendukung klaim tersebut. Tidak ada eksplorasi tentang bagaimana aplikasi akan mencapai tujuannya atau bukti apa pun yang mendukung potensi efektivitasnya."
+          },
+          "Gaya Bahasa & Mekanik": {
+            "grade": "B",
+            "justification": "Bahasa yang digunakan jelas dan bebas dari kesalahan tata bahasa sehingga mudah dipahami. Namun, gayanya sangat mendasar dan kurang canggih atau variasi dalam struktur kalimat. Meskipun tidak ada masalah mekanis yang signifikan, singkatnya dan kesederhanaan bahasa membatasi efektivitasnya."
+          }
+        },
+        "weighted_score": 2.0,
+        "overall_comment": "Tanggapan yang diberikan memberikan gambaran dasar mengenai proyek namun kurang mendalam dan tidak memberikan rincian pendukung, sehingga mempengaruhi kualitas penjelasan secara keseluruhan.",
+        "metadata": {
+          "tokens": 1901,
+          "api_call_time": 5.388141632080078
+        },
+        "timestamp": "2025-12-10T12:33:41.625370"
+      },
+      "gemini": {
+        "student_id": "Mahasiswa 8",
+        "question_id": "Q1",
+        "trial": 1,
+        "model": "gemini-2.0-flash-exp",
+        "scores": {
+          "Pemahaman Konten": {
+            "grade": "C",
+            "justification": "Jawabannya menunjukkan pemahaman dasar tentang topik proyek, namun kurang mendalam dan rinci. Meskipun mengidentifikasi fungsi aplikasi (melacak olahraga dan kalori) dan tujuan umum (membantu masyarakat memantau kesehatan), hal ini tidak menjelaskan masalah spesifik yang ingin diselesaikan oleh proyek atau memberikan gambaran komprehensif tentang tujuan proyek. Responsnya tidak lengkap dan melewatkan aspek-aspek penting dari perintah tersebut."
+          },
+          "Organisasi & Struktur": {
+            "grade": "A",
+            "justification": "Tanggapannya singkat dan menyajikan informasi dengan jelas dan lugas. Ini secara langsung menjawab pertanyaan-pertanyaan prompt tanpa penjelasan yang tidak perlu. Strukturnya sederhana namun efektif sehingga memudahkan pemahaman konsep dasar dan tujuan proyek."
+          },
+          "Argumen & Bukti": {
+            "grade": "D/E",
+            "justification": "Tanggapan tersebut tidak memiliki penjelasan rinci atau bukti pendukung apa pun. Ini memberikan deskripsi yang sangat mendasar tanpa menguraikan fitur spesifik, fungsi, atau metodologi yang terlibat dalam proyek. Tidak ada contoh atau analisis yang mendukung klaim yang dibuat, sehingga menghasilkan jawaban yang lemah dan tidak berdasar."
+          },
+          "Gaya Bahasa & Mekanik": {
+            "grade": "B",
+            "justification": "Bahasa yang digunakan jelas dan mudah dipahami, tidak ada kesalahan tata bahasa yang berarti. Gaya penulisannya sederhana dan lugas sehingga mudah dipahami. Meskipun kosakatanya tidak terlalu canggih, kosakata ini secara efektif menyampaikan makna yang dimaksudkan tanpa ambiguitas."
+          }
+        },
+        "weighted_score": 2.4,
+        "overall_comment": "Tanggapan yang diberikan memberikan gambaran minimal mengenai proyek batu penjuru. Meskipun bahasa dan strukturnya memadai, kurangnya kedalaman dan rincian pendukung secara signifikan melemahkan jawaban.",
+        "metadata": {
+          "tokens": 1922,
+          "api_call_time": 4.308258533477783
+        },
+        "timestamp": "2025-12-10T12:33:45.934138"
+      }
+    },
+    {
+      "question": "2.\tSebutkan dan jelaskan tiga teknologi, alat, atau cara yang kamu pakai dalam capstone project ini. Kenapa kamu memilih yang tersebut? (15 poin)",
+      "answer": "Arduino, sensor detak jantung, aplikasi mobile. Arduino dipilih karena murah dan mudah diprogram. Sensor detak jantung untuk mendeteksi aktivitas fisik.",
+      "chatgpt": {
+        "student_id": "Mahasiswa 8",
+        "question_id": "Q2",
+        "trial": 1,
+        "model": "gpt-4o",
+        "scores": {
+          "Pemahaman Konten": {
+            "grade": "C",
+            "justification": "Siswa menyebutkan tiga teknologi: Arduino, sensor detak jantung, dan aplikasi seluler, namun memberikan penjelasan terbatas. Pilihan Arduino dibenarkan karena terjangkau dan mudah diprogram, tetapi tidak ada penjelasan untuk aplikasi selulernya. Respons yang diberikan kurang mendalam dan lengkap, serta tidak memiliki wawasan mendetail tentang bagaimana setiap teknologi digunakan dalam proyek."
+          },
+          "Organisasi & Struktur": {
+            "grade": "D/E",
+            "justification": "Respons yang diberikan tidak memiliki struktur dan organisasi yang jelas. Tidak ada pendahuluan atau kesimpulan, dan penjelasan disajikan sebagai daftar, bukan narasi yang koheren. Tidak adanya transisi antar ide membuat respon sulit untuk diikuti."
+          },
+          "Argumen & Bukti": {
+            "grade": "D/E",
+            "justification": "Siswa memberikan sedikit pembenaran untuk pilihan teknologi, dengan hanya menyebutkan secara singkat keterjangkauan Arduino dan kemudahan pemrograman. Tidak ada argumentasi rinci atau bukti pendukung untuk teknologi lainnya, sehingga menghasilkan argumen yang lemah dan tidak didukung."
+          },
+          "Gaya Bahasa & Mekanik": {
+            "grade": "B",
+            "justification": "Bahasa yang digunakan jelas dan bebas dari kesalahan tata bahasa yang besar. Namun, gayanya sederhana dan kurang variasi, sehingga memengaruhi keterlibatan respons secara keseluruhan. Meskipun mekanisme dasarnya sudah benar, penulisannya dapat memanfaatkan bahasa yang lebih canggih."
+          }
+        },
+        "weighted_score": 1.8,
+        "overall_comment": "Respons yang diberikan memberikan informasi dasar tentang teknologi yang digunakan namun kurang mendalam dan tidak terorganisir. Penjelasan yang lebih rinci dan pendekatan terstruktur akan meningkatkan esai secara signifikan.",
+        "metadata": {
+          "tokens": 1884,
+          "api_call_time": 6.737878322601318
+        },
+        "timestamp": "2025-12-10T12:33:52.672754"
+      },
+      "gemini": {
+        "student_id": "Mahasiswa 8",
+        "question_id": "Q2",
+        "trial": 1,
+        "model": "gemini-2.0-flash-exp",
+        "scores": {
+          "Pemahaman Konten": {
+            "grade": "C",
+            "justification": "Siswa mengidentifikasi tiga teknologi yang digunakan dalam proyek batu penjuru (Arduino, sensor detak jantung, aplikasi seluler). Namun penjelasannya sangat mendasar dan kurang mendalam. Misalnya, penjelasan untuk sensor detak jantung hanya menyatakan tujuannya, bukan bagaimana sensor tersebut terintegrasi atau detail spesifik apa pun tentang fungsinya, yang menunjukkan pemahaman yang dangkal."
+          },
+          "Organisasi & Struktur": {
+            "grade": "B",
+            "justification": "Jawabannya disusun secara lugas, mencantumkan teknologi dan kemudian memberikan penjelasan singkat untuk masing-masing teknologi. Strukturnya jelas sehingga memudahkan siswa untuk mengikuti poin-poinnya. Namun, tidak ada transisi eksplisit, namun struktur implisit sudah cukup untuk jawaban singkat ini."
+          },
+          "Argumen & Bukti": {
+            "grade": "C",
+            "justification": "Alasan untuk memilih masing-masing teknologi lemah. Meskipun menyatakan Arduino adalah \"murah dan mudah diprogram\" adalah sebuah alasan, namun pernyataan tersebut kurang detail dan tidak menjelaskan mengapa faktor-faktor ini secara khusus penting untuk proyek ini. Penjelasan sensor detak jantung bahkan lebih mendasar, hanya menyatakan fungsinya tanpa penjelasan atau pembenaran lebih lanjut."
+          },
+          "Gaya Bahasa & Mekanik": {
+            "grade": "B",
+            "justification": "Bahasanya jelas dan mudah dimengerti, tanpa kesalahan tata bahasa yang berarti. Meskipun tulisannya sederhana, namun efektif mengkomunikasikan ide-ide siswa. Tidak ada masalah nyata terkait ejaan atau struktur kalimat, meskipun struktur kalimatnya mungkin lebih bervariasi."
+          }
+        },
+        "weighted_score": 2.3,
+        "overall_comment": "Jawabannya memberikan gambaran umum namun tidak memiliki justifikasi yang mendalam dan rinci atas pilihan yang diambil. Memperluas alasan dan memberikan informasi yang lebih spesifik akan meningkatkan respons.",
+        "metadata": {
+          "tokens": 1922,
+          "api_call_time": 3.8985650539398193
+        },
+        "timestamp": "2025-12-10T12:33:56.571784"
+      }
+    },
+    {
+      "question": "3. Jelaskan manfaat atau kegunaan hasil capstone projectmu bagi orang lain atau bidang yang kamu tekuni. (10 poin)",
+      "answer": "Membantu orang memantau kesehatan selama berolahraga dan mengetahui kalori yang terbakar.",
+      "chatgpt": {
+        "student_id": "Mahasiswa 8",
+        "question_id": "Q3",
+        "trial": 1,
+        "model": "gpt-4o",
+        "scores": {
+          "Pemahaman Konten": {
+            "grade": "D/E",
+            "justification": "Responsnya sangat minim dan kurang mendalam. Hanya menyebutkan dua manfaat tanpa ada penjelasan atau wawasan yang detail. Tidak ada bukti pemahaman mendalam mengenai proyek ini atau implikasinya yang lebih luas."
+          },
+          "Organisasi & Struktur": {
+            "grade": "D/E",
+            "justification": "Jawabannya adalah satu kalimat tanpa struktur yang jelas. Tidak ada pendahuluan, isi, atau kesimpulan, dan tanggapannya tidak memiliki alur atau organisasi yang logis. Sulit untuk membedakan struktur yang koheren dari jawaban yang diberikan."
+          },
+          "Argumen & Bukti": {
+            "grade": "D/E",
+            "justification": "Tidak ada argumen atau bukti pendukung yang diberikan dalam tanggapan tersebut. Jawaban yang diberikan tidak memuat contoh atau analisis apa pun yang dapat mendukung klaim yang dibuat mengenai manfaat proyek batu penjuru. Pernyataan tersebut tidak memenuhi kriteria argumen yang didukung dengan baik."
+          },
+          "Gaya Bahasa & Mekanik": {
+            "grade": "B",
+            "justification": "Bahasa yang digunakan jelas dan bebas kesalahan tata bahasa, namun sangat mendasar. Meskipun struktur kalimatnya benar, namun tidak memiliki kompleksitas dan variasi. Kesederhanaan bahasanya tidak mengurangi pemahamannya, namun juga tidak menyempurnakannya."
+          }
+        },
+        "weighted_score": 1.2,
+        "overall_comment": "Tanggapan yang diberikan terlalu singkat dan tidak memiliki kedalaman dan struktur yang diperlukan untuk mengkomunikasikan manfaat proyek batu penjuru secara efektif. Penjelasan dan pengorganisasian yang lebih rinci diperlukan untuk meningkatkan kualitas esai.",
+        "metadata": {
+          "tokens": 1847,
+          "api_call_time": 12.480693340301514
+        },
+        "timestamp": "2025-12-10T12:34:09.053098"
+      },
+      "gemini": {
+        "student_id": "Mahasiswa 8",
+        "question_id": "Q3",
+        "trial": 1,
+        "model": "gemini-2.0-flash-exp",
+        "scores": {
+          "Pemahaman Konten": {
+            "grade": "B",
+            "justification": "Jawabannya menunjukkan pemahaman yang baik tentang potensi manfaat proyek batu penjuru terkait pemantauan kesehatan selama berolahraga. Ini mengidentifikasi dua manfaat utama: pemantauan kesehatan dan pelacakan kalori. Namun, penjelasan yang diberikan kurang mendalam dan rinci, sehingga tidak menjelaskan secara rinci bagaimana manfaat tersebut dicapai atau dampak spesifiknya."
+          },
+          "Organisasi & Struktur": {
+            "grade": "A",
+            "justification": "Tanggapannya singkat dan menyampaikan poin-poinnya dengan jelas. Ini mengikuti struktur sederhana, langsung menjawab pertanyaan tanpa pendahuluan atau kesimpulan yang tidak perlu. Satu kalimat secara efektif menyampaikan gagasan inti."
+          },
+          "Argumen & Bukti": {
+            "grade": "C",
+            "justification": "Jawabannya memberikan penjelasan dasar tentang manfaatnya tetapi tidak memiliki contoh spesifik atau analisis terperinci. Laporan ini menyatakan manfaatnya tanpa memberikan bukti atau penjelasan lebih lanjut tentang bagaimana proyek batu penjuru dapat mencapai hasil tersebut. Informasi yang lebih rinci dan mendukung akan memperkuat argumen tersebut."
+          },
+          "Gaya Bahasa & Mekanik": {
+            "grade": "A",
+            "justification": "Bahasanya jelas dan efektif. Kalimatnya benar secara tata bahasa dan mudah dipahami. Tidak ada kesalahan dalam ejaan dan tanda baca."
+          }
+        },
+        "weighted_score": 3.2,
+        "overall_comment": "Jawabannya mengidentifikasi manfaat yang relevan namun memerlukan informasi yang lebih rinci dan mendukung untuk mencapai skor yang lebih tinggi.",
+        "metadata": {
+          "tokens": 1804,
+          "api_call_time": 3.2580277919769287
+        },
+        "timestamp": "2025-12-10T12:34:12.311625"
+      }
+    },
+    {
+      "question": "1.Ceritakan tahap-tahap pengerjaan capstone project dari awal sampai sekarang. Sebutkan juga hal penting atau target yang sudah kamu capai. (15 poin)",
+      "answer": "Merancang alat pengukur detak jantung dengan Arduino dan menghubungkannya ke aplikasi mobile.",
+      "chatgpt": {
+        "student_id": "Mahasiswa 8",
+        "question_id": "Q4",
+        "trial": 1,
+        "model": "gpt-4o",
+        "scores": {
+          "Pemahaman Konten": {
+            "grade": "D/E",
+            "justification": "Respons siswa kurang mendalam dan lengkap, hanya memberikan penjelasan singkat tentang proyek tersebut tanpa penjelasan atau wawasan rinci. Jawabannya tidak menunjukkan pemahaman tentang proses utama proyek atau target spesifik apa pun yang dicapai, yang merupakan elemen penting dari pertanyaan tersebut."
+          },
+          "Organisasi & Struktur": {
+            "grade": "D/E",
+            "justification": "Responsnya sangat minim dan tidak memiliki struktur yang jelas. Tidak ada pendahuluan, isi, atau kesimpulan, dan satu kalimat yang diberikan tidak memungkinkan adanya alur logis atau pengorganisasian ide."
+          },
+          "Argumen & Bukti": {
+            "grade": "D/E",
+            "justification": "Jawabannya tidak memberikan argumen atau bukti pendukung apa pun. Pernyataan tersebut hanya menyatakan topik proyek tanpa penjelasan, contoh, atau analisis, sehingga tidak memenuhi kriteria argumentasi dan bukti."
+          },
+          "Gaya Bahasa & Mekanik": {
+            "grade": "C",
+            "justification": "Meskipun bahasa yang digunakan jelas dan bebas dari kesalahan tata bahasa, jawabannya terlalu singkat untuk menunjukkan bahasa akademis yang efektif atau struktur kalimat yang bervariasi. Kesederhanaan kalimat tidak memungkinkan dilakukannya penilaian menyeluruh terhadap mekanika bahasa."
+          }
+        },
+        "weighted_score": 1.1,
+        "overall_comment": "Respons yang diberikan tidak cukup karena tidak memenuhi persyaratan prompt untuk detail dan penjelasan. Diperlukan konten dan struktur yang lebih komprehensif.",
+        "metadata": {
+          "tokens": 1837,
+          "api_call_time": 5.552255630493164
+        },
+        "timestamp": "2025-12-10T12:34:17.864521"
+      },
+      "gemini": {
+        "student_id": "Mahasiswa 8",
+        "question_id": "Q4",
+        "trial": 1,
+        "model": "gemini-2.0-flash-exp",
+        "scores": {
+          "Pemahaman Konten": {
+            "grade": "D/E",
+            "justification": "Jawabannya menunjukkan pemahaman yang sangat terbatas tentang prompt. Dokumen ini hanya menyebutkan tujuan umum proyek tanpa merinci langkah apa pun yang terlibat dalam proyek batu penjuru tersebut. Respons yang diberikan gagal memenuhi kebutuhan inti dalam mendeskripsikan tahapan proyek dari awal hingga akhir, yang menunjukkan kurangnya pemahaman terhadap tugas tersebut."
+          },
+          "Organisasi & Struktur": {
+            "grade": "D/E",
+            "justification": "Responsnya tidak memiliki struktur yang jelas. Ini menyajikan satu kalimat tanpa pendahuluan, isi, atau kesimpulan. Tidak ada alur logis atau pengorganisasian ide, sehingga sulit untuk memahami kemajuan proyek atau pencapaian spesifik apa pun."
+          },
+          "Argumen & Bukti": {
+            "grade": "D/E",
+            "justification": "Tanggapan yang diberikan tidak memberikan argumen atau bukti untuk mendukung klaim apa pun. Ini hanya menyatakan tujuan proyek tanpa memberikan rincian atau contoh pekerjaan yang telah dilakukan. Tidak ada analisis atau pembenaran atas pendekatan yang dipilih, yang menunjukkan tidak adanya argumentasi dan bukti pendukung."
+          },
+          "Gaya Bahasa & Mekanik": {
+            "grade": "B",
+            "justification": "Bahasanya jelas dan tata bahasanya benar, meski sangat sederhana. Tidak ada kesalahan nyata dalam tata bahasa atau ejaan. Namun, tanggapan yang diberikan sangat singkat dan tidak memiliki kedalaman dan kompleksitas yang diharapkan dalam deskripsi proyek utama."
+          }
+        },
+        "weighted_score": 1.2,
+        "overall_comment": "Respons yang diberikan tidak memadai karena tidak memenuhi persyaratan yang diminta terkait dengan tahapan dan pencapaian proyek batu penjuru. Perlu perbaikan signifikan dalam isi, struktur, dan argumentasi.",
+        "metadata": {
+          "tokens": 1878,
+          "api_call_time": 3.4783079624176025
+        },
+        "timestamp": "2025-12-10T12:34:21.343401"
+      }
+    },
+    {
+      "question": "3. Apakah ada perubahan pada rencana (ingin mengubah project) atau cara pengerjaan selama proyek berjalan? Jika iya, jelaskan apa yang berubah dan bagaimana pengaruhnya ke hasil proyek. (10 poin)",
+      "answer": "Menambah fitur untuk memberikan rekomendasi olahraga berdasarkan data detak jantung.",
+      "chatgpt": {
+        "student_id": "Mahasiswa 8",
+        "question_id": "Q5",
+        "trial": 1,
+        "model": "gpt-4o",
+        "scores": {
+          "Pemahaman Konten": {
+            "grade": "D/E",
+            "justification": "Respon siswa kurang mendalam dan lengkap. Jawabannya hanya menyebutkan penambahan fitur rekomendasi olahraga berdasarkan data detak jantung, tanpa menjelaskan bagaimana perubahan ini memengaruhi proyek atau hasilnya. Hal ini menunjukkan adanya kesalahpahaman mendasar mengenai persyaratan untuk membahas perubahan dan dampaknya."
+          },
+          "Organisasi & Struktur": {
+            "grade": "D/E",
+            "justification": "Responsnya tidak memiliki organisasi atau struktur apa pun. Ini adalah kalimat tunggal tanpa pendahuluan, isi, atau kesimpulan, sehingga sulit untuk diikuti. Tidak ada transisi atau alur logis, yang penting untuk respons yang koheren."
+          },
+          "Argumen & Bukti": {
+            "grade": "D/E",
+            "justification": "Jawabannya tidak memberikan argumen atau bukti apa pun. Ini hanya menyatakan perubahan tanpa rincian pendukung, contoh, atau analisis. Tidak ada upaya untuk membenarkan atau menjelaskan pentingnya perubahan tersebut, yang mana hal ini sangat penting untuk mendapatkan argumen yang kuat."
+          },
+          "Gaya Bahasa & Mekanik": {
+            "grade": "C",
+            "justification": "Bahasa yang digunakan jelas dan bebas kesalahan tata bahasa, namun sangat minim dan tidak rumit. Responsnya tidak menunjukkan variasi dalam struktur kalimat atau kosa kata, sehingga membatasi efektivitas komunikasi."
+          }
+        },
+        "weighted_score": 1.1,
+        "overall_comment": "Respon yang diberikan sangat minim dan tidak cukup menjawab pertanyaan yang diajukan. Hal ini tidak memiliki kedalaman, struktur, dan argumen pendukung, sehingga sulit untuk menilai secara positif.",
+        "metadata": {
+          "tokens": 1859,
+          "api_call_time": 7.164241790771484
+        },
+        "timestamp": "2025-12-10T12:34:28.508296"
+      },
+      "gemini": {
+        "student_id": "Mahasiswa 8",
+        "question_id": "Q5",
+        "trial": 1,
+        "model": "gemini-2.0-flash-exp",
+        "scores": {
+          "Pemahaman Konten": {
+            "grade": "C",
+            "justification": "Jawabannya menunjukkan perubahan dalam rencana proyek dengan menambahkan fitur. Namun, dokumen ini kurang mendalam dan rinci mengenai rencana awal, alasan perubahan, dan dampak spesifik terhadap hasil proyek. Hanya menyebutkan penambahan suatu ciri tanpa menguraikan konteks atau akibat, sehingga menunjukkan pemahaman yang mendasar namun belum lengkap."
+          },
+          "Organisasi & Struktur": {
+            "grade": "D/E",
+            "justification": "Tanggapannya sangat singkat dan tidak memiliki struktur yang jelas. Itu adalah satu kalimat tanpa pendahuluan, isi, atau kesimpulan apa pun. Tidak adanya alur atau pengorganisasian ide yang logis sehingga menyulitkan penilaian proses berpikir siswa."
+          },
+          "Argumen & Bukti": {
+            "grade": "D/E",
+            "justification": "Tanggapan yang diberikan tidak memberikan argumen atau bukti untuk mendukung klaim perubahan proyek. Tidak ada detail atau contoh yang diberikan untuk menjelaskan dampak penambahan fitur tersebut. Jawabannya murni pernyataan tanpa ada informasi atau analisa pendukung."
+          },
+          "Gaya Bahasa & Mekanik": {
+            "grade": "B",
+            "justification": "Bahasanya jelas dan tata bahasanya benar, meski sangat sederhana. Tidak ada kesalahan nyata dalam tata bahasa atau ejaan. Namun, struktur kalimatnya sederhana dan kurang rumit."
+          }
+        },
+        "weighted_score": 1.8,
+        "overall_comment": "Tanggapan yang diberikan sangat minim dan tidak memiliki detail dan penjelasan yang diperlukan untuk menjawab pertanyaan tersebut sepenuhnya. Hal ini membutuhkan perbaikan yang signifikan dalam konten, organisasi, dan argumentasi.",
+        "metadata": {
+          "tokens": 1850,
+          "api_call_time": 3.2697854042053223
+        },
+        "timestamp": "2025-12-10T12:34:31.778530"
+      }
+    },
+    {
+      "question": "1.\tTulislah Konsep kerangka proposal penelitian dari capstone project kamu yang mencakup:\n1.\tLatar belakang masalah\n2.\tMasalah penelitian (rumusan masalah)\n3.\tTujuan penelitian\n4.\tCara atau metode yang akan kamu gunakan \n(20 poin)",
+      "answer": "Latar belakang masalah: Kurangnya pemantauan kesehatan selama olahraga. Masalah penelitian: Bagaimana memantau kesehatan pengguna secara otomatis. Tujuan: Membuat aplikasi yang memantau detak jantung dan kalori yang terbakar. Metode: Arduino dengan sensor detak jantung dan aplikasi mobile.",
+      "chatgpt": {
+        "student_id": "Mahasiswa 8",
+        "question_id": "Q6",
+        "trial": 1,
+        "model": "gpt-4o",
+        "scores": {
+          "Pemahaman Konten": {
+            "grade": "B",
+            "justification": "Siswa menunjukkan pemahaman yang baik tentang komponen proposal penelitian, secara akurat mengidentifikasi latar belakang, masalah penelitian, tujuan, dan metode. Namun, penjelasan yang diberikan kurang mendalam dan rinci, terutama pada bagian latar belakang dan masalah penelitian, sehingga memerlukan lebih banyak konteks dan elaborasi. Respons yang diberikan sebagian besar akurat namun tidak menunjukkan wawasan tingkat lanjut atau cakupan yang komprehensif."
+          },
+          "Organisasi & Struktur": {
+            "grade": "A",
+            "justification": "Esai disusun dengan baik dengan struktur yang jelas, karena setiap komponen proposal penelitian diidentifikasi secara jelas dan disusun secara logis. Format yang ringkas membantu kejelasan, membuat informasi mudah diikuti. Meskipun singkat, strukturnya koheren dan secara efektif mengkomunikasikan elemen-elemen penting dalam proposal."
+          },
+          "Argumen & Bukti": {
+            "grade": "C",
+            "justification": "Tanggapan tersebut memberikan penjelasan dasar untuk setiap komponen namun tidak memiliki argumen rinci atau bukti pendukung. Tidak ada contoh atau analisis rinci yang diberikan untuk memperkuat klaim yang dibuat mengenai masalah atau metodologi penelitian. Argumentasinya dangkal, dan kurangnya bukti membatasi kekuatan proposal."
+          },
+          "Gaya Bahasa & Mekanik": {
+            "grade": "A",
+            "justification": "Bahasa yang digunakan jelas dan ringkas, tanpa kesalahan tata bahasa atau ejaan yang mencolok. Gayanya sesuai untuk proposal akademis, dan kalimatnya disusun dengan baik. Kesederhanaan dan kejelasan bahasa meningkatkan keterbacaan respons."
+          }
+        },
+        "weighted_score": 3.2,
+        "overall_comment": "Respons yang diberikan terstruktur dengan baik dan jelas, namun akan bermanfaat jika terdapat bukti yang lebih mendalam dan mendukung dalam kontennya. Bahasa dan organisasinya kuat, namun argumennya perlu dikembangkan lebih lanjut.",
+        "metadata": {
+          "tokens": 1968,
+          "api_call_time": 7.224690198898315
+        },
+        "timestamp": "2025-12-10T12:34:39.003875"
+      },
+      "gemini": {
+        "student_id": "Mahasiswa 8",
+        "question_id": "Q6",
+        "trial": 1,
+        "model": "gemini-2.0-flash-exp",
+        "scores": {
+          "Pemahaman Konten": {
+            "grade": "B",
+            "justification": "Siswa menunjukkan pemahaman yang baik tentang komponen inti proposal penelitian, termasuk latar belakang, rumusan masalah, tujuan, dan metode. Namun, kedalaman pemahamannya masih bisa ditingkatkan. Sementara siswa mengidentifikasi elemen-elemennya, penjelasannya agak singkat dan kurang penjelasan rinci, seperti rincian spesifik tentang pengaturan Arduino atau fungsionalitas aplikasi seluler."
+          },
+          "Organisasi & Struktur": {
+            "grade": "A",
+            "justification": "Responsnya terorganisir dengan baik dan terstruktur dengan jelas, menyajikan setiap komponen (latar belakang, masalah, tujuan, metode) dalam urutan yang logis. Strukturnya sangat jelas, dan arus informasinya mudah diikuti. Siswa secara efektif memisahkan dan memberi label pada setiap bagian, sehingga memudahkan untuk memahami berbagai aspek penelitian yang diusulkan."
+          },
+          "Argumen & Bukti": {
+            "grade": "C",
+            "justification": "Tanggapan tersebut tidak memiliki penjelasan rinci dan bukti pendukung. Sementara siswa mengidentifikasi masalah dan mengusulkan solusi, argumennya lemah karena tidak adanya rincian atau pembenaran yang spesifik. Misalnya, latar belakang menyebutkan kurangnya pemantauan kesehatan, namun tidak menguraikan signifikansi atau dampak masalah ini, dan metode yang diusulkan tidak memiliki rincian tentang bagaimana Arduino dan aplikasi seluler akan mengatasi masalah ini secara efektif."
+          },
+          "Gaya Bahasa & Mekanik": {
+            "grade": "A",
+            "justification": "Bahasa yang digunakan jelas dan efektif, tanpa kesalahan tata bahasa atau kesalahan ejaan yang mencolok. Gaya penulisannya ringkas dan mudah dipahami. Siswa menggunakan terminologi yang sesuai terkait dengan penelitian dan teknologi, sehingga berkontribusi terhadap kejelasan respons secara keseluruhan."
+          }
+        },
+        "weighted_score": 3.2,
+        "overall_comment": "Siswa memberikan kerangka dasar proposal penelitian, namun penjelasannya kurang mendalam dan detail. Elaborasi lebih lanjut mengenai masalah, metode, dan hasil yang diharapkan akan memperkuat proposal ini.",
+        "metadata": {
+          "tokens": 2031,
+          "api_call_time": 4.17222785949707
+        },
+        "timestamp": "2025-12-10T12:34:43.176598"
+      }
+    },
+    {
+      "question": "2.\tJelaskan bagaimana proposal penelitianmu bisa membantu mengembangkan ilmu pengetahuan atau teknologi di bidangmu. (10 poin)",
+      "answer": "Penelitian ini dapat membuka peluang pengembangan aplikasi olahraga yang lebih pintar.",
+      "chatgpt": {
+        "student_id": "Mahasiswa 8",
+        "question_id": "Q7",
+        "trial": 1,
+        "model": "gpt-4o",
+        "scores": {
+          "Pemahaman Konten": {
+            "grade": "D/E",
+            "justification": "Respons yang diberikan kurang mendalam dan lengkap, karena hanya memberikan pernyataan samar tentang pengembangan aplikasi olahraga yang lebih cerdas tanpa menjelaskan kontribusinya di lapangan. Tidak ada penjelasan rinci atau demonstrasi wawasan tingkat lanjut, yang diperlukan untuk mendapatkan nilai yang lebih tinggi."
+          },
+          "Organisasi & Struktur": {
+            "grade": "D/E",
+            "justification": "Esai terdiri dari satu kalimat, menunjukkan kurangnya struktur. Tidak ada pendahuluan, isi, atau kesimpulan yang jelas, dan tidak adanya transisi membuat respons sulit untuk diikuti. Esai yang terorganisir dengan baik akan memiliki struktur yang jelas dan alur yang logis."
+          },
+          "Argumen & Bukti": {
+            "grade": "D/E",
+            "justification": "Tidak ada argumen yang disajikan, juga tidak ada bukti atau contoh yang mendukung pernyataan tersebut. Respons yang diberikan kurang detail dan analisis, yang penting untuk membangun argumen yang kuat dan memberikan dukungan yang memadai."
+          },
+          "Gaya Bahasa & Mekanik": {
+            "grade": "C",
+            "justification": "Bahasa yang digunakan jelas namun sangat minim. Tidak ada kesalahan tata bahasa atau ejaan, namun kurangnya variasi dan kompleksitas kalimat membatasi efektivitas komunikasi. Bahasa yang lebih canggih dan struktur kalimat yang bervariasi akan meningkatkan nilai."
+          }
+        },
+        "weighted_score": 1.1,
+        "overall_comment": "Respons yang diberikan sangat singkat dan tidak memiliki kedalaman, struktur, dan dukungan yang diperlukan untuk mengatasi permasalahan tersebut secara efektif. Penjelasan yang lebih rinci dan struktur yang jelas akan meningkatkan kualitas esai secara signifikan.",
+        "metadata": {
+          "tokens": 1843,
+          "api_call_time": 5.448451519012451
+        },
+        "timestamp": "2025-12-10T12:34:48.625679"
+      },
+      "gemini": {
+        "student_id": "Mahasiswa 8",
+        "question_id": "Q7",
+        "trial": 1,
+        "model": "gemini-2.0-flash-exp",
+        "scores": {
+          "Pemahaman Konten": {
+            "grade": "C",
+            "justification": "Jawabannya menunjukkan pemahaman dasar tentang bagaimana penelitian dapat berkontribusi pada bidang ini, namun kurang mendalam dan rinci. Disebutkan “aplikasi olahraga yang lebih pintar” tetapi tidak menguraikan secara rinci apa yang dimaksud atau bagaimana penelitian secara spesifik akan mengarah pada pengembangan tersebut. Tanggapan yang diberikan tidak lengkap dan tidak menunjukkan pemahaman menyeluruh tentang potensi dampak penelitian."
+          },
+          "Organisasi & Struktur": {
+            "grade": "D/E",
+            "justification": "Responsnya tidak memiliki struktur yang jelas. Itu adalah satu kalimat tanpa pendahuluan, isi, atau kesimpulan apa pun. Tidak ada transisi atau alur logis sehingga sulit menilai pengorganisasian ide karena hanya ada satu ide yang disajikan."
+          },
+          "Argumen & Bukti": {
+            "grade": "D/E",
+            "justification": "Tanggapan yang diberikan tidak memberikan argumen atau bukti untuk mendukung klaimnya. Ini hanya menyatakan bahwa penelitian ini dapat menghasilkan aplikasi olahraga yang lebih cerdas tanpa memberikan pembenaran atau contoh apa pun. Tidak ada analisis atau rincian pendukung untuk memperkuat argumen."
+          },
+          "Gaya Bahasa & Mekanik": {
+            "grade": "B",
+            "justification": "Bahasanya jelas dan mudah dimengerti, meskipun sangat sederhana. Tidak ada kesalahan tata bahasa atau kesalahan ejaan. Namun struktur kalimatnya sederhana dan kurang canggih, namun tetap efektif dalam menyampaikan gagasan sederhana."
+          }
+        },
+        "weighted_score": 1.8,
+        "overall_comment": "Tanggapan yang diberikan sangat singkat dan kurang mendalam, rinci, dan tidak ada bukti pendukung. Perlu perbaikan yang signifikan dalam konten, organisasi, dan argumentasi.",
+        "metadata": {
+          "tokens": 1851,
+          "api_call_time": 3.4963645935058594
+        },
+        "timestamp": "2025-12-10T12:34:52.122709"
+      }
+    }
+  ]
+}

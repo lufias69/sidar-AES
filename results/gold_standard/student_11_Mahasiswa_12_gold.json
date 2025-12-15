@@ -1,0 +1,82 @@
+{
+  "student_name": "Mahasiswa 12",
+  "questions": [
+    {
+      "question": "1.\tJelaskan singkat tentang topik capstone project yang sedang kamu kerjakan. Apa masalah utama yang ingin kamu selesaikan dan apa tujuan dari proyek tersebut? (15 poin)",
+      "answer": "Saya sedang membuat aplikasi berbasis web untuk memonitor kualitas air. Masalah yang ingin saya selesaikan adalah kurangnya pemantauan kualitas air yang memadai. Tujuan proyek ini adalah memberi informasi kualitas air secara real-time.",
+      "grades": {
+        "Pemahaman Konten": "B",
+        "Argumen & Bukti": "C",
+        "Organisasi & Struktur": "A",
+        "Gaya Bahasa & Mekanik": "A"
+      },
+      "weighted_score": 3.15
+    },
+    {
+      "question": "2.\tSebutkan dan jelaskan tiga teknologi, alat, atau cara yang kamu pakai dalam capstone project ini. Kenapa kamu memilih yang tersebut? (15 poin)",
+      "answer": "Menggunakan Raspberry Pi untuk kontrol sistem, sensor kualitas air untuk deteksi polutan, dan Wi-Fi untuk menghubungkan data ke cloud. Raspberry Pi fleksibel dan dapat diprogram, sensor memadai untuk mendeteksi kualitas air, dan Wi-Fi memungkinkan pengiriman data.",
+      "grades": {
+        "Pemahaman Konten": "B",
+        "Argumen & Bukti": "B",
+        "Organisasi & Struktur": "B",
+        "Gaya Bahasa & Mekanik": "A"
+      },
+      "weighted_score": 3.15
+    },
+    {
+      "question": "3. Jelaskan manfaat atau kegunaan hasil capstone projectmu bagi orang lain atau bidang yang kamu tekuni. (10 poin)",
+      "answer": "Membantu masyarakat dalam memantau kualitas air di sekitar mereka dan meningkatkan kesadaran akan kebersihan air.",
+      "grades": {
+        "Pemahaman Konten": "B",
+        "Argumen & Bukti": "C",
+        "Organisasi & Struktur": "A",
+        "Gaya Bahasa & Mekanik": "A"
+      },
+      "weighted_score": 3.15
+    },
+    {
+      "question": "1.Ceritakan tahap-tahap pengerjaan capstone project dari awal sampai sekarang. Sebutkan juga hal penting atau target yang sudah kamu capai. (15 poin)",
+      "answer": "Merakit sistem monitoring dengan Raspberry Pi, sensor, dan menghubungkannya dengan cloud. Saat ini, sistem berfungsi dengan baik dan sudah mengirimkan data ke cloud.",
+      "grades": {
+        "Pemahaman Konten": "C",
+        "Argumen & Bukti": "D/E",
+        "Organisasi & Struktur": "D/E",
+        "Gaya Bahasa & Mekanik": "B"
+      },
+      "weighted_score": 1.65
+    },
+    {
+      "question": "3. Apakah ada perubahan pada rencana (ingin mengubah project) atau cara pengerjaan selama proyek berjalan? Jika iya, jelaskan apa yang berubah dan bagaimana pengaruhnya ke hasil proyek. (10 poin)",
+      "answer": "Menambah fitur notifikasi yang mengingatkan pengguna jika kualitas air menurun.",
+      "grades": {
+        "Pemahaman Konten": "C",
+        "Argumen & Bukti": "D/E",
+        "Organisasi & Struktur": "D/E",
+        "Gaya Bahasa & Mekanik": "B"
+      },
+      "weighted_score": 1.65
+    },
+    {
+      "question": "1.\tTulislah Konsep kerangka proposal penelitian dari capstone project kamu yang mencakup:\n1.\tLatar belakang masalah\n2.\tMasalah penelitian (rumusan masalah)\n3.\tTujuan penelitian\n4.\tCara atau metode yang akan kamu gunakan \n(20 poin)",
+      "answer": "Latar belakang masalah: Kurangnya pemantauan kualitas air. Masalah penelitian: Bagaimana mendeteksi kualitas air dengan sistem otomatis. Tujuan penelitian: Membangun sistem yang bisa memantau kualitas air secara real-time. Metode: Raspberry Pi dengan sensor kualitas air dan cloud storage.",
+      "grades": {
+        "Pemahaman Konten": "B",
+        "Argumen & Bukti": "C",
+        "Organisasi & Struktur": "A",
+        "Gaya Bahasa & Mekanik": "B"
+      },
+      "weighted_score": 3.0
+    },
+    {
+      "question": "2.\tJelaskan bagaimana proposal penelitianmu bisa membantu mengembangkan ilmu pengetahuan atau teknologi di bidangmu. (10 poin)",
+      "answer": "Penelitian ini akan membuka pengembangan teknologi pemantauan lingkungan berbasis IoT yang bisa diterapkan di berbagai sektor.",
+      "grades": {
+        "Pemahaman Konten": "B",
+        "Argumen & Bukti": "C",
+        "Organisasi & Struktur": "A",
+        "Gaya Bahasa & Mekanik": "A"
+      },
+      "weighted_score": 3.15
+    }
+  ]
+}

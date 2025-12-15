@@ -1,0 +1,118 @@
+================================================================================
+RQ5: PRACTICAL IMPLICATIONS - DEPLOYMENT RECOMMENDATIONS
+================================================================================
+
+DEPLOYMENT SCENARIOS
+--------------------------------------------------------------------------------
+
+SMALL CLASS (30 STUDENTS)
+----------------------------------------
+Students: 30
+Essays per semester: 150
+
+ChatGPT:
+  Cost: $0.00
+  Time: 0.00 hours
+
+Gemini:
+  Cost: $0.00
+  Time: 0.00 hours
+
+Recommendation: CHATGPT
+
+MEDIUM CLASS (100 STUDENTS)
+----------------------------------------
+Students: 100
+Essays per semester: 500
+
+ChatGPT:
+  Cost: $0.00
+  Time: 0.00 hours
+
+Gemini:
+  Cost: $0.00
+  Time: 0.00 hours
+
+Recommendation: CHATGPT
+
+LARGE INSTITUTION (1000 STUDENTS)
+----------------------------------------
+Students: 1000
+Essays per semester: 5000
+
+ChatGPT:
+  Cost: $0.00
+  Time: 0.00 hours
+
+Gemini:
+  Cost: $0.00
+  Time: 0.00 hours
+
+Recommendation: CHATGPT
+
+NATIONAL SCALE (100K STUDENTS)
+----------------------------------------
+Students: 100000
+Essays per semester: 500000
+
+ChatGPT:
+  Cost: $0.00
+  Time: 0.00 hours
+
+Gemini:
+  Cost: $0.00
+  Time: 0.00 hours
+
+Recommendation: CHATGPT
+
+================================================================================
+OVERALL RECOMMENDATIONS
+--------------------------------------------------------------------------------
+
+PRIMARY RECOMMENDATION: GEMINI-1.5-PRO
+
+Advantages:
+  1. Superior accuracy: 80.4% vs 69.1% exact agreement
+  2. Better consistency: ICC = 0.993 vs 0.989
+  3. Lower error rate: 19.6% vs 30.9%
+
+Use Cases:
+  • Small to medium classes (30-100 students)
+  • Large institutional deployments (1000+ students)
+  • High-stakes assessments requiring accuracy
+  • Budget-conscious implementations
+
+--------------------------------------------------------------------------------
+
+ALTERNATIVE: CHATGPT-4O
+
+Consider if:
+  • Already integrated with ChatGPT ecosystem
+  • Require specific ChatGPT features
+  • 69.1% accuracy acceptable for use case
+
+================================================================================
+IMPLEMENTATION CONSIDERATIONS
+--------------------------------------------------------------------------------
+
+Technical Requirements:
+  • API access to chosen model (ChatGPT or Gemini)
+  • Secure storage for student essays and rubrics
+  • Error handling and retry logic
+  • Rate limiting compliance
+  • Result validation and human review workflow
+
+Best Practices:
+  1. Use lenient strategy (proven superior consistency)
+  2. Implement human oversight for borderline cases
+  3. Maintain audit logs of all gradings
+  4. Regular calibration with expert graders
+  5. Transparent communication with students
+
+Quality Assurance:
+  • Random sampling for expert review (10-20%)
+  • Flag disagreements > 1 grade for review
+  • Monitor consistency across batches
+  • Periodic revalidation studies
+
+================================================================================

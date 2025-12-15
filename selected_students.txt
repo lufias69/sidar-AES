@@ -1,0 +1,13 @@
+# 10 Mahasiswa Terpilih untuk Baseline
+# Format: index,nama,total_words
+
+15,Mahasiswa 16,312
+12,Mahasiswa 13,169
+13,Mahasiswa 14,174
+14,Mahasiswa 15,164
+11,Mahasiswa 12,169
+2,Mahasiswa 3,149
+1,Mahasiswa 2,144
+0,Mahasiswa 1,125
+7,Mahasiswa 8,117
+4,Mahasiswa 5,117

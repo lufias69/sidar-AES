@@ -1,0 +1,227 @@
+{
+  "student_id": "student_14",
+  "student_name": "Mahasiswa 14",
+  "experiment_id": "exp_gemini_lenient_06",
+  "trial": 1,
+  "model": "gemini",
+  "strategy": "lenient",
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "1.\tJelaskan singkat tentang topik capstone project yang sedang kamu kerjakan. Apa masalah utama yang ingin kamu selesaikan dan apa tujuan dari proyek tersebut? (15 poin)",
+      "answer": "Saya mengerjakan proyek sistem pemantauan keamanan rumah berbasis IoT. Masalah yang ingin saya selesaikan adalah rasa tidak aman di rumah karena kurangnya sistem pengamanan yang efektif. Tujuan proyek ini adalah membuat sistem yang bisa memberikan notifikasi jika ada ancaman keamanan di rumah.",
+      "grades": {
+        "Pemahaman Konten": {
+          "grade": "B",
+          "justification": "Mahasiswa menunjukkan pemahaman yang baik tentang topik proyek capstone, yaitu sistem pemantauan keamanan rumah berbasis IoT. Penjelasan mengenai masalah yang ingin diselesaikan (rasa tidak aman) dan tujuan proyek (memberikan notifikasi ancaman) cukup jelas. Meskipun demikian, penjelasan bisa lebih mendalam dengan memberikan detail lebih lanjut tentang cara kerja sistem atau jenis ancaman yang dideteksi."
+        },
+        "Organisasi & Struktur": {
+          "grade": "B",
+          "justification": "Jawaban terstruktur dengan baik, mengikuti urutan pertanyaan yang diberikan. Ada identifikasi masalah dan tujuan proyek yang jelas. Transisi antar ide cukup lancar, meskipun bisa ditingkatkan dengan menambahkan sedikit elaborasi pada setiap poin."
+        },
+        "Argumen & Bukti": {
+          "grade": "C",
+          "justification": "Argumen yang diajukan cukup mendasar. Tidak ada contoh spesifik atau bukti yang mendukung klaim tentang rasa tidak aman atau efektivitas sistem. Penjelasan kurang detail dan analisisnya masih superficial."
+        },
+        "Gaya Bahasa & Mekanik": {
+          "grade": "B",
+          "justification": "Bahasa yang digunakan jelas dan mudah dipahami. Terdapat sedikit kesalahan minor dalam penggunaan bahasa, tetapi tidak mengganggu pemahaman secara keseluruhan. Gaya penulisan cukup efektif untuk menyampaikan informasi yang dimaksud."
+        }
+      },
+      "weighted_score": 2.9,
+      "justification": "{\"Pemahaman Konten\": {\"grade\": \"B\", \"justification\": \"Mahasiswa menunjukkan pemahaman yang baik tentang topik proyek capstone, yaitu sistem pemantauan keamanan rumah berbasis IoT. Penjelasan mengenai masalah yang ingin diselesaikan (rasa tidak aman) dan tujuan proyek (memberikan notifikasi ancaman) cukup jelas. Meskipun demikian, penjelasan bisa lebih mendalam dengan memberikan detail lebih lanjut tentang cara kerja sistem atau jenis ancaman yang dideteksi.\"}, \"Organisasi & Struktur\": {\"grade\": \"B\", \"justification\": \"Jawaban terstruktur dengan baik, mengikuti urutan pertanyaan yang diberikan. Ada identifikasi masalah dan tujuan proyek yang jelas. Transisi antar ide cukup lancar, meskipun bisa ditingkatkan dengan menambahkan sedikit elaborasi pada setiap poin.\"}, \"Argumen & Bukti\": {\"grade\": \"C\", \"justification\": \"Argumen yang diajukan cukup mendasar. Tidak ada contoh spesifik atau bukti yang mendukung klaim tentang rasa tidak aman atau efektivitas sistem. Penjelasan kurang detail dan analisisnya masih superficial.\"}, \"Gaya Bahasa & Mekanik\": {\"grade\": \"B\", \"justification\": \"Bahasa yang digunakan jelas dan mudah dipahami. Terdapat sedikit kesalahan minor dalam penggunaan bahasa, tetapi tidak mengganggu pemahaman secara keseluruhan. Gaya penulisan cukup efektif untuk menyampaikan informasi yang dimaksud.\"}}",
+      "overall_comment": "Secara keseluruhan, jawaban mahasiswa menunjukkan pemahaman dasar tentang proyek capstone yang dikerjakan. Akan lebih baik jika mahasiswa memberikan detail lebih lanjut dan contoh konkret untuk memperkuat argumennya.",
+      "metadata": {
+        "tokens_used": 2050,
+        "api_call_time": 11.300440549850464,
+        "timestamp": "2025-12-11T00:07:48.244630"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": "2.\tSebutkan dan jelaskan tiga teknologi, alat, atau cara yang kamu pakai dalam capstone project ini. Kenapa kamu memilih yang tersebut? (15 poin)",
+      "answer": "Menggunakan sensor gerak, kamera pengawas, dan mikrokontroler ESP8266. Sensor gerak mendeteksi keberadaan orang, kamera untuk merekam aktivitas, dan mikrokontroler ESP8266 memungkinkan sistem untuk terhubung dengan internet.",
+      "grades": {
+        "Pemahaman Konten": {
+          "grade": "B",
+          "justification": "Mahasiswa menunjukkan pemahaman yang baik tentang fungsi masing-masing teknologi yang digunakan. Penjelasan cukup lengkap, meskipun tidak mendalam. Mahasiswa menyebutkan fungsi dasar sensor gerak, kamera, dan mikrokontroler, yang menunjukkan pemahaman konsep yang solid."
+        },
+        "Organisasi & Struktur": {
+          "grade": "A",
+          "justification": "Jawaban terstruktur dengan baik, menyebutkan setiap teknologi dan memberikan penjelasan singkat. Alur logika mudah diikuti, dan ide-ide terorganisir dengan baik. Struktur jawaban jelas dan ringkas."
+        },
+        "Argumen & Bukti": {
+          "grade": "C",
+          "justification": "Penjelasan kurang detail mengenai alasan pemilihan teknologi tersebut. Mahasiswa hanya menyebutkan fungsi dasar tanpa memberikan argumen yang kuat mengapa teknologi tersebut dipilih untuk proyek capstone. Dukungan kurang karena tidak ada penjelasan lebih lanjut mengenai keunggulan atau pertimbangan khusus dalam pemilihan."
+        },
+        "Gaya Bahasa & Mekanik": {
+          "grade": "B",
+          "justification": "Bahasa yang digunakan jelas dan efektif. Terdapat beberapa kesalahan minor, tetapi tidak mengganggu pemahaman. Ejaan umumnya benar dan kalimat cukup bervariasi."
+        }
+      },
+      "weighted_score": 3.1,
+      "justification": "{\"Pemahaman Konten\": {\"grade\": \"B\", \"justification\": \"Mahasiswa menunjukkan pemahaman yang baik tentang fungsi masing-masing teknologi yang digunakan. Penjelasan cukup lengkap, meskipun tidak mendalam. Mahasiswa menyebutkan fungsi dasar sensor gerak, kamera, dan mikrokontroler, yang menunjukkan pemahaman konsep yang solid.\"}, \"Organisasi & Struktur\": {\"grade\": \"A\", \"justification\": \"Jawaban terstruktur dengan baik, menyebutkan setiap teknologi dan memberikan penjelasan singkat. Alur logika mudah diikuti, dan ide-ide terorganisir dengan baik. Struktur jawaban jelas dan ringkas.\"}, \"Argumen & Bukti\": {\"grade\": \"C\", \"justification\": \"Penjelasan kurang detail mengenai alasan pemilihan teknologi tersebut. Mahasiswa hanya menyebutkan fungsi dasar tanpa memberikan argumen yang kuat mengapa teknologi tersebut dipilih untuk proyek capstone. Dukungan kurang karena tidak ada penjelasan lebih lanjut mengenai keunggulan atau pertimbangan khusus dalam pemilihan.\"}, \"Gaya Bahasa & Mekanik\": {\"grade\": \"B\", \"justification\": \"Bahasa yang digunakan jelas dan efektif. Terdapat beberapa kesalahan minor, tetapi tidak mengganggu pemahaman. Ejaan umumnya benar dan kalimat cukup bervariasi.\"}}",
+      "overall_comment": "Jawaban mahasiswa menunjukkan pemahaman dasar tentang teknologi yang digunakan, namun perlu diperdalam lagi alasan pemilihan teknologi tersebut.",
+      "metadata": {
+        "tokens_used": 1974,
+        "api_call_time": 10.833777666091919,
+        "timestamp": "2025-12-11T00:07:59.102136"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": "3. Jelaskan manfaat atau kegunaan hasil capstone projectmu bagi orang lain atau bidang yang kamu tekuni. (10 poin)",
+      "answer": "Meningkatkan keamanan rumah dengan sistem yang dapat dipantau dari jarak jauh dan memberi peringatan jika terjadi sesuatu yang mencurigakan.",
+      "grades": {
+        "Pemahaman Konten": {
+          "grade": "B",
+          "justification": "Jawaban menunjukkan pemahaman yang baik tentang manfaat proyek capstone, yaitu peningkatan keamanan rumah. Mahasiswa menyebutkan pemantauan jarak jauh dan peringatan dini, yang merupakan poin penting dalam sistem keamanan. Namun, penjelasan bisa lebih mendalam dengan menyebutkan fitur-fitur spesifik atau teknologi yang digunakan."
+        },
+        "Organisasi & Struktur": {
+          "grade": "A",
+          "justification": "Jawaban terstruktur dengan baik dan langsung menjawab pertanyaan. Meskipun singkat, poin yang disampaikan jelas dan mudah dipahami. Tidak ada kerancuan dalam penyampaian informasi."
+        },
+        "Argumen & Bukti": {
+          "grade": "C",
+          "justification": "Argumen yang diberikan cukup lemah karena kurangnya detail dan bukti pendukung. Mahasiswa hanya menyebutkan manfaat secara umum tanpa memberikan contoh konkret bagaimana sistem tersebut meningkatkan keamanan atau jenis peringatan apa yang diberikan. Perlu ada elaborasi lebih lanjut untuk memperkuat argumen."
+        },
+        "Gaya Bahasa & Mekanik": {
+          "grade": "A",
+          "justification": "Bahasa yang digunakan jelas, efektif, dan mudah dipahami. Tidak ada kesalahan tata bahasa atau ejaan yang ditemukan. Gaya penulisan sesuai dengan konteks pertanyaan."
+        }
+      },
+      "weighted_score": 3.2,
+      "justification": "{\"Pemahaman Konten\": {\"grade\": \"B\", \"justification\": \"Jawaban menunjukkan pemahaman yang baik tentang manfaat proyek capstone, yaitu peningkatan keamanan rumah. Mahasiswa menyebutkan pemantauan jarak jauh dan peringatan dini, yang merupakan poin penting dalam sistem keamanan. Namun, penjelasan bisa lebih mendalam dengan menyebutkan fitur-fitur spesifik atau teknologi yang digunakan.\"}, \"Organisasi & Struktur\": {\"grade\": \"A\", \"justification\": \"Jawaban terstruktur dengan baik dan langsung menjawab pertanyaan. Meskipun singkat, poin yang disampaikan jelas dan mudah dipahami. Tidak ada kerancuan dalam penyampaian informasi.\"}, \"Argumen & Bukti\": {\"grade\": \"C\", \"justification\": \"Argumen yang diberikan cukup lemah karena kurangnya detail dan bukti pendukung. Mahasiswa hanya menyebutkan manfaat secara umum tanpa memberikan contoh konkret bagaimana sistem tersebut meningkatkan keamanan atau jenis peringatan apa yang diberikan. Perlu ada elaborasi lebih lanjut untuk memperkuat argumen.\"}, \"Gaya Bahasa & Mekanik\": {\"grade\": \"A\", \"justification\": \"Bahasa yang digunakan jelas, efektif, dan mudah dipahami. Tidak ada kesalahan tata bahasa atau ejaan yang ditemukan. Gaya penulisan sesuai dengan konteks pertanyaan.\"}}",
+      "overall_comment": "Jawaban ini memberikan gambaran dasar tentang manfaat proyek, tetapi perlu diperdalam dengan detail dan contoh spesifik untuk mendapatkan nilai yang lebih tinggi.",
+      "metadata": {
+        "tokens_used": 1958,
+        "api_call_time": 10.904754877090454,
+        "timestamp": "2025-12-11T00:08:10.031414"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": "1.Ceritakan tahap-tahap pengerjaan capstone project dari awal sampai sekarang. Sebutkan juga hal penting atau target yang sudah kamu capai. (15 poin)",
+      "answer": "Mengembangkan prototipe sistem pengawasan menggunakan sensor dan kamera, serta menghubungkannya ke aplikasi mobile. Sistem sudah bisa memantau gerakan dan mengirim notifikasi ke ponsel.",
+      "grades": {
+        "Pemahaman Konten": {
+          "grade": "C",
+          "justification": "Jawaban menunjukkan pemahaman dasar tentang proyek capstone, tetapi kurang mendalam dalam menjelaskan tahapan pengerjaan. Mahasiswa menyebutkan pengembangan prototipe dan fitur notifikasi, namun tidak memberikan detail spesifik mengenai proses pengembangan, tantangan yang dihadapi, atau solusi yang diterapkan. Informasi yang diberikan masih terlalu umum dan belum memenuhi kriteria pemahaman konten yang mendalam."
+        },
+        "Organisasi & Struktur": {
+          "grade": "D/E",
+          "justification": "Jawaban sangat singkat dan tidak memiliki struktur yang jelas. Tidak ada urutan logis dalam penyampaian informasi, sehingga sulit untuk memahami alur pengerjaan proyek. Jawaban ini lebih seperti catatan singkat daripada penjelasan yang terstruktur."
+        },
+        "Argumen & Bukti": {
+          "grade": "D/E",
+          "justification": "Tidak ada argumen atau bukti yang mendukung pernyataan mahasiswa. Jawaban hanya berupa klaim tanpa penjelasan lebih lanjut atau contoh konkret. Tidak ada analisis atau refleksi mengenai pencapaian atau kendala yang dihadapi selama pengerjaan proyek."
+        },
+        "Gaya Bahasa & Mekanik": {
+          "grade": "B",
+          "justification": "Gaya bahasa yang digunakan cukup jelas dan mudah dipahami. Tidak terdapat kesalahan tata bahasa atau ejaan yang signifikan. Namun, jawaban ini sangat singkat dan kurang detail, sehingga kurang menarik dan informatif."
+        }
+      },
+      "weighted_score": 1.8,
+      "justification": "{\"Pemahaman Konten\": {\"grade\": \"C\", \"justification\": \"Jawaban menunjukkan pemahaman dasar tentang proyek capstone, tetapi kurang mendalam dalam menjelaskan tahapan pengerjaan. Mahasiswa menyebutkan pengembangan prototipe dan fitur notifikasi, namun tidak memberikan detail spesifik mengenai proses pengembangan, tantangan yang dihadapi, atau solusi yang diterapkan. Informasi yang diberikan masih terlalu umum dan belum memenuhi kriteria pemahaman konten yang mendalam.\"}, \"Organisasi & Struktur\": {\"grade\": \"D/E\", \"justification\": \"Jawaban sangat singkat dan tidak memiliki struktur yang jelas. Tidak ada urutan logis dalam penyampaian informasi, sehingga sulit untuk memahami alur pengerjaan proyek. Jawaban ini lebih seperti catatan singkat daripada penjelasan yang terstruktur.\"}, \"Argumen & Bukti\": {\"grade\": \"D/E\", \"justification\": \"Tidak ada argumen atau bukti yang mendukung pernyataan mahasiswa. Jawaban hanya berupa klaim tanpa penjelasan lebih lanjut atau contoh konkret. Tidak ada analisis atau refleksi mengenai pencapaian atau kendala yang dihadapi selama pengerjaan proyek.\"}, \"Gaya Bahasa & Mekanik\": {\"grade\": \"B\", \"justification\": \"Gaya bahasa yang digunakan cukup jelas dan mudah dipahami. Tidak terdapat kesalahan tata bahasa atau ejaan yang signifikan. Namun, jawaban ini sangat singkat dan kurang detail, sehingga kurang menarik dan informatif.\"}}",
+      "overall_comment": "Jawaban mahasiswa sangat singkat dan kurang detail. Perlu ditingkatkan dalam hal struktur, kedalaman konten, dan penyertaan bukti atau contoh konkret.",
+      "metadata": {
+        "tokens_used": 2012,
+        "api_call_time": 10.897153615951538,
+        "timestamp": "2025-12-11T00:08:20.953110"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": "3. Apakah ada perubahan pada rencana (ingin mengubah project) atau cara pengerjaan selama proyek berjalan? Jika iya, jelaskan apa yang berubah dan bagaimana pengaruhnya ke hasil proyek. (10 poin)",
+      "answer": "Menambah fitur untuk menyalakan alarm dan mengirim notifikasi kepada pemilik rumah.",
+      "grades": {
+        "Pemahaman Konten": {
+          "grade": "C",
+          "justification": "Jawaban menunjukkan pemahaman dasar bahwa ada perubahan dalam proyek, yaitu penambahan fitur. Namun, penjelasan kurang lengkap karena tidak menjelaskan alasan perubahan atau pengaruhnya terhadap hasil proyek secara lebih detail. Mahasiswa hanya menyebutkan fitur yang ditambahkan, tanpa konteks yang cukup."
+        },
+        "Organisasi & Struktur": {
+          "grade": "D/E",
+          "justification": "Jawaban sangat singkat dan tidak memiliki struktur yang jelas. Tidak ada transisi atau alur logika yang dapat diikuti. Informasi yang diberikan sangat minimal dan tidak terorganisir."
+        },
+        "Argumen & Bukti": {
+          "grade": "D/E",
+          "justification": "Tidak ada argumen yang jelas atau bukti pendukung. Jawaban hanya berupa pernyataan tanpa penjelasan lebih lanjut. Tidak ada analisis mengenai pengaruh perubahan terhadap hasil proyek."
+        },
+        "Gaya Bahasa & Mekanik": {
+          "grade": "B",
+          "justification": "Bahasa yang digunakan jelas dan mudah dipahami. Tidak ada kesalahan tata bahasa atau ejaan yang signifikan. Namun, gaya penulisan sangat sederhana dan kurang bervariasi."
+        }
+      },
+      "weighted_score": 1.8,
+      "justification": "{\"Pemahaman Konten\": {\"grade\": \"C\", \"justification\": \"Jawaban menunjukkan pemahaman dasar bahwa ada perubahan dalam proyek, yaitu penambahan fitur. Namun, penjelasan kurang lengkap karena tidak menjelaskan alasan perubahan atau pengaruhnya terhadap hasil proyek secara lebih detail. Mahasiswa hanya menyebutkan fitur yang ditambahkan, tanpa konteks yang cukup.\"}, \"Organisasi & Struktur\": {\"grade\": \"D/E\", \"justification\": \"Jawaban sangat singkat dan tidak memiliki struktur yang jelas. Tidak ada transisi atau alur logika yang dapat diikuti. Informasi yang diberikan sangat minimal dan tidak terorganisir.\"}, \"Argumen & Bukti\": {\"grade\": \"D/E\", \"justification\": \"Tidak ada argumen yang jelas atau bukti pendukung. Jawaban hanya berupa pernyataan tanpa penjelasan lebih lanjut. Tidak ada analisis mengenai pengaruh perubahan terhadap hasil proyek.\"}, \"Gaya Bahasa & Mekanik\": {\"grade\": \"B\", \"justification\": \"Bahasa yang digunakan jelas dan mudah dipahami. Tidak ada kesalahan tata bahasa atau ejaan yang signifikan. Namun, gaya penulisan sangat sederhana dan kurang bervariasi.\"}}",
+      "overall_comment": "Jawaban ini sangat singkat dan kurang detail. Mahasiswa perlu memberikan penjelasan yang lebih lengkap dan terstruktur untuk menjawab pertanyaan dengan memadai.",
+      "metadata": {
+        "tokens_used": 1928,
+        "api_call_time": 10.511950731277466,
+        "timestamp": "2025-12-11T00:08:31.489518"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": "1.\tTulislah Konsep kerangka proposal penelitian dari capstone project kamu yang mencakup:\n1.\tLatar belakang masalah\n2.\tMasalah penelitian (rumusan masalah)\n3.\tTujuan penelitian\n4.\tCara atau metode yang akan kamu gunakan \n(20 poin)",
+      "answer": "Latar belakang masalah: Masalah keamanan rumah. Masalah penelitian: Bagaimana mendeteksi potensi ancaman di rumah secara otomatis. Tujuan penelitian: Menciptakan sistem pemantauan keamanan rumah berbasis IoT. Metode: Menggunakan sensor gerak dan kamera dengan mikrokontroler ESP8266.",
+      "grades": {
+        "Pemahaman Konten": {
+          "grade": "B",
+          "justification": "Mahasiswa menunjukkan pemahaman dasar tentang komponen proposal penelitian seperti latar belakang masalah, rumusan masalah, tujuan, dan metode. Meskipun penjelasannya ringkas, poin-poin penting sudah tersampaikan. Mahasiswa perlu mengembangkan lebih lanjut setiap bagian agar lebih mendalam dan lengkap."
+        },
+        "Organisasi & Struktur": {
+          "grade": "B",
+          "justification": "Struktur jawaban mengikuti urutan yang diminta dalam soal, yaitu latar belakang, masalah, tujuan, dan metode. Transisi antar bagian implisit karena formatnya poin-poin. Secara keseluruhan, organisasi jawaban cukup baik meskipun bisa ditingkatkan dengan elaborasi lebih lanjut."
+        },
+        "Argumen & Bukti": {
+          "grade": "C",
+          "justification": "Jawaban memberikan argumen dasar untuk setiap bagian, tetapi kurang detail dan bukti pendukung. Misalnya, latar belakang masalah hanya menyebutkan \"Masalah keamanan rumah\" tanpa elaborasi lebih lanjut. Mahasiswa perlu menambahkan detail dan justifikasi yang lebih kuat untuk mendukung setiap poin."
+        },
+        "Gaya Bahasa & Mekanik": {
+          "grade": "B",
+          "justification": "Bahasa yang digunakan jelas dan mudah dipahami, meskipun sederhana. Tidak ada kesalahan tata bahasa atau ejaan yang signifikan. Gaya penulisan dapat ditingkatkan dengan menggunakan kalimat yang lebih bervariasi dan deskriptif."
+        }
+      },
+      "weighted_score": 2.9,
+      "justification": "{\"Pemahaman Konten\": {\"grade\": \"B\", \"justification\": \"Mahasiswa menunjukkan pemahaman dasar tentang komponen proposal penelitian seperti latar belakang masalah, rumusan masalah, tujuan, dan metode. Meskipun penjelasannya ringkas, poin-poin penting sudah tersampaikan. Mahasiswa perlu mengembangkan lebih lanjut setiap bagian agar lebih mendalam dan lengkap.\"}, \"Organisasi & Struktur\": {\"grade\": \"B\", \"justification\": \"Struktur jawaban mengikuti urutan yang diminta dalam soal, yaitu latar belakang, masalah, tujuan, dan metode. Transisi antar bagian implisit karena formatnya poin-poin. Secara keseluruhan, organisasi jawaban cukup baik meskipun bisa ditingkatkan dengan elaborasi lebih lanjut.\"}, \"Argumen & Bukti\": {\"grade\": \"C\", \"justification\": \"Jawaban memberikan argumen dasar untuk setiap bagian, tetapi kurang detail dan bukti pendukung. Misalnya, latar belakang masalah hanya menyebutkan \\\"Masalah keamanan rumah\\\" tanpa elaborasi lebih lanjut. Mahasiswa perlu menambahkan detail dan justifikasi yang lebih kuat untuk mendukung setiap poin.\"}, \"Gaya Bahasa & Mekanik\": {\"grade\": \"B\", \"justification\": \"Bahasa yang digunakan jelas dan mudah dipahami, meskipun sederhana. Tidak ada kesalahan tata bahasa atau ejaan yang signifikan. Gaya penulisan dapat ditingkatkan dengan menggunakan kalimat yang lebih bervariasi dan deskriptif.\"}}",
+      "overall_comment": "Secara keseluruhan, jawaban mahasiswa menunjukkan pemahaman dasar tentang komponen proposal penelitian. Mahasiswa perlu mengembangkan setiap bagian lebih lanjut dengan detail dan bukti pendukung yang lebih kuat.",
+      "metadata": {
+        "tokens_used": 2065,
+        "api_call_time": 11.113481283187866,
+        "timestamp": "2025-12-11T00:08:42.631508"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": "2.\tJelaskan bagaimana proposal penelitianmu bisa membantu mengembangkan ilmu pengetahuan atau teknologi di bidangmu. (10 poin)",
+      "answer": "Penelitian ini dapat membantu meningkatkan sistem keamanan rumah dengan teknologi terbaru berbasis IoT yang bisa diakses dari jarak jauh.",
+      "grades": {
+        "Pemahaman Konten": {
+          "grade": "B",
+          "justification": "Jawaban menunjukkan pemahaman yang baik tentang bagaimana penelitian IoT dapat meningkatkan keamanan rumah. Namun, penjelasan kurang mendalam tentang mekanisme atau dampak spesifik dari teknologi tersebut. Mahasiswa menunjukkan pemahaman solid, tetapi bisa lebih detail."
+        },
+        "Organisasi & Struktur": {
+          "grade": "B",
+          "justification": "Jawaban singkat dan langsung pada poinnya, sehingga strukturnya jelas. Meskipun demikian, tidak ada elaborasi lebih lanjut yang bisa meningkatkan koherensi. Struktur jelas meski ada minor issues."
+        },
+        "Argumen & Bukti": {
+          "grade": "C",
+          "justification": "Argumen yang diberikan cukup lemah karena kurangnya detail dan bukti pendukung. Tidak ada contoh spesifik tentang bagaimana teknologi IoT akan diimplementasikan atau manfaat konkret yang akan diperoleh. Penjelasan kurang detail/jelas, dukungan kurang."
+        },
+        "Gaya Bahasa & Mekanik": {
+          "grade": "B",
+          "justification": "Bahasa yang digunakan jelas dan efektif. Tidak ada kesalahan tata bahasa atau ejaan yang signifikan. Bahasa jelas, beberapa kesalahan minor."
+        }
+      },
+      "weighted_score": 2.9,
+      "justification": "{\"Pemahaman Konten\": {\"grade\": \"B\", \"justification\": \"Jawaban menunjukkan pemahaman yang baik tentang bagaimana penelitian IoT dapat meningkatkan keamanan rumah. Namun, penjelasan kurang mendalam tentang mekanisme atau dampak spesifik dari teknologi tersebut. Mahasiswa menunjukkan pemahaman solid, tetapi bisa lebih detail.\"}, \"Organisasi & Struktur\": {\"grade\": \"B\", \"justification\": \"Jawaban singkat dan langsung pada poinnya, sehingga strukturnya jelas. Meskipun demikian, tidak ada elaborasi lebih lanjut yang bisa meningkatkan koherensi. Struktur jelas meski ada minor issues.\"}, \"Argumen & Bukti\": {\"grade\": \"C\", \"justification\": \"Argumen yang diberikan cukup lemah karena kurangnya detail dan bukti pendukung. Tidak ada contoh spesifik tentang bagaimana teknologi IoT akan diimplementasikan atau manfaat konkret yang akan diperoleh. Penjelasan kurang detail/jelas, dukungan kurang.\"}, \"Gaya Bahasa & Mekanik\": {\"grade\": \"B\", \"justification\": \"Bahasa yang digunakan jelas dan efektif. Tidak ada kesalahan tata bahasa atau ejaan yang signifikan. Bahasa jelas, beberapa kesalahan minor.\"}}",
+      "overall_comment": "Jawaban ini memberikan gambaran umum tentang potensi penelitian, tetapi perlu diperkuat dengan detail dan contoh yang lebih spesifik.",
+      "metadata": {
+        "tokens_used": 1921,
+        "api_call_time": 10.807442426681519,
+        "timestamp": "2025-12-11T00:08:53.459735"
+      }
+    }
+  ]
+}

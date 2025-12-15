@@ -1,0 +1,7 @@
+model,strategy,mean_time_seconds,median_time_seconds,std_time_seconds,essays_per_hour,time_for_100_essays_minutes
+chatgpt,few-shot,5.15,4.72,1.51,698.6,8.6
+chatgpt,lenient,7.67,7.36,1.99,469.1,12.8
+chatgpt,zero-shot,5.11,4.76,1.49,704.3,8.5
+gemini,few-shot,18.61,18.92,3.67,193.5,31.0
+gemini,lenient,9.82,10.79,2.57,366.7,16.4
+gemini,zero-shot,12.05,10.52,3.51,298.8,20.1

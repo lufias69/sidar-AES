@@ -1,0 +1,9 @@
+{
+  "experiment_id": "exp_chatgpt_lenient_07",
+  "model": "chatgpt",
+  "strategy": "lenient",
+  "total_tasks": 70,
+  "completed_tasks": 70,
+  "failed_tasks": 0,
+  "success_rate": 100.0
+}

@@ -1,0 +1,82 @@
+{
+  "student_name": "Mahasiswa 14",
+  "questions": [
+    {
+      "question": "1.\tJelaskan singkat tentang topik capstone project yang sedang kamu kerjakan. Apa masalah utama yang ingin kamu selesaikan dan apa tujuan dari proyek tersebut? (15 poin)",
+      "answer": "Saya mengerjakan proyek sistem pemantauan keamanan rumah berbasis IoT. Masalah yang ingin saya selesaikan adalah rasa tidak aman di rumah karena kurangnya sistem pengamanan yang efektif. Tujuan proyek ini adalah membuat sistem yang bisa memberikan notifikasi jika ada ancaman keamanan di rumah.",
+      "grades": {
+        "Pemahaman Konten": "B",
+        "Argumen & Bukti": "C",
+        "Organisasi & Struktur": "A",
+        "Gaya Bahasa & Mekanik": "A"
+      },
+      "weighted_score": 3.15
+    },
+    {
+      "question": "2.\tSebutkan dan jelaskan tiga teknologi, alat, atau cara yang kamu pakai dalam capstone project ini. Kenapa kamu memilih yang tersebut? (15 poin)",
+      "answer": "Menggunakan sensor gerak, kamera pengawas, dan mikrokontroler ESP8266. Sensor gerak mendeteksi keberadaan orang, kamera untuk merekam aktivitas, dan mikrokontroler ESP8266 memungkinkan sistem untuk terhubung dengan internet.",
+      "grades": {
+        "Pemahaman Konten": "B",
+        "Argumen & Bukti": "C",
+        "Organisasi & Struktur": "B",
+        "Gaya Bahasa & Mekanik": "A"
+      },
+      "weighted_score": 2.9
+    },
+    {
+      "question": "3. Jelaskan manfaat atau kegunaan hasil capstone projectmu bagi orang lain atau bidang yang kamu tekuni. (10 poin)",
+      "answer": "Meningkatkan keamanan rumah dengan sistem yang dapat dipantau dari jarak jauh dan memberi peringatan jika terjadi sesuatu yang mencurigakan.",
+      "grades": {
+        "Pemahaman Konten": "B",
+        "Argumen & Bukti": "C",
+        "Organisasi & Struktur": "A",
+        "Gaya Bahasa & Mekanik": "A"
+      },
+      "weighted_score": 3.15
+    },
+    {
+      "question": "1.Ceritakan tahap-tahap pengerjaan capstone project dari awal sampai sekarang. Sebutkan juga hal penting atau target yang sudah kamu capai. (15 poin)",
+      "answer": "Mengembangkan prototipe sistem pengawasan menggunakan sensor dan kamera, serta menghubungkannya ke aplikasi mobile. Sistem sudah bisa memantau gerakan dan mengirim notifikasi ke ponsel.",
+      "grades": {
+        "Pemahaman Konten": "C",
+        "Argumen & Bukti": "D/E",
+        "Organisasi & Struktur": "D/E",
+        "Gaya Bahasa & Mekanik": "B"
+      },
+      "weighted_score": 1.65
+    },
+    {
+      "question": "3. Apakah ada perubahan pada rencana (ingin mengubah project) atau cara pengerjaan selama proyek berjalan? Jika iya, jelaskan apa yang berubah dan bagaimana pengaruhnya ke hasil proyek. (10 poin)",
+      "answer": "Menambah fitur untuk menyalakan alarm dan mengirim notifikasi kepada pemilik rumah.",
+      "grades": {
+        "Pemahaman Konten": "C",
+        "Argumen & Bukti": "D/E",
+        "Organisasi & Struktur": "D/E",
+        "Gaya Bahasa & Mekanik": "B"
+      },
+      "weighted_score": 1.65
+    },
+    {
+      "question": "1.\tTulislah Konsep kerangka proposal penelitian dari capstone project kamu yang mencakup:\n1.\tLatar belakang masalah\n2.\tMasalah penelitian (rumusan masalah)\n3.\tTujuan penelitian\n4.\tCara atau metode yang akan kamu gunakan \n(20 poin)",
+      "answer": "Latar belakang masalah: Masalah keamanan rumah. Masalah penelitian: Bagaimana mendeteksi potensi ancaman di rumah secara otomatis. Tujuan penelitian: Menciptakan sistem pemantauan keamanan rumah berbasis IoT. Metode: Menggunakan sensor gerak dan kamera dengan mikrokontroler ESP8266.",
+      "grades": {
+        "Pemahaman Konten": "B",
+        "Argumen & Bukti": "C",
+        "Organisasi & Struktur": "A",
+        "Gaya Bahasa & Mekanik": "A"
+      },
+      "weighted_score": 3.15
+    },
+    {
+      "question": "2.\tJelaskan bagaimana proposal penelitianmu bisa membantu mengembangkan ilmu pengetahuan atau teknologi di bidangmu. (10 poin)",
+      "answer": "Penelitian ini dapat membantu meningkatkan sistem keamanan rumah dengan teknologi terbaru berbasis IoT yang bisa diakses dari jarak jauh.",
+      "grades": {
+        "Pemahaman Konten": "B",
+        "Argumen & Bukti": "C",
+        "Organisasi & Struktur": "A",
+        "Gaya Bahasa & Mekanik": "A"
+      },
+      "weighted_score": 3.15
+    }
+  ]
+}

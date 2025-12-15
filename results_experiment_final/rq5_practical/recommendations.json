@@ -1,0 +1,58 @@
+{
+  "best_overall": {
+    "model": "chatgpt",
+    "strategy": "zero-shot"
+  },
+  "best_accuracy": {
+    "model": "chatgpt",
+    "strategy": "zero-shot"
+  },
+  "best_cost_effective": {
+    "model": "gemini",
+    "strategy": "zero-shot"
+  },
+  "lowest_cost": {
+    "model": "gemini",
+    "strategy": "zero-shot",
+    "cost_per_essay_usd": 0.000323
+  },
+  "fastest": {
+    "model": "chatgpt",
+    "strategy": "zero-shot",
+    "mean_time_seconds": 5.11,
+    "essays_per_hour": 704.3
+  },
+  "most_reliable": {
+    "model": "chatgpt",
+    "strategy": "lenient",
+    "icc_2_1": 0.9417366308931624
+  },
+  "most_valid": {
+    "model": "chatgpt",
+    "strategy": "zero-shot",
+    "qwk": 0.6001
+  },
+  "use_cases": {
+    "high_stakes_assessment": {
+      "recommended": "ChatGPT zero-shot",
+      "reason": "Highest validity (QWK), good reliability, lowest bias, acceptable cost"
+    },
+    "formative_feedback": {
+      "recommended": "Gemini zero-shot",
+      "reason": "Best cost-effectiveness, fastest processing, acceptable accuracy"
+    },
+    "large_scale_grading": {
+      "recommended": "Gemini lenient",
+      "reason": "Lowest cost, reasonable reliability, but watch for over-grading bias"
+    },
+    "research_validation": {
+      "recommended": "ChatGPT few-shot",
+      "reason": "High reliability (ICC), good validity, consistent performance"
+    }
+  },
+  "warnings": {
+    "lenient_strategy": "Shows significant over-grading bias (+0.44 to +0.47). Use with caution for summative assessment.",
+    "gemini_few_shot": "Low consistency with high variance items. Requires multiple trials or avoid.",
+    "cost_consideration": "ChatGPT costs ~33.8x more than Gemini per essay."
+  }
+}

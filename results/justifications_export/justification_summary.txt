@@ -1,0 +1,20 @@
+================================================================================
+JUSTIFICATION SUMMARY STATISTICS
+================================================================================
+
+CHATGPT:
+--------------------------------------------------------------------------------
+  Total tasks: 804
+  Avg justification length: 1178.2 characters
+  Min justification length: 850 characters
+  Max justification length: 1601 characters
+  Avg overall comment length: 148.7 characters
+
+GEMINI:
+--------------------------------------------------------------------------------
+  Total tasks: 734
+  Avg justification length: 1248.9 characters
+  Min justification length: 974 characters
+  Max justification length: 1644 characters
+  Avg overall comment length: 168.9 characters
+

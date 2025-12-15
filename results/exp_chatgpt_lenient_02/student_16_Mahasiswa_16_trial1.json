@@ -1,0 +1,227 @@
+{
+  "student_id": "student_16",
+  "student_name": "Mahasiswa 16",
+  "experiment_id": "exp_chatgpt_lenient_02",
+  "trial": 1,
+  "model": "chatgpt",
+  "strategy": "lenient",
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "1.\tJelaskan singkat tentang topik capstone project yang sedang kamu kerjakan. Apa masalah utama yang ingin kamu selesaikan dan apa tujuan dari proyek tersebut? (15 poin)",
+      "answer": "Saya sedang mengerjakan sistem monitoring kualitas udara berbasis IoT. Masalah yang ingin saya selesaikan adalah kualitas udara yang buruk di lingkungan dalam ruangan, yang dapat menyebabkan masalah kesehatan seperti gangguan pernapasan. Tujuan proyek ini adalah untuk memantau kualitas udara secara real-time dan memberikan peringatan kepada pengguna jika kualitas udara menurun.",
+      "grades": {
+        "Pemahaman Konten": {
+          "grade": "A",
+          "justification": "Mahasiswa menunjukkan pemahaman yang mendalam dan akurat tentang topik proyek capstone mereka. Mereka dengan jelas mengidentifikasi masalah kualitas udara dalam ruangan dan menjelaskan tujuan proyek untuk memantau kualitas udara secara real-time. Tidak ada kesalahan konseptual yang terlihat, dan penjelasan ini menunjukkan pemahaman yang komprehensif."
+        },
+        "Organisasi & Struktur": {
+          "grade": "A",
+          "justification": "Struktur esai sangat jelas dengan pengantar yang baik, penjelasan masalah, dan tujuan proyek yang terorganisir dengan baik. Alur logika mudah diikuti dan transisi antar ide berjalan mulus. Mahasiswa berhasil menyusun esai dengan cara yang koheren dan efektif."
+        },
+        "Argumen & Bukti": {
+          "grade": "B",
+          "justification": "Mahasiswa memberikan argumen yang jelas tentang pentingnya memantau kualitas udara, namun penjelasan lebih lanjut tentang bagaimana sistem IoT akan bekerja atau contoh spesifik dari implementasi bisa memperkuat argumen lebih jauh. Meskipun demikian, dasar argumen sudah cukup kuat dan relevan."
+        },
+        "Gaya Bahasa & Mekanik": {
+          "grade": "A",
+          "justification": "Bahasa yang digunakan sangat efektif dan hampir tidak ada kesalahan tata bahasa atau ejaan. Kalimat tersusun dengan baik dan bervariasi, membuat esai mudah dibaca dan dipahami. Gaya penulisan akademik yang digunakan sangat tepat untuk konteks ini."
+        }
+      },
+      "weighted_score": 3.9,
+      "justification": "{\"Pemahaman Konten\": {\"grade\": \"A\", \"justification\": \"Mahasiswa menunjukkan pemahaman yang mendalam dan akurat tentang topik proyek capstone mereka. Mereka dengan jelas mengidentifikasi masalah kualitas udara dalam ruangan dan menjelaskan tujuan proyek untuk memantau kualitas udara secara real-time. Tidak ada kesalahan konseptual yang terlihat, dan penjelasan ini menunjukkan pemahaman yang komprehensif.\"}, \"Organisasi & Struktur\": {\"grade\": \"A\", \"justification\": \"Struktur esai sangat jelas dengan pengantar yang baik, penjelasan masalah, dan tujuan proyek yang terorganisir dengan baik. Alur logika mudah diikuti dan transisi antar ide berjalan mulus. Mahasiswa berhasil menyusun esai dengan cara yang koheren dan efektif.\"}, \"Argumen & Bukti\": {\"grade\": \"B\", \"justification\": \"Mahasiswa memberikan argumen yang jelas tentang pentingnya memantau kualitas udara, namun penjelasan lebih lanjut tentang bagaimana sistem IoT akan bekerja atau contoh spesifik dari implementasi bisa memperkuat argumen lebih jauh. Meskipun demikian, dasar argumen sudah cukup kuat dan relevan.\"}, \"Gaya Bahasa & Mekanik\": {\"grade\": \"A\", \"justification\": \"Bahasa yang digunakan sangat efektif dan hampir tidak ada kesalahan tata bahasa atau ejaan. Kalimat tersusun dengan baik dan bervariasi, membuat esai mudah dibaca dan dipahami. Gaya penulisan akademik yang digunakan sangat tepat untuk konteks ini.\"}}",
+      "overall_comment": "Esai ini menunjukkan pemahaman yang kuat dan terstruktur dengan baik tentang proyek capstone yang dikerjakan. Teruskan usaha yang baik ini!",
+      "metadata": {
+        "tokens_used": 2157,
+        "api_call_time": 7.728189706802368,
+        "timestamp": "2025-12-10T21:03:00.110541"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": "2.\tSebutkan dan jelaskan tiga teknologi, alat, atau cara yang kamu pakai dalam capstone project ini. Kenapa kamu memilih yang tersebut? (15 poin)",
+      "answer": "Sensor Kualitas Udara (MQ-135): Untuk mendeteksi polutan seperti amonia dan karbon dioksida. Sensor ini cukup murah dan akurat untuk aplikasi ini. Mikrokontroler ESP32: Untuk mengolah data dari sensor dan mengirimkannya ke cloud melalui Wi-Fi. ESP32 dipilih karena mendukung konektivitas Wi-Fi. Cloud Storage (Firebase): Untuk menyimpan data kualitas udara secara real-time dan memudahkan integrasi dengan aplikasi mobile. Firebase dipilih karena kemudahan integrasinya dengan aplikasi.",
+      "grades": {
+        "Pemahaman Konten": {
+          "grade": "A",
+          "justification": "Mahasiswa menunjukkan pemahaman yang mendalam dan akurat tentang teknologi yang digunakan dalam proyek capstone. Setiap teknologi dijelaskan dengan jelas, termasuk fungsinya dan alasan pemilihannya, yang menunjukkan tidak ada kesalahan konseptual dan pemahaman yang lengkap."
+        },
+        "Organisasi & Struktur": {
+          "grade": "B",
+          "justification": "Jawaban terstruktur dengan baik, meskipun tidak ada pembagian yang jelas antara bagian-bagian yang berbeda. Setiap teknologi dijelaskan dalam satu kalimat yang terpisah, membuat alur logika cukup mudah diikuti, meskipun transisi antar bagian bisa lebih halus."
+        },
+        "Argumen & Bukti": {
+          "grade": "B",
+          "justification": "Mahasiswa memberikan penjelasan yang jelas dan didukung dengan alasan yang cukup kuat untuk setiap teknologi yang dipilih. Meskipun tidak ada analisis mendalam, alasan pemilihan seperti biaya dan kemudahan integrasi memberikan dukungan yang memadai."
+        },
+        "Gaya Bahasa & Mekanik": {
+          "grade": "A",
+          "justification": "Bahasa yang digunakan efektif dan jelas, dengan sedikit atau tanpa kesalahan tata bahasa. Kalimat-kalimatnya bervariasi dan ejaan sempurna, membuat jawaban mudah dipahami."
+        }
+      },
+      "weighted_score": 3.7,
+      "justification": "{\"Pemahaman Konten\": {\"grade\": \"A\", \"justification\": \"Mahasiswa menunjukkan pemahaman yang mendalam dan akurat tentang teknologi yang digunakan dalam proyek capstone. Setiap teknologi dijelaskan dengan jelas, termasuk fungsinya dan alasan pemilihannya, yang menunjukkan tidak ada kesalahan konseptual dan pemahaman yang lengkap.\"}, \"Organisasi & Struktur\": {\"grade\": \"B\", \"justification\": \"Jawaban terstruktur dengan baik, meskipun tidak ada pembagian yang jelas antara bagian-bagian yang berbeda. Setiap teknologi dijelaskan dalam satu kalimat yang terpisah, membuat alur logika cukup mudah diikuti, meskipun transisi antar bagian bisa lebih halus.\"}, \"Argumen & Bukti\": {\"grade\": \"B\", \"justification\": \"Mahasiswa memberikan penjelasan yang jelas dan didukung dengan alasan yang cukup kuat untuk setiap teknologi yang dipilih. Meskipun tidak ada analisis mendalam, alasan pemilihan seperti biaya dan kemudahan integrasi memberikan dukungan yang memadai.\"}, \"Gaya Bahasa & Mekanik\": {\"grade\": \"A\", \"justification\": \"Bahasa yang digunakan efektif dan jelas, dengan sedikit atau tanpa kesalahan tata bahasa. Kalimat-kalimatnya bervariasi dan ejaan sempurna, membuat jawaban mudah dipahami.\"}}",
+      "overall_comment": "Jawaban ini menunjukkan pemahaman yang kuat dan penggunaan bahasa yang baik. Struktur bisa sedikit ditingkatkan untuk transisi yang lebih halus.",
+      "metadata": {
+        "tokens_used": 2150,
+        "api_call_time": 7.355790138244629,
+        "timestamp": "2025-12-10T21:03:07.490425"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": "3. Jelaskan manfaat atau kegunaan hasil capstone projectmu bagi orang lain atau bidang yang kamu tekuni. (10 poin)",
+      "answer": "Membantu orang menjaga kesehatan dengan memantau kualitas udara, yang sangat penting bagi orang dengan masalah pernapasan atau yang tinggal di daerah dengan polusi tinggi.",
+      "grades": {
+        "Pemahaman Konten": {
+          "grade": "B",
+          "justification": "Mahasiswa menunjukkan pemahaman yang baik tentang manfaat proyek capstone dalam konteks kesehatan dan polusi udara. Namun, penjelasan tidak terlalu mendalam dan kurang detail tentang bagaimana proyek tersebut berfungsi atau diterapkan secara spesifik. Pemahaman dasar sudah ada, tetapi bisa lebih lengkap dengan menambahkan detail lebih lanjut."
+        },
+        "Organisasi & Struktur": {
+          "grade": "B",
+          "justification": "Jawaban cukup terorganisir dengan satu ide utama yang jelas. Meskipun singkat, alur logika dapat diikuti dengan baik. Namun, struktur bisa lebih ditingkatkan dengan menambahkan pengantar dan penutup yang lebih jelas untuk memperkuat organisasi esai."
+        },
+        "Argumen & Bukti": {
+          "grade": "C",
+          "justification": "Argumen yang diajukan cukup jelas, tetapi kurang didukung dengan contoh atau analisis yang mendalam. Tidak ada bukti spesifik atau contoh konkret yang diberikan untuk mendukung klaim tentang manfaat proyek tersebut. Penjelasan bisa lebih kuat dengan menambahkan detail atau data pendukung."
+        },
+        "Gaya Bahasa & Mekanik": {
+          "grade": "A",
+          "justification": "Bahasa yang digunakan efektif dan jelas, dengan sedikit atau tanpa kesalahan tata bahasa. Meskipun jawaban singkat, penggunaan bahasa sudah baik dan tidak ada kesalahan ejaan yang mengganggu. Kalimat disusun dengan baik dan mudah dipahami."
+        }
+      },
+      "weighted_score": 3.0,
+      "justification": "{\"Pemahaman Konten\": {\"grade\": \"B\", \"justification\": \"Mahasiswa menunjukkan pemahaman yang baik tentang manfaat proyek capstone dalam konteks kesehatan dan polusi udara. Namun, penjelasan tidak terlalu mendalam dan kurang detail tentang bagaimana proyek tersebut berfungsi atau diterapkan secara spesifik. Pemahaman dasar sudah ada, tetapi bisa lebih lengkap dengan menambahkan detail lebih lanjut.\"}, \"Organisasi & Struktur\": {\"grade\": \"B\", \"justification\": \"Jawaban cukup terorganisir dengan satu ide utama yang jelas. Meskipun singkat, alur logika dapat diikuti dengan baik. Namun, struktur bisa lebih ditingkatkan dengan menambahkan pengantar dan penutup yang lebih jelas untuk memperkuat organisasi esai.\"}, \"Argumen & Bukti\": {\"grade\": \"C\", \"justification\": \"Argumen yang diajukan cukup jelas, tetapi kurang didukung dengan contoh atau analisis yang mendalam. Tidak ada bukti spesifik atau contoh konkret yang diberikan untuk mendukung klaim tentang manfaat proyek tersebut. Penjelasan bisa lebih kuat dengan menambahkan detail atau data pendukung.\"}, \"Gaya Bahasa & Mekanik\": {\"grade\": \"A\", \"justification\": \"Bahasa yang digunakan efektif dan jelas, dengan sedikit atau tanpa kesalahan tata bahasa. Meskipun jawaban singkat, penggunaan bahasa sudah baik dan tidak ada kesalahan ejaan yang mengganggu. Kalimat disusun dengan baik dan mudah dipahami.\"}}",
+      "overall_comment": "Jawaban menunjukkan pemahaman dasar yang baik, tetapi bisa lebih mendalam dengan menambahkan detail dan contoh spesifik. Struktur dan bahasa sudah cukup baik, namun argumen dapat diperkuat dengan bukti lebih lanjut.",
+      "metadata": {
+        "tokens_used": 2104,
+        "api_call_time": 9.14541506767273,
+        "timestamp": "2025-12-10T21:03:16.657043"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": "1.Ceritakan tahap-tahap pengerjaan capstone project dari awal sampai sekarang. Sebutkan juga hal penting atau target yang sudah kamu capai. (15 poin)",
+      "answer": "Saya mulai dengan riset tentang sensor kualitas udara yang cocok, kemudian merakit alat dengan ESP32 dan sensor MQ-135. Sekarang, sistem sudah mengirimkan data ke cloud dan bisa dipantau melalui aplikasi mobile.",
+      "grades": {
+        "Pemahaman Konten": {
+          "grade": "B",
+          "justification": "Mahasiswa menunjukkan pemahaman yang baik tentang tahapan pengerjaan capstone project dengan menyebutkan riset dan implementasi teknologi seperti ESP32 dan sensor MQ-135. Namun, penjelasan kurang mendalam dan tidak mencakup semua tahapan yang mungkin terlibat dalam proyek tersebut, seperti perencanaan awal atau evaluasi hasil."
+        },
+        "Organisasi & Struktur": {
+          "grade": "B",
+          "justification": "Jawaban mahasiswa cukup terorganisir dengan urutan yang logis dari riset hingga implementasi. Namun, transisi antar ide bisa lebih halus untuk meningkatkan alur cerita. Struktur dapat ditingkatkan dengan menambahkan bagian pembuka dan penutup yang lebih jelas."
+        },
+        "Argumen & Bukti": {
+          "grade": "B",
+          "justification": "Mahasiswa memberikan penjelasan yang jelas dan menyertakan contoh spesifik seperti penggunaan sensor MQ-135 dan ESP32. Namun, analisis lebih lanjut tentang mengapa teknologi ini dipilih dan bagaimana mereka berkontribusi terhadap tujuan proyek akan memperkuat argumen."
+        },
+        "Gaya Bahasa & Mekanik": {
+          "grade": "A",
+          "justification": "Bahasa yang digunakan jelas dan efektif dengan sedikit atau tanpa kesalahan tata bahasa. Kalimat-kalimatnya bervariasi dan mudah dipahami, menunjukkan kemampuan komunikasi yang baik."
+        }
+      },
+      "weighted_score": 3.1,
+      "justification": "{\"Pemahaman Konten\": {\"grade\": \"B\", \"justification\": \"Mahasiswa menunjukkan pemahaman yang baik tentang tahapan pengerjaan capstone project dengan menyebutkan riset dan implementasi teknologi seperti ESP32 dan sensor MQ-135. Namun, penjelasan kurang mendalam dan tidak mencakup semua tahapan yang mungkin terlibat dalam proyek tersebut, seperti perencanaan awal atau evaluasi hasil.\"}, \"Organisasi & Struktur\": {\"grade\": \"B\", \"justification\": \"Jawaban mahasiswa cukup terorganisir dengan urutan yang logis dari riset hingga implementasi. Namun, transisi antar ide bisa lebih halus untuk meningkatkan alur cerita. Struktur dapat ditingkatkan dengan menambahkan bagian pembuka dan penutup yang lebih jelas.\"}, \"Argumen & Bukti\": {\"grade\": \"B\", \"justification\": \"Mahasiswa memberikan penjelasan yang jelas dan menyertakan contoh spesifik seperti penggunaan sensor MQ-135 dan ESP32. Namun, analisis lebih lanjut tentang mengapa teknologi ini dipilih dan bagaimana mereka berkontribusi terhadap tujuan proyek akan memperkuat argumen.\"}, \"Gaya Bahasa & Mekanik\": {\"grade\": \"A\", \"justification\": \"Bahasa yang digunakan jelas dan efektif dengan sedikit atau tanpa kesalahan tata bahasa. Kalimat-kalimatnya bervariasi dan mudah dipahami, menunjukkan kemampuan komunikasi yang baik.\"}}",
+      "overall_comment": "Jawaban ini menunjukkan pemahaman yang solid dan usaha yang baik dalam menjelaskan tahapan proyek. Dengan sedikit lebih banyak detail dan analisis, esai ini dapat mencapai tingkat yang lebih tinggi.",
+      "metadata": {
+        "tokens_used": 2105,
+        "api_call_time": 7.781696081161499,
+        "timestamp": "2025-12-10T21:03:24.458190"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": "3. Apakah ada perubahan pada rencana (ingin mengubah project) atau cara pengerjaan selama proyek berjalan? Jika iya, jelaskan apa yang berubah dan bagaimana pengaruhnya ke hasil proyek. (10 poin)",
+      "answer": "Tidak ada perubahan besar dalam proyek ini. Namun, saya menambah fitur notifikasi jika kualitas udara menurun. Fitur ini membuat sistem lebih responsif dan berguna.",
+      "grades": {
+        "Pemahaman Konten": {
+          "grade": "B",
+          "justification": "Mahasiswa menunjukkan pemahaman yang baik dengan menambahkan fitur notifikasi yang relevan dengan proyek. Meskipun tidak ada perubahan besar, penambahan fitur menunjukkan pemahaman yang solid terhadap kebutuhan proyek."
+        },
+        "Organisasi & Struktur": {
+          "grade": "A",
+          "justification": "Jawaban terstruktur dengan baik, dimulai dengan pernyataan bahwa tidak ada perubahan besar dan diikuti dengan penjelasan fitur baru. Alur logika mudah diikuti dan terorganisir dengan jelas."
+        },
+        "Argumen & Bukti": {
+          "grade": "B",
+          "justification": "Penjelasan mengenai penambahan fitur notifikasi cukup jelas dan menunjukkan manfaatnya. Namun, akan lebih kuat jika disertai contoh spesifik atau bukti dari hasil proyek yang menunjukkan dampak fitur tersebut."
+        },
+        "Gaya Bahasa & Mekanik": {
+          "grade": "A",
+          "justification": "Bahasa yang digunakan jelas dan efektif, tanpa kesalahan tata bahasa atau ejaan. Kalimat disusun dengan baik dan mudah dipahami."
+        }
+      },
+      "weighted_score": 3.3,
+      "justification": "{\"Pemahaman Konten\": {\"grade\": \"B\", \"justification\": \"Mahasiswa menunjukkan pemahaman yang baik dengan menambahkan fitur notifikasi yang relevan dengan proyek. Meskipun tidak ada perubahan besar, penambahan fitur menunjukkan pemahaman yang solid terhadap kebutuhan proyek.\"}, \"Organisasi & Struktur\": {\"grade\": \"A\", \"justification\": \"Jawaban terstruktur dengan baik, dimulai dengan pernyataan bahwa tidak ada perubahan besar dan diikuti dengan penjelasan fitur baru. Alur logika mudah diikuti dan terorganisir dengan jelas.\"}, \"Argumen & Bukti\": {\"grade\": \"B\", \"justification\": \"Penjelasan mengenai penambahan fitur notifikasi cukup jelas dan menunjukkan manfaatnya. Namun, akan lebih kuat jika disertai contoh spesifik atau bukti dari hasil proyek yang menunjukkan dampak fitur tersebut.\"}, \"Gaya Bahasa & Mekanik\": {\"grade\": \"A\", \"justification\": \"Bahasa yang digunakan jelas dan efektif, tanpa kesalahan tata bahasa atau ejaan. Kalimat disusun dengan baik dan mudah dipahami.\"}}",
+      "overall_comment": "Jawaban menunjukkan pemahaman yang baik dan terstruktur dengan baik. Penambahan fitur notifikasi adalah langkah positif yang meningkatkan nilai proyek.",
+      "metadata": {
+        "tokens_used": 2029,
+        "api_call_time": 6.642409563064575,
+        "timestamp": "2025-12-10T21:03:31.150963"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": "1.\tTulislah Konsep kerangka proposal penelitian dari capstone project kamu yang mencakup:\n1.\tLatar belakang masalah\n2.\tMasalah penelitian (rumusan masalah)\n3.\tTujuan penelitian\n4.\tCara atau metode yang akan kamu gunakan \n(20 poin)",
+      "answer": "Latar belakang masalah: Kualitas udara dalam ruangan yang buruk dapat menyebabkan masalah kesehatan, seperti gangguan pernapasan dan alergi. Masalah penelitian: Bagaimana cara memonitor kualitas udara secara real-time dan memberikan peringatan kepada pengguna jika kualitas udara menurun? Tujuan penelitian: Membangun sistem pemantauan kualitas udara berbasis IoT yang dapat memberikan data kualitas udara secara real-time kepada pengguna dan memberikan peringatan jika terjadi penurunan kualitas udara. Metode: Menggunakan sensor kualitas udara MQ-135 untuk mendeteksi polutan, mikrokontroler ESP32 untuk pengolahan data dan komunikasi, serta Firebase untuk penyimpanan data dan pengiriman notifikasi.",
+      "grades": {
+        "Pemahaman Konten": {
+          "grade": "A",
+          "justification": "Mahasiswa menunjukkan pemahaman yang mendalam dan akurat tentang konsep pemantauan kualitas udara berbasis IoT. Semua elemen yang diminta dalam pertanyaan, seperti latar belakang, masalah penelitian, tujuan, dan metode, dijelaskan dengan baik dan lengkap. Tidak ada kesalahan konseptual yang ditemukan."
+        },
+        "Organisasi & Struktur": {
+          "grade": "A",
+          "justification": "Struktur esai sangat jelas dengan pembagian yang tepat antara latar belakang, masalah penelitian, tujuan, dan metode. Alur logika mudah diikuti dan setiap bagian terhubung dengan baik, menunjukkan organisasi yang sangat baik."
+        },
+        "Argumen & Bukti": {
+          "grade": "B",
+          "justification": "Mahasiswa memberikan penjelasan yang jelas dan mendukung argumen dengan detail yang cukup. Namun, analisis lebih mendalam atau contoh tambahan dari sumber terpercaya bisa memperkuat argumen lebih jauh."
+        },
+        "Gaya Bahasa & Mekanik": {
+          "grade": "A",
+          "justification": "Bahasa yang digunakan efektif dan akademik dengan sedikit atau tanpa kesalahan tata bahasa. Ejaan sempurna dan variasi kalimat baik, membuat esai mudah dibaca dan dipahami."
+        }
+      },
+      "weighted_score": 3.9,
+      "justification": "{\"Pemahaman Konten\": {\"grade\": \"A\", \"justification\": \"Mahasiswa menunjukkan pemahaman yang mendalam dan akurat tentang konsep pemantauan kualitas udara berbasis IoT. Semua elemen yang diminta dalam pertanyaan, seperti latar belakang, masalah penelitian, tujuan, dan metode, dijelaskan dengan baik dan lengkap. Tidak ada kesalahan konseptual yang ditemukan.\"}, \"Organisasi & Struktur\": {\"grade\": \"A\", \"justification\": \"Struktur esai sangat jelas dengan pembagian yang tepat antara latar belakang, masalah penelitian, tujuan, dan metode. Alur logika mudah diikuti dan setiap bagian terhubung dengan baik, menunjukkan organisasi yang sangat baik.\"}, \"Argumen & Bukti\": {\"grade\": \"B\", \"justification\": \"Mahasiswa memberikan penjelasan yang jelas dan mendukung argumen dengan detail yang cukup. Namun, analisis lebih mendalam atau contoh tambahan dari sumber terpercaya bisa memperkuat argumen lebih jauh.\"}, \"Gaya Bahasa & Mekanik\": {\"grade\": \"A\", \"justification\": \"Bahasa yang digunakan efektif dan akademik dengan sedikit atau tanpa kesalahan tata bahasa. Ejaan sempurna dan variasi kalimat baik, membuat esai mudah dibaca dan dipahami.\"}}",
+      "overall_comment": "Esai ini menunjukkan pemahaman yang kuat dan terstruktur dengan baik. Sedikit penambahan analisis bisa meningkatkan kualitas argumen lebih lanjut.",
+      "metadata": {
+        "tokens_used": 2190,
+        "api_call_time": 6.522396087646484,
+        "timestamp": "2025-12-10T21:03:37.698018"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": "2.\tJelaskan bagaimana proposal penelitianmu bisa membantu mengembangkan ilmu pengetahuan atau teknologi di bidangmu. (10 poin)",
+      "answer": "Proposal ini dapat membantu mengembangkan teknologi pemantauan kualitas udara berbasis IoT yang lebih canggih, dan membuka peluang untuk pengembangan alat rumah tangga pintar lainnya yang dapat memonitor dan mengelola kualitas lingkungan secara otomatis.",
+      "grades": {
+        "Pemahaman Konten": {
+          "grade": "B",
+          "justification": "Mahasiswa menunjukkan pemahaman yang baik tentang bagaimana proposalnya dapat mengembangkan teknologi pemantauan kualitas udara berbasis IoT. Namun, penjelasan tidak mendalam dan tidak memberikan detail spesifik tentang bagaimana pengembangan ini akan dilakukan, sehingga tidak memenuhi kriteria untuk nilai A."
+        },
+        "Organisasi & Struktur": {
+          "grade": "B",
+          "justification": "Jawaban mahasiswa terstruktur dengan baik meskipun singkat. Ide-ide disampaikan dengan jelas dan alur logika dapat diikuti dengan mudah. Namun, karena jawaban sangat singkat, tidak ada pengembangan lebih lanjut yang dapat memperkuat struktur esai."
+        },
+        "Argumen & Bukti": {
+          "grade": "C",
+          "justification": "Mahasiswa memberikan argumen dasar tentang pengembangan teknologi, tetapi kurang memberikan contoh atau bukti spesifik yang mendukung klaim tersebut. Analisis yang lebih mendalam dan bukti pendukung akan meningkatkan kekuatan argumen."
+        },
+        "Gaya Bahasa & Mekanik": {
+          "grade": "A",
+          "justification": "Bahasa yang digunakan jelas dan efektif, tanpa kesalahan tata bahasa atau ejaan yang terlihat. Kalimat disusun dengan baik dan mudah dipahami, menunjukkan penggunaan bahasa akademik yang baik."
+        }
+      },
+      "weighted_score": 3.0,
+      "justification": "{\"Pemahaman Konten\": {\"grade\": \"B\", \"justification\": \"Mahasiswa menunjukkan pemahaman yang baik tentang bagaimana proposalnya dapat mengembangkan teknologi pemantauan kualitas udara berbasis IoT. Namun, penjelasan tidak mendalam dan tidak memberikan detail spesifik tentang bagaimana pengembangan ini akan dilakukan, sehingga tidak memenuhi kriteria untuk nilai A.\"}, \"Organisasi & Struktur\": {\"grade\": \"B\", \"justification\": \"Jawaban mahasiswa terstruktur dengan baik meskipun singkat. Ide-ide disampaikan dengan jelas dan alur logika dapat diikuti dengan mudah. Namun, karena jawaban sangat singkat, tidak ada pengembangan lebih lanjut yang dapat memperkuat struktur esai.\"}, \"Argumen & Bukti\": {\"grade\": \"C\", \"justification\": \"Mahasiswa memberikan argumen dasar tentang pengembangan teknologi, tetapi kurang memberikan contoh atau bukti spesifik yang mendukung klaim tersebut. Analisis yang lebih mendalam dan bukti pendukung akan meningkatkan kekuatan argumen.\"}, \"Gaya Bahasa & Mekanik\": {\"grade\": \"A\", \"justification\": \"Bahasa yang digunakan jelas dan efektif, tanpa kesalahan tata bahasa atau ejaan yang terlihat. Kalimat disusun dengan baik dan mudah dipahami, menunjukkan penggunaan bahasa akademik yang baik.\"}}",
+      "overall_comment": "Jawaban mahasiswa menunjukkan pemahaman yang baik, tetapi dapat ditingkatkan dengan lebih banyak detail dan bukti pendukung.",
+      "metadata": {
+        "tokens_used": 2060,
+        "api_call_time": 8.183960676193237,
+        "timestamp": "2025-12-10T21:03:45.901842"
+      }
+    }
+  ]
+}

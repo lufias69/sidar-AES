@@ -1,0 +1,7 @@
+model,strategy,total_predictions,correct,correct_pct,over_by_1,over_by_1_pct,over_by_2,over_by_2_pct,over_by_3plus,over_by_3plus_pct,under_by_1,under_by_1_pct,under_by_2,under_by_2_pct,under_by_3plus,under_by_3plus_pct,total_overgrading,total_overgrading_pct,total_undergrading,total_undergrading_pct
+chatgpt,few-shot,910,554,60.88,116,12.75,12,1.32,0,0.0,172,18.9,56,6.15,0,0.0,128,14.07,228,25.05
+chatgpt,lenient,936,338,36.11,408,43.59,110,11.75,0,0.0,80,8.55,0,0.0,0,0.0,518,55.34,80,8.55
+chatgpt,zero-shot,910,568,62.42,110,12.09,6,0.66,0,0.0,166,18.24,60,6.59,0,0.0,116,12.75,226,24.84
+gemini,few-shot,834,374,44.84,176,21.1,12,1.44,0,0.0,216,25.9,56,6.71,0,0.0,188,22.54,272,32.61
+gemini,lenient,868,412,47.47,294,33.87,102,11.75,0,0.0,60,6.91,0,0.0,0,0.0,396,45.62,60,6.91
+gemini,zero-shot,840,392,46.67,242,28.81,4,0.48,0,0.0,180,21.43,22,2.62,0,0.0,246,29.29,202,24.05

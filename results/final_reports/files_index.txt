@@ -1,0 +1,84 @@
+================================================================================
+COMPLETE ANALYSIS OUTPUT INDEX
+================================================================================
+
+Generated: December 14, 2025 11:36:23
+Project Directory: E:\project\AES
+
+## LENIENT ANALYSIS
+--------------------------------------------------------------------------------
+  data_summary.txt                                   (     1.7 KB)
+  lenient_chatgpt.csv                                (  2285.5 KB)
+  lenient_full_data.csv                              (  4669.6 KB)
+  lenient_gemini.csv                                 (  2384.4 KB)
+  lenient_summary.txt                                (     1.9 KB)
+
+Subtotal: 5 files
+
+## RQ1 RELIABILITY
+--------------------------------------------------------------------------------
+  agreement_by_grade.png                             (   101.6 KB)
+  agreement_comparison.png                           (   290.3 KB)
+  confusion_matrix_chatgpt.png                       (   157.7 KB)
+  confusion_matrix_gemini.png                        (   149.4 KB)
+  per_grade_performance.png                          (   132.8 KB)
+  summary_table.txt                                  (     3.2 KB)
+
+Subtotal: 6 files
+
+## RQ2 CONSISTENCY
+--------------------------------------------------------------------------------
+  consistency_heatmap_chatgpt.png                    (   269.0 KB)
+  consistency_heatmap_gemini.png                     (   253.7 KB)
+  icc_by_question_chatgpt.png                        (   211.5 KB)
+  icc_by_question_gemini.png                         (   211.7 KB)
+  reliability_summary.png                            (   273.0 KB)
+  summary_table.txt                                  (     2.2 KB)
+  variance_decomposition.png                         (   116.4 KB)
+
+Subtotal: 7 files
+
+## RQ3 MODEL COMPARISON
+--------------------------------------------------------------------------------
+  agreement_comparison.png                           (   333.5 KB)
+  efficiency_comparison.png                          (  8788.7 KB)
+  performance_summary.txt                            (     1.5 KB)
+  score_comparison.png                               (   455.4 KB)
+  statistical_tests.txt                              (     2.1 KB)
+  win_loss_tie_analysis.png                          (   178.1 KB)
+
+Subtotal: 6 files
+
+## RQ4 ERROR ANALYSIS
+--------------------------------------------------------------------------------
+  confusion_matrices.png                             (   191.2 KB)
+  detailed_breakdown.txt                             (     2.3 KB)
+  error_by_question.png                              (   206.8 KB)
+  error_distribution.png                             (   328.4 KB)
+  error_magnitude.png                                (   297.7 KB)
+  error_summary.txt                                  (     2.5 KB)
+
+Subtotal: 6 files
+
+## RQ5 PRACTICAL IMPLICATIONS
+--------------------------------------------------------------------------------
+  cost_comparison.png                                ( 19868.1 KB)
+  deployment_recommendations.txt                     (     3.1 KB)
+  operational_metrics.txt                            (     2.4 KB)
+  scalability_projections.png                        ( 15103.1 KB)
+  throughput_comparison.png                          (  8784.3 KB)
+
+Subtotal: 5 files
+
+## FINAL REPORTS
+--------------------------------------------------------------------------------
+  executive_summary.txt                              (     4.8 KB)
+  files_index.txt                                    (     0.0 KB)
+  full_research_report.md                            (    12.2 KB)
+  journal_submission_draft.md                        (     5.5 KB)
+
+Subtotal: 4 files
+
+================================================================================
+TOTAL FILES GENERATED: 39
+================================================================================

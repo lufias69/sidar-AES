@@ -1,0 +1,468 @@
+{
+  "student_index": 14,
+  "student_name": "Mahasiswa 15",
+  "questions": [
+    {
+      "question": "1.\tJelaskan singkat tentang topik capstone project yang sedang kamu kerjakan. Apa masalah utama yang ingin kamu selesaikan dan apa tujuan dari proyek tersebut? (15 poin)",
+      "answer": "Saya sedang mengembangkan aplikasi untuk memantau pola tidur. Masalah yang ingin saya selesaikan adalah kebiasaan tidur yang buruk yang mempengaruhi kesehatan. Tujuan proyek ini adalah memberikan rekomendasi untuk tidur yang lebih baik berdasarkan data yang dikumpulkan.",
+      "chatgpt": {
+        "student_id": "Mahasiswa 15",
+        "question_id": "Q1",
+        "trial": 1,
+        "model": "gpt-4o",
+        "scores": {
+          "Pemahaman Konten": {
+            "grade": "B",
+            "justification": "The student demonstrates a good understanding of the project topic by identifying the problem of poor sleep habits affecting health and the goal of providing sleep recommendations. However, the explanation lacks depth and detail about how the application will achieve these goals, which prevents it from reaching an 'A' level."
+          },
+          "Organisasi & Struktur": {
+            "grade": "A",
+            "justification": "The response is well-organized with a clear structure. The student introduces the project, identifies the problem, and states the goal in a logical sequence, making it easy to follow the thought process. The concise nature of the response contributes to its clarity."
+          },
+          "Argumen & Bukti": {
+            "grade": "C",
+            "justification": "The argument is presented but lacks detail and supporting evidence. While the student states the problem and goal, there are no examples or analysis provided to strengthen the argument. The response would benefit from more specific details or examples of how the application will function."
+          },
+          "Gaya Bahasa & Mekanik": {
+            "grade": "A",
+            "justification": "The language used is clear and effective, with no noticeable grammatical or spelling errors. The sentence structure is varied and appropriate for the academic context, contributing to the overall readability of the response."
+          }
+        },
+        "weighted_score": 3.2,
+        "overall_comment": "The essay provides a clear and concise overview of the capstone project but would benefit from more detailed explanations and examples to fully meet the highest standards of content understanding and argument support.",
+        "metadata": {
+          "tokens": 1902,
+          "api_call_time": 7.453682899475098
+        },
+        "timestamp": "2025-12-10T12:28:07.492039"
+      },
+      "gemini": {
+        "student_id": "Mahasiswa 15",
+        "question_id": "Q1",
+        "trial": 1,
+        "model": "gemini-2.0-flash-exp",
+        "scores": {
+          "Pemahaman Konten": {
+            "grade": "B",
+            "justification": "The student demonstrates a good understanding of the project's core concept. They accurately identify the problem (poor sleep habits) and the project's goal (providing recommendations). However, the explanation lacks depth and detail; it could benefit from elaborating on the specific data collected and the types of recommendations provided. The response is mostly complete but could be more thorough to achieve an 'A'."
+          },
+          "Organisasi & Struktur": {
+            "grade": "A",
+            "justification": "The response is well-organized and follows a clear structure. It directly addresses the prompt by first stating the project topic, then the problem, and finally the goal. The logical flow is easy to follow, making the information readily accessible."
+          },
+          "Argumen & Bukti": {
+            "grade": "C",
+            "justification": "The response lacks specific details and supporting evidence. While the student identifies the problem and goal, they don't provide any examples of how the app will collect data or what kind of recommendations it will offer. The argument is weak due to the absence of concrete examples or further elaboration."
+          },
+          "Gaya Bahasa & Mekanik": {
+            "grade": "A",
+            "justification": "The language used is effective and clear. There are no grammatical errors or spelling mistakes. The writing style is concise and easy to understand, contributing to the overall clarity of the response."
+          }
+        },
+        "weighted_score": 3.2,
+        "overall_comment": "The student provides a basic overview of their capstone project. While the response is clear and well-organized, it lacks depth and specific details, particularly regarding the project's implementation and the evidence supporting its claims.",
+        "metadata": {
+          "tokens": 1937,
+          "api_call_time": 3.743607521057129
+        },
+        "timestamp": "2025-12-10T12:28:11.236213"
+      }
+    },
+    {
+      "question": "2.\tSebutkan dan jelaskan tiga teknologi, alat, atau cara yang kamu pakai dalam capstone project ini. Kenapa kamu memilih yang tersebut? (15 poin)",
+      "answer": "Menggunakan sensor detak jantung, aplikasi Android, dan Firebase untuk backend. Sensor mendeteksi detak jantung untuk menganalisis kualitas tidur, Android untuk antarmuka, dan Firebase untuk penyimpanan data.",
+      "chatgpt": {
+        "student_id": "Mahasiswa 15",
+        "question_id": "Q2",
+        "trial": 1,
+        "model": "gpt-4o",
+        "scores": {
+          "Pemahaman Konten": {
+            "grade": "C",
+            "justification": "The student lists three technologies used in the project but provides minimal explanation for each. The answer lacks depth and completeness, as it does not elaborate on how each technology functions or why they were specifically chosen. This indicates a basic understanding without detailed insight."
+          },
+          "Organisasi & Struktur": {
+            "grade": "C",
+            "justification": "The response is brief and lacks a clear structure. There is no introduction or conclusion, and the explanation of each technology is presented in a list format without logical transitions. The organization is minimal and does not guide the reader through the reasoning process."
+          },
+          "Argumen & Bukti": {
+            "grade": "D/E",
+            "justification": "The response does not provide any arguments or supporting evidence for the choice of technologies. There are no examples or analysis provided to justify why these technologies were selected over others, resulting in a lack of depth and support for the claims made."
+          },
+          "Gaya Bahasa & Mekanik": {
+            "grade": "B",
+            "justification": "The language used is clear and free of major grammatical errors. However, the style is very basic and lacks variation, which makes the explanation seem simplistic. Despite this, the response is understandable and communicates the basic information effectively."
+          }
+        },
+        "weighted_score": 2.0,
+        "overall_comment": "The essay provides a basic list of technologies used but lacks depth, structure, and supporting arguments, which limits its effectiveness in conveying a comprehensive understanding of the project choices.",
+        "metadata": {
+          "tokens": 1886,
+          "api_call_time": 8.084115505218506
+        },
+        "timestamp": "2025-12-10T12:28:19.321066"
+      },
+      "gemini": {
+        "student_id": "Mahasiswa 15",
+        "question_id": "Q2",
+        "trial": 1,
+        "model": "gemini-2.0-flash-exp",
+        "scores": {
+          "Pemahaman Konten": {
+            "grade": "B",
+            "justification": "The student demonstrates a good understanding of the technologies used, accurately identifying the sensor, Android application, and Firebase. The explanation of each technology's role is present, although it could be more detailed. For example, the student mentions Firebase for data storage but could elaborate on the specific Firebase services used (e.g., Firestore, Realtime Database)."
+          },
+          "Organisasi & Struktur": {
+            "grade": "B",
+            "justification": "The response is organized and easy to follow. The student lists the technologies and then briefly explains each one. While there isn't a formal introduction or conclusion, the structure is clear enough for this short answer format, making the logic easy to follow."
+          },
+          "Argumen & Bukti": {
+            "grade": "B",
+            "justification": "The student provides a basic justification for choosing each technology, linking it to its function in the project (e.g., Android for the interface). The justifications are clear but could be strengthened with more specific details about why these particular technologies were chosen over alternatives. The student provides sufficient detail for this short answer."
+          },
+          "Gaya Bahasa & Mekanik": {
+            "grade": "A",
+            "justification": "The language is clear and effective. There are no grammatical errors or spelling mistakes. The writing style is concise and appropriate for the question asked, demonstrating a good command of the language."
+          }
+        },
+        "weighted_score": 3.1,
+        "overall_comment": "The student provides a clear and concise answer, demonstrating a good understanding of the technologies used in their capstone project. Further detail in the justifications would elevate the response.",
+        "metadata": {
+          "tokens": 1916,
+          "api_call_time": 3.4512274265289307
+        },
+        "timestamp": "2025-12-10T12:28:22.772810"
+      }
+    },
+    {
+      "question": "3. Jelaskan manfaat atau kegunaan hasil capstone projectmu bagi orang lain atau bidang yang kamu tekuni. (10 poin)",
+      "answer": "Membantu orang memantau dan meningkatkan kualitas tidur mereka, yang penting untuk kesehatan jangka panjang.",
+      "chatgpt": {
+        "student_id": "Mahasiswa 15",
+        "question_id": "Q3",
+        "trial": 1,
+        "model": "gpt-4o",
+        "scores": {
+          "Pemahaman Konten": {
+            "grade": "D/E",
+            "justification": "The response lacks depth and completeness, providing only a very brief statement about the project's benefit. It does not demonstrate a deep understanding of the topic or provide any detailed explanation or insight into how the project improves sleep quality or its long-term health benefits."
+          },
+          "Organisasi & Struktur": {
+            "grade": "D/E",
+            "justification": "The response consists of a single sentence, lacking any clear structure or organization. There is no introduction, body, or conclusion, and the lack of transitions makes it difficult to follow any logical progression of ideas."
+          },
+          "Argumen & Bukti": {
+            "grade": "D/E",
+            "justification": "There is no clear argument or supporting evidence provided in the response. The statement is vague and lacks any specific examples or analysis that would strengthen the argument about the project's benefits."
+          },
+          "Gaya Bahasa & Mekanik": {
+            "grade": "B",
+            "justification": "The language used is clear and free from grammatical errors, but it is very basic and lacks any variation or complexity. While the sentence is correctly structured, the simplicity of the language does not enhance the effectiveness of the communication."
+          }
+        },
+        "weighted_score": 1.2,
+        "overall_comment": "The response is minimal and lacks the necessary depth and structure to effectively address the prompt. More detailed explanations and examples are needed to improve the quality of the essay.",
+        "metadata": {
+          "tokens": 1834,
+          "api_call_time": 4.962834119796753
+        },
+        "timestamp": "2025-12-10T12:28:27.736297"
+      },
+      "gemini": {
+        "student_id": "Mahasiswa 15",
+        "question_id": "Q3",
+        "trial": 1,
+        "model": "gemini-2.0-flash-exp",
+        "scores": {
+          "Pemahaman Konten": {
+            "grade": "B",
+            "justification": "The answer demonstrates a good understanding of the potential benefits of a capstone project related to sleep quality. It correctly identifies the link between sleep quality and long-term health. However, it lacks depth and detail in explaining the specific mechanisms or broader implications, thus not fully meeting the criteria for an 'A'."
+          },
+          "Organisasi & Struktur": {
+            "grade": "A",
+            "justification": "The response, though brief, presents a clear and concise statement of the benefit. The structure is simple and effective, directly addressing the prompt. There is a clear and easily followed logical flow, fulfilling the requirements for a high grade in organization and structure."
+          },
+          "Argumen & Bukti": {
+            "grade": "C",
+            "justification": "The response provides a basic argument for the benefit of the project but lacks specific details or evidence to support the claim. While the connection between sleep and health is generally known, the answer doesn't offer any specific examples or analysis to strengthen the argument. Therefore, it only meets the criteria for a 'C' grade."
+          },
+          "Gaya Bahasa & Mekanik": {
+            "grade": "A",
+            "justification": "The language used is clear, concise, and effective. There are no grammatical errors or spelling mistakes. The sentence structure is simple but appropriate for the length and scope of the answer, demonstrating effective communication skills."
+          }
+        },
+        "weighted_score": 3.2,
+        "overall_comment": "The answer is a good start but could benefit from more detail and specific examples to strengthen the argument.",
+        "metadata": {
+          "tokens": 1855,
+          "api_call_time": 3.5582547187805176
+        },
+        "timestamp": "2025-12-10T12:28:31.295003"
+      }
+    },
+    {
+      "question": "1.Ceritakan tahap-tahap pengerjaan capstone project dari awal sampai sekarang. Sebutkan juga hal penting atau target yang sudah kamu capai. (15 poin)",
+      "answer": "Mengembangkan aplikasi dengan Android Studio, menghubungkan sensor dengan aplikasi, dan mengintegrasikan dengan Firebase untuk penyimpanan data.",
+      "chatgpt": {
+        "student_id": "Mahasiswa 15",
+        "question_id": "Q4",
+        "trial": 1,
+        "model": "gpt-4o",
+        "scores": {
+          "Pemahaman Konten": {
+            "grade": "D/E",
+            "justification": "The response lacks depth and completeness. It only lists three tasks without any explanation or detail about the stages of the capstone project. There is no mention of important achievements or targets reached, indicating a fundamental misunderstanding of the prompt."
+          },
+          "Organisasi & Struktur": {
+            "grade": "D/E",
+            "justification": "The response is a single sentence with no clear structure. There is no introduction, body, or conclusion, and the ideas are presented in a list-like manner without logical flow or transitions."
+          },
+          "Argumen & Bukti": {
+            "grade": "D/E",
+            "justification": "There are no arguments or evidence provided in the response. The tasks listed are not supported by any examples or analysis, making the response lack depth and relevance to the prompt."
+          },
+          "Gaya Bahasa & Mekanik": {
+            "grade": "C",
+            "justification": "The language used is clear and free from grammatical errors, but it is very basic and lacks variety. The response is concise but overly simplistic, which limits its effectiveness in conveying a comprehensive understanding."
+          }
+        },
+        "weighted_score": 1.1,
+        "overall_comment": "The response is minimalistic and fails to address the prompt's requirements. It needs significant expansion and detail to demonstrate a thorough understanding of the capstone project's stages and achievements.",
+        "metadata": {
+          "tokens": 1836,
+          "api_call_time": 4.635833740234375
+        },
+        "timestamp": "2025-12-10T12:28:35.931617"
+      },
+      "gemini": {
+        "student_id": "Mahasiswa 15",
+        "question_id": "Q4",
+        "trial": 1,
+        "model": "gemini-2.0-flash-exp",
+        "scores": {
+          "Pemahaman Konten": {
+            "grade": "C",
+            "justification": "The answer demonstrates a basic understanding of the project's components, mentioning Android Studio, sensor integration, and Firebase. However, it lacks depth and detail regarding the specific steps and challenges involved in each stage. The response doesn't fully address the prompt's request for a detailed account of the capstone project's phases, indicating a less-than-complete understanding of the project's progression."
+          },
+          "Organisasi & Struktur": {
+            "grade": "D/E",
+            "justification": "The response lacks any discernible structure or organization. It presents a list of activities without any logical flow or connection between them. There is no introduction, body, or conclusion, making it difficult to understand the sequence of events or the overall project narrative."
+          },
+          "Argumen & Bukti": {
+            "grade": "D/E",
+            "justification": "The response provides no arguments or evidence to support the claims made. It simply lists activities without explaining their significance or providing any context. There are no examples or analysis to demonstrate the student's understanding or the project's impact."
+          },
+          "Gaya Bahasa & Mekanik": {
+            "grade": "B",
+            "justification": "The language is clear and understandable, with no significant grammatical errors. However, the writing style is very basic and lacks detail. While the mechanics are sound, the overall quality of the writing could be improved with more descriptive language and elaboration."
+          }
+        },
+        "weighted_score": 1.8,
+        "overall_comment": "The response is very brief and lacks the depth and detail required to fully answer the prompt. It needs significant improvement in terms of content, organization, and argumentation.",
+        "metadata": {
+          "tokens": 1905,
+          "api_call_time": 3.5329205989837646
+        },
+        "timestamp": "2025-12-10T12:28:39.465050"
+      }
+    },
+    {
+      "question": "3. Apakah ada perubahan pada rencana (ingin mengubah project) atau cara pengerjaan selama proyek berjalan? Jika iya, jelaskan apa yang berubah dan bagaimana pengaruhnya ke hasil proyek. (10 poin)",
+      "answer": "Menambah fitur untuk menganalisis pola tidur dalam jangka waktu lebih panjang.",
+      "chatgpt": {
+        "student_id": "Mahasiswa 15",
+        "question_id": "Q5",
+        "trial": 1,
+        "model": "gpt-4o",
+        "scores": {
+          "Pemahaman Konten": {
+            "grade": "D/E",
+            "justification": "The response lacks depth and completeness. It only mentions the addition of a feature to analyze sleep patterns over a longer period without explaining the changes in the project plan or its impact on the project outcome. This indicates a fundamental misunderstanding of the prompt."
+          },
+          "Organisasi & Struktur": {
+            "grade": "D/E",
+            "justification": "The response is a single sentence without any clear structure. There is no introduction, body, or conclusion, and the lack of organization makes it difficult to follow any logical progression of ideas."
+          },
+          "Argumen & Bukti": {
+            "grade": "D/E",
+            "justification": "There is no argument or evidence presented in the response. The statement is a mere mention of a feature addition without any supporting details, examples, or analysis to substantiate the claim or explain its relevance."
+          },
+          "Gaya Bahasa & Mekanik": {
+            "grade": "C",
+            "justification": "The language used is clear and free of grammatical errors, but the response is too brief to demonstrate effective academic writing. The lack of sentence variety and depth limits the overall quality of the writing style."
+          }
+        },
+        "weighted_score": 1.1,
+        "overall_comment": "The response is minimal and lacks the necessary detail and structure to effectively address the prompt. More comprehensive explanations and organization are needed to improve the quality of the essay.",
+        "metadata": {
+          "tokens": 1843,
+          "api_call_time": 4.6094419956207275
+        },
+        "timestamp": "2025-12-10T12:28:44.075307"
+      },
+      "gemini": {
+        "student_id": "Mahasiswa 15",
+        "question_id": "Q5",
+        "trial": 1,
+        "model": "gemini-2.0-flash-exp",
+        "scores": {
+          "Pemahaman Konten": {
+            "grade": "C",
+            "justification": "The answer identifies a change in the project plan (adding a feature), but it lacks depth and completeness. It doesn't explain *why* this feature was added, the impact on the project's scope, or any challenges encountered. The response demonstrates a basic understanding but misses key details required for a higher grade."
+          },
+          "Organisasi & Struktur": {
+            "grade": "D/E",
+            "justification": "The response consists of a single sentence, lacking any discernible structure. There's no introduction, body, or conclusion, and no logical flow. It's simply a statement without any supporting information or context."
+          },
+          "Argumen & Bukti": {
+            "grade": "D/E",
+            "justification": "The answer provides no argument or evidence to support the claim of adding a feature. There are no examples or analysis of how this change affected the project. The response is purely descriptive and lacks any argumentative elements."
+          },
+          "Gaya Bahasa & Mekanik": {
+            "grade": "B",
+            "justification": "The language is clear and grammatically correct, although very concise. There are no noticeable errors in grammar or spelling. However, the simplicity of the sentence limits the opportunity to demonstrate more advanced language skills."
+          }
+        },
+        "weighted_score": 1.8,
+        "overall_comment": "The response is minimal and lacks sufficient detail to fully answer the question. It identifies a change but fails to elaborate on the reasons, impact, or challenges associated with it.",
+        "metadata": {
+          "tokens": 1839,
+          "api_call_time": 3.370248317718506
+        },
+        "timestamp": "2025-12-10T12:28:47.446053"
+      }
+    },
+    {
+      "question": "1.\tTulislah Konsep kerangka proposal penelitian dari capstone project kamu yang mencakup:\n1.\tLatar belakang masalah\n2.\tMasalah penelitian (rumusan masalah)\n3.\tTujuan penelitian\n4.\tCara atau metode yang akan kamu gunakan \n(20 poin)",
+      "answer": "Latar belakang masalah: Pola tidur yang buruk mengganggu kesehatan. Masalah penelitian: Bagaimana memonitor kualitas tidur secara efektif. Tujuan penelitian: Membuat aplikasi untuk memantau dan memberikan rekomendasi tidur yang lebih baik. Metode: Penggunaan sensor detak jantung dan aplikasi mobile berbasis Android.",
+      "chatgpt": {
+        "student_id": "Mahasiswa 15",
+        "question_id": "Q6",
+        "trial": 1,
+        "model": "gpt-4o",
+        "scores": {
+          "Pemahaman Konten": {
+            "grade": "B",
+            "justification": "The student demonstrates a good understanding of the research proposal components by identifying the background, research problem, objective, and method. However, the explanation lacks depth and detail, particularly in the background and method sections, which limits the completeness of the content."
+          },
+          "Organisasi & Struktur": {
+            "grade": "A",
+            "justification": "The response is well-organized with a clear structure, presenting each component of the research proposal in a logical order. The concise format aids in maintaining a coherent flow, making it easy to follow the student's thought process."
+          },
+          "Argumen & Bukti": {
+            "grade": "C",
+            "justification": "While the student presents a basic argument for the research proposal, there is a lack of detailed explanation and supporting evidence for the chosen method and its effectiveness. The response would benefit from examples or further analysis to strengthen the argument."
+          },
+          "Gaya Bahasa & Mekanik": {
+            "grade": "A",
+            "justification": "The language used is clear and effective, with no noticeable grammatical or spelling errors. The concise style and appropriate terminology contribute to the clarity of the response, demonstrating good command of language mechanics."
+          }
+        },
+        "weighted_score": 3.2,
+        "overall_comment": "The student provides a solid foundation for a research proposal but could enhance the depth and support of their arguments to achieve a more comprehensive understanding.",
+        "metadata": {
+          "tokens": 1911,
+          "api_call_time": 4.676188230514526
+        },
+        "timestamp": "2025-12-10T12:28:52.123019"
+      },
+      "gemini": {
+        "student_id": "Mahasiswa 15",
+        "question_id": "Q6",
+        "trial": 1,
+        "model": "gemini-2.0-flash-exp",
+        "scores": {
+          "Pemahaman Konten": {
+            "grade": "B",
+            "justification": "The student demonstrates a good understanding of the required components of a research proposal. They accurately identify the background, problem, objective, and method. However, the depth of understanding could be improved with more detailed explanations for each component, moving it from 'cukup mendalam' to 'mendalam'."
+          },
+          "Organisasi & Struktur": {
+            "grade": "B",
+            "justification": "The response is organized by presenting each component sequentially as requested in the prompt. While the structure is clear, there are no explicit transitions between the sections, but the implicit structure of answering each point in order makes it 'cukup terorganisir'. A more detailed response would include explicit headings or transitions."
+          },
+          "Argumen & Bukti": {
+            "grade": "C",
+            "justification": "The response lacks detailed explanations and supporting evidence. The 'argumen' for each section is minimal, and there are no examples or further analysis provided. For instance, the background is stated very generally, and the method is simply named without elaboration, making the 'penjelasan kurang detail'."
+          },
+          "Gaya Bahasa & Mekanik": {
+            "grade": "B",
+            "justification": "The language is clear and understandable, with only minor errors. The response uses appropriate vocabulary and sentence structure. While there are no significant grammatical issues, the writing style could be more sophisticated to achieve a higher grade, but it is generally 'jelas dan efektif'."
+          }
+        },
+        "weighted_score": 2.9,
+        "overall_comment": "The student provides a basic outline of a research proposal. Expanding on each section with more detail and evidence would significantly improve the quality of the response.",
+        "metadata": {
+          "tokens": 1970,
+          "api_call_time": 3.7974789142608643
+        },
+        "timestamp": "2025-12-10T12:28:55.920984"
+      }
+    },
+    {
+      "question": "2.\tJelaskan bagaimana proposal penelitianmu bisa membantu mengembangkan ilmu pengetahuan atau teknologi di bidangmu. (10 poin)",
+      "answer": "Penelitian ini dapat membantu mengembangkan aplikasi kesehatan untuk pola tidur yang lebih baik, yang penting untuk kualitas hidup yang lebih sehat.",
+      "chatgpt": {
+        "student_id": "Mahasiswa 15",
+        "question_id": "Q7",
+        "trial": 1,
+        "model": "gpt-4o",
+        "scores": {
+          "Pemahaman Konten": {
+            "grade": "D/E",
+            "justification": "The response lacks depth and accuracy in understanding the subject matter. It only mentions the development of a health application for better sleep patterns without any detailed explanation or insight into how this contributes to the field. This minimal explanation does not demonstrate an adequate understanding of the topic."
+          },
+          "Organisasi & Struktur": {
+            "grade": "D/E",
+            "justification": "The essay is not well-organized, consisting of only a single sentence. There is no clear structure with an introduction, body, or conclusion, making it difficult to follow any logical progression. The lack of organization impedes the clarity of the argument."
+          },
+          "Argumen & Bukti": {
+            "grade": "D/E",
+            "justification": "There is no clear argument or supporting evidence provided in the response. The statement is vague and lacks any specific examples or analysis to support the claim that the research will contribute to the field. Without evidence or detailed explanation, the argument is weak."
+          },
+          "Gaya Bahasa & Mekanik": {
+            "grade": "C",
+            "justification": "The language is clear but very basic, with no variation in sentence structure. There are no grammatical or spelling errors, but the simplicity of the language and lack of complexity in sentence construction limit the effectiveness of communication."
+          }
+        },
+        "weighted_score": 1.1,
+        "overall_comment": "The response is minimal and lacks depth in all evaluated criteria. More detail and structure are needed to effectively communicate the potential impact of the research.",
+        "metadata": {
+          "tokens": 1856,
+          "api_call_time": 4.453526258468628
+        },
+        "timestamp": "2025-12-10T12:29:00.375200"
+      },
+      "gemini": {
+        "student_id": "Mahasiswa 15",
+        "question_id": "Q7",
+        "trial": 1,
+        "model": "gemini-2.0-flash-exp",
+        "scores": {
+          "Pemahaman Konten": {
+            "grade": "B",
+            "justification": "The answer demonstrates a good understanding of how the research could contribute to the field. It identifies a specific application (health app for better sleep) and its potential impact (improved quality of life). However, the explanation lacks depth and could benefit from further elaboration on the specific scientific or technological advancements that the research would enable."
+          },
+          "Organisasi & Struktur": {
+            "grade": "A",
+            "justification": "The response is concise and presents a clear, direct answer to the prompt. It follows a simple structure, making the idea easy to understand. There is a clear and logical flow of thought, even within the brevity of the response."
+          },
+          "Argumen & Bukti": {
+            "grade": "C",
+            "justification": "The argument is present but lacks detail and supporting evidence. While it mentions the application and its benefit, it doesn't delve into the specifics of how the research would achieve this or provide any examples. The response would be stronger with a more detailed explanation and some supporting evidence or examples."
+          },
+          "Gaya Bahasa & Mekanik": {
+            "grade": "A",
+            "justification": "The language used is effective and clear. There are no grammatical errors or spelling mistakes. The sentence structure is simple but appropriate for the length and scope of the answer."
+          }
+        },
+        "weighted_score": 3.2,
+        "overall_comment": "The answer provides a basic but acceptable response. It could be improved by adding more detail and specific examples to strengthen the argument.",
+        "metadata": {
+          "tokens": 1857,
+          "api_call_time": 3.2998363971710205
+        },
+        "timestamp": "2025-12-10T12:29:03.675477"
+      }
+    }
+  ]
+}

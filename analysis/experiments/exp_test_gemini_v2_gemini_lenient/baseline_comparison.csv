@@ -1,0 +1,15 @@
+experiment_id,model,strategy,student_name,question_number,weighted_score_pred,status,timestamp,grade_pred,weighted_score_gold,grade_gold,score_diff,grade_match
+test_gemini_v2,gemini,lenient,Mahasiswa 1,1,3.2,completed,2025-12-10T15:11:48.414559,B,3.0,B,0.20000000000000018,True
+test_gemini_v2,gemini,lenient,Mahasiswa 1,1,3.2,completed,2025-12-10T15:11:48.414559,B,3.0,B,0.20000000000000018,True
+test_gemini_v2,gemini,lenient,Mahasiswa 1,2,2.3,completed,2025-12-10T15:11:52.132764,C,2.0,C,0.2999999999999998,True
+test_gemini_v2,gemini,lenient,Mahasiswa 1,2,2.3,completed,2025-12-10T15:11:52.132764,C,2.0,C,0.2999999999999998,True
+test_gemini_v2,gemini,lenient,Mahasiswa 1,3,3.2,completed,2025-12-10T15:11:56.044554,B,1.1,D,2.1,False
+test_gemini_v2,gemini,lenient,Mahasiswa 1,3,3.2,completed,2025-12-10T15:11:56.044554,B,1.1,D,2.1,False
+test_gemini_v2,gemini,lenient,Mahasiswa 1,4,1.8,completed,2025-12-10T15:11:59.869881,D,1.1,D,0.7,True
+test_gemini_v2,gemini,lenient,Mahasiswa 1,4,1.8,completed,2025-12-10T15:11:59.869881,D,1.1,D,0.7,True
+test_gemini_v2,gemini,lenient,Mahasiswa 1,5,1.8,completed,2025-12-10T15:12:03.983691,D,1.1,D,0.7,True
+test_gemini_v2,gemini,lenient,Mahasiswa 1,5,1.8,completed,2025-12-10T15:12:03.983691,D,1.1,D,0.7,True
+test_gemini_v2,gemini,lenient,Mahasiswa 1,6,2.9,completed,2025-12-10T15:12:08.163012,C,2.2,C,0.6999999999999997,True
+test_gemini_v2,gemini,lenient,Mahasiswa 1,6,2.9,completed,2025-12-10T15:12:08.163012,C,2.2,C,0.6999999999999997,True
+test_gemini_v2,gemini,lenient,Mahasiswa 1,7,1.8,completed,2025-12-10T15:12:12.268900,D,1.1,D,0.7,True
+test_gemini_v2,gemini,lenient,Mahasiswa 1,7,1.8,completed,2025-12-10T15:12:12.268900,D,1.1,D,0.7,True

@@ -1,0 +1,63 @@
+================================================================================
+BASELINE BATCH ANALYSIS - SUMMARY REPORT
+================================================================================
+
+Timestamp: 2025-12-10 12:35:57
+Total Students: 10
+Questions per Student: 7
+Total Graded: 70 essays
+
+================================================================================
+STUDENTS SUMMARY
+================================================================================
+
+1. Mahasiswa 16 (Index: 15)
+   ChatGPT Avg: 3.00
+   Gemini Avg: 3.13
+
+2. Mahasiswa 13 (Index: 12)
+   ChatGPT Avg: 2.16
+   Gemini Avg: 2.74
+
+3. Mahasiswa 14 (Index: 13)
+   ChatGPT Avg: 2.13
+   Gemini Avg: 2.73
+
+4. Mahasiswa 15 (Index: 14)
+   ChatGPT Avg: 1.84
+   Gemini Avg: 2.74
+
+5. Mahasiswa 12 (Index: 11)
+   ChatGPT Avg: 2.17
+   Gemini Avg: 2.74
+
+6. Mahasiswa 3 (Index: 2)
+   ChatGPT Avg: 2.03
+   Gemini Avg: 2.41
+
+7. Mahasiswa 2 (Index: 1)
+   ChatGPT Avg: 1.96
+   Gemini Avg: 2.34
+
+8. Mahasiswa 1 (Index: 0)
+   ChatGPT Avg: 1.66
+   Gemini Avg: 2.43
+
+9. Mahasiswa 8 (Index: 7)
+   ChatGPT Avg: 1.64
+   Gemini Avg: 2.27
+
+10. Mahasiswa 5 (Index: 4)
+   ChatGPT Avg: 1.47
+   Gemini Avg: 2.10
+
+================================================================================
+UNTUK DOSEN:
+================================================================================
+
+1. Review file individual per mahasiswa di folder ini
+2. Untuk setiap mahasiswa, check 7 pertanyaan
+3. Koreksi penilaian AI jika perlu
+4. Hasil koreksi → BASELINE (Gold Standard)
+5. File individual: student_XX_NamaMahasiswa.json
+6. Buka dengan text editor atau JSON viewer

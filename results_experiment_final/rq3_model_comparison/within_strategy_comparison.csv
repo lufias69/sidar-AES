@@ -1,0 +1,2 @@
+comparison,strategy,n_pairs,chatgpt_mean,gemini_mean,mean_diff,t_statistic,t_pvalue,wilcoxon_statistic,wilcoxon_pvalue,cohens_d,effect_size,wins,ties,losses,significant_t,significant_w
+ChatGPT vs Gemini (lenient),lenient,698,2.6228,2.6507,-0.0279,-1.428,0.153741,75895.5,0.853187,-0.0475,Negligible,302,145,251,No,No

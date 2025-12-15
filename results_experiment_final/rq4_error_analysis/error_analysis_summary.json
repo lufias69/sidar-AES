@@ -1,0 +1,53 @@
+{
+  "overall": {
+    "total_graded": 5298,
+    "models": [
+      "chatgpt",
+      "gemini"
+    ],
+    "strategies": [
+      "few-shot",
+      "lenient",
+      "zero-shot"
+    ]
+  },
+  "best_performer": {
+    "lowest_mae": {
+      "model": "chatgpt",
+      "strategy": "zero-shot",
+      "n_samples": 910,
+      "mae": 0.4424,
+      "rmse": 0.6982,
+      "bias": -0.2178,
+      "negligible_pct": 60.22,
+      "minor_pct": 23.96,
+      "major_pct": 8.57,
+      "critical_pct": 7.25,
+      "over_grading_pct": 12.75,
+      "accurate_pct": 62.42,
+      "under_grading_pct": 24.84
+    },
+    "lowest_bias": {
+      "model": "gemini",
+      "strategy": "zero-shot",
+      "n_samples": 840,
+      "mae": 0.5852,
+      "rmse": 0.7459,
+      "bias": 0.0443,
+      "negligible_pct": 45.48,
+      "minor_pct": 28.81,
+      "major_pct": 22.38,
+      "critical_pct": 3.33,
+      "over_grading_pct": 32.86,
+      "accurate_pct": 45.95,
+      "under_grading_pct": 21.19
+    }
+  },
+  "critical_errors": {
+    "total_count": 436,
+    "by_model": {
+      "chatgpt": 244,
+      "gemini": 192
+    }
+  }
+}

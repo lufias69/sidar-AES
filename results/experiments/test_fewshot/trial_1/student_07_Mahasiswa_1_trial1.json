@@ -1,0 +1,143 @@
+{
+  "student_id": "student_07",
+  "student_name": "Mahasiswa 1",
+  "experiment_id": "test_fewshot",
+  "trial": 1,
+  "model": "chatgpt",
+  "strategy": "few-shot",
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "1.\tJelaskan singkat tentang topik capstone project yang sedang kamu kerjakan. Apa masalah utama yang ingin kamu selesaikan dan apa tujuan dari proyek tersebut? (15 poin)",
+      "answer": "Membuat sistem pendeteksi hujan otomatis untuk jemuran. Masalah utama yang ingin saya selesaikan adalah pakaian yang basah karena hujan. Tujuan proyek ini adalah agar pakaian yang dijemur tetap kering meskipun hujan.",
+      "grades": {
+        "Pemahaman Konten": "B",
+        "Organisasi & Struktur": "C",
+        "Argumen & Bukti": "C",
+        "Gaya Bahasa & Mekanik": "B"
+      },
+      "weighted_score": 2.7,
+      "justification": "{\"Pemahaman Konten\": \"Mahasiswa menjelaskan masalah utama dan tujuan proyek dengan cukup jelas, yaitu mengatasi pakaian basah karena hujan dengan sistem pendeteksi hujan otomatis. Namun, penjelasan kurang mendalam dan tidak memberikan detail tentang bagaimana sistem ini akan bekerja atau teknologi yang digunakan.\", \"Organisasi & Struktur\": \"Struktur jawaban cukup sederhana dan langsung, tetapi kurang terorganisir dengan baik. Tidak ada pembagian yang jelas antara masalah, solusi, dan tujuan, serta tidak ada transisi yang menghubungkan ide-ide tersebut.\", \"Argumen & Bukti\": \"Jawaban memberikan argumen dasar tentang pentingnya proyek, namun tidak ada bukti atau contoh spesifik yang mendukung klaim tersebut. Penjelasan tentang bagaimana sistem ini akan memastikan pakaian tetap kering juga tidak disertakan.\", \"Gaya Bahasa & Mekanik\": \"Bahasa yang digunakan cukup jelas dan efektif, dengan sedikit atau tanpa kesalahan tata bahasa. Namun, variasi kalimat kurang dan penulisan bisa lebih detail untuk meningkatkan pemahaman.\"}",
+      "overall_comment": "Jawaban memberikan gambaran dasar tentang proyek tetapi kurang detail dan dukungan yang lebih mendalam. Struktur dan argumen dapat diperbaiki untuk meningkatkan kualitas penjelasan.",
+      "metadata": {
+        "tokens_used": 2263,
+        "api_call_time": 7.514661073684692,
+        "timestamp": "2025-12-10T14:11:30.369838"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": "2.\tSebutkan dan jelaskan tiga teknologi, alat, atau cara yang kamu pakai dalam capstone project ini. Kenapa kamu memilih yang tersebut? (15 poin)",
+      "answer": "Arduino, sensor hujan, alarm sensor. Arduino dipilih karena mudah diprogram dan murah. Sensor hujan untuk mendeteksi hujan, dan alarm untuk memberi peringatan.",
+      "grades": {
+        "Pemahaman Konten": "C",
+        "Organisasi & Struktur": "D/E",
+        "Argumen & Bukti": "C",
+        "Gaya Bahasa & Mekanik": "B"
+      },
+      "weighted_score": 1.9,
+      "justification": "{\"Pemahaman Konten\": \"Jawaban menyebutkan tiga teknologi atau alat yang digunakan, tetapi penjelasannya sangat minimal. Tidak ada detail tentang bagaimana setiap alat berfungsi atau bagaimana mereka saling berhubungan dalam proyek. Pemahaman dasar ada, tetapi kurang mendalam dan banyak bagian penting yang terlewat.\", \"Organisasi & Struktur\": \"Jawaban tidak terorganisir dengan baik dan tidak memiliki struktur yang jelas. Tidak ada pembagian yang jelas antara penjelasan setiap teknologi, dan alur logika sulit diikuti. Tidak ada transisi yang menghubungkan ide-ide yang disampaikan.\", \"Argumen & Bukti\": \"Alasan pemilihan teknologi diberikan, tetapi sangat sederhana dan kurang didukung dengan bukti atau analisis mendalam. Tidak ada perbandingan dengan alternatif lain atau penjelasan lebih lanjut tentang kelebihan dan kekurangan dari pilihan yang dibuat.\", \"Gaya Bahasa & Mekanik\": \"Bahasa yang digunakan cukup jelas dan efektif, meskipun sederhana. Tidak ada kesalahan tata bahasa yang signifikan, tetapi kalimatnya kurang bervariasi. Ejaan umumnya benar dan tidak mengganggu pemahaman.\"}",
+      "overall_comment": "Jawaban memberikan gambaran umum tentang teknologi yang digunakan, tetapi kurang detail dan struktur. Perlu penjelasan lebih mendalam dan organisasi yang lebih baik.",
+      "metadata": {
+        "tokens_used": 2265,
+        "api_call_time": 7.0250468254089355,
+        "timestamp": "2025-12-10T14:11:37.911980"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": "3. Jelaskan manfaat atau kegunaan hasil capstone projectmu bagi orang lain atau bidang yang kamu tekuni. (10 poin)",
+      "answer": "Membantu orang untuk menjemur pakaian tanpa khawatir hujan, menghemat waktu dan tenaga.",
+      "grades": {
+        "Pemahaman Konten": "C",
+        "Organisasi & Struktur": "D/E",
+        "Argumen & Bukti": "D/E",
+        "Gaya Bahasa & Mekanik": "B"
+      },
+      "weighted_score": 1.8,
+      "justification": "{\"Pemahaman Konten\": \"Jawaban mahasiswa menunjukkan pemahaman dasar tentang manfaat proyek, yaitu membantu menjemur pakaian tanpa khawatir hujan. Namun, penjelasan ini kurang mendalam dan tidak lengkap, karena tidak menjelaskan bagaimana mekanisme proyek tersebut bekerja atau dampak lebih luas yang dapat dihasilkan.\", \"Organisasi & Struktur\": \"Jawaban sangat singkat dan tidak memiliki struktur yang jelas. Tidak ada pembukaan, isi, atau penutup yang terorganisir dengan baik, sehingga sulit untuk mengikuti alur logika dari manfaat yang disebutkan.\", \"Argumen & Bukti\": \"Tidak ada argumen yang jelas atau bukti pendukung yang disertakan dalam jawaban. Pernyataan manfaat yang diberikan tidak didukung dengan contoh atau analisis yang relevan, sehingga sulit untuk menilai kekuatan argumen.\", \"Gaya Bahasa & Mekanik\": \"Bahasa yang digunakan jelas dan tidak ada kesalahan tata bahasa yang mencolok. Namun, karena jawaban sangat singkat, variasi kalimat dan kompleksitas bahasa tidak dapat dinilai secara mendalam.\"}",
+      "overall_comment": "Jawaban menunjukkan pemahaman dasar tetapi kurang mendalam dan terstruktur. Diperlukan penjelasan lebih lanjut dan dukungan argumen yang lebih kuat.",
+      "metadata": {
+        "tokens_used": 2228,
+        "api_call_time": 6.911557197570801,
+        "timestamp": "2025-12-10T14:11:45.341517"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": "1.Ceritakan tahap-tahap pengerjaan capstone project dari awal sampai sekarang. Sebutkan juga hal penting atau target yang sudah kamu capai. (15 poin)",
+      "answer": "Merancang sistem dengan Arduino dan sensor hujan, sudah membuat prototipe yang berfungsi.",
+      "grades": {
+        "Pemahaman Konten": "D/E",
+        "Organisasi & Struktur": "D/E",
+        "Argumen & Bukti": "D/E",
+        "Gaya Bahasa & Mekanik": "C"
+      },
+      "weighted_score": 1.1,
+      "justification": "{\"Pemahaman Konten\": \"Jawaban mahasiswa sangat singkat dan tidak memberikan informasi yang memadai tentang tahap-tahap pengerjaan proyek capstone. Tidak ada penjelasan mengenai proses atau langkah-langkah yang diambil, serta tidak ada detail tentang target yang telah dicapai.\", \"Organisasi & Struktur\": \"Jawaban tidak memiliki struktur yang jelas. Tidak ada pembagian yang terorganisir antara tahap-tahap yang berbeda atau penjelasan mengenai hal penting yang telah dicapai. Jawaban hanya berupa satu kalimat yang tidak terstruktur.\", \"Argumen & Bukti\": \"Tidak ada argumen atau bukti yang disajikan dalam jawaban ini. Mahasiswa tidak memberikan penjelasan atau contoh yang mendukung pernyataan mereka tentang pengerjaan proyek atau pencapaian target.\", \"Gaya Bahasa & Mekanik\": \"Bahasa yang digunakan cukup jelas dan tidak ada kesalahan tata bahasa yang mencolok. Namun, karena jawaban sangat singkat, tidak ada variasi kalimat atau penggunaan bahasa yang lebih kompleks.\"}",
+      "overall_comment": "Jawaban sangat minimal dan tidak memenuhi kriteria yang diharapkan untuk menjelaskan tahap-tahap proyek capstone.",
+      "metadata": {
+        "tokens_used": 2214,
+        "api_call_time": 5.36391544342041,
+        "timestamp": "2025-12-10T14:11:51.222252"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": "3. Apakah ada perubahan pada rencana (ingin mengubah project) atau cara pengerjaan selama proyek berjalan? Jika iya, jelaskan apa yang berubah dan bagaimana pengaruhnya ke hasil proyek. (10 poin)",
+      "answer": "Menambahkan sensor tambahan untuk meningkatkan akurasi.",
+      "grades": {
+        "Pemahaman Konten": "D/E",
+        "Organisasi & Struktur": "D/E",
+        "Argumen & Bukti": "D/E",
+        "Gaya Bahasa & Mekanik": "C"
+      },
+      "weighted_score": 1.1,
+      "justification": "{\"Pemahaman Konten\": \"Jawaban sangat minim dan tidak memberikan detail yang cukup mengenai perubahan yang dilakukan. Hanya menyebutkan penambahan sensor tanpa menjelaskan jenis sensor atau bagaimana hal ini mempengaruhi hasil proyek.\", \"Organisasi & Struktur\": \"Jawaban tidak memiliki struktur yang jelas. Tidak ada pengantar, penjelasan, atau kesimpulan yang dapat diidentifikasi. Jawaban berupa satu kalimat yang tidak terorganisir.\", \"Argumen & Bukti\": \"Tidak ada argumen atau bukti yang mendukung pernyataan. Jawaban tidak menjelaskan alasan penambahan sensor atau dampaknya terhadap akurasi proyek.\", \"Gaya Bahasa & Mekanik\": \"Bahasa yang digunakan jelas tetapi sangat singkat dan tidak memberikan informasi yang cukup. Tidak ada kesalahan tata bahasa, namun kalimatnya terlalu sederhana dan kurang variatif.\"}",
+      "overall_comment": "Jawaban perlu diperbaiki dengan menambahkan detail dan penjelasan yang lebih mendalam mengenai perubahan yang dilakukan dan dampaknya terhadap proyek.",
+      "metadata": {
+        "tokens_used": 2182,
+        "api_call_time": 4.6786768436431885,
+        "timestamp": "2025-12-10T14:11:56.419598"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": "1.\tTulislah Konsep kerangka proposal penelitian dari capstone project kamu yang mencakup:\n1.\tLatar belakang masalah\n2.\tMasalah penelitian (rumusan masalah)\n3.\tTujuan penelitian\n4.\tCara atau metode yang akan kamu gunakan \n(20 poin)",
+      "answer": "Latar belakang masalah adalah kesulitan menjemur pakaian saat hujan. Masalah penelitian: Bagaimana mendeteksi hujan secara otomatis. Tujuan: Membuat sistem otomatis yang bisa memantau hujan. Metode: Arduino dengan sensor hujan.",
+      "grades": {
+        "Pemahaman Konten": "C",
+        "Organisasi & Struktur": "C",
+        "Argumen & Bukti": "D/E",
+        "Gaya Bahasa & Mekanik": "B"
+      },
+      "weighted_score": 2.0,
+      "justification": "{\"Pemahaman Konten\": \"Jawaban menunjukkan pemahaman dasar tentang elemen proposal penelitian, tetapi kurang mendalam. Latar belakang masalah dan tujuan penelitian disebutkan, namun tidak dijelaskan secara detail atau lengkap. Tidak ada penjelasan mengenai konteks atau urgensi masalah yang diangkat.\", \"Organisasi & Struktur\": \"Struktur jawaban kurang jelas dan tidak terorganisir dengan baik. Setiap elemen proposal disebutkan secara terpisah tetapi tidak ada transisi atau alur logika yang menghubungkan poin-poin tersebut. Jawaban terasa terputus-putus dan tidak koheren.\", \"Argumen & Bukti\": \"Tidak ada argumen atau bukti pendukung yang jelas dalam jawaban. Pernyataan tentang metode dan tujuan tidak didukung dengan penjelasan atau contoh yang relevan. Jawaban terlalu singkat dan tidak substantif.\", \"Gaya Bahasa & Mekanik\": \"Bahasa yang digunakan cukup jelas dan efektif, meskipun sangat singkat. Tidak terdapat kesalahan tata bahasa yang mencolok, namun variasi kalimat dan kedalaman penjelasan sangat terbatas.\"}",
+      "overall_comment": "Jawaban menunjukkan pemahaman dasar tetapi kurang mendalam dan terstruktur. Perlu penjelasan lebih detail dan dukungan argumen yang lebih kuat.",
+      "metadata": {
+        "tokens_used": 2299,
+        "api_call_time": 8.997738122940063,
+        "timestamp": "2025-12-10T14:12:05.934842"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": "2.\tJelaskan bagaimana proposal penelitianmu bisa membantu mengembangkan ilmu pengetahuan atau teknologi di bidangmu. (10 poin)",
+      "answer": "Penelitian ini dapat meningkatkan teknologi rumah tangga pintar untuk otomatisasi yang lebih baik.",
+      "grades": {
+        "Pemahaman Konten": "D/E",
+        "Organisasi & Struktur": "D/E",
+        "Argumen & Bukti": "D/E",
+        "Gaya Bahasa & Mekanik": "C"
+      },
+      "weighted_score": 1.1,
+      "justification": "{\"Pemahaman Konten\": \"Jawaban mahasiswa sangat singkat dan tidak memberikan penjelasan mendalam tentang bagaimana penelitian ini akan mengembangkan ilmu pengetahuan atau teknologi. Tidak ada detail mengenai aspek spesifik dari teknologi rumah tangga pintar yang akan ditingkatkan.\", \"Organisasi & Struktur\": \"Jawaban terdiri dari satu kalimat yang tidak menunjukkan struktur yang jelas. Tidak ada pembagian yang jelas antara pengantar, isi, dan kesimpulan, serta tidak ada transisi antar ide.\", \"Argumen & Bukti\": \"Tidak ada argumen yang jelas atau bukti pendukung yang disajikan dalam jawaban. Pernyataan yang diberikan sangat umum dan tidak didukung oleh contoh atau analisis yang relevan.\", \"Gaya Bahasa & Mekanik\": \"Meskipun jawaban singkat, bahasa yang digunakan cukup jelas dan tidak ada kesalahan tata bahasa atau ejaan yang mencolok. Namun, variasi kalimat dan gaya penulisan kurang berkembang.\"}",
+      "overall_comment": "Jawaban perlu diperluas dengan penjelasan lebih mendalam dan dukungan argumen serta bukti yang relevan untuk memenuhi kriteria penilaian.",
+      "metadata": {
+        "tokens_used": 2195,
+        "api_call_time": 5.442189931869507,
+        "timestamp": "2025-12-10T14:12:11.894249"
+      }
+    }
+  ]
+}

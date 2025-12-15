@@ -1,0 +1,227 @@
+{
+  "student_id": "student_13",
+  "student_name": "Mahasiswa 13",
+  "experiment_id": "exp_gemini_lenient_03",
+  "trial": 1,
+  "model": "gemini",
+  "strategy": "lenient",
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "1.\tJelaskan singkat tentang topik capstone project yang sedang kamu kerjakan. Apa masalah utama yang ingin kamu selesaikan dan apa tujuan dari proyek tersebut? (15 poin)",
+      "answer": "Saya sedang mengerjakan sistem manajemen pengingat jadwal kegiatan berbasis aplikasi. Masalah yang ingin saya selesaikan adalah kebingungan mahasiswa dalam mengatur jadwal kegiatan mereka. Tujuan proyek ini adalah mempermudah mahasiswa dalam mengelola jadwal kegiatan mereka.",
+      "grades": {
+        "Pemahaman Konten": {
+          "grade": "B",
+          "justification": "Mahasiswa menunjukkan pemahaman yang baik tentang topik proyek capstone mereka. Mereka mengidentifikasi masalah utama dan tujuan proyek dengan jelas. Meskipun penjelasannya cukup lengkap, detail lebih lanjut tentang bagaimana sistem akan mengatasi masalah tersebut akan meningkatkan nilai."
+        },
+        "Organisasi & Struktur": {
+          "grade": "B",
+          "justification": "Jawaban terstruktur dengan baik, dengan identifikasi masalah dan tujuan yang jelas. Alur logika mudah diikuti. Meskipun singkat, jawaban ini memenuhi persyaratan dasar organisasi dan struktur."
+        },
+        "Argumen & Bukti": {
+          "grade": "C",
+          "justification": "Argumen yang diberikan cukup mendasar dan kurang detail. Tidak ada contoh spesifik tentang bagaimana sistem akan mempermudah mahasiswa dalam mengelola jadwal mereka. Analisis yang lebih mendalam tentang manfaat sistem akan meningkatkan nilai."
+        },
+        "Gaya Bahasa & Mekanik": {
+          "grade": "B",
+          "justification": "Bahasa yang digunakan jelas dan efektif. Terdapat sedikit atau tidak ada kesalahan tata bahasa atau ejaan. Gaya penulisan sesuai untuk tugas ini."
+        }
+      },
+      "weighted_score": 2.9,
+      "justification": "{\"Pemahaman Konten\": {\"grade\": \"B\", \"justification\": \"Mahasiswa menunjukkan pemahaman yang baik tentang topik proyek capstone mereka. Mereka mengidentifikasi masalah utama dan tujuan proyek dengan jelas. Meskipun penjelasannya cukup lengkap, detail lebih lanjut tentang bagaimana sistem akan mengatasi masalah tersebut akan meningkatkan nilai.\"}, \"Organisasi & Struktur\": {\"grade\": \"B\", \"justification\": \"Jawaban terstruktur dengan baik, dengan identifikasi masalah dan tujuan yang jelas. Alur logika mudah diikuti. Meskipun singkat, jawaban ini memenuhi persyaratan dasar organisasi dan struktur.\"}, \"Argumen & Bukti\": {\"grade\": \"C\", \"justification\": \"Argumen yang diberikan cukup mendasar dan kurang detail. Tidak ada contoh spesifik tentang bagaimana sistem akan mempermudah mahasiswa dalam mengelola jadwal mereka. Analisis yang lebih mendalam tentang manfaat sistem akan meningkatkan nilai.\"}, \"Gaya Bahasa & Mekanik\": {\"grade\": \"B\", \"justification\": \"Bahasa yang digunakan jelas dan efektif. Terdapat sedikit atau tidak ada kesalahan tata bahasa atau ejaan. Gaya penulisan sesuai untuk tugas ini.\"}}",
+      "overall_comment": "Secara keseluruhan, jawaban ini menunjukkan pemahaman dasar tentang proyek capstone. Detail lebih lanjut dan analisis yang lebih mendalam akan meningkatkan kualitas jawaban.",
+      "metadata": {
+        "tokens_used": 1979,
+        "api_call_time": 10.83525276184082,
+        "timestamp": "2025-12-10T23:27:49.589737"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": "2.\tSebutkan dan jelaskan tiga teknologi, alat, atau cara yang kamu pakai dalam capstone project ini. Kenapa kamu memilih yang tersebut? (15 poin)",
+      "answer": "Menggunakan Android Studio untuk pengembangan aplikasi, Firebase untuk backend, dan SQLite untuk penyimpanan data. Android Studio menyediakan berbagai tools yang dibutuhkan untuk pengembangan aplikasi mobile, Firebase untuk integrasi data real-time, dan SQLite untuk database lokal yang ringan.",
+      "grades": {
+        "Pemahaman Konten": {
+          "grade": "B",
+          "justification": "Mahasiswa menyebutkan tiga teknologi yang relevan dengan pengembangan aplikasi mobile. Penjelasan tentang fungsi masing-masing teknologi (Android Studio, Firebase, SQLite) cukup baik dan menunjukkan pemahaman dasar. Namun, penjelasan bisa lebih mendalam, misalnya dengan menyebutkan fitur spesifik dari masing-masing teknologi yang digunakan dalam proyek capstone."
+        },
+        "Organisasi & Struktur": {
+          "grade": "A",
+          "justification": "Jawaban terstruktur dengan baik, menyebutkan setiap teknologi dan memberikan penjelasan singkat. Alur logika mudah diikuti dan informasi disajikan secara ringkas dan jelas. Struktur jawaban yang jelas membantu pembaca memahami poin-poin penting dengan cepat."
+        },
+        "Argumen & Bukti": {
+          "grade": "B",
+          "justification": "Mahasiswa memberikan alasan pemilihan teknologi yang cukup masuk akal, seperti kemudahan pengembangan aplikasi mobile dengan Android Studio, integrasi data real-time dengan Firebase, dan database lokal ringan dengan SQLite. Meskipun alasan yang diberikan cukup baik, akan lebih baik jika mahasiswa memberikan contoh spesifik bagaimana teknologi tersebut membantu dalam proyek capstone."
+        },
+        "Gaya Bahasa & Mekanik": {
+          "grade": "A",
+          "justification": "Bahasa yang digunakan jelas dan efektif. Tidak ada kesalahan tata bahasa atau ejaan yang signifikan. Gaya penulisan ringkas dan mudah dipahami, sehingga pesan tersampaikan dengan baik."
+        }
+      },
+      "weighted_score": 3.3,
+      "justification": "{\"Pemahaman Konten\": {\"grade\": \"B\", \"justification\": \"Mahasiswa menyebutkan tiga teknologi yang relevan dengan pengembangan aplikasi mobile. Penjelasan tentang fungsi masing-masing teknologi (Android Studio, Firebase, SQLite) cukup baik dan menunjukkan pemahaman dasar. Namun, penjelasan bisa lebih mendalam, misalnya dengan menyebutkan fitur spesifik dari masing-masing teknologi yang digunakan dalam proyek capstone.\"}, \"Organisasi & Struktur\": {\"grade\": \"A\", \"justification\": \"Jawaban terstruktur dengan baik, menyebutkan setiap teknologi dan memberikan penjelasan singkat. Alur logika mudah diikuti dan informasi disajikan secara ringkas dan jelas. Struktur jawaban yang jelas membantu pembaca memahami poin-poin penting dengan cepat.\"}, \"Argumen & Bukti\": {\"grade\": \"B\", \"justification\": \"Mahasiswa memberikan alasan pemilihan teknologi yang cukup masuk akal, seperti kemudahan pengembangan aplikasi mobile dengan Android Studio, integrasi data real-time dengan Firebase, dan database lokal ringan dengan SQLite. Meskipun alasan yang diberikan cukup baik, akan lebih baik jika mahasiswa memberikan contoh spesifik bagaimana teknologi tersebut membantu dalam proyek capstone.\"}, \"Gaya Bahasa & Mekanik\": {\"grade\": \"A\", \"justification\": \"Bahasa yang digunakan jelas dan efektif. Tidak ada kesalahan tata bahasa atau ejaan yang signifikan. Gaya penulisan ringkas dan mudah dipahami, sehingga pesan tersampaikan dengan baik.\"}}",
+      "overall_comment": "Jawaban mahasiswa sudah cukup baik dan menunjukkan pemahaman dasar tentang teknologi yang digunakan. Akan lebih baik jika penjelasan lebih mendalam dan disertai contoh spesifik dari proyek capstone.",
+      "metadata": {
+        "tokens_used": 2065,
+        "api_call_time": 10.736396074295044,
+        "timestamp": "2025-12-10T23:28:00.349513"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": "3. Jelaskan manfaat atau kegunaan hasil capstone projectmu bagi orang lain atau bidang yang kamu tekuni. (10 poin)",
+      "answer": "Membantu mahasiswa mengatur jadwal dan kegiatan mereka dengan lebih efisien, sehingga mengurangi stres dan meningkatkan produktivitas.",
+      "grades": {
+        "Pemahaman Konten": {
+          "grade": "B",
+          "justification": "Jawaban menunjukkan pemahaman yang baik tentang manfaat proyek capstone, yaitu membantu mahasiswa mengatur jadwal dan mengurangi stres. Namun, penjelasan kurang mendalam dan tidak memberikan detail spesifik tentang bagaimana proyek tersebut mencapai tujuan ini. Masih ada ruang untuk memperluas penjelasan agar lebih lengkap."
+        },
+        "Organisasi & Struktur": {
+          "grade": "A",
+          "justification": "Jawaban terstruktur dengan baik dan mudah dipahami. Meskipun singkat, ide disampaikan secara langsung dan jelas. Tidak ada keraguan tentang maksud penulis."
+        },
+        "Argumen & Bukti": {
+          "grade": "C",
+          "justification": "Argumen yang diajukan cukup lemah karena kurangnya bukti atau contoh konkret. Pernyataan bahwa proyek mengurangi stres dan meningkatkan produktivitas perlu didukung dengan detail lebih lanjut tentang fitur atau mekanisme proyek yang berkontribusi pada manfaat tersebut. Contoh spesifik akan memperkuat argumen."
+        },
+        "Gaya Bahasa & Mekanik": {
+          "grade": "A",
+          "justification": "Bahasa yang digunakan jelas, efektif, dan bebas dari kesalahan tata bahasa atau ejaan. Gaya penulisan lugas dan mudah dipahami. Kalimatnya juga efektif dalam menyampaikan pesan."
+        }
+      },
+      "weighted_score": 3.2,
+      "justification": "{\"Pemahaman Konten\": {\"grade\": \"B\", \"justification\": \"Jawaban menunjukkan pemahaman yang baik tentang manfaat proyek capstone, yaitu membantu mahasiswa mengatur jadwal dan mengurangi stres. Namun, penjelasan kurang mendalam dan tidak memberikan detail spesifik tentang bagaimana proyek tersebut mencapai tujuan ini. Masih ada ruang untuk memperluas penjelasan agar lebih lengkap.\"}, \"Organisasi & Struktur\": {\"grade\": \"A\", \"justification\": \"Jawaban terstruktur dengan baik dan mudah dipahami. Meskipun singkat, ide disampaikan secara langsung dan jelas. Tidak ada keraguan tentang maksud penulis.\"}, \"Argumen & Bukti\": {\"grade\": \"C\", \"justification\": \"Argumen yang diajukan cukup lemah karena kurangnya bukti atau contoh konkret. Pernyataan bahwa proyek mengurangi stres dan meningkatkan produktivitas perlu didukung dengan detail lebih lanjut tentang fitur atau mekanisme proyek yang berkontribusi pada manfaat tersebut. Contoh spesifik akan memperkuat argumen.\"}, \"Gaya Bahasa & Mekanik\": {\"grade\": \"A\", \"justification\": \"Bahasa yang digunakan jelas, efektif, dan bebas dari kesalahan tata bahasa atau ejaan. Gaya penulisan lugas dan mudah dipahami. Kalimatnya juga efektif dalam menyampaikan pesan.\"}}",
+      "overall_comment": "Jawaban ini memberikan gambaran umum tentang manfaat proyek, tetapi perlu diperkuat dengan detail dan contoh yang lebih spesifik untuk meningkatkan dampaknya.",
+      "metadata": {
+        "tokens_used": 1951,
+        "api_call_time": 11.046013116836548,
+        "timestamp": "2025-12-10T23:28:11.419530"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": "1.Ceritakan tahap-tahap pengerjaan capstone project dari awal sampai sekarang. Sebutkan juga hal penting atau target yang sudah kamu capai. (15 poin)",
+      "answer": "Membuat antarmuka aplikasi, mengembangkan backend dengan Firebase, dan menambahkan fitur pengingat. Sekarang, aplikasi sudah hampir selesai dan siap diuji coba.",
+      "grades": {
+        "Pemahaman Konten": {
+          "grade": "C",
+          "justification": "Jawaban menunjukkan pemahaman dasar tentang tahapan proyek capstone, tetapi kurang mendalam. Mahasiswa menyebutkan pembuatan antarmuka, pengembangan backend, dan penambahan fitur pengingat, namun tidak menjelaskan detail dari setiap tahapan. Ini menunjukkan pemahaman dasar, tetapi kurang lengkap sesuai dengan kriteria Grade C."
+        },
+        "Organisasi & Struktur": {
+          "grade": "B",
+          "justification": "Jawaban memiliki struktur yang cukup jelas dengan menyebutkan tahapan-tahapan pengerjaan proyek. Alur logika dapat diikuti dengan mudah. Meskipun singkat, jawaban terorganisir dengan baik dan mudah dipahami."
+        },
+        "Argumen & Bukti": {
+          "grade": "C",
+          "justification": "Jawaban kurang detail dalam memberikan bukti atau contoh konkret dari setiap tahapan. Mahasiswa hanya menyebutkan secara umum tanpa memberikan penjelasan lebih lanjut mengenai tantangan atau solusi yang dihadapi. Dukungan kurang memadai untuk mendapatkan nilai yang lebih tinggi."
+        },
+        "Gaya Bahasa & Mekanik": {
+          "grade": "B",
+          "justification": "Bahasa yang digunakan jelas dan mudah dipahami, meskipun sederhana. Terdapat sedikit kesalahan minor dalam penggunaan bahasa, tetapi tidak mengganggu pemahaman secara keseluruhan. Gaya penulisan cukup efektif untuk menyampaikan informasi yang dimaksud."
+        }
+      },
+      "weighted_score": 2.3,
+      "justification": "{\"Pemahaman Konten\": {\"grade\": \"C\", \"justification\": \"Jawaban menunjukkan pemahaman dasar tentang tahapan proyek capstone, tetapi kurang mendalam. Mahasiswa menyebutkan pembuatan antarmuka, pengembangan backend, dan penambahan fitur pengingat, namun tidak menjelaskan detail dari setiap tahapan. Ini menunjukkan pemahaman dasar, tetapi kurang lengkap sesuai dengan kriteria Grade C.\"}, \"Organisasi & Struktur\": {\"grade\": \"B\", \"justification\": \"Jawaban memiliki struktur yang cukup jelas dengan menyebutkan tahapan-tahapan pengerjaan proyek. Alur logika dapat diikuti dengan mudah. Meskipun singkat, jawaban terorganisir dengan baik dan mudah dipahami.\"}, \"Argumen & Bukti\": {\"grade\": \"C\", \"justification\": \"Jawaban kurang detail dalam memberikan bukti atau contoh konkret dari setiap tahapan. Mahasiswa hanya menyebutkan secara umum tanpa memberikan penjelasan lebih lanjut mengenai tantangan atau solusi yang dihadapi. Dukungan kurang memadai untuk mendapatkan nilai yang lebih tinggi.\"}, \"Gaya Bahasa & Mekanik\": {\"grade\": \"B\", \"justification\": \"Bahasa yang digunakan jelas dan mudah dipahami, meskipun sederhana. Terdapat sedikit kesalahan minor dalam penggunaan bahasa, tetapi tidak mengganggu pemahaman secara keseluruhan. Gaya penulisan cukup efektif untuk menyampaikan informasi yang dimaksud.\"}}",
+      "overall_comment": "Jawaban mahasiswa menunjukkan pemahaman dasar tentang tahapan proyek capstone, namun perlu diperdalam lagi dengan memberikan detail dan contoh yang lebih konkret.",
+      "metadata": {
+        "tokens_used": 1992,
+        "api_call_time": 11.09361219406128,
+        "timestamp": "2025-12-10T23:28:22.535575"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": "3. Apakah ada perubahan pada rencana (ingin mengubah project) atau cara pengerjaan selama proyek berjalan? Jika iya, jelaskan apa yang berubah dan bagaimana pengaruhnya ke hasil proyek. (10 poin)",
+      "answer": "Menambah fitur pelacakan tugas dan ujian yang tidak ada dalam rencana awal.",
+      "grades": {
+        "Pemahaman Konten": {
+          "grade": "C",
+          "justification": "Jawaban menunjukkan pemahaman dasar bahwa ada perubahan dalam rencana proyek. Namun, penjelasan kurang mendalam karena tidak menjelaskan alasan penambahan fitur atau dampaknya pada hasil proyek. Jawaban ini memenuhi kriteria 'Pemahaman dasar ada tetapi tidak mendalam' dan 'Penjelasan kurang lengkap'."
+        },
+        "Organisasi & Struktur": {
+          "grade": "D/E",
+          "justification": "Jawaban sangat singkat dan tidak memiliki struktur yang jelas. Tidak ada transisi atau alur logika yang dapat dinilai. Jawaban ini memenuhi kriteria 'Tidak ada struktur yang jelas' dan 'Tidak ada transisi'."
+        },
+        "Argumen & Bukti": {
+          "grade": "D/E",
+          "justification": "Tidak ada argumen atau bukti yang mendukung klaim perubahan rencana. Tidak ada penjelasan detail mengenai fitur yang ditambahkan atau dampaknya. Jawaban ini memenuhi kriteria 'Tidak ada argumen yang jelas' dan 'Tidak ada contoh atau tidak relevan'."
+        },
+        "Gaya Bahasa & Mekanik": {
+          "grade": "B",
+          "justification": "Bahasa yang digunakan jelas dan mudah dipahami, meskipun sangat singkat. Tidak ada kesalahan tata bahasa atau ejaan yang signifikan. Jawaban ini memenuhi kriteria 'Bahasa jelas dan efektif' dan 'Beberapa kesalahan minor'."
+        }
+      },
+      "weighted_score": 1.8,
+      "justification": "{\"Pemahaman Konten\": {\"grade\": \"C\", \"justification\": \"Jawaban menunjukkan pemahaman dasar bahwa ada perubahan dalam rencana proyek. Namun, penjelasan kurang mendalam karena tidak menjelaskan alasan penambahan fitur atau dampaknya pada hasil proyek. Jawaban ini memenuhi kriteria 'Pemahaman dasar ada tetapi tidak mendalam' dan 'Penjelasan kurang lengkap'.\"}, \"Organisasi & Struktur\": {\"grade\": \"D/E\", \"justification\": \"Jawaban sangat singkat dan tidak memiliki struktur yang jelas. Tidak ada transisi atau alur logika yang dapat dinilai. Jawaban ini memenuhi kriteria 'Tidak ada struktur yang jelas' dan 'Tidak ada transisi'.\"}, \"Argumen & Bukti\": {\"grade\": \"D/E\", \"justification\": \"Tidak ada argumen atau bukti yang mendukung klaim perubahan rencana. Tidak ada penjelasan detail mengenai fitur yang ditambahkan atau dampaknya. Jawaban ini memenuhi kriteria 'Tidak ada argumen yang jelas' dan 'Tidak ada contoh atau tidak relevan'.\"}, \"Gaya Bahasa & Mekanik\": {\"grade\": \"B\", \"justification\": \"Bahasa yang digunakan jelas dan mudah dipahami, meskipun sangat singkat. Tidak ada kesalahan tata bahasa atau ejaan yang signifikan. Jawaban ini memenuhi kriteria 'Bahasa jelas dan efektif' dan 'Beberapa kesalahan minor'.\"}}",
+      "overall_comment": "Jawaban sangat singkat dan kurang detail. Mahasiswa perlu memberikan penjelasan yang lebih lengkap dan mendalam mengenai perubahan rencana dan dampaknya.",
+      "metadata": {
+        "tokens_used": 1959,
+        "api_call_time": 11.032591104507446,
+        "timestamp": "2025-12-10T23:28:33.617009"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": "1.\tTulislah Konsep kerangka proposal penelitian dari capstone project kamu yang mencakup:\n1.\tLatar belakang masalah\n2.\tMasalah penelitian (rumusan masalah)\n3.\tTujuan penelitian\n4.\tCara atau metode yang akan kamu gunakan \n(20 poin)",
+      "answer": "Latar belakang masalah: Mahasiswa kesulitan mengelola waktu mereka. Masalah penelitian: Bagaimana membuat aplikasi pengingat jadwal kegiatan yang efisien. Tujuan penelitian: Membuat aplikasi untuk mengelola jadwal kegiatan mahasiswa. Metode: Penggunaan Android Studio dan Firebase untuk backend.",
+      "grades": {
+        "Pemahaman Konten": {
+          "grade": "B",
+          "justification": "Mahasiswa menunjukkan pemahaman dasar tentang komponen proposal penelitian, yaitu latar belakang, masalah penelitian, tujuan, dan metode. Meskipun penjelasannya ringkas, poin-poin penting telah diidentifikasi. Pemahaman konsep cukup baik meskipun tidak mendalam seperti yang diharapkan untuk nilai A."
+        },
+        "Organisasi & Struktur": {
+          "grade": "B",
+          "justification": "Jawaban terstruktur dengan baik dan mengikuti urutan yang diminta dalam soal. Setiap komponen proposal (latar belakang, masalah, tujuan, metode) dipisahkan dengan jelas. Alur logika mudah diikuti, meskipun bisa lebih detail."
+        },
+        "Argumen & Bukti": {
+          "grade": "C",
+          "justification": "Argumen yang diajukan masih sangat dasar dan kurang detail. Contoh yang diberikan (penggunaan Android Studio dan Firebase) relevan, tetapi tidak ada analisis mendalam mengapa metode tersebut dipilih. Dukungan bukti atau justifikasi yang lebih kuat akan meningkatkan nilai."
+        },
+        "Gaya Bahasa & Mekanik": {
+          "grade": "B",
+          "justification": "Bahasa yang digunakan jelas dan mudah dipahami. Terdapat beberapa kesalahan minor dalam tata bahasa, tetapi tidak mengganggu pemahaman secara keseluruhan. Gaya penulisan cukup efektif untuk menyampaikan ide-ide dasar."
+        }
+      },
+      "weighted_score": 2.9,
+      "justification": "{\"Pemahaman Konten\": {\"grade\": \"B\", \"justification\": \"Mahasiswa menunjukkan pemahaman dasar tentang komponen proposal penelitian, yaitu latar belakang, masalah penelitian, tujuan, dan metode. Meskipun penjelasannya ringkas, poin-poin penting telah diidentifikasi. Pemahaman konsep cukup baik meskipun tidak mendalam seperti yang diharapkan untuk nilai A.\"}, \"Organisasi & Struktur\": {\"grade\": \"B\", \"justification\": \"Jawaban terstruktur dengan baik dan mengikuti urutan yang diminta dalam soal. Setiap komponen proposal (latar belakang, masalah, tujuan, metode) dipisahkan dengan jelas. Alur logika mudah diikuti, meskipun bisa lebih detail.\"}, \"Argumen & Bukti\": {\"grade\": \"C\", \"justification\": \"Argumen yang diajukan masih sangat dasar dan kurang detail. Contoh yang diberikan (penggunaan Android Studio dan Firebase) relevan, tetapi tidak ada analisis mendalam mengapa metode tersebut dipilih. Dukungan bukti atau justifikasi yang lebih kuat akan meningkatkan nilai.\"}, \"Gaya Bahasa & Mekanik\": {\"grade\": \"B\", \"justification\": \"Bahasa yang digunakan jelas dan mudah dipahami. Terdapat beberapa kesalahan minor dalam tata bahasa, tetapi tidak mengganggu pemahaman secara keseluruhan. Gaya penulisan cukup efektif untuk menyampaikan ide-ide dasar.\"}}",
+      "overall_comment": "Secara keseluruhan, mahasiswa telah menunjukkan pemahaman dasar tentang komponen proposal penelitian. Pengembangan lebih lanjut pada argumen dan bukti akan meningkatkan kualitas proposal.",
+      "metadata": {
+        "tokens_used": 2039,
+        "api_call_time": 10.738393783569336,
+        "timestamp": "2025-12-10T23:28:44.378006"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": "2.\tJelaskan bagaimana proposal penelitianmu bisa membantu mengembangkan ilmu pengetahuan atau teknologi di bidangmu. (10 poin)",
+      "answer": "Penelitian ini dapat membantu mahasiswa dalam manajemen waktu dan mengembangkan aplikasi serupa di bidang pendidikan.",
+      "grades": {
+        "Pemahaman Konten": {
+          "grade": "C",
+          "justification": "Jawaban menunjukkan pemahaman dasar tentang bagaimana penelitian dapat berkontribusi, tetapi kurang mendalam. Mahasiswa menyebutkan \"manajemen waktu\" dan \"aplikasi serupa\" tetapi tidak menjelaskan lebih lanjut bagaimana penelitian tersebut secara spesifik mengembangkan ilmu pengetahuan atau teknologi di bidangnya. Jawaban ini memenuhi kriteria pemahaman dasar, tetapi kurang detail dan lengkap."
+        },
+        "Organisasi & Struktur": {
+          "grade": "B",
+          "justification": "Jawaban singkat dan langsung pada poinnya, sehingga strukturnya cukup jelas meskipun sangat ringkas. Alur logika mudah diikuti karena hanya ada satu kalimat yang menyatakan dampak penelitian. Transisi tidak relevan karena hanya ada satu ide."
+        },
+        "Argumen & Bukti": {
+          "grade": "C",
+          "justification": "Argumen yang diberikan lemah karena kurangnya detail dan bukti pendukung. Mahasiswa hanya menyebutkan \"manajemen waktu\" dan \"aplikasi serupa\" tanpa memberikan contoh konkret atau analisis lebih lanjut tentang bagaimana hal ini berkontribusi pada pengembangan ilmu pengetahuan atau teknologi. Dukungan kurang memadai."
+        },
+        "Gaya Bahasa & Mekanik": {
+          "grade": "B",
+          "justification": "Bahasa yang digunakan jelas dan efektif, meskipun sederhana. Tidak ada kesalahan tata bahasa atau ejaan yang signifikan. Kalimatnya cukup bervariasi meskipun hanya terdiri dari satu kalimat."
+        }
+      },
+      "weighted_score": 2.3,
+      "justification": "{\"Pemahaman Konten\": {\"grade\": \"C\", \"justification\": \"Jawaban menunjukkan pemahaman dasar tentang bagaimana penelitian dapat berkontribusi, tetapi kurang mendalam. Mahasiswa menyebutkan \\\"manajemen waktu\\\" dan \\\"aplikasi serupa\\\" tetapi tidak menjelaskan lebih lanjut bagaimana penelitian tersebut secara spesifik mengembangkan ilmu pengetahuan atau teknologi di bidangnya. Jawaban ini memenuhi kriteria pemahaman dasar, tetapi kurang detail dan lengkap.\"}, \"Organisasi & Struktur\": {\"grade\": \"B\", \"justification\": \"Jawaban singkat dan langsung pada poinnya, sehingga strukturnya cukup jelas meskipun sangat ringkas. Alur logika mudah diikuti karena hanya ada satu kalimat yang menyatakan dampak penelitian. Transisi tidak relevan karena hanya ada satu ide.\"}, \"Argumen & Bukti\": {\"grade\": \"C\", \"justification\": \"Argumen yang diberikan lemah karena kurangnya detail dan bukti pendukung. Mahasiswa hanya menyebutkan \\\"manajemen waktu\\\" dan \\\"aplikasi serupa\\\" tanpa memberikan contoh konkret atau analisis lebih lanjut tentang bagaimana hal ini berkontribusi pada pengembangan ilmu pengetahuan atau teknologi. Dukungan kurang memadai.\"}, \"Gaya Bahasa & Mekanik\": {\"grade\": \"B\", \"justification\": \"Bahasa yang digunakan jelas dan efektif, meskipun sederhana. Tidak ada kesalahan tata bahasa atau ejaan yang signifikan. Kalimatnya cukup bervariasi meskipun hanya terdiri dari satu kalimat.\"}}",
+      "overall_comment": "Jawaban ini menunjukkan pemahaman dasar, tetapi perlu diperluas dengan detail dan contoh konkret untuk mendapatkan nilai yang lebih tinggi. Mahasiswa perlu menjelaskan lebih lanjut bagaimana penelitiannya secara spesifik berkontribusi pada bidangnya.",
+      "metadata": {
+        "tokens_used": 2019,
+        "api_call_time": 11.508334636688232,
+        "timestamp": "2025-12-10T23:28:55.910434"
+      }
+    }
+  ]
+}

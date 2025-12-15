@@ -1,0 +1,24 @@
+{
+  "within_strategy": {
+    "all_comparisons_significant": false,
+    "chatgpt_better_count": 0,
+    "mean_effect_size": -0.0475,
+    "largest_difference": {
+      "strategy": "lenient",
+      "diff": 0.0279
+    }
+  },
+  "across_strategy": {
+    "chatgpt": {
+      "significant_differences": 0
+    },
+    "gemini": {
+      "significant_differences": 0
+    }
+  },
+  "agreement": {
+    "mcnemar_significant_count": 1,
+    "best_strategy_chatgpt": "lenient",
+    "best_strategy_gemini": "lenient"
+  }
+}

@@ -1,0 +1,63 @@
+================================================================================
+RQ3: MODEL COMPARISON - STATISTICAL TESTS
+================================================================================
+
+PAIRED T-TEST (Weighted Scores)
+--------------------------------------------------------------------------------
+H0: Mean scores are equal
+H1: Mean scores are different
+
+ChatGPT Mean: 2.623
+Gemini Mean: 2.651
+Mean Difference: -0.028
+t-statistic: -1.428
+p-value: 0.1537
+Result: NOT SIGNIFICANT (p >= 0.05) - Fail to reject H0
+
+================================================================================
+WILCOXON SIGNED-RANK TEST (Non-parametric)
+--------------------------------------------------------------------------------
+H0: Median scores are equal
+H1: Median scores are different
+
+Statistic: 75895.5
+p-value: 0.8532
+Result: NOT SIGNIFICANT (p >= 0.05) - Fail to reject H0
+
+================================================================================
+MCNEMAR'S TEST (Categorical Agreement)
+--------------------------------------------------------------------------------
+H0: Both models have equal accuracy
+H1: Models have different accuracy
+
+Contingency Table:
+  Both Correct: 440
+  ChatGPT Only Correct: 44
+  Gemini Only Correct: 121
+  Both Wrong: 93
+
+Chi-square statistic: 35.006
+p-value: 0.0000
+Result: SIGNIFICANT (p < 0.05) - Models differ significantly
+
+================================================================================
+EFFECT SIZE (Cohen's d)
+--------------------------------------------------------------------------------
+Cohen's d: -0.047
+
+Interpretation: Negligible effect size
+  < 0.2: Negligible
+  0.2-0.5: Small
+  0.5-0.8: Medium
+  > 0.8: Large
+
+================================================================================
+WIN-LOSS-TIE ANALYSIS
+--------------------------------------------------------------------------------
+Total Comparisons: 698
+
+Gemini Wins: 121 (17.3%)
+ChatGPT Wins: 44 (6.3%)
+Ties: 533 (76.4%)
+
+================================================================================

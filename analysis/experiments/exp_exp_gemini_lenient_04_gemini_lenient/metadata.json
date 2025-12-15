@@ -1,0 +1,9 @@
+{
+  "experiment_id": "exp_gemini_lenient_04",
+  "model": "gemini",
+  "strategy": "lenient",
+  "total_tasks": 70,
+  "completed_tasks": 70,
+  "failed_tasks": 0,
+  "success_rate": 100.0
+}

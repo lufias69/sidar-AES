@@ -1,0 +1,2 @@
+strategy,n_pairs,chatgpt_accuracy,gemini_accuracy,accuracy_diff,mcnemar_pvalue,significant
+lenient,1680,37.62,46.9,-9.29,0.0,Yes

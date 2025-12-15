@@ -1,0 +1,7 @@
+model,comparison,mae_diff,mae_pct_change,accuracy_diff,better_strategy
+chatgpt,lenient vs zero-shot,0.49571428571428566,381.31868131868123,-20.0,zero-shot
+chatgpt,lenient vs few-shot,0.40142857142857136,178.98089171974516,-17.142857142857153,few-shot
+chatgpt,zero-shot vs few-shot,-0.0942857142857143,-42.038216560509554,2.857142857142847,zero-shot
+gemini,lenient vs zero-shot,0.24428571428571444,45.35809018567642,-15.714285714285715,zero-shot
+gemini,lenient vs few-shot,0.16428571428571426,26.558891454965345,-8.571428571428577,few-shot
+gemini,zero-shot vs few-shot,-0.08000000000000018,-12.93302540415707,7.142857142857139,zero-shot

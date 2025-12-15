@@ -1,0 +1,1122 @@
+[
+  {
+    "student_name":"Mahasiswa 1",
+    "question_number":1,
+    "question_text":"1.\tJelaskan singkat tentang topik capstone project yang sedang kamu kerjakan. Apa masalah utama yang ingin kamu selesaikan dan apa tujuan dari proyek tersebut? (15 poin)",
+    "answer":"Membuat sistem pendeteksi hujan otomatis untuk jemuran. Masalah utama yang ingin saya selesaikan adalah pakaian yang basah karena hujan. Tujuan proyek ini adalah agar pakaian yang dijemur tetap kering meskipun hujan.",
+    "weighted_score":3.0,
+    "grade":"B"
+  },
+  {
+    "student_name":"Mahasiswa 1",
+    "question_number":2,
+    "question_text":"2.\tSebutkan dan jelaskan tiga teknologi, alat, atau cara yang kamu pakai dalam capstone project ini. Kenapa kamu memilih yang tersebut? (15 poin)",
+    "answer":"Arduino, sensor hujan, alarm sensor. Arduino dipilih karena mudah diprogram dan murah. Sensor hujan untuk mendeteksi hujan, dan alarm untuk memberi peringatan.",
+    "weighted_score":2.0,
+    "grade":"C"
+  },
+  {
+    "student_name":"Mahasiswa 1",
+    "question_number":3,
+    "question_text":"3. Jelaskan manfaat atau kegunaan hasil capstone projectmu bagi orang lain atau bidang yang kamu tekuni. (10 poin)",
+    "answer":"Membantu orang untuk menjemur pakaian tanpa khawatir hujan, menghemat waktu dan tenaga.",
+    "weighted_score":1.1,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 1",
+    "question_number":4,
+    "question_text":"1.Ceritakan tahap-tahap pengerjaan capstone project dari awal sampai sekarang. Sebutkan juga hal penting atau target yang sudah kamu capai. (15 poin)",
+    "answer":"Merancang sistem dengan Arduino dan sensor hujan, sudah membuat prototipe yang berfungsi.",
+    "weighted_score":1.1,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 1",
+    "question_number":5,
+    "question_text":"3. Apakah ada perubahan pada rencana (ingin mengubah project) atau cara pengerjaan selama proyek berjalan? Jika iya, jelaskan apa yang berubah dan bagaimana pengaruhnya ke hasil proyek. (10 poin)",
+    "answer":"Menambahkan sensor tambahan untuk meningkatkan akurasi.",
+    "weighted_score":1.1,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 1",
+    "question_number":6,
+    "question_text":"1.\tTulislah Konsep kerangka proposal penelitian dari capstone project kamu yang mencakup:\n1.\tLatar belakang masalah\n2.\tMasalah penelitian (rumusan masalah)\n3.\tTujuan penelitian\n4.\tCara atau metode yang akan kamu gunakan \n(20 poin)",
+    "answer":"Latar belakang masalah adalah kesulitan menjemur pakaian saat hujan. Masalah penelitian: Bagaimana mendeteksi hujan secara otomatis. Tujuan: Membuat sistem otomatis yang bisa memantau hujan. Metode: Arduino dengan sensor hujan.",
+    "weighted_score":2.2,
+    "grade":"C"
+  },
+  {
+    "student_name":"Mahasiswa 1",
+    "question_number":7,
+    "question_text":"2.\tJelaskan bagaimana proposal penelitianmu bisa membantu mengembangkan ilmu pengetahuan atau teknologi di bidangmu. (10 poin)",
+    "answer":"Penelitian ini dapat meningkatkan teknologi rumah tangga pintar untuk otomatisasi yang lebih baik.",
+    "weighted_score":1.1,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 1",
+    "question_number":1,
+    "question_text":"1.\tJelaskan singkat tentang topik capstone project yang sedang kamu kerjakan. Apa masalah utama yang ingin kamu selesaikan dan apa tujuan dari proyek tersebut? (15 poin)",
+    "answer":"Membuat sistem pendeteksi hujan otomatis untuk jemuran. Masalah utama yang ingin saya selesaikan adalah pakaian yang basah karena hujan. Tujuan proyek ini adalah agar pakaian yang dijemur tetap kering meskipun hujan.",
+    "weighted_score":3.0,
+    "grade":"B"
+  },
+  {
+    "student_name":"Mahasiswa 1",
+    "question_number":2,
+    "question_text":"2.\tSebutkan dan jelaskan tiga teknologi, alat, atau cara yang kamu pakai dalam capstone project ini. Kenapa kamu memilih yang tersebut? (15 poin)",
+    "answer":"Arduino, sensor hujan, alarm sensor. Arduino dipilih karena mudah diprogram dan murah. Sensor hujan untuk mendeteksi hujan, dan alarm untuk memberi peringatan.",
+    "weighted_score":2.0,
+    "grade":"C"
+  },
+  {
+    "student_name":"Mahasiswa 1",
+    "question_number":3,
+    "question_text":"3. Jelaskan manfaat atau kegunaan hasil capstone projectmu bagi orang lain atau bidang yang kamu tekuni. (10 poin)",
+    "answer":"Membantu orang untuk menjemur pakaian tanpa khawatir hujan, menghemat waktu dan tenaga.",
+    "weighted_score":1.1,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 1",
+    "question_number":4,
+    "question_text":"1.Ceritakan tahap-tahap pengerjaan capstone project dari awal sampai sekarang. Sebutkan juga hal penting atau target yang sudah kamu capai. (15 poin)",
+    "answer":"Merancang sistem dengan Arduino dan sensor hujan, sudah membuat prototipe yang berfungsi.",
+    "weighted_score":1.1,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 1",
+    "question_number":5,
+    "question_text":"3. Apakah ada perubahan pada rencana (ingin mengubah project) atau cara pengerjaan selama proyek berjalan? Jika iya, jelaskan apa yang berubah dan bagaimana pengaruhnya ke hasil proyek. (10 poin)",
+    "answer":"Menambahkan sensor tambahan untuk meningkatkan akurasi.",
+    "weighted_score":1.1,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 1",
+    "question_number":6,
+    "question_text":"1.\tTulislah Konsep kerangka proposal penelitian dari capstone project kamu yang mencakup:\n1.\tLatar belakang masalah\n2.\tMasalah penelitian (rumusan masalah)\n3.\tTujuan penelitian\n4.\tCara atau metode yang akan kamu gunakan \n(20 poin)",
+    "answer":"Latar belakang masalah adalah kesulitan menjemur pakaian saat hujan. Masalah penelitian: Bagaimana mendeteksi hujan secara otomatis. Tujuan: Membuat sistem otomatis yang bisa memantau hujan. Metode: Arduino dengan sensor hujan.",
+    "weighted_score":2.2,
+    "grade":"C"
+  },
+  {
+    "student_name":"Mahasiswa 1",
+    "question_number":7,
+    "question_text":"2.\tJelaskan bagaimana proposal penelitianmu bisa membantu mengembangkan ilmu pengetahuan atau teknologi di bidangmu. (10 poin)",
+    "answer":"Penelitian ini dapat meningkatkan teknologi rumah tangga pintar untuk otomatisasi yang lebih baik.",
+    "weighted_score":1.1,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 2",
+    "question_number":1,
+    "question_text":"1.\tJelaskan singkat tentang topik capstone project yang sedang kamu kerjakan. Apa masalah utama yang ingin kamu selesaikan dan apa tujuan dari proyek tersebut? (15 poin)",
+    "answer":"Saya sedang mengembangkan sistem irigasi pintar untuk pertanian. Masalah utama yang ingin saya selesaikan adalah penggunaan air yang tidak efisien dalam irigasi. Tujuan proyek ini adalah menghemat air dengan menyiram tanaman hanya ketika diperlukan.",
+    "weighted_score":3.2,
+    "grade":"B"
+  },
+  {
+    "student_name":"Mahasiswa 2",
+    "question_number":2,
+    "question_text":"2.\tSebutkan dan jelaskan tiga teknologi, alat, atau cara yang kamu pakai dalam capstone project ini. Kenapa kamu memilih yang tersebut? (15 poin)",
+    "answer":"Raspberry Pi, sensor kelembaban tanah, Wi-Fi. Raspberry Pi fleksibel dan dapat mengontrol perangkat keras lain dengan mudah. Sensor kelembaban untuk mendeteksi kebutuhan air. Wi-Fi untuk komunikasi data.",
+    "weighted_score":2.0,
+    "grade":"C"
+  },
+  {
+    "student_name":"Mahasiswa 2",
+    "question_number":3,
+    "question_text":"3. Jelaskan manfaat atau kegunaan hasil capstone projectmu bagi orang lain atau bidang yang kamu tekuni. (10 poin)",
+    "answer":"Menghemat air dalam pertanian dan mengurangi pemborosan.",
+    "weighted_score":1.1,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 2",
+    "question_number":4,
+    "question_text":"1.Ceritakan tahap-tahap pengerjaan capstone project dari awal sampai sekarang. Sebutkan juga hal penting atau target yang sudah kamu capai. (15 poin)",
+    "answer":"Membuat sistem otomatis menggunakan Raspberry Pi, saat ini sedang menguji sensor kelembaban.",
+    "weighted_score":1.1,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 2",
+    "question_number":5,
+    "question_text":"3. Apakah ada perubahan pada rencana (ingin mengubah project) atau cara pengerjaan selama proyek berjalan? Jika iya, jelaskan apa yang berubah dan bagaimana pengaruhnya ke hasil proyek. (10 poin)",
+    "answer":"Menambah aplikasi mobile untuk memantau irigasi secara real-time.",
+    "weighted_score":1.1,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 2",
+    "question_number":6,
+    "question_text":"1.\tTulislah Konsep kerangka proposal penelitian dari capstone project kamu yang mencakup:\n1.\tLatar belakang masalah\n2.\tMasalah penelitian (rumusan masalah)\n3.\tTujuan penelitian\n4.\tCara atau metode yang akan kamu gunakan \n(20 poin)",
+    "answer":"Latar belakang masalah adalah pemborosan air dalam pertanian. Masalah penelitian: Bagaimana mengotomatisasi irigasi untuk menghemat air. Tujuan: Merancang sistem irigasi otomatis berbasis sensor kelembaban tanah. Metode: Raspberry Pi dan sensor kelembaban tanah.",
+    "weighted_score":3.2,
+    "grade":"B"
+  },
+  {
+    "student_name":"Mahasiswa 2",
+    "question_number":7,
+    "question_text":"2.\tJelaskan bagaimana proposal penelitianmu bisa membantu mengembangkan ilmu pengetahuan atau teknologi di bidangmu. (10 poin)",
+    "answer":"Penelitian ini akan memberikan solusi untuk pertanian yang lebih efisien, mengurangi pemborosan air, dan membuka peluang bagi pengembangan sistem irigasi otomatis yang lebih canggih.",
+    "weighted_score":2.0,
+    "grade":"C"
+  },
+  {
+    "student_name":"Mahasiswa 2",
+    "question_number":1,
+    "question_text":"1.\tJelaskan singkat tentang topik capstone project yang sedang kamu kerjakan. Apa masalah utama yang ingin kamu selesaikan dan apa tujuan dari proyek tersebut? (15 poin)",
+    "answer":"Saya sedang mengembangkan sistem irigasi pintar untuk pertanian. Masalah utama yang ingin saya selesaikan adalah penggunaan air yang tidak efisien dalam irigasi. Tujuan proyek ini adalah menghemat air dengan menyiram tanaman hanya ketika diperlukan.",
+    "weighted_score":3.2,
+    "grade":"B"
+  },
+  {
+    "student_name":"Mahasiswa 2",
+    "question_number":2,
+    "question_text":"2.\tSebutkan dan jelaskan tiga teknologi, alat, atau cara yang kamu pakai dalam capstone project ini. Kenapa kamu memilih yang tersebut? (15 poin)",
+    "answer":"Raspberry Pi, sensor kelembaban tanah, Wi-Fi. Raspberry Pi fleksibel dan dapat mengontrol perangkat keras lain dengan mudah. Sensor kelembaban untuk mendeteksi kebutuhan air. Wi-Fi untuk komunikasi data.",
+    "weighted_score":2.0,
+    "grade":"C"
+  },
+  {
+    "student_name":"Mahasiswa 2",
+    "question_number":3,
+    "question_text":"3. Jelaskan manfaat atau kegunaan hasil capstone projectmu bagi orang lain atau bidang yang kamu tekuni. (10 poin)",
+    "answer":"Menghemat air dalam pertanian dan mengurangi pemborosan.",
+    "weighted_score":1.1,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 2",
+    "question_number":4,
+    "question_text":"1.Ceritakan tahap-tahap pengerjaan capstone project dari awal sampai sekarang. Sebutkan juga hal penting atau target yang sudah kamu capai. (15 poin)",
+    "answer":"Membuat sistem otomatis menggunakan Raspberry Pi, saat ini sedang menguji sensor kelembaban.",
+    "weighted_score":1.1,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 2",
+    "question_number":5,
+    "question_text":"3. Apakah ada perubahan pada rencana (ingin mengubah project) atau cara pengerjaan selama proyek berjalan? Jika iya, jelaskan apa yang berubah dan bagaimana pengaruhnya ke hasil proyek. (10 poin)",
+    "answer":"Menambah aplikasi mobile untuk memantau irigasi secara real-time.",
+    "weighted_score":1.1,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 2",
+    "question_number":6,
+    "question_text":"1.\tTulislah Konsep kerangka proposal penelitian dari capstone project kamu yang mencakup:\n1.\tLatar belakang masalah\n2.\tMasalah penelitian (rumusan masalah)\n3.\tTujuan penelitian\n4.\tCara atau metode yang akan kamu gunakan \n(20 poin)",
+    "answer":"Latar belakang masalah adalah pemborosan air dalam pertanian. Masalah penelitian: Bagaimana mengotomatisasi irigasi untuk menghemat air. Tujuan: Merancang sistem irigasi otomatis berbasis sensor kelembaban tanah. Metode: Raspberry Pi dan sensor kelembaban tanah.",
+    "weighted_score":3.2,
+    "grade":"B"
+  },
+  {
+    "student_name":"Mahasiswa 2",
+    "question_number":7,
+    "question_text":"2.\tJelaskan bagaimana proposal penelitianmu bisa membantu mengembangkan ilmu pengetahuan atau teknologi di bidangmu. (10 poin)",
+    "answer":"Penelitian ini akan memberikan solusi untuk pertanian yang lebih efisien, mengurangi pemborosan air, dan membuka peluang bagi pengembangan sistem irigasi otomatis yang lebih canggih.",
+    "weighted_score":2.0,
+    "grade":"C"
+  },
+  {
+    "student_name":"Mahasiswa 3",
+    "question_number":1,
+    "question_text":"1.\tJelaskan singkat tentang topik capstone project yang sedang kamu kerjakan. Apa masalah utama yang ingin kamu selesaikan dan apa tujuan dari proyek tersebut? (15 poin)",
+    "answer":"Capstone project saya adalah sistem monitoring kualitas udara dalam ruangan. Masalah yang ingin saya selesaikan adalah kualitas udara yang buruk di dalam ruangan, yang bisa memengaruhi kesehatan. Tujuannya adalah membuat sistem yang bisa memberi peringatan saat kualitas udara memburuk.",
+    "weighted_score":3.2,
+    "grade":"B"
+  },
+  {
+    "student_name":"Mahasiswa 3",
+    "question_number":2,
+    "question_text":"2.\tSebutkan dan jelaskan tiga teknologi, alat, atau cara yang kamu pakai dalam capstone project ini. Kenapa kamu memilih yang tersebut? (15 poin)",
+    "answer":"Sensor kualitas udara, mikrokontroler, aplikasi smartphone. Sensor mudah diintegrasikan, mikrokontroler fleksibel untuk pengolahan data, dan aplikasi mempermudah pengguna memantau kualitas udara.",
+    "weighted_score":2.7,
+    "grade":"C"
+  },
+  {
+    "student_name":"Mahasiswa 3",
+    "question_number":3,
+    "question_text":"3. Jelaskan manfaat atau kegunaan hasil capstone projectmu bagi orang lain atau bidang yang kamu tekuni. (10 poin)",
+    "answer":"Membantu orang menjaga kesehatan dengan memantau kualitas udara dalam ruangan.",
+    "weighted_score":1.1,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 3",
+    "question_number":4,
+    "question_text":"1.Ceritakan tahap-tahap pengerjaan capstone project dari awal sampai sekarang. Sebutkan juga hal penting atau target yang sudah kamu capai. (15 poin)",
+    "answer":"Merakit prototipe dengan sensor kualitas udara, menghubungkan ke aplikasi smartphone.",
+    "weighted_score":1.1,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 3",
+    "question_number":5,
+    "question_text":"3. Apakah ada perubahan pada rencana (ingin mengubah project) atau cara pengerjaan selama proyek berjalan? Jika iya, jelaskan apa yang berubah dan bagaimana pengaruhnya ke hasil proyek. (10 poin)",
+    "answer":"Menambah fitur notifikasi real-time untuk memberi peringatan jika kualitas udara menurun.",
+    "weighted_score":1.1,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 3",
+    "question_number":6,
+    "question_text":"1.\tTulislah Konsep kerangka proposal penelitian dari capstone project kamu yang mencakup:\n1.\tLatar belakang masalah\n2.\tMasalah penelitian (rumusan masalah)\n3.\tTujuan penelitian\n4.\tCara atau metode yang akan kamu gunakan \n(20 poin)",
+    "answer":"Latar belakang masalah adalah buruknya kualitas udara dalam ruangan. Masalah penelitian: Bagaimana memonitor kualitas udara dengan akurat. Tujuan penelitian: Merancang sistem yang dapat mendeteksi polutan dan memberi peringatan. Metode: Sensor kualitas udara dan aplikasi berbasis smartphone.",
+    "weighted_score":3.2,
+    "grade":"B"
+  },
+  {
+    "student_name":"Mahasiswa 3",
+    "question_number":7,
+    "question_text":"2.\tJelaskan bagaimana proposal penelitianmu bisa membantu mengembangkan ilmu pengetahuan atau teknologi di bidangmu. (10 poin)",
+    "answer":"Penelitian ini dapat membantu mengembangkan teknologi pemantauan kualitas udara yang lebih canggih, membuka jalan untuk sistem otomatis dalam pengelolaan udara dalam ruangan.",
+    "weighted_score":1.8,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 3",
+    "question_number":1,
+    "question_text":"1.\tJelaskan singkat tentang topik capstone project yang sedang kamu kerjakan. Apa masalah utama yang ingin kamu selesaikan dan apa tujuan dari proyek tersebut? (15 poin)",
+    "answer":"Capstone project saya adalah sistem monitoring kualitas udara dalam ruangan. Masalah yang ingin saya selesaikan adalah kualitas udara yang buruk di dalam ruangan, yang bisa memengaruhi kesehatan. Tujuannya adalah membuat sistem yang bisa memberi peringatan saat kualitas udara memburuk.",
+    "weighted_score":3.2,
+    "grade":"B"
+  },
+  {
+    "student_name":"Mahasiswa 3",
+    "question_number":2,
+    "question_text":"2.\tSebutkan dan jelaskan tiga teknologi, alat, atau cara yang kamu pakai dalam capstone project ini. Kenapa kamu memilih yang tersebut? (15 poin)",
+    "answer":"Sensor kualitas udara, mikrokontroler, aplikasi smartphone. Sensor mudah diintegrasikan, mikrokontroler fleksibel untuk pengolahan data, dan aplikasi mempermudah pengguna memantau kualitas udara.",
+    "weighted_score":2.7,
+    "grade":"C"
+  },
+  {
+    "student_name":"Mahasiswa 3",
+    "question_number":3,
+    "question_text":"3. Jelaskan manfaat atau kegunaan hasil capstone projectmu bagi orang lain atau bidang yang kamu tekuni. (10 poin)",
+    "answer":"Membantu orang menjaga kesehatan dengan memantau kualitas udara dalam ruangan.",
+    "weighted_score":1.1,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 3",
+    "question_number":4,
+    "question_text":"1.Ceritakan tahap-tahap pengerjaan capstone project dari awal sampai sekarang. Sebutkan juga hal penting atau target yang sudah kamu capai. (15 poin)",
+    "answer":"Merakit prototipe dengan sensor kualitas udara, menghubungkan ke aplikasi smartphone.",
+    "weighted_score":1.1,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 3",
+    "question_number":5,
+    "question_text":"3. Apakah ada perubahan pada rencana (ingin mengubah project) atau cara pengerjaan selama proyek berjalan? Jika iya, jelaskan apa yang berubah dan bagaimana pengaruhnya ke hasil proyek. (10 poin)",
+    "answer":"Menambah fitur notifikasi real-time untuk memberi peringatan jika kualitas udara menurun.",
+    "weighted_score":1.1,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 3",
+    "question_number":6,
+    "question_text":"1.\tTulislah Konsep kerangka proposal penelitian dari capstone project kamu yang mencakup:\n1.\tLatar belakang masalah\n2.\tMasalah penelitian (rumusan masalah)\n3.\tTujuan penelitian\n4.\tCara atau metode yang akan kamu gunakan \n(20 poin)",
+    "answer":"Latar belakang masalah adalah buruknya kualitas udara dalam ruangan. Masalah penelitian: Bagaimana memonitor kualitas udara dengan akurat. Tujuan penelitian: Merancang sistem yang dapat mendeteksi polutan dan memberi peringatan. Metode: Sensor kualitas udara dan aplikasi berbasis smartphone.",
+    "weighted_score":3.2,
+    "grade":"B"
+  },
+  {
+    "student_name":"Mahasiswa 3",
+    "question_number":7,
+    "question_text":"2.\tJelaskan bagaimana proposal penelitianmu bisa membantu mengembangkan ilmu pengetahuan atau teknologi di bidangmu. (10 poin)",
+    "answer":"Penelitian ini dapat membantu mengembangkan teknologi pemantauan kualitas udara yang lebih canggih, membuka jalan untuk sistem otomatis dalam pengelolaan udara dalam ruangan.",
+    "weighted_score":1.8,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 5",
+    "question_number":1,
+    "question_text":"1.\tJelaskan singkat tentang topik capstone project yang sedang kamu kerjakan. Apa masalah utama yang ingin kamu selesaikan dan apa tujuan dari proyek tersebut? (15 poin)",
+    "answer":"Membuat aplikasi pengiriman makanan dengan pilihan sehat. Tujuan proyek ini adalah membuat makanan sehat lebih mudah diakses.",
+    "weighted_score":2.0,
+    "grade":"C"
+  },
+  {
+    "student_name":"Mahasiswa 5",
+    "question_number":2,
+    "question_text":"2.\tSebutkan dan jelaskan tiga teknologi, alat, atau cara yang kamu pakai dalam capstone project ini. Kenapa kamu memilih yang tersebut? (15 poin)",
+    "answer":"Flutter untuk aplikasi, Firebase untuk backend, Google Maps API untuk pelacakan lokasi. Flutter untuk pengembangan aplikasi mobile, Firebase untuk manajemen database, Google Maps untuk lokasi.",
+    "weighted_score":2.0,
+    "grade":"C"
+  },
+  {
+    "student_name":"Mahasiswa 5",
+    "question_number":3,
+    "question_text":"3. Jelaskan manfaat atau kegunaan hasil capstone projectmu bagi orang lain atau bidang yang kamu tekuni. (10 poin)",
+    "answer":"Membantu orang membuat pilihan makan sehat dengan mudah dan mengantarnya langsung.",
+    "weighted_score":1.1,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 5",
+    "question_number":4,
+    "question_text":"1.Ceritakan tahap-tahap pengerjaan capstone project dari awal sampai sekarang. Sebutkan juga hal penting atau target yang sudah kamu capai. (15 poin)",
+    "answer":"Membuat aplikasi dengan Flutter dan menghubungkan ke Firebase. Saat ini sedang mengembangkan sistem pembayaran.",
+    "weighted_score":1.1,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 5",
+    "question_number":5,
+    "question_text":"3. Apakah ada perubahan pada rencana (ingin mengubah project) atau cara pengerjaan selama proyek berjalan? Jika iya, jelaskan apa yang berubah dan bagaimana pengaruhnya ke hasil proyek. (10 poin)",
+    "answer":"Menambah fitur pelacakan makanan sehat dan pilihan lebih banyak.",
+    "weighted_score":1.0,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 5",
+    "question_number":6,
+    "question_text":"1.\tTulislah Konsep kerangka proposal penelitian dari capstone project kamu yang mencakup:\n1.\tLatar belakang masalah\n2.\tMasalah penelitian (rumusan masalah)\n3.\tTujuan penelitian\n4.\tCara atau metode yang akan kamu gunakan \n(20 poin)",
+    "answer":"Latar belakang masalah: Kebiasaan makan tidak sehat. Masalah penelitian: Bagaimana menghubungkan orang dengan pilihan makanan sehat. Tujuan: Membuat aplikasi yang menghubungkan pengguna dengan makanan sehat. Metode: Flutter dan Firebase.",
+    "weighted_score":2.0,
+    "grade":"C"
+  },
+  {
+    "student_name":"Mahasiswa 5",
+    "question_number":7,
+    "question_text":"2.\tJelaskan bagaimana proposal penelitianmu bisa membantu mengembangkan ilmu pengetahuan atau teknologi di bidangmu. (10 poin)",
+    "answer":"Penelitian ini dapat membantu perkembangan aplikasi kesehatan dan pemantauan gizi berbasis teknologi.",
+    "weighted_score":1.1,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 5",
+    "question_number":1,
+    "question_text":"1.\tJelaskan singkat tentang topik capstone project yang sedang kamu kerjakan. Apa masalah utama yang ingin kamu selesaikan dan apa tujuan dari proyek tersebut? (15 poin)",
+    "answer":"Membuat aplikasi pengiriman makanan dengan pilihan sehat. Tujuan proyek ini adalah membuat makanan sehat lebih mudah diakses.",
+    "weighted_score":2.0,
+    "grade":"C"
+  },
+  {
+    "student_name":"Mahasiswa 5",
+    "question_number":2,
+    "question_text":"2.\tSebutkan dan jelaskan tiga teknologi, alat, atau cara yang kamu pakai dalam capstone project ini. Kenapa kamu memilih yang tersebut? (15 poin)",
+    "answer":"Flutter untuk aplikasi, Firebase untuk backend, Google Maps API untuk pelacakan lokasi. Flutter untuk pengembangan aplikasi mobile, Firebase untuk manajemen database, Google Maps untuk lokasi.",
+    "weighted_score":2.0,
+    "grade":"C"
+  },
+  {
+    "student_name":"Mahasiswa 5",
+    "question_number":3,
+    "question_text":"3. Jelaskan manfaat atau kegunaan hasil capstone projectmu bagi orang lain atau bidang yang kamu tekuni. (10 poin)",
+    "answer":"Membantu orang membuat pilihan makan sehat dengan mudah dan mengantarnya langsung.",
+    "weighted_score":1.1,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 5",
+    "question_number":4,
+    "question_text":"1.Ceritakan tahap-tahap pengerjaan capstone project dari awal sampai sekarang. Sebutkan juga hal penting atau target yang sudah kamu capai. (15 poin)",
+    "answer":"Membuat aplikasi dengan Flutter dan menghubungkan ke Firebase. Saat ini sedang mengembangkan sistem pembayaran.",
+    "weighted_score":1.1,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 5",
+    "question_number":5,
+    "question_text":"3. Apakah ada perubahan pada rencana (ingin mengubah project) atau cara pengerjaan selama proyek berjalan? Jika iya, jelaskan apa yang berubah dan bagaimana pengaruhnya ke hasil proyek. (10 poin)",
+    "answer":"Menambah fitur pelacakan makanan sehat dan pilihan lebih banyak.",
+    "weighted_score":1.0,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 5",
+    "question_number":6,
+    "question_text":"1.\tTulislah Konsep kerangka proposal penelitian dari capstone project kamu yang mencakup:\n1.\tLatar belakang masalah\n2.\tMasalah penelitian (rumusan masalah)\n3.\tTujuan penelitian\n4.\tCara atau metode yang akan kamu gunakan \n(20 poin)",
+    "answer":"Latar belakang masalah: Kebiasaan makan tidak sehat. Masalah penelitian: Bagaimana menghubungkan orang dengan pilihan makanan sehat. Tujuan: Membuat aplikasi yang menghubungkan pengguna dengan makanan sehat. Metode: Flutter dan Firebase.",
+    "weighted_score":2.0,
+    "grade":"C"
+  },
+  {
+    "student_name":"Mahasiswa 5",
+    "question_number":7,
+    "question_text":"2.\tJelaskan bagaimana proposal penelitianmu bisa membantu mengembangkan ilmu pengetahuan atau teknologi di bidangmu. (10 poin)",
+    "answer":"Penelitian ini dapat membantu perkembangan aplikasi kesehatan dan pemantauan gizi berbasis teknologi.",
+    "weighted_score":1.1,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 8",
+    "question_number":1,
+    "question_text":"1.\tJelaskan singkat tentang topik capstone project yang sedang kamu kerjakan. Apa masalah utama yang ingin kamu selesaikan dan apa tujuan dari proyek tersebut? (15 poin)",
+    "answer":"Membuat aplikasi pelacakan olahraga dan kalori yang terbakar. Tujuan proyek ini adalah membantu orang memantau kesehatan mereka.",
+    "weighted_score":2.0,
+    "grade":"C"
+  },
+  {
+    "student_name":"Mahasiswa 8",
+    "question_number":2,
+    "question_text":"2.\tSebutkan dan jelaskan tiga teknologi, alat, atau cara yang kamu pakai dalam capstone project ini. Kenapa kamu memilih yang tersebut? (15 poin)",
+    "answer":"Arduino, sensor detak jantung, aplikasi mobile. Arduino dipilih karena murah dan mudah diprogram. Sensor detak jantung untuk mendeteksi aktivitas fisik.",
+    "weighted_score":1.8,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 8",
+    "question_number":3,
+    "question_text":"3. Jelaskan manfaat atau kegunaan hasil capstone projectmu bagi orang lain atau bidang yang kamu tekuni. (10 poin)",
+    "answer":"Membantu orang memantau kesehatan selama berolahraga dan mengetahui kalori yang terbakar.",
+    "weighted_score":1.2,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 8",
+    "question_number":4,
+    "question_text":"1.Ceritakan tahap-tahap pengerjaan capstone project dari awal sampai sekarang. Sebutkan juga hal penting atau target yang sudah kamu capai. (15 poin)",
+    "answer":"Merancang alat pengukur detak jantung dengan Arduino dan menghubungkannya ke aplikasi mobile.",
+    "weighted_score":1.1,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 8",
+    "question_number":5,
+    "question_text":"3. Apakah ada perubahan pada rencana (ingin mengubah project) atau cara pengerjaan selama proyek berjalan? Jika iya, jelaskan apa yang berubah dan bagaimana pengaruhnya ke hasil proyek. (10 poin)",
+    "answer":"Menambah fitur untuk memberikan rekomendasi olahraga berdasarkan data detak jantung.",
+    "weighted_score":1.1,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 8",
+    "question_number":6,
+    "question_text":"1.\tTulislah Konsep kerangka proposal penelitian dari capstone project kamu yang mencakup:\n1.\tLatar belakang masalah\n2.\tMasalah penelitian (rumusan masalah)\n3.\tTujuan penelitian\n4.\tCara atau metode yang akan kamu gunakan \n(20 poin)",
+    "answer":"Latar belakang masalah: Kurangnya pemantauan kesehatan selama olahraga. Masalah penelitian: Bagaimana memantau kesehatan pengguna secara otomatis. Tujuan: Membuat aplikasi yang memantau detak jantung dan kalori yang terbakar. Metode: Arduino dengan sensor detak jantung dan aplikasi mobile.",
+    "weighted_score":3.2,
+    "grade":"B"
+  },
+  {
+    "student_name":"Mahasiswa 8",
+    "question_number":7,
+    "question_text":"2.\tJelaskan bagaimana proposal penelitianmu bisa membantu mengembangkan ilmu pengetahuan atau teknologi di bidangmu. (10 poin)",
+    "answer":"Penelitian ini dapat membuka peluang pengembangan aplikasi olahraga yang lebih pintar.",
+    "weighted_score":1.1,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 8",
+    "question_number":1,
+    "question_text":"1.\tJelaskan singkat tentang topik capstone project yang sedang kamu kerjakan. Apa masalah utama yang ingin kamu selesaikan dan apa tujuan dari proyek tersebut? (15 poin)",
+    "answer":"Membuat aplikasi pelacakan olahraga dan kalori yang terbakar. Tujuan proyek ini adalah membantu orang memantau kesehatan mereka.",
+    "weighted_score":2.0,
+    "grade":"C"
+  },
+  {
+    "student_name":"Mahasiswa 8",
+    "question_number":2,
+    "question_text":"2.\tSebutkan dan jelaskan tiga teknologi, alat, atau cara yang kamu pakai dalam capstone project ini. Kenapa kamu memilih yang tersebut? (15 poin)",
+    "answer":"Arduino, sensor detak jantung, aplikasi mobile. Arduino dipilih karena murah dan mudah diprogram. Sensor detak jantung untuk mendeteksi aktivitas fisik.",
+    "weighted_score":1.8,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 8",
+    "question_number":3,
+    "question_text":"3. Jelaskan manfaat atau kegunaan hasil capstone projectmu bagi orang lain atau bidang yang kamu tekuni. (10 poin)",
+    "answer":"Membantu orang memantau kesehatan selama berolahraga dan mengetahui kalori yang terbakar.",
+    "weighted_score":1.2,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 8",
+    "question_number":4,
+    "question_text":"1.Ceritakan tahap-tahap pengerjaan capstone project dari awal sampai sekarang. Sebutkan juga hal penting atau target yang sudah kamu capai. (15 poin)",
+    "answer":"Merancang alat pengukur detak jantung dengan Arduino dan menghubungkannya ke aplikasi mobile.",
+    "weighted_score":1.1,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 8",
+    "question_number":5,
+    "question_text":"3. Apakah ada perubahan pada rencana (ingin mengubah project) atau cara pengerjaan selama proyek berjalan? Jika iya, jelaskan apa yang berubah dan bagaimana pengaruhnya ke hasil proyek. (10 poin)",
+    "answer":"Menambah fitur untuk memberikan rekomendasi olahraga berdasarkan data detak jantung.",
+    "weighted_score":1.1,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 8",
+    "question_number":6,
+    "question_text":"1.\tTulislah Konsep kerangka proposal penelitian dari capstone project kamu yang mencakup:\n1.\tLatar belakang masalah\n2.\tMasalah penelitian (rumusan masalah)\n3.\tTujuan penelitian\n4.\tCara atau metode yang akan kamu gunakan \n(20 poin)",
+    "answer":"Latar belakang masalah: Kurangnya pemantauan kesehatan selama olahraga. Masalah penelitian: Bagaimana memantau kesehatan pengguna secara otomatis. Tujuan: Membuat aplikasi yang memantau detak jantung dan kalori yang terbakar. Metode: Arduino dengan sensor detak jantung dan aplikasi mobile.",
+    "weighted_score":3.2,
+    "grade":"B"
+  },
+  {
+    "student_name":"Mahasiswa 8",
+    "question_number":7,
+    "question_text":"2.\tJelaskan bagaimana proposal penelitianmu bisa membantu mengembangkan ilmu pengetahuan atau teknologi di bidangmu. (10 poin)",
+    "answer":"Penelitian ini dapat membuka peluang pengembangan aplikasi olahraga yang lebih pintar.",
+    "weighted_score":1.1,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 12",
+    "question_number":1,
+    "question_text":"1.\tJelaskan singkat tentang topik capstone project yang sedang kamu kerjakan. Apa masalah utama yang ingin kamu selesaikan dan apa tujuan dari proyek tersebut? (15 poin)",
+    "answer":"Saya sedang membuat aplikasi berbasis web untuk memonitor kualitas air. Masalah yang ingin saya selesaikan adalah kurangnya pemantauan kualitas air yang memadai. Tujuan proyek ini adalah memberi informasi kualitas air secara real-time.",
+    "weighted_score":3.2,
+    "grade":"B"
+  },
+  {
+    "student_name":"Mahasiswa 12",
+    "question_number":2,
+    "question_text":"2.\tSebutkan dan jelaskan tiga teknologi, alat, atau cara yang kamu pakai dalam capstone project ini. Kenapa kamu memilih yang tersebut? (15 poin)",
+    "answer":"Menggunakan Raspberry Pi untuk kontrol sistem, sensor kualitas air untuk deteksi polutan, dan Wi-Fi untuk menghubungkan data ke cloud. Raspberry Pi fleksibel dan dapat diprogram, sensor memadai untuk mendeteksi kualitas air, dan Wi-Fi memungkinkan pengiriman data.",
+    "weighted_score":3.0,
+    "grade":"B"
+  },
+  {
+    "student_name":"Mahasiswa 12",
+    "question_number":3,
+    "question_text":"3. Jelaskan manfaat atau kegunaan hasil capstone projectmu bagi orang lain atau bidang yang kamu tekuni. (10 poin)",
+    "answer":"Membantu masyarakat dalam memantau kualitas air di sekitar mereka dan meningkatkan kesadaran akan kebersihan air.",
+    "weighted_score":1.8,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 12",
+    "question_number":4,
+    "question_text":"1.Ceritakan tahap-tahap pengerjaan capstone project dari awal sampai sekarang. Sebutkan juga hal penting atau target yang sudah kamu capai. (15 poin)",
+    "answer":"Merakit sistem monitoring dengan Raspberry Pi, sensor, dan menghubungkannya dengan cloud. Saat ini, sistem berfungsi dengan baik dan sudah mengirimkan data ke cloud.",
+    "weighted_score":1.8,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 12",
+    "question_number":5,
+    "question_text":"3. Apakah ada perubahan pada rencana (ingin mengubah project) atau cara pengerjaan selama proyek berjalan? Jika iya, jelaskan apa yang berubah dan bagaimana pengaruhnya ke hasil proyek. (10 poin)",
+    "answer":"Menambah fitur notifikasi yang mengingatkan pengguna jika kualitas air menurun.",
+    "weighted_score":1.1,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 12",
+    "question_number":6,
+    "question_text":"1.\tTulislah Konsep kerangka proposal penelitian dari capstone project kamu yang mencakup:\n1.\tLatar belakang masalah\n2.\tMasalah penelitian (rumusan masalah)\n3.\tTujuan penelitian\n4.\tCara atau metode yang akan kamu gunakan \n(20 poin)",
+    "answer":"Latar belakang masalah: Kurangnya pemantauan kualitas air. Masalah penelitian: Bagaimana mendeteksi kualitas air dengan sistem otomatis. Tujuan penelitian: Membangun sistem yang bisa memantau kualitas air secara real-time. Metode: Raspberry Pi dengan sensor kualitas air dan cloud storage.",
+    "weighted_score":3.1,
+    "grade":"B"
+  },
+  {
+    "student_name":"Mahasiswa 12",
+    "question_number":7,
+    "question_text":"2.\tJelaskan bagaimana proposal penelitianmu bisa membantu mengembangkan ilmu pengetahuan atau teknologi di bidangmu. (10 poin)",
+    "answer":"Penelitian ini akan membuka pengembangan teknologi pemantauan lingkungan berbasis IoT yang bisa diterapkan di berbagai sektor.",
+    "weighted_score":1.2,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 12",
+    "question_number":1,
+    "question_text":"1.\tJelaskan singkat tentang topik capstone project yang sedang kamu kerjakan. Apa masalah utama yang ingin kamu selesaikan dan apa tujuan dari proyek tersebut? (15 poin)",
+    "answer":"Saya sedang membuat aplikasi berbasis web untuk memonitor kualitas air. Masalah yang ingin saya selesaikan adalah kurangnya pemantauan kualitas air yang memadai. Tujuan proyek ini adalah memberi informasi kualitas air secara real-time.",
+    "weighted_score":3.2,
+    "grade":"B"
+  },
+  {
+    "student_name":"Mahasiswa 12",
+    "question_number":2,
+    "question_text":"2.\tSebutkan dan jelaskan tiga teknologi, alat, atau cara yang kamu pakai dalam capstone project ini. Kenapa kamu memilih yang tersebut? (15 poin)",
+    "answer":"Menggunakan Raspberry Pi untuk kontrol sistem, sensor kualitas air untuk deteksi polutan, dan Wi-Fi untuk menghubungkan data ke cloud. Raspberry Pi fleksibel dan dapat diprogram, sensor memadai untuk mendeteksi kualitas air, dan Wi-Fi memungkinkan pengiriman data.",
+    "weighted_score":3.0,
+    "grade":"B"
+  },
+  {
+    "student_name":"Mahasiswa 12",
+    "question_number":3,
+    "question_text":"3. Jelaskan manfaat atau kegunaan hasil capstone projectmu bagi orang lain atau bidang yang kamu tekuni. (10 poin)",
+    "answer":"Membantu masyarakat dalam memantau kualitas air di sekitar mereka dan meningkatkan kesadaran akan kebersihan air.",
+    "weighted_score":1.8,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 12",
+    "question_number":4,
+    "question_text":"1.Ceritakan tahap-tahap pengerjaan capstone project dari awal sampai sekarang. Sebutkan juga hal penting atau target yang sudah kamu capai. (15 poin)",
+    "answer":"Merakit sistem monitoring dengan Raspberry Pi, sensor, dan menghubungkannya dengan cloud. Saat ini, sistem berfungsi dengan baik dan sudah mengirimkan data ke cloud.",
+    "weighted_score":1.8,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 12",
+    "question_number":5,
+    "question_text":"3. Apakah ada perubahan pada rencana (ingin mengubah project) atau cara pengerjaan selama proyek berjalan? Jika iya, jelaskan apa yang berubah dan bagaimana pengaruhnya ke hasil proyek. (10 poin)",
+    "answer":"Menambah fitur notifikasi yang mengingatkan pengguna jika kualitas air menurun.",
+    "weighted_score":1.1,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 12",
+    "question_number":6,
+    "question_text":"1.\tTulislah Konsep kerangka proposal penelitian dari capstone project kamu yang mencakup:\n1.\tLatar belakang masalah\n2.\tMasalah penelitian (rumusan masalah)\n3.\tTujuan penelitian\n4.\tCara atau metode yang akan kamu gunakan \n(20 poin)",
+    "answer":"Latar belakang masalah: Kurangnya pemantauan kualitas air. Masalah penelitian: Bagaimana mendeteksi kualitas air dengan sistem otomatis. Tujuan penelitian: Membangun sistem yang bisa memantau kualitas air secara real-time. Metode: Raspberry Pi dengan sensor kualitas air dan cloud storage.",
+    "weighted_score":3.1,
+    "grade":"B"
+  },
+  {
+    "student_name":"Mahasiswa 12",
+    "question_number":7,
+    "question_text":"2.\tJelaskan bagaimana proposal penelitianmu bisa membantu mengembangkan ilmu pengetahuan atau teknologi di bidangmu. (10 poin)",
+    "answer":"Penelitian ini akan membuka pengembangan teknologi pemantauan lingkungan berbasis IoT yang bisa diterapkan di berbagai sektor.",
+    "weighted_score":1.2,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 13",
+    "question_number":1,
+    "question_text":"1.\tJelaskan singkat tentang topik capstone project yang sedang kamu kerjakan. Apa masalah utama yang ingin kamu selesaikan dan apa tujuan dari proyek tersebut? (15 poin)",
+    "answer":"Saya sedang mengerjakan sistem manajemen pengingat jadwal kegiatan berbasis aplikasi. Masalah yang ingin saya selesaikan adalah kebingungan mahasiswa dalam mengatur jadwal kegiatan mereka. Tujuan proyek ini adalah mempermudah mahasiswa dalam mengelola jadwal kegiatan mereka.",
+    "weighted_score":3.2,
+    "grade":"B"
+  },
+  {
+    "student_name":"Mahasiswa 13",
+    "question_number":2,
+    "question_text":"2.\tSebutkan dan jelaskan tiga teknologi, alat, atau cara yang kamu pakai dalam capstone project ini. Kenapa kamu memilih yang tersebut? (15 poin)",
+    "answer":"Menggunakan Android Studio untuk pengembangan aplikasi, Firebase untuk backend, dan SQLite untuk penyimpanan data. Android Studio menyediakan berbagai tools yang dibutuhkan untuk pengembangan aplikasi mobile, Firebase untuk integrasi data real-time, dan SQLite untuk database lokal yang ringan.",
+    "weighted_score":2.7,
+    "grade":"C"
+  },
+  {
+    "student_name":"Mahasiswa 13",
+    "question_number":3,
+    "question_text":"3. Jelaskan manfaat atau kegunaan hasil capstone projectmu bagi orang lain atau bidang yang kamu tekuni. (10 poin)",
+    "answer":"Membantu mahasiswa mengatur jadwal dan kegiatan mereka dengan lebih efisien, sehingga mengurangi stres dan meningkatkan produktivitas.",
+    "weighted_score":1.8,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 13",
+    "question_number":4,
+    "question_text":"1.Ceritakan tahap-tahap pengerjaan capstone project dari awal sampai sekarang. Sebutkan juga hal penting atau target yang sudah kamu capai. (15 poin)",
+    "answer":"Membuat antarmuka aplikasi, mengembangkan backend dengan Firebase, dan menambahkan fitur pengingat. Sekarang, aplikasi sudah hampir selesai dan siap diuji coba.",
+    "weighted_score":2.0,
+    "grade":"C"
+  },
+  {
+    "student_name":"Mahasiswa 13",
+    "question_number":5,
+    "question_text":"3. Apakah ada perubahan pada rencana (ingin mengubah project) atau cara pengerjaan selama proyek berjalan? Jika iya, jelaskan apa yang berubah dan bagaimana pengaruhnya ke hasil proyek. (10 poin)",
+    "answer":"Menambah fitur pelacakan tugas dan ujian yang tidak ada dalam rencana awal.",
+    "weighted_score":1.1,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 13",
+    "question_number":6,
+    "question_text":"1.\tTulislah Konsep kerangka proposal penelitian dari capstone project kamu yang mencakup:\n1.\tLatar belakang masalah\n2.\tMasalah penelitian (rumusan masalah)\n3.\tTujuan penelitian\n4.\tCara atau metode yang akan kamu gunakan \n(20 poin)",
+    "answer":"Latar belakang masalah: Mahasiswa kesulitan mengelola waktu mereka. Masalah penelitian: Bagaimana membuat aplikasi pengingat jadwal kegiatan yang efisien. Tujuan penelitian: Membuat aplikasi untuk mengelola jadwal kegiatan mahasiswa. Metode: Penggunaan Android Studio dan Firebase untuk backend.",
+    "weighted_score":3.2,
+    "grade":"B"
+  },
+  {
+    "student_name":"Mahasiswa 13",
+    "question_number":7,
+    "question_text":"2.\tJelaskan bagaimana proposal penelitianmu bisa membantu mengembangkan ilmu pengetahuan atau teknologi di bidangmu. (10 poin)",
+    "answer":"Penelitian ini dapat membantu mahasiswa dalam manajemen waktu dan mengembangkan aplikasi serupa di bidang pendidikan.",
+    "weighted_score":1.1,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 13",
+    "question_number":1,
+    "question_text":"1.\tJelaskan singkat tentang topik capstone project yang sedang kamu kerjakan. Apa masalah utama yang ingin kamu selesaikan dan apa tujuan dari proyek tersebut? (15 poin)",
+    "answer":"Saya sedang mengerjakan sistem manajemen pengingat jadwal kegiatan berbasis aplikasi. Masalah yang ingin saya selesaikan adalah kebingungan mahasiswa dalam mengatur jadwal kegiatan mereka. Tujuan proyek ini adalah mempermudah mahasiswa dalam mengelola jadwal kegiatan mereka.",
+    "weighted_score":3.2,
+    "grade":"B"
+  },
+  {
+    "student_name":"Mahasiswa 13",
+    "question_number":2,
+    "question_text":"2.\tSebutkan dan jelaskan tiga teknologi, alat, atau cara yang kamu pakai dalam capstone project ini. Kenapa kamu memilih yang tersebut? (15 poin)",
+    "answer":"Menggunakan Android Studio untuk pengembangan aplikasi, Firebase untuk backend, dan SQLite untuk penyimpanan data. Android Studio menyediakan berbagai tools yang dibutuhkan untuk pengembangan aplikasi mobile, Firebase untuk integrasi data real-time, dan SQLite untuk database lokal yang ringan.",
+    "weighted_score":2.7,
+    "grade":"C"
+  },
+  {
+    "student_name":"Mahasiswa 13",
+    "question_number":3,
+    "question_text":"3. Jelaskan manfaat atau kegunaan hasil capstone projectmu bagi orang lain atau bidang yang kamu tekuni. (10 poin)",
+    "answer":"Membantu mahasiswa mengatur jadwal dan kegiatan mereka dengan lebih efisien, sehingga mengurangi stres dan meningkatkan produktivitas.",
+    "weighted_score":1.8,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 13",
+    "question_number":4,
+    "question_text":"1.Ceritakan tahap-tahap pengerjaan capstone project dari awal sampai sekarang. Sebutkan juga hal penting atau target yang sudah kamu capai. (15 poin)",
+    "answer":"Membuat antarmuka aplikasi, mengembangkan backend dengan Firebase, dan menambahkan fitur pengingat. Sekarang, aplikasi sudah hampir selesai dan siap diuji coba.",
+    "weighted_score":2.0,
+    "grade":"C"
+  },
+  {
+    "student_name":"Mahasiswa 13",
+    "question_number":5,
+    "question_text":"3. Apakah ada perubahan pada rencana (ingin mengubah project) atau cara pengerjaan selama proyek berjalan? Jika iya, jelaskan apa yang berubah dan bagaimana pengaruhnya ke hasil proyek. (10 poin)",
+    "answer":"Menambah fitur pelacakan tugas dan ujian yang tidak ada dalam rencana awal.",
+    "weighted_score":1.1,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 13",
+    "question_number":6,
+    "question_text":"1.\tTulislah Konsep kerangka proposal penelitian dari capstone project kamu yang mencakup:\n1.\tLatar belakang masalah\n2.\tMasalah penelitian (rumusan masalah)\n3.\tTujuan penelitian\n4.\tCara atau metode yang akan kamu gunakan \n(20 poin)",
+    "answer":"Latar belakang masalah: Mahasiswa kesulitan mengelola waktu mereka. Masalah penelitian: Bagaimana membuat aplikasi pengingat jadwal kegiatan yang efisien. Tujuan penelitian: Membuat aplikasi untuk mengelola jadwal kegiatan mahasiswa. Metode: Penggunaan Android Studio dan Firebase untuk backend.",
+    "weighted_score":3.2,
+    "grade":"B"
+  },
+  {
+    "student_name":"Mahasiswa 13",
+    "question_number":7,
+    "question_text":"2.\tJelaskan bagaimana proposal penelitianmu bisa membantu mengembangkan ilmu pengetahuan atau teknologi di bidangmu. (10 poin)",
+    "answer":"Penelitian ini dapat membantu mahasiswa dalam manajemen waktu dan mengembangkan aplikasi serupa di bidang pendidikan.",
+    "weighted_score":1.1,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 14",
+    "question_number":1,
+    "question_text":"1.\tJelaskan singkat tentang topik capstone project yang sedang kamu kerjakan. Apa masalah utama yang ingin kamu selesaikan dan apa tujuan dari proyek tersebut? (15 poin)",
+    "answer":"Saya mengerjakan proyek sistem pemantauan keamanan rumah berbasis IoT. Masalah yang ingin saya selesaikan adalah rasa tidak aman di rumah karena kurangnya sistem pengamanan yang efektif. Tujuan proyek ini adalah membuat sistem yang bisa memberikan notifikasi jika ada ancaman keamanan di rumah.",
+    "weighted_score":3.2,
+    "grade":"B"
+  },
+  {
+    "student_name":"Mahasiswa 14",
+    "question_number":2,
+    "question_text":"2.\tSebutkan dan jelaskan tiga teknologi, alat, atau cara yang kamu pakai dalam capstone project ini. Kenapa kamu memilih yang tersebut? (15 poin)",
+    "answer":"Menggunakan sensor gerak, kamera pengawas, dan mikrokontroler ESP8266. Sensor gerak mendeteksi keberadaan orang, kamera untuk merekam aktivitas, dan mikrokontroler ESP8266 memungkinkan sistem untuk terhubung dengan internet.",
+    "weighted_score":2.0,
+    "grade":"C"
+  },
+  {
+    "student_name":"Mahasiswa 14",
+    "question_number":3,
+    "question_text":"3. Jelaskan manfaat atau kegunaan hasil capstone projectmu bagi orang lain atau bidang yang kamu tekuni. (10 poin)",
+    "answer":"Meningkatkan keamanan rumah dengan sistem yang dapat dipantau dari jarak jauh dan memberi peringatan jika terjadi sesuatu yang mencurigakan.",
+    "weighted_score":1.8,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 14",
+    "question_number":4,
+    "question_text":"1.Ceritakan tahap-tahap pengerjaan capstone project dari awal sampai sekarang. Sebutkan juga hal penting atau target yang sudah kamu capai. (15 poin)",
+    "answer":"Mengembangkan prototipe sistem pengawasan menggunakan sensor dan kamera, serta menghubungkannya ke aplikasi mobile. Sistem sudah bisa memantau gerakan dan mengirim notifikasi ke ponsel.",
+    "weighted_score":1.8,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 14",
+    "question_number":5,
+    "question_text":"3. Apakah ada perubahan pada rencana (ingin mengubah project) atau cara pengerjaan selama proyek berjalan? Jika iya, jelaskan apa yang berubah dan bagaimana pengaruhnya ke hasil proyek. (10 poin)",
+    "answer":"Menambah fitur untuk menyalakan alarm dan mengirim notifikasi kepada pemilik rumah.",
+    "weighted_score":1.1,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 14",
+    "question_number":6,
+    "question_text":"1.\tTulislah Konsep kerangka proposal penelitian dari capstone project kamu yang mencakup:\n1.\tLatar belakang masalah\n2.\tMasalah penelitian (rumusan masalah)\n3.\tTujuan penelitian\n4.\tCara atau metode yang akan kamu gunakan \n(20 poin)",
+    "answer":"Latar belakang masalah: Masalah keamanan rumah. Masalah penelitian: Bagaimana mendeteksi potensi ancaman di rumah secara otomatis. Tujuan penelitian: Menciptakan sistem pemantauan keamanan rumah berbasis IoT. Metode: Menggunakan sensor gerak dan kamera dengan mikrokontroler ESP8266.",
+    "weighted_score":3.2,
+    "grade":"B"
+  },
+  {
+    "student_name":"Mahasiswa 14",
+    "question_number":7,
+    "question_text":"2.\tJelaskan bagaimana proposal penelitianmu bisa membantu mengembangkan ilmu pengetahuan atau teknologi di bidangmu. (10 poin)",
+    "answer":"Penelitian ini dapat membantu meningkatkan sistem keamanan rumah dengan teknologi terbaru berbasis IoT yang bisa diakses dari jarak jauh.",
+    "weighted_score":1.8,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 14",
+    "question_number":1,
+    "question_text":"1.\tJelaskan singkat tentang topik capstone project yang sedang kamu kerjakan. Apa masalah utama yang ingin kamu selesaikan dan apa tujuan dari proyek tersebut? (15 poin)",
+    "answer":"Saya mengerjakan proyek sistem pemantauan keamanan rumah berbasis IoT. Masalah yang ingin saya selesaikan adalah rasa tidak aman di rumah karena kurangnya sistem pengamanan yang efektif. Tujuan proyek ini adalah membuat sistem yang bisa memberikan notifikasi jika ada ancaman keamanan di rumah.",
+    "weighted_score":3.2,
+    "grade":"B"
+  },
+  {
+    "student_name":"Mahasiswa 14",
+    "question_number":2,
+    "question_text":"2.\tSebutkan dan jelaskan tiga teknologi, alat, atau cara yang kamu pakai dalam capstone project ini. Kenapa kamu memilih yang tersebut? (15 poin)",
+    "answer":"Menggunakan sensor gerak, kamera pengawas, dan mikrokontroler ESP8266. Sensor gerak mendeteksi keberadaan orang, kamera untuk merekam aktivitas, dan mikrokontroler ESP8266 memungkinkan sistem untuk terhubung dengan internet.",
+    "weighted_score":2.0,
+    "grade":"C"
+  },
+  {
+    "student_name":"Mahasiswa 14",
+    "question_number":3,
+    "question_text":"3. Jelaskan manfaat atau kegunaan hasil capstone projectmu bagi orang lain atau bidang yang kamu tekuni. (10 poin)",
+    "answer":"Meningkatkan keamanan rumah dengan sistem yang dapat dipantau dari jarak jauh dan memberi peringatan jika terjadi sesuatu yang mencurigakan.",
+    "weighted_score":1.8,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 14",
+    "question_number":4,
+    "question_text":"1.Ceritakan tahap-tahap pengerjaan capstone project dari awal sampai sekarang. Sebutkan juga hal penting atau target yang sudah kamu capai. (15 poin)",
+    "answer":"Mengembangkan prototipe sistem pengawasan menggunakan sensor dan kamera, serta menghubungkannya ke aplikasi mobile. Sistem sudah bisa memantau gerakan dan mengirim notifikasi ke ponsel.",
+    "weighted_score":1.8,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 14",
+    "question_number":5,
+    "question_text":"3. Apakah ada perubahan pada rencana (ingin mengubah project) atau cara pengerjaan selama proyek berjalan? Jika iya, jelaskan apa yang berubah dan bagaimana pengaruhnya ke hasil proyek. (10 poin)",
+    "answer":"Menambah fitur untuk menyalakan alarm dan mengirim notifikasi kepada pemilik rumah.",
+    "weighted_score":1.1,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 14",
+    "question_number":6,
+    "question_text":"1.\tTulislah Konsep kerangka proposal penelitian dari capstone project kamu yang mencakup:\n1.\tLatar belakang masalah\n2.\tMasalah penelitian (rumusan masalah)\n3.\tTujuan penelitian\n4.\tCara atau metode yang akan kamu gunakan \n(20 poin)",
+    "answer":"Latar belakang masalah: Masalah keamanan rumah. Masalah penelitian: Bagaimana mendeteksi potensi ancaman di rumah secara otomatis. Tujuan penelitian: Menciptakan sistem pemantauan keamanan rumah berbasis IoT. Metode: Menggunakan sensor gerak dan kamera dengan mikrokontroler ESP8266.",
+    "weighted_score":3.2,
+    "grade":"B"
+  },
+  {
+    "student_name":"Mahasiswa 14",
+    "question_number":7,
+    "question_text":"2.\tJelaskan bagaimana proposal penelitianmu bisa membantu mengembangkan ilmu pengetahuan atau teknologi di bidangmu. (10 poin)",
+    "answer":"Penelitian ini dapat membantu meningkatkan sistem keamanan rumah dengan teknologi terbaru berbasis IoT yang bisa diakses dari jarak jauh.",
+    "weighted_score":1.8,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 15",
+    "question_number":1,
+    "question_text":"1.\tJelaskan singkat tentang topik capstone project yang sedang kamu kerjakan. Apa masalah utama yang ingin kamu selesaikan dan apa tujuan dari proyek tersebut? (15 poin)",
+    "answer":"Saya sedang mengembangkan aplikasi untuk memantau pola tidur. Masalah yang ingin saya selesaikan adalah kebiasaan tidur yang buruk yang mempengaruhi kesehatan. Tujuan proyek ini adalah memberikan rekomendasi untuk tidur yang lebih baik berdasarkan data yang dikumpulkan.",
+    "weighted_score":3.2,
+    "grade":"B"
+  },
+  {
+    "student_name":"Mahasiswa 15",
+    "question_number":2,
+    "question_text":"2.\tSebutkan dan jelaskan tiga teknologi, alat, atau cara yang kamu pakai dalam capstone project ini. Kenapa kamu memilih yang tersebut? (15 poin)",
+    "answer":"Menggunakan sensor detak jantung, aplikasi Android, dan Firebase untuk backend. Sensor mendeteksi detak jantung untuk menganalisis kualitas tidur, Android untuk antarmuka, dan Firebase untuk penyimpanan data.",
+    "weighted_score":2.0,
+    "grade":"C"
+  },
+  {
+    "student_name":"Mahasiswa 15",
+    "question_number":3,
+    "question_text":"3. Jelaskan manfaat atau kegunaan hasil capstone projectmu bagi orang lain atau bidang yang kamu tekuni. (10 poin)",
+    "answer":"Membantu orang memantau dan meningkatkan kualitas tidur mereka, yang penting untuk kesehatan jangka panjang.",
+    "weighted_score":1.2,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 15",
+    "question_number":4,
+    "question_text":"1.Ceritakan tahap-tahap pengerjaan capstone project dari awal sampai sekarang. Sebutkan juga hal penting atau target yang sudah kamu capai. (15 poin)",
+    "answer":"Mengembangkan aplikasi dengan Android Studio, menghubungkan sensor dengan aplikasi, dan mengintegrasikan dengan Firebase untuk penyimpanan data.",
+    "weighted_score":1.1,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 15",
+    "question_number":5,
+    "question_text":"3. Apakah ada perubahan pada rencana (ingin mengubah project) atau cara pengerjaan selama proyek berjalan? Jika iya, jelaskan apa yang berubah dan bagaimana pengaruhnya ke hasil proyek. (10 poin)",
+    "answer":"Menambah fitur untuk menganalisis pola tidur dalam jangka waktu lebih panjang.",
+    "weighted_score":1.1,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 15",
+    "question_number":6,
+    "question_text":"1.\tTulislah Konsep kerangka proposal penelitian dari capstone project kamu yang mencakup:\n1.\tLatar belakang masalah\n2.\tMasalah penelitian (rumusan masalah)\n3.\tTujuan penelitian\n4.\tCara atau metode yang akan kamu gunakan \n(20 poin)",
+    "answer":"Latar belakang masalah: Pola tidur yang buruk mengganggu kesehatan. Masalah penelitian: Bagaimana memonitor kualitas tidur secara efektif. Tujuan penelitian: Membuat aplikasi untuk memantau dan memberikan rekomendasi tidur yang lebih baik. Metode: Penggunaan sensor detak jantung dan aplikasi mobile berbasis Android.",
+    "weighted_score":3.2,
+    "grade":"B"
+  },
+  {
+    "student_name":"Mahasiswa 15",
+    "question_number":7,
+    "question_text":"2.\tJelaskan bagaimana proposal penelitianmu bisa membantu mengembangkan ilmu pengetahuan atau teknologi di bidangmu. (10 poin)",
+    "answer":"Penelitian ini dapat membantu mengembangkan aplikasi kesehatan untuk pola tidur yang lebih baik, yang penting untuk kualitas hidup yang lebih sehat.",
+    "weighted_score":1.1,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 15",
+    "question_number":1,
+    "question_text":"1.\tJelaskan singkat tentang topik capstone project yang sedang kamu kerjakan. Apa masalah utama yang ingin kamu selesaikan dan apa tujuan dari proyek tersebut? (15 poin)",
+    "answer":"Saya sedang mengembangkan aplikasi untuk memantau pola tidur. Masalah yang ingin saya selesaikan adalah kebiasaan tidur yang buruk yang mempengaruhi kesehatan. Tujuan proyek ini adalah memberikan rekomendasi untuk tidur yang lebih baik berdasarkan data yang dikumpulkan.",
+    "weighted_score":3.2,
+    "grade":"B"
+  },
+  {
+    "student_name":"Mahasiswa 15",
+    "question_number":2,
+    "question_text":"2.\tSebutkan dan jelaskan tiga teknologi, alat, atau cara yang kamu pakai dalam capstone project ini. Kenapa kamu memilih yang tersebut? (15 poin)",
+    "answer":"Menggunakan sensor detak jantung, aplikasi Android, dan Firebase untuk backend. Sensor mendeteksi detak jantung untuk menganalisis kualitas tidur, Android untuk antarmuka, dan Firebase untuk penyimpanan data.",
+    "weighted_score":2.0,
+    "grade":"C"
+  },
+  {
+    "student_name":"Mahasiswa 15",
+    "question_number":3,
+    "question_text":"3. Jelaskan manfaat atau kegunaan hasil capstone projectmu bagi orang lain atau bidang yang kamu tekuni. (10 poin)",
+    "answer":"Membantu orang memantau dan meningkatkan kualitas tidur mereka, yang penting untuk kesehatan jangka panjang.",
+    "weighted_score":1.2,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 15",
+    "question_number":4,
+    "question_text":"1.Ceritakan tahap-tahap pengerjaan capstone project dari awal sampai sekarang. Sebutkan juga hal penting atau target yang sudah kamu capai. (15 poin)",
+    "answer":"Mengembangkan aplikasi dengan Android Studio, menghubungkan sensor dengan aplikasi, dan mengintegrasikan dengan Firebase untuk penyimpanan data.",
+    "weighted_score":1.1,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 15",
+    "question_number":5,
+    "question_text":"3. Apakah ada perubahan pada rencana (ingin mengubah project) atau cara pengerjaan selama proyek berjalan? Jika iya, jelaskan apa yang berubah dan bagaimana pengaruhnya ke hasil proyek. (10 poin)",
+    "answer":"Menambah fitur untuk menganalisis pola tidur dalam jangka waktu lebih panjang.",
+    "weighted_score":1.1,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 15",
+    "question_number":6,
+    "question_text":"1.\tTulislah Konsep kerangka proposal penelitian dari capstone project kamu yang mencakup:\n1.\tLatar belakang masalah\n2.\tMasalah penelitian (rumusan masalah)\n3.\tTujuan penelitian\n4.\tCara atau metode yang akan kamu gunakan \n(20 poin)",
+    "answer":"Latar belakang masalah: Pola tidur yang buruk mengganggu kesehatan. Masalah penelitian: Bagaimana memonitor kualitas tidur secara efektif. Tujuan penelitian: Membuat aplikasi untuk memantau dan memberikan rekomendasi tidur yang lebih baik. Metode: Penggunaan sensor detak jantung dan aplikasi mobile berbasis Android.",
+    "weighted_score":3.2,
+    "grade":"B"
+  },
+  {
+    "student_name":"Mahasiswa 15",
+    "question_number":7,
+    "question_text":"2.\tJelaskan bagaimana proposal penelitianmu bisa membantu mengembangkan ilmu pengetahuan atau teknologi di bidangmu. (10 poin)",
+    "answer":"Penelitian ini dapat membantu mengembangkan aplikasi kesehatan untuk pola tidur yang lebih baik, yang penting untuk kualitas hidup yang lebih sehat.",
+    "weighted_score":1.1,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 16",
+    "question_number":1,
+    "question_text":"1.\tJelaskan singkat tentang topik capstone project yang sedang kamu kerjakan. Apa masalah utama yang ingin kamu selesaikan dan apa tujuan dari proyek tersebut? (15 poin)",
+    "answer":"Saya sedang mengerjakan sistem monitoring kualitas udara berbasis IoT. Masalah yang ingin saya selesaikan adalah kualitas udara yang buruk di lingkungan dalam ruangan, yang dapat menyebabkan masalah kesehatan seperti gangguan pernapasan. Tujuan proyek ini adalah untuk memantau kualitas udara secara real-time dan memberikan peringatan kepada pengguna jika kualitas udara menurun.",
+    "weighted_score":3.2,
+    "grade":"B"
+  },
+  {
+    "student_name":"Mahasiswa 16",
+    "question_number":2,
+    "question_text":"2.\tSebutkan dan jelaskan tiga teknologi, alat, atau cara yang kamu pakai dalam capstone project ini. Kenapa kamu memilih yang tersebut? (15 poin)",
+    "answer":"Sensor Kualitas Udara (MQ-135): Untuk mendeteksi polutan seperti amonia dan karbon dioksida. Sensor ini cukup murah dan akurat untuk aplikasi ini. Mikrokontroler ESP32: Untuk mengolah data dari sensor dan mengirimkannya ke cloud melalui Wi-Fi. ESP32 dipilih karena mendukung konektivitas Wi-Fi. Cloud Storage (Firebase): Untuk menyimpan data kualitas udara secara real-time dan memudahkan integrasi dengan aplikasi mobile. Firebase dipilih karena kemudahan integrasinya dengan aplikasi.",
+    "weighted_score":3.1,
+    "grade":"B"
+  },
+  {
+    "student_name":"Mahasiswa 16",
+    "question_number":3,
+    "question_text":"3. Jelaskan manfaat atau kegunaan hasil capstone projectmu bagi orang lain atau bidang yang kamu tekuni. (10 poin)",
+    "answer":"Membantu orang menjaga kesehatan dengan memantau kualitas udara, yang sangat penting bagi orang dengan masalah pernapasan atau yang tinggal di daerah dengan polusi tinggi.",
+    "weighted_score":1.8,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 16",
+    "question_number":4,
+    "question_text":"1.Ceritakan tahap-tahap pengerjaan capstone project dari awal sampai sekarang. Sebutkan juga hal penting atau target yang sudah kamu capai. (15 poin)",
+    "answer":"Saya mulai dengan riset tentang sensor kualitas udara yang cocok, kemudian merakit alat dengan ESP32 dan sensor MQ-135. Sekarang, sistem sudah mengirimkan data ke cloud dan bisa dipantau melalui aplikasi mobile.",
+    "weighted_score":3.0,
+    "grade":"B"
+  },
+  {
+    "student_name":"Mahasiswa 16",
+    "question_number":5,
+    "question_text":"3. Apakah ada perubahan pada rencana (ingin mengubah project) atau cara pengerjaan selama proyek berjalan? Jika iya, jelaskan apa yang berubah dan bagaimana pengaruhnya ke hasil proyek. (10 poin)",
+    "answer":"Tidak ada perubahan besar dalam proyek ini. Namun, saya menambah fitur notifikasi jika kualitas udara menurun. Fitur ini membuat sistem lebih responsif dan berguna.",
+    "weighted_score":3.0,
+    "grade":"B"
+  },
+  {
+    "student_name":"Mahasiswa 16",
+    "question_number":6,
+    "question_text":"1.\tTulislah Konsep kerangka proposal penelitian dari capstone project kamu yang mencakup:\n1.\tLatar belakang masalah\n2.\tMasalah penelitian (rumusan masalah)\n3.\tTujuan penelitian\n4.\tCara atau metode yang akan kamu gunakan \n(20 poin)",
+    "answer":"Latar belakang masalah: Kualitas udara dalam ruangan yang buruk dapat menyebabkan masalah kesehatan, seperti gangguan pernapasan dan alergi. Masalah penelitian: Bagaimana cara memonitor kualitas udara secara real-time dan memberikan peringatan kepada pengguna jika kualitas udara menurun? Tujuan penelitian: Membangun sistem pemantauan kualitas udara berbasis IoT yang dapat memberikan data kualitas udara secara real-time kepada pengguna dan memberikan peringatan jika terjadi penurunan kualitas udara. Metode: Menggunakan sensor kualitas udara MQ-135 untuk mendeteksi polutan, mikrokontroler ESP32 untuk pengolahan data dan komunikasi, serta Firebase untuk penyimpanan data dan pengiriman notifikasi.",
+    "weighted_score":3.9,
+    "grade":"A"
+  },
+  {
+    "student_name":"Mahasiswa 16",
+    "question_number":7,
+    "question_text":"2.\tJelaskan bagaimana proposal penelitianmu bisa membantu mengembangkan ilmu pengetahuan atau teknologi di bidangmu. (10 poin)",
+    "answer":"Proposal ini dapat membantu mengembangkan teknologi pemantauan kualitas udara berbasis IoT yang lebih canggih, dan membuka peluang untuk pengembangan alat rumah tangga pintar lainnya yang dapat memonitor dan mengelola kualitas lingkungan secara otomatis.",
+    "weighted_score":3.0,
+    "grade":"B"
+  },
+  {
+    "student_name":"Mahasiswa 16",
+    "question_number":1,
+    "question_text":"1.\tJelaskan singkat tentang topik capstone project yang sedang kamu kerjakan. Apa masalah utama yang ingin kamu selesaikan dan apa tujuan dari proyek tersebut? (15 poin)",
+    "answer":"Saya sedang mengerjakan sistem monitoring kualitas udara berbasis IoT. Masalah yang ingin saya selesaikan adalah kualitas udara yang buruk di lingkungan dalam ruangan, yang dapat menyebabkan masalah kesehatan seperti gangguan pernapasan. Tujuan proyek ini adalah untuk memantau kualitas udara secara real-time dan memberikan peringatan kepada pengguna jika kualitas udara menurun.",
+    "weighted_score":3.2,
+    "grade":"B"
+  },
+  {
+    "student_name":"Mahasiswa 16",
+    "question_number":2,
+    "question_text":"2.\tSebutkan dan jelaskan tiga teknologi, alat, atau cara yang kamu pakai dalam capstone project ini. Kenapa kamu memilih yang tersebut? (15 poin)",
+    "answer":"Sensor Kualitas Udara (MQ-135): Untuk mendeteksi polutan seperti amonia dan karbon dioksida. Sensor ini cukup murah dan akurat untuk aplikasi ini. Mikrokontroler ESP32: Untuk mengolah data dari sensor dan mengirimkannya ke cloud melalui Wi-Fi. ESP32 dipilih karena mendukung konektivitas Wi-Fi. Cloud Storage (Firebase): Untuk menyimpan data kualitas udara secara real-time dan memudahkan integrasi dengan aplikasi mobile. Firebase dipilih karena kemudahan integrasinya dengan aplikasi.",
+    "weighted_score":3.1,
+    "grade":"B"
+  },
+  {
+    "student_name":"Mahasiswa 16",
+    "question_number":3,
+    "question_text":"3. Jelaskan manfaat atau kegunaan hasil capstone projectmu bagi orang lain atau bidang yang kamu tekuni. (10 poin)",
+    "answer":"Membantu orang menjaga kesehatan dengan memantau kualitas udara, yang sangat penting bagi orang dengan masalah pernapasan atau yang tinggal di daerah dengan polusi tinggi.",
+    "weighted_score":1.8,
+    "grade":"D"
+  },
+  {
+    "student_name":"Mahasiswa 16",
+    "question_number":4,
+    "question_text":"1.Ceritakan tahap-tahap pengerjaan capstone project dari awal sampai sekarang. Sebutkan juga hal penting atau target yang sudah kamu capai. (15 poin)",
+    "answer":"Saya mulai dengan riset tentang sensor kualitas udara yang cocok, kemudian merakit alat dengan ESP32 dan sensor MQ-135. Sekarang, sistem sudah mengirimkan data ke cloud dan bisa dipantau melalui aplikasi mobile.",
+    "weighted_score":3.0,
+    "grade":"B"
+  },
+  {
+    "student_name":"Mahasiswa 16",
+    "question_number":5,
+    "question_text":"3. Apakah ada perubahan pada rencana (ingin mengubah project) atau cara pengerjaan selama proyek berjalan? Jika iya, jelaskan apa yang berubah dan bagaimana pengaruhnya ke hasil proyek. (10 poin)",
+    "answer":"Tidak ada perubahan besar dalam proyek ini. Namun, saya menambah fitur notifikasi jika kualitas udara menurun. Fitur ini membuat sistem lebih responsif dan berguna.",
+    "weighted_score":3.0,
+    "grade":"B"
+  },
+  {
+    "student_name":"Mahasiswa 16",
+    "question_number":6,
+    "question_text":"1.\tTulislah Konsep kerangka proposal penelitian dari capstone project kamu yang mencakup:\n1.\tLatar belakang masalah\n2.\tMasalah penelitian (rumusan masalah)\n3.\tTujuan penelitian\n4.\tCara atau metode yang akan kamu gunakan \n(20 poin)",
+    "answer":"Latar belakang masalah: Kualitas udara dalam ruangan yang buruk dapat menyebabkan masalah kesehatan, seperti gangguan pernapasan dan alergi. Masalah penelitian: Bagaimana cara memonitor kualitas udara secara real-time dan memberikan peringatan kepada pengguna jika kualitas udara menurun? Tujuan penelitian: Membangun sistem pemantauan kualitas udara berbasis IoT yang dapat memberikan data kualitas udara secara real-time kepada pengguna dan memberikan peringatan jika terjadi penurunan kualitas udara. Metode: Menggunakan sensor kualitas udara MQ-135 untuk mendeteksi polutan, mikrokontroler ESP32 untuk pengolahan data dan komunikasi, serta Firebase untuk penyimpanan data dan pengiriman notifikasi.",
+    "weighted_score":3.9,
+    "grade":"A"
+  },
+  {
+    "student_name":"Mahasiswa 16",
+    "question_number":7,
+    "question_text":"2.\tJelaskan bagaimana proposal penelitianmu bisa membantu mengembangkan ilmu pengetahuan atau teknologi di bidangmu. (10 poin)",
+    "answer":"Proposal ini dapat membantu mengembangkan teknologi pemantauan kualitas udara berbasis IoT yang lebih canggih, dan membuka peluang untuk pengembangan alat rumah tangga pintar lainnya yang dapat memonitor dan mengelola kualitas lingkungan secara otomatis.",
+    "weighted_score":3.0,
+    "grade":"B"
+  }
+]

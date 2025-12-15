@@ -1,0 +1,7 @@
+model,strategy,overall_bias,bias_std_by_question,bias_std_by_student,question_effect_pvalue,systematic_question_bias,max_question_bias,min_question_bias
+chatgpt,few-shot,-0.1949,0.1979,0.7289,0.0,Yes,-0.5646,-0.0862
+chatgpt,lenient,0.4654,0.3437,0.6052,0.0,Yes,0.9791,0.1254
+chatgpt,zero-shot,-0.2178,0.188,0.6172,0.0,Yes,-0.5677,0.0323
+gemini,few-shot,-0.0633,0.4106,0.4738,0.0,Yes,-0.815,0.0033
+gemini,lenient,0.4394,0.6182,0.3993,0.0,Yes,1.5,0.2097
+gemini,zero-shot,0.0443,0.4511,0.4039,0.0,Yes,-0.9217,-0.0683

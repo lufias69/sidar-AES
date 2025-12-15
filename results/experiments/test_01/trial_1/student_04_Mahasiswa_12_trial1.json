@@ -1,0 +1,143 @@
+{
+  "student_id": "student_04",
+  "student_name": "Mahasiswa 12",
+  "experiment_id": "test_01",
+  "trial": 1,
+  "model": "chatgpt",
+  "strategy": "zero-shot",
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "1.\tJelaskan singkat tentang topik capstone project yang sedang kamu kerjakan. Apa masalah utama yang ingin kamu selesaikan dan apa tujuan dari proyek tersebut? (15 poin)",
+      "answer": "Saya sedang membuat aplikasi berbasis web untuk memonitor kualitas air. Masalah yang ingin saya selesaikan adalah kurangnya pemantauan kualitas air yang memadai. Tujuan proyek ini adalah memberi informasi kualitas air secara real-time.",
+      "grades": {
+        "Pemahaman Konten": "B",
+        "Organisasi & Struktur": "B",
+        "Argumen & Bukti": "C",
+        "Gaya Bahasa & Mekanik": "A"
+      },
+      "weighted_score": 3.0,
+      "justification": "{\"Pemahaman Konten\": \"Mahasiswa menunjukkan pemahaman yang baik tentang proyek capstone dengan menjelaskan masalah utama dan tujuan proyek. Namun, penjelasan kurang mendalam dan tidak memberikan detail lebih lanjut tentang bagaimana aplikasi tersebut akan bekerja atau teknologi yang digunakan, yang mengurangi kedalaman pemahaman.\", \"Organisasi & Struktur\": \"Jawaban terstruktur dengan baik, dimulai dengan pernyataan masalah dan diikuti oleh tujuan proyek. Meskipun singkat, alur logika dapat diikuti dengan mudah. Namun, esai ini bisa lebih baik dengan menambahkan transisi yang lebih jelas antara pernyataan masalah dan tujuan.\", \"Argumen & Bukti\": \"Penjelasan yang diberikan cukup jelas, tetapi kurang didukung oleh contoh atau bukti spesifik tentang bagaimana aplikasi akan memecahkan masalah. Tidak ada analisis mendalam atau contoh konkret yang mendukung argumen, yang membuat argumen terasa lemah.\", \"Gaya Bahasa & Mekanik\": \"Bahasa yang digunakan efektif dan jelas, tanpa kesalahan tata bahasa atau ejaan yang terlihat. Kalimat disusun dengan baik dan bervariasi, menunjukkan penguasaan bahasa yang baik.\"}",
+      "overall_comment": "Jawaban cukup baik dengan pemahaman yang solid, namun bisa ditingkatkan dengan menambahkan detail dan contoh spesifik.",
+      "metadata": {
+        "tokens_used": 2006,
+        "api_call_time": 5.893653392791748,
+        "timestamp": "2025-12-10T13:41:09.996962"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": "2.\tSebutkan dan jelaskan tiga teknologi, alat, atau cara yang kamu pakai dalam capstone project ini. Kenapa kamu memilih yang tersebut? (15 poin)",
+      "answer": "Menggunakan Raspberry Pi untuk kontrol sistem, sensor kualitas air untuk deteksi polutan, dan Wi-Fi untuk menghubungkan data ke cloud. Raspberry Pi fleksibel dan dapat diprogram, sensor memadai untuk mendeteksi kualitas air, dan Wi-Fi memungkinkan pengiriman data.",
+      "grades": {
+        "Pemahaman Konten": "B",
+        "Organisasi & Struktur": "C",
+        "Argumen & Bukti": "C",
+        "Gaya Bahasa & Mekanik": "B"
+      },
+      "weighted_score": 2.7,
+      "justification": "{\"Pemahaman Konten\": \"Mahasiswa menunjukkan pemahaman yang baik tentang teknologi yang digunakan dalam proyek capstone. Namun, penjelasan mengenai alasan pemilihan teknologi kurang mendalam dan tidak ada insight tingkat lanjut yang ditunjukkan. Meski demikian, tidak ada kesalahan konseptual yang signifikan.\", \"Organisasi & Struktur\": \"Struktur jawaban kurang jelas dan tidak memiliki pembagian yang terorganisir antara pengenalan, penjelasan, dan kesimpulan. Transisi antar ide tidak terlalu smooth, membuat alur logika sedikit membingungkan. Jawaban dapat diikuti, tetapi tidak terstruktur dengan baik.\", \"Argumen & Bukti\": \"Mahasiswa memberikan alasan dasar untuk pemilihan teknologi, tetapi argumen yang disajikan kurang kuat dan tidak didukung oleh contoh atau analisis mendalam. Tidak ada bukti atau referensi yang digunakan untuk mendukung klaim yang dibuat.\", \"Gaya Bahasa & Mekanik\": \"Bahasa yang digunakan cukup jelas dan efektif, meskipun ada beberapa kesalahan minor. Ejaan umumnya benar dan kalimatnya cukup bervariasi, tetapi bisa lebih ditingkatkan untuk mencapai tingkat akademik yang lebih tinggi.\"}",
+      "overall_comment": "Jawaban menunjukkan pemahaman dasar yang baik, tetapi perlu perbaikan dalam struktur dan dukungan argumen.",
+      "metadata": {
+        "tokens_used": 2019,
+        "api_call_time": 5.382445335388184,
+        "timestamp": "2025-12-10T13:41:15.895889"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": "3. Jelaskan manfaat atau kegunaan hasil capstone projectmu bagi orang lain atau bidang yang kamu tekuni. (10 poin)",
+      "answer": "Membantu masyarakat dalam memantau kualitas air di sekitar mereka dan meningkatkan kesadaran akan kebersihan air.",
+      "grades": {
+        "Pemahaman Konten": "C",
+        "Organisasi & Struktur": "D/E",
+        "Argumen & Bukti": "D/E",
+        "Gaya Bahasa & Mekanik": "B"
+      },
+      "weighted_score": 1.8,
+      "justification": "{\"Pemahaman Konten\": \"Jawaban mahasiswa menunjukkan pemahaman dasar tentang manfaat proyek capstone, yaitu memantau kualitas air dan meningkatkan kesadaran kebersihan air. Namun, penjelasan ini sangat singkat dan tidak mendalam. Tidak ada detail lebih lanjut tentang bagaimana proyek ini berfungsi atau dampaknya yang lebih spesifik, sehingga beberapa bagian penting terlewat.\", \"Organisasi & Struktur\": \"Jawaban terdiri dari satu kalimat yang sangat singkat dan tidak menunjukkan struktur yang jelas. Tidak ada pembagian yang jelas antara pengantar, isi, dan kesimpulan, serta tidak ada transisi antar ide. Alur logika tidak dapat diikuti dengan baik karena kurangnya organisasi.\", \"Argumen & Bukti\": \"Tidak ada argumen yang jelas atau bukti yang mendukung manfaat proyek capstone. Jawaban hanya menyebutkan manfaat secara umum tanpa memberikan contoh spesifik atau analisis mendalam. Tidak ada dukungan bukti yang memadai untuk memperkuat klaim yang dibuat.\", \"Gaya Bahasa & Mekanik\": \"Bahasa yang digunakan cukup jelas dan tidak ada kesalahan tata bahasa yang mencolok. Meskipun kalimatnya sangat singkat, ejaan dan struktur kalimatnya benar. Namun, variasi kalimat sangat terbatas karena hanya terdiri dari satu kalimat.\"}",
+      "overall_comment": "Jawaban mahasiswa sangat singkat dan kurang mendalam, dengan struktur dan argumen yang tidak memadai. Perlu pengembangan lebih lanjut untuk memenuhi kriteria rubrik.",
+      "metadata": {
+        "tokens_used": 2016,
+        "api_call_time": 6.098082780838013,
+        "timestamp": "2025-12-10T13:41:22.511294"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": "1.Ceritakan tahap-tahap pengerjaan capstone project dari awal sampai sekarang. Sebutkan juga hal penting atau target yang sudah kamu capai. (15 poin)",
+      "answer": "Merakit sistem monitoring dengan Raspberry Pi, sensor, dan menghubungkannya dengan cloud. Saat ini, sistem berfungsi dengan baik dan sudah mengirimkan data ke cloud.",
+      "grades": {
+        "Pemahaman Konten": "C",
+        "Organisasi & Struktur": "D/E",
+        "Argumen & Bukti": "D/E",
+        "Gaya Bahasa & Mekanik": "B"
+      },
+      "weighted_score": 1.8,
+      "justification": "{\"Pemahaman Konten\": \"Jawaban mahasiswa menunjukkan pemahaman dasar tentang proyek capstone dengan menyebutkan penggunaan Raspberry Pi dan cloud. Namun, penjelasan kurang mendalam dan tidak mencakup tahapan pengerjaan secara lengkap. Beberapa bagian penting seperti perencanaan awal atau tantangan yang dihadapi tidak disebutkan.\", \"Organisasi & Struktur\": \"Esai ini tidak memiliki struktur yang jelas. Tidak ada pengantar, tubuh, atau kesimpulan yang terdefinisi dengan baik. Jawaban langsung ke inti tanpa transisi atau penjelasan yang lebih terperinci, membuat alur logika sulit diikuti.\", \"Argumen & Bukti\": \"Tidak ada argumen yang jelas atau bukti pendukung yang disajikan. Mahasiswa hanya menyatakan bahwa sistem berfungsi tanpa memberikan contoh spesifik atau analisis mendalam tentang bagaimana sistem tersebut bekerja atau tantangan yang dihadapi.\", \"Gaya Bahasa & Mekanik\": \"Bahasa yang digunakan cukup jelas dan efektif dengan sedikit kesalahan tata bahasa. Namun, karena esai sangat singkat, variasi kalimat dan gaya penulisan tidak dapat dinilai secara mendalam.\"}",
+      "overall_comment": "Jawaban mahasiswa perlu lebih terstruktur dan mendalam untuk memenuhi kriteria penilaian yang lebih tinggi. Penjelasan yang lebih rinci tentang tahapan proyek dan tantangan yang dihadapi akan meningkatkan kualitas esai.",
+      "metadata": {
+        "tokens_used": 2014,
+        "api_call_time": 6.392147541046143,
+        "timestamp": "2025-12-10T13:41:29.419407"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": "3. Apakah ada perubahan pada rencana (ingin mengubah project) atau cara pengerjaan selama proyek berjalan? Jika iya, jelaskan apa yang berubah dan bagaimana pengaruhnya ke hasil proyek. (10 poin)",
+      "answer": "Menambah fitur notifikasi yang mengingatkan pengguna jika kualitas air menurun.",
+      "grades": {
+        "Pemahaman Konten": "D/E",
+        "Organisasi & Struktur": "D/E",
+        "Argumen & Bukti": "D/E",
+        "Gaya Bahasa & Mekanik": "C"
+      },
+      "weighted_score": 1.1,
+      "justification": "{\"Pemahaman Konten\": \"Jawaban mahasiswa sangat minimal dan tidak menunjukkan pemahaman mendalam tentang perubahan rencana proyek. Tidak ada penjelasan mengenai bagaimana penambahan fitur notifikasi mempengaruhi hasil proyek, yang menunjukkan kurangnya pemahaman yang memadai.\", \"Organisasi & Struktur\": \"Jawaban terdiri dari satu kalimat tanpa struktur yang jelas. Tidak ada pembagian yang menunjukkan pengenalan, penjelasan, atau kesimpulan, sehingga sulit untuk diikuti dan tidak terorganisir dengan baik.\", \"Argumen & Bukti\": \"Tidak ada argumen atau bukti yang mendukung pernyataan. Mahasiswa hanya menyebutkan penambahan fitur tanpa menjelaskan alasan atau dampaknya, yang menunjukkan kurangnya analisis dan dukungan bukti.\", \"Gaya Bahasa & Mekanik\": \"Bahasa yang digunakan cukup jelas dan tidak ada kesalahan tata bahasa yang mencolok, namun kalimatnya sangat singkat dan tidak bervariasi, yang membuat penjelasan terasa kurang mendalam.\"}",
+      "overall_comment": "Jawaban sangat minimal dan tidak memenuhi kriteria penilaian yang diharapkan. Diperlukan penjelasan lebih lanjut dan struktur yang lebih baik.",
+      "metadata": {
+        "tokens_used": 1965,
+        "api_call_time": 4.5430686473846436,
+        "timestamp": "2025-12-10T13:41:34.479672"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": "1.\tTulislah Konsep kerangka proposal penelitian dari capstone project kamu yang mencakup:\n1.\tLatar belakang masalah\n2.\tMasalah penelitian (rumusan masalah)\n3.\tTujuan penelitian\n4.\tCara atau metode yang akan kamu gunakan \n(20 poin)",
+      "answer": "Latar belakang masalah: Kurangnya pemantauan kualitas air. Masalah penelitian: Bagaimana mendeteksi kualitas air dengan sistem otomatis. Tujuan penelitian: Membangun sistem yang bisa memantau kualitas air secara real-time. Metode: Raspberry Pi dengan sensor kualitas air dan cloud storage.",
+      "grades": {
+        "Pemahaman Konten": "C",
+        "Organisasi & Struktur": "C",
+        "Argumen & Bukti": "D/E",
+        "Gaya Bahasa & Mekanik": "B"
+      },
+      "weighted_score": 2.0,
+      "justification": "{\"Pemahaman Konten\": \"Jawaban mahasiswa menunjukkan pemahaman dasar tentang konsep penelitian, tetapi kurang mendalam. Latar belakang masalah dan tujuan penelitian disampaikan dengan sangat singkat dan tidak memberikan detail yang cukup untuk menunjukkan pemahaman yang mendalam. Beberapa bagian penting, seperti penjelasan lebih lanjut tentang metode, terlewat.\", \"Organisasi & Struktur\": \"Struktur jawaban tidak sepenuhnya jelas karena setiap elemen proposal hanya disebutkan dalam satu kalimat tanpa pengembangan lebih lanjut. Tidak ada transisi yang jelas antara bagian-bagian yang berbeda, membuat alur logika agak membingungkan.\", \"Argumen & Bukti\": \"Tidak ada argumen yang jelas atau dukungan bukti yang disertakan dalam jawaban. Mahasiswa hanya menyebutkan elemen-elemen proposal tanpa memberikan analisis atau contoh yang relevan untuk mendukung pernyataannya.\", \"Gaya Bahasa & Mekanik\": \"Bahasa yang digunakan cukup jelas dan efektif, meskipun sangat singkat. Tidak ada kesalahan tata bahasa yang mencolok, tetapi kurangnya variasi kalimat membuat jawaban terasa monoton.\"}",
+      "overall_comment": "Jawaban memberikan gambaran dasar tentang proposal penelitian tetapi kurang detail dan analisis yang diperlukan untuk pemahaman yang lebih mendalam.",
+      "metadata": {
+        "tokens_used": 2040,
+        "api_call_time": 6.181122541427612,
+        "timestamp": "2025-12-10T13:41:41.177602"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": "2.\tJelaskan bagaimana proposal penelitianmu bisa membantu mengembangkan ilmu pengetahuan atau teknologi di bidangmu. (10 poin)",
+      "answer": "Penelitian ini akan membuka pengembangan teknologi pemantauan lingkungan berbasis IoT yang bisa diterapkan di berbagai sektor.",
+      "grades": {
+        "Pemahaman Konten": "D/E",
+        "Organisasi & Struktur": "D/E",
+        "Argumen & Bukti": "D/E",
+        "Gaya Bahasa & Mekanik": "C"
+      },
+      "weighted_score": 1.1,
+      "justification": "{\"Pemahaman Konten\": \"Jawaban mahasiswa sangat minimal dan tidak menunjukkan pemahaman mendalam tentang bagaimana proposal penelitian dapat mengembangkan ilmu pengetahuan atau teknologi. Tidak ada penjelasan atau detail yang mendukung pernyataan yang diberikan.\", \"Organisasi & Struktur\": \"Jawaban hanya terdiri dari satu kalimat yang tidak terstruktur dengan baik. Tidak ada pengantar, isi, atau kesimpulan yang jelas, sehingga sulit untuk mengikuti alur logika yang diharapkan dalam esai.\", \"Argumen & Bukti\": \"Tidak ada argumen yang jelas atau bukti yang mendukung pernyataan yang diberikan. Jawaban tidak menyertakan contoh atau analisis yang relevan untuk memperkuat klaim yang dibuat.\", \"Gaya Bahasa & Mekanik\": \"Bahasa yang digunakan cukup jelas, namun sangat singkat dan tidak menunjukkan variasi kalimat. Tidak ada kesalahan tata bahasa yang mencolok, tetapi gaya penulisan kurang akademis dan tidak efektif.\"}",
+      "overall_comment": "Jawaban mahasiswa sangat singkat dan tidak memenuhi kriteria esai yang diharapkan. Diperlukan penjelasan yang lebih mendalam dan terstruktur.",
+      "metadata": {
+        "tokens_used": 1945,
+        "api_call_time": 4.929996490478516,
+        "timestamp": "2025-12-10T13:41:46.622146"
+      }
+    }
+  ]
+}

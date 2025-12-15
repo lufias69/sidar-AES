@@ -1,0 +1,227 @@
+{
+  "student_id": "student_12",
+  "student_name": "Mahasiswa 12",
+  "experiment_id": "exp_gemini_lenient_03",
+  "trial": 1,
+  "model": "gemini",
+  "strategy": "lenient",
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "1.\tJelaskan singkat tentang topik capstone project yang sedang kamu kerjakan. Apa masalah utama yang ingin kamu selesaikan dan apa tujuan dari proyek tersebut? (15 poin)",
+      "answer": "Saya sedang membuat aplikasi berbasis web untuk memonitor kualitas air. Masalah yang ingin saya selesaikan adalah kurangnya pemantauan kualitas air yang memadai. Tujuan proyek ini adalah memberi informasi kualitas air secara real-time.",
+      "grades": {
+        "Pemahaman Konten": {
+          "grade": "B",
+          "justification": "Mahasiswa menunjukkan pemahaman yang baik tentang topik proyek capstone mereka, yaitu aplikasi berbasis web untuk memonitor kualitas air. Mereka mengidentifikasi masalah utama (kurangnya pemantauan kualitas air) dan tujuan proyek (memberikan informasi real-time). Meskipun jawaban sudah cukup, penjelasan bisa lebih mendalam dengan menyebutkan parameter kualitas air apa saja yang akan dipantau."
+        },
+        "Organisasi & Struktur": {
+          "grade": "B",
+          "justification": "Jawaban terstruktur dengan baik, dengan menyebutkan topik proyek, masalah, dan tujuan secara berurutan. Alur logika mudah diikuti. Meskipun singkat, struktur jawaban sudah cukup jelas."
+        },
+        "Argumen & Bukti": {
+          "grade": "C",
+          "justification": "Argumen yang diberikan cukup lemah karena kurangnya detail. Mahasiswa tidak memberikan contoh spesifik tentang bagaimana aplikasi akan memecahkan masalah kurangnya pemantauan kualitas air. Tidak ada bukti atau data pendukung yang disertakan."
+        },
+        "Gaya Bahasa & Mekanik": {
+          "grade": "B",
+          "justification": "Bahasa yang digunakan jelas dan efektif. Terdapat sedikit kesalahan minor namun tidak mengganggu pemahaman. Gaya penulisan cukup baik untuk jawaban singkat ini."
+        }
+      },
+      "weighted_score": 2.9,
+      "justification": "{\"Pemahaman Konten\": {\"grade\": \"B\", \"justification\": \"Mahasiswa menunjukkan pemahaman yang baik tentang topik proyek capstone mereka, yaitu aplikasi berbasis web untuk memonitor kualitas air. Mereka mengidentifikasi masalah utama (kurangnya pemantauan kualitas air) dan tujuan proyek (memberikan informasi real-time). Meskipun jawaban sudah cukup, penjelasan bisa lebih mendalam dengan menyebutkan parameter kualitas air apa saja yang akan dipantau.\"}, \"Organisasi & Struktur\": {\"grade\": \"B\", \"justification\": \"Jawaban terstruktur dengan baik, dengan menyebutkan topik proyek, masalah, dan tujuan secara berurutan. Alur logika mudah diikuti. Meskipun singkat, struktur jawaban sudah cukup jelas.\"}, \"Argumen & Bukti\": {\"grade\": \"C\", \"justification\": \"Argumen yang diberikan cukup lemah karena kurangnya detail. Mahasiswa tidak memberikan contoh spesifik tentang bagaimana aplikasi akan memecahkan masalah kurangnya pemantauan kualitas air. Tidak ada bukti atau data pendukung yang disertakan.\"}, \"Gaya Bahasa & Mekanik\": {\"grade\": \"B\", \"justification\": \"Bahasa yang digunakan jelas dan efektif. Terdapat sedikit kesalahan minor namun tidak mengganggu pemahaman. Gaya penulisan cukup baik untuk jawaban singkat ini.\"}}",
+      "overall_comment": "Secara keseluruhan, jawaban mahasiswa menunjukkan pemahaman dasar tentang proyek capstone mereka. Detail lebih lanjut akan meningkatkan kualitas jawaban.",
+      "metadata": {
+        "tokens_used": 1992,
+        "api_call_time": 11.196829319000244,
+        "timestamp": "2025-12-10T23:26:33.829497"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": "2.\tSebutkan dan jelaskan tiga teknologi, alat, atau cara yang kamu pakai dalam capstone project ini. Kenapa kamu memilih yang tersebut? (15 poin)",
+      "answer": "Menggunakan Raspberry Pi untuk kontrol sistem, sensor kualitas air untuk deteksi polutan, dan Wi-Fi untuk menghubungkan data ke cloud. Raspberry Pi fleksibel dan dapat diprogram, sensor memadai untuk mendeteksi kualitas air, dan Wi-Fi memungkinkan pengiriman data.",
+      "grades": {
+        "Pemahaman Konten": {
+          "grade": "B",
+          "justification": "Mahasiswa menunjukkan pemahaman yang baik tentang teknologi yang dipilih, yaitu Raspberry Pi, sensor kualitas air, dan Wi-Fi. Penjelasan mengenai fungsi masing-masing alat cukup memadai, meskipun tidak terlalu mendalam. Mahasiswa menjelaskan mengapa memilih teknologi tersebut, menunjukkan pemahaman konsep yang solid."
+        },
+        "Organisasi & Struktur": {
+          "grade": "B",
+          "justification": "Jawaban terstruktur dengan baik, menyebutkan tiga teknologi dan memberikan penjelasan singkat untuk masing-masing. Alur logika mudah diikuti, meskipun bisa ditingkatkan dengan memberikan transisi yang lebih halus antar teknologi. Struktur jelas dan mudah dipahami."
+        },
+        "Argumen & Bukti": {
+          "grade": "C",
+          "justification": "Argumen yang diberikan cukup dasar. Mahasiswa menjelaskan alasan pemilihan teknologi, tetapi tidak memberikan bukti atau contoh spesifik tentang bagaimana teknologi tersebut diimplementasikan dalam proyek capstone. Analisis yang diberikan masih superficial."
+        },
+        "Gaya Bahasa & Mekanik": {
+          "grade": "B",
+          "justification": "Bahasa yang digunakan jelas dan mudah dipahami. Terdapat beberapa kesalahan minor dalam tata bahasa, tetapi tidak mengganggu pemahaman secara keseluruhan. Gaya penulisan cukup efektif."
+        }
+      },
+      "weighted_score": 2.9,
+      "justification": "{\"Pemahaman Konten\": {\"grade\": \"B\", \"justification\": \"Mahasiswa menunjukkan pemahaman yang baik tentang teknologi yang dipilih, yaitu Raspberry Pi, sensor kualitas air, dan Wi-Fi. Penjelasan mengenai fungsi masing-masing alat cukup memadai, meskipun tidak terlalu mendalam. Mahasiswa menjelaskan mengapa memilih teknologi tersebut, menunjukkan pemahaman konsep yang solid.\"}, \"Organisasi & Struktur\": {\"grade\": \"B\", \"justification\": \"Jawaban terstruktur dengan baik, menyebutkan tiga teknologi dan memberikan penjelasan singkat untuk masing-masing. Alur logika mudah diikuti, meskipun bisa ditingkatkan dengan memberikan transisi yang lebih halus antar teknologi. Struktur jelas dan mudah dipahami.\"}, \"Argumen & Bukti\": {\"grade\": \"C\", \"justification\": \"Argumen yang diberikan cukup dasar. Mahasiswa menjelaskan alasan pemilihan teknologi, tetapi tidak memberikan bukti atau contoh spesifik tentang bagaimana teknologi tersebut diimplementasikan dalam proyek capstone. Analisis yang diberikan masih superficial.\"}, \"Gaya Bahasa & Mekanik\": {\"grade\": \"B\", \"justification\": \"Bahasa yang digunakan jelas dan mudah dipahami. Terdapat beberapa kesalahan minor dalam tata bahasa, tetapi tidak mengganggu pemahaman secara keseluruhan. Gaya penulisan cukup efektif.\"}}",
+      "overall_comment": "Jawaban mahasiswa menunjukkan pemahaman dasar tentang teknologi yang digunakan dalam proyek capstone. Penjelasan dapat ditingkatkan dengan memberikan contoh spesifik dan analisis yang lebih mendalam.",
+      "metadata": {
+        "tokens_used": 2016,
+        "api_call_time": 10.777772188186646,
+        "timestamp": "2025-12-10T23:26:44.630873"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": "3. Jelaskan manfaat atau kegunaan hasil capstone projectmu bagi orang lain atau bidang yang kamu tekuni. (10 poin)",
+      "answer": "Membantu masyarakat dalam memantau kualitas air di sekitar mereka dan meningkatkan kesadaran akan kebersihan air.",
+      "grades": {
+        "Pemahaman Konten": {
+          "grade": "B",
+          "justification": "Jawaban menunjukkan pemahaman yang baik tentang manfaat proyek capstone, yaitu membantu masyarakat memantau kualitas air dan meningkatkan kesadaran. Meskipun akurat, jawaban ini kurang mendalam dan tidak memberikan detail spesifik tentang bagaimana proyek tersebut mencapai manfaat tersebut. Penjelasan cukup lengkap, namun tidak menunjukkan insight tingkat lanjut."
+        },
+        "Organisasi & Struktur": {
+          "grade": "A",
+          "justification": "Jawaban ini singkat dan langsung ke poin, sehingga strukturnya sangat jelas. Meskipun hanya satu kalimat, ide disampaikan dengan terorganisir dan mudah diikuti. Tidak ada transisi yang diperlukan karena hanya ada satu ide utama."
+        },
+        "Argumen & Bukti": {
+          "grade": "C",
+          "justification": "Argumen yang diberikan cukup lemah karena kurang detail. Tidak ada contoh spesifik yang diberikan untuk mendukung klaim bahwa proyek tersebut membantu masyarakat. Analisisnya juga superficial karena tidak menjelaskan bagaimana proyek tersebut memantau kualitas air atau meningkatkan kesadaran."
+        },
+        "Gaya Bahasa & Mekanik": {
+          "grade": "A",
+          "justification": "Bahasa yang digunakan jelas dan efektif. Tidak ada kesalahan tata bahasa atau ejaan. Kalimatnya sederhana namun menyampaikan pesan dengan baik."
+        }
+      },
+      "weighted_score": 3.2,
+      "justification": "{\"Pemahaman Konten\": {\"grade\": \"B\", \"justification\": \"Jawaban menunjukkan pemahaman yang baik tentang manfaat proyek capstone, yaitu membantu masyarakat memantau kualitas air dan meningkatkan kesadaran. Meskipun akurat, jawaban ini kurang mendalam dan tidak memberikan detail spesifik tentang bagaimana proyek tersebut mencapai manfaat tersebut. Penjelasan cukup lengkap, namun tidak menunjukkan insight tingkat lanjut.\"}, \"Organisasi & Struktur\": {\"grade\": \"A\", \"justification\": \"Jawaban ini singkat dan langsung ke poin, sehingga strukturnya sangat jelas. Meskipun hanya satu kalimat, ide disampaikan dengan terorganisir dan mudah diikuti. Tidak ada transisi yang diperlukan karena hanya ada satu ide utama.\"}, \"Argumen & Bukti\": {\"grade\": \"C\", \"justification\": \"Argumen yang diberikan cukup lemah karena kurang detail. Tidak ada contoh spesifik yang diberikan untuk mendukung klaim bahwa proyek tersebut membantu masyarakat. Analisisnya juga superficial karena tidak menjelaskan bagaimana proyek tersebut memantau kualitas air atau meningkatkan kesadaran.\"}, \"Gaya Bahasa & Mekanik\": {\"grade\": \"A\", \"justification\": \"Bahasa yang digunakan jelas dan efektif. Tidak ada kesalahan tata bahasa atau ejaan. Kalimatnya sederhana namun menyampaikan pesan dengan baik.\"}}",
+      "overall_comment": "Jawaban ini memberikan gambaran umum tentang manfaat proyek, namun perlu diperdalam dengan detail dan contoh spesifik.",
+      "metadata": {
+        "tokens_used": 1951,
+        "api_call_time": 11.078016996383667,
+        "timestamp": "2025-12-10T23:26:55.730665"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": "1.Ceritakan tahap-tahap pengerjaan capstone project dari awal sampai sekarang. Sebutkan juga hal penting atau target yang sudah kamu capai. (15 poin)",
+      "answer": "Merakit sistem monitoring dengan Raspberry Pi, sensor, dan menghubungkannya dengan cloud. Saat ini, sistem berfungsi dengan baik dan sudah mengirimkan data ke cloud.",
+      "grades": {
+        "Pemahaman Konten": {
+          "grade": "C",
+          "justification": "Jawaban menunjukkan pemahaman dasar tentang proyek capstone, yaitu merakit sistem monitoring dan menghubungkannya ke cloud. Namun, penjelasan mengenai tahap-tahap pengerjaan sangat kurang detail dan tidak lengkap. Mahasiswa hanya menyebutkan hasil akhir tanpa menjelaskan proses yang dilalui, sehingga indikator 'penjelasan kurang lengkap' terpenuhi."
+        },
+        "Organisasi & Struktur": {
+          "grade": "D/E",
+          "justification": "Jawaban sangat singkat dan tidak memiliki struktur yang jelas. Tidak ada urutan logis atau transisi antar ide. Karena hanya satu kalimat, sulit untuk menilai organisasi dan struktur, sehingga termasuk kategori 'tidak terorganisir, sulit diikuti'."
+        },
+        "Argumen & Bukti": {
+          "grade": "D/E",
+          "justification": "Tidak ada argumen yang dikemukakan dalam jawaban ini. Mahasiswa hanya memberikan pernyataan tanpa memberikan bukti atau contoh yang mendukung. Oleh karena itu, kriteria 'tidak ada argumen yang jelas' terpenuhi."
+        },
+        "Gaya Bahasa & Mekanik": {
+          "grade": "B",
+          "justification": "Bahasa yang digunakan jelas dan mudah dipahami. Meskipun singkat, tidak ada kesalahan tata bahasa atau ejaan yang signifikan. Gaya penulisan sederhana namun efektif dalam menyampaikan informasi dasar."
+        }
+      },
+      "weighted_score": 1.8,
+      "justification": "{\"Pemahaman Konten\": {\"grade\": \"C\", \"justification\": \"Jawaban menunjukkan pemahaman dasar tentang proyek capstone, yaitu merakit sistem monitoring dan menghubungkannya ke cloud. Namun, penjelasan mengenai tahap-tahap pengerjaan sangat kurang detail dan tidak lengkap. Mahasiswa hanya menyebutkan hasil akhir tanpa menjelaskan proses yang dilalui, sehingga indikator 'penjelasan kurang lengkap' terpenuhi.\"}, \"Organisasi & Struktur\": {\"grade\": \"D/E\", \"justification\": \"Jawaban sangat singkat dan tidak memiliki struktur yang jelas. Tidak ada urutan logis atau transisi antar ide. Karena hanya satu kalimat, sulit untuk menilai organisasi dan struktur, sehingga termasuk kategori 'tidak terorganisir, sulit diikuti'.\"}, \"Argumen & Bukti\": {\"grade\": \"D/E\", \"justification\": \"Tidak ada argumen yang dikemukakan dalam jawaban ini. Mahasiswa hanya memberikan pernyataan tanpa memberikan bukti atau contoh yang mendukung. Oleh karena itu, kriteria 'tidak ada argumen yang jelas' terpenuhi.\"}, \"Gaya Bahasa & Mekanik\": {\"grade\": \"B\", \"justification\": \"Bahasa yang digunakan jelas dan mudah dipahami. Meskipun singkat, tidak ada kesalahan tata bahasa atau ejaan yang signifikan. Gaya penulisan sederhana namun efektif dalam menyampaikan informasi dasar.\"}}",
+      "overall_comment": "Jawaban ini sangat singkat dan kurang detail. Mahasiswa perlu memberikan penjelasan yang lebih lengkap mengenai tahap-tahap pengerjaan proyek dan pencapaian yang diraih.",
+      "metadata": {
+        "tokens_used": 1981,
+        "api_call_time": 10.336058616638184,
+        "timestamp": "2025-12-10T23:27:06.092042"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": "3. Apakah ada perubahan pada rencana (ingin mengubah project) atau cara pengerjaan selama proyek berjalan? Jika iya, jelaskan apa yang berubah dan bagaimana pengaruhnya ke hasil proyek. (10 poin)",
+      "answer": "Menambah fitur notifikasi yang mengingatkan pengguna jika kualitas air menurun.",
+      "grades": {
+        "Pemahaman Konten": {
+          "grade": "B",
+          "justification": "Jawaban menunjukkan pemahaman yang baik tentang kemungkinan perubahan dalam proyek. Mahasiswa mengidentifikasi penambahan fitur notifikasi sebagai perubahan. Namun, jawaban kurang mendalam dalam menjelaskan alasan perubahan dan dampaknya secara spesifik terhadap hasil proyek, sehingga belum mencapai level A."
+        },
+        "Organisasi & Struktur": {
+          "grade": "B",
+          "justification": "Jawaban singkat dan langsung pada poinnya. Meskipun tidak ada struktur formal seperti pendahuluan atau kesimpulan, jawaban tetap mudah dipahami. Alur logika sederhana dan jelas, sehingga organisasi cukup efektif."
+        },
+        "Argumen & Bukti": {
+          "grade": "C",
+          "justification": "Jawaban memberikan contoh perubahan, tetapi tidak memberikan detail atau bukti pendukung mengenai bagaimana perubahan tersebut mempengaruhi hasil proyek. Analisisnya sangat superficial, sehingga argumen kurang kuat. Perlu ada penjelasan lebih lanjut mengenai dampak penambahan fitur notifikasi."
+        },
+        "Gaya Bahasa & Mekanik": {
+          "grade": "B",
+          "justification": "Bahasa yang digunakan jelas dan efektif. Tidak ada kesalahan tata bahasa atau ejaan yang signifikan. Gaya penulisan sederhana namun mudah dipahami, meskipun bisa lebih bervariasi."
+        }
+      },
+      "weighted_score": 2.9,
+      "justification": "{\"Pemahaman Konten\": {\"grade\": \"B\", \"justification\": \"Jawaban menunjukkan pemahaman yang baik tentang kemungkinan perubahan dalam proyek. Mahasiswa mengidentifikasi penambahan fitur notifikasi sebagai perubahan. Namun, jawaban kurang mendalam dalam menjelaskan alasan perubahan dan dampaknya secara spesifik terhadap hasil proyek, sehingga belum mencapai level A.\"}, \"Organisasi & Struktur\": {\"grade\": \"B\", \"justification\": \"Jawaban singkat dan langsung pada poinnya. Meskipun tidak ada struktur formal seperti pendahuluan atau kesimpulan, jawaban tetap mudah dipahami. Alur logika sederhana dan jelas, sehingga organisasi cukup efektif.\"}, \"Argumen & Bukti\": {\"grade\": \"C\", \"justification\": \"Jawaban memberikan contoh perubahan, tetapi tidak memberikan detail atau bukti pendukung mengenai bagaimana perubahan tersebut mempengaruhi hasil proyek. Analisisnya sangat superficial, sehingga argumen kurang kuat. Perlu ada penjelasan lebih lanjut mengenai dampak penambahan fitur notifikasi.\"}, \"Gaya Bahasa & Mekanik\": {\"grade\": \"B\", \"justification\": \"Bahasa yang digunakan jelas dan efektif. Tidak ada kesalahan tata bahasa atau ejaan yang signifikan. Gaya penulisan sederhana namun mudah dipahami, meskipun bisa lebih bervariasi.\"}}",
+      "overall_comment": "Jawaban sudah cukup baik, namun perlu diperdalam lagi dengan memberikan detail lebih lanjut mengenai alasan perubahan dan dampaknya terhadap hasil proyek.",
+      "metadata": {
+        "tokens_used": 1963,
+        "api_call_time": 10.55781078338623,
+        "timestamp": "2025-12-10T23:27:16.673491"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": "1.\tTulislah Konsep kerangka proposal penelitian dari capstone project kamu yang mencakup:\n1.\tLatar belakang masalah\n2.\tMasalah penelitian (rumusan masalah)\n3.\tTujuan penelitian\n4.\tCara atau metode yang akan kamu gunakan \n(20 poin)",
+      "answer": "Latar belakang masalah: Kurangnya pemantauan kualitas air. Masalah penelitian: Bagaimana mendeteksi kualitas air dengan sistem otomatis. Tujuan penelitian: Membangun sistem yang bisa memantau kualitas air secara real-time. Metode: Raspberry Pi dengan sensor kualitas air dan cloud storage.",
+      "grades": {
+        "Pemahaman Konten": {
+          "grade": "B",
+          "justification": "Mahasiswa menunjukkan pemahaman dasar tentang elemen-elemen proposal penelitian seperti latar belakang, rumusan masalah, tujuan, dan metode. Meskipun ringkas, jawaban mencakup poin-poin penting. Namun, kedalaman pemahaman masih perlu ditingkatkan agar lebih mendalam dan lengkap, seperti yang diharapkan pada grade A."
+        },
+        "Organisasi & Struktur": {
+          "grade": "B",
+          "justification": "Jawaban terstruktur dengan jelas, mengikuti urutan yang diminta dalam pertanyaan (latar belakang, masalah, tujuan, metode). Transisi antar bagian implisit dan mudah diikuti. Meskipun sederhana, organisasi ini efektif untuk menyampaikan informasi yang relevan."
+        },
+        "Argumen & Bukti": {
+          "grade": "C",
+          "justification": "Argumen yang diajukan masih sangat dasar dan kurang detail. Contoh yang diberikan (Raspberry Pi, sensor kualitas air, cloud storage) relevan, tetapi tidak ada penjelasan lebih lanjut mengenai bagaimana komponen-komponen ini akan diimplementasikan atau dianalisis. Dukungan bukti dan analisis mendalam masih kurang."
+        },
+        "Gaya Bahasa & Mekanik": {
+          "grade": "B",
+          "justification": "Bahasa yang digunakan jelas dan mudah dipahami. Terdapat sedikit kesalahan minor dalam gaya penulisan, tetapi tidak mengganggu pemahaman secara keseluruhan. Kalimat-kalimatnya sederhana dan langsung ke poin."
+        }
+      },
+      "weighted_score": 2.9,
+      "justification": "{\"Pemahaman Konten\": {\"grade\": \"B\", \"justification\": \"Mahasiswa menunjukkan pemahaman dasar tentang elemen-elemen proposal penelitian seperti latar belakang, rumusan masalah, tujuan, dan metode. Meskipun ringkas, jawaban mencakup poin-poin penting. Namun, kedalaman pemahaman masih perlu ditingkatkan agar lebih mendalam dan lengkap, seperti yang diharapkan pada grade A.\"}, \"Organisasi & Struktur\": {\"grade\": \"B\", \"justification\": \"Jawaban terstruktur dengan jelas, mengikuti urutan yang diminta dalam pertanyaan (latar belakang, masalah, tujuan, metode). Transisi antar bagian implisit dan mudah diikuti. Meskipun sederhana, organisasi ini efektif untuk menyampaikan informasi yang relevan.\"}, \"Argumen & Bukti\": {\"grade\": \"C\", \"justification\": \"Argumen yang diajukan masih sangat dasar dan kurang detail. Contoh yang diberikan (Raspberry Pi, sensor kualitas air, cloud storage) relevan, tetapi tidak ada penjelasan lebih lanjut mengenai bagaimana komponen-komponen ini akan diimplementasikan atau dianalisis. Dukungan bukti dan analisis mendalam masih kurang.\"}, \"Gaya Bahasa & Mekanik\": {\"grade\": \"B\", \"justification\": \"Bahasa yang digunakan jelas dan mudah dipahami. Terdapat sedikit kesalahan minor dalam gaya penulisan, tetapi tidak mengganggu pemahaman secara keseluruhan. Kalimat-kalimatnya sederhana dan langsung ke poin.\"}}",
+      "overall_comment": "Secara keseluruhan, mahasiswa telah menunjukkan pemahaman dasar tentang elemen-elemen proposal penelitian. Pengembangan lebih lanjut diperlukan dalam hal kedalaman konten dan dukungan argumen.",
+      "metadata": {
+        "tokens_used": 2060,
+        "api_call_time": 11.208769083023071,
+        "timestamp": "2025-12-10T23:27:27.907403"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": "2.\tJelaskan bagaimana proposal penelitianmu bisa membantu mengembangkan ilmu pengetahuan atau teknologi di bidangmu. (10 poin)",
+      "answer": "Penelitian ini akan membuka pengembangan teknologi pemantauan lingkungan berbasis IoT yang bisa diterapkan di berbagai sektor.",
+      "grades": {
+        "Pemahaman Konten": {
+          "grade": "B",
+          "justification": "Jawaban menunjukkan pemahaman yang baik tentang potensi aplikasi IoT dalam pemantauan lingkungan. Mahasiswa menyebutkan bahwa penelitiannya dapat membuka pengembangan teknologi pemantauan lingkungan berbasis IoT. Namun, penjelasan kurang mendalam mengenai bagaimana teknologi ini akan dikembangkan atau sektor mana yang akan diuntungkan secara spesifik."
+        },
+        "Organisasi & Struktur": {
+          "grade": "A",
+          "justification": "Jawaban terstruktur dengan baik dan ringkas. Meskipun singkat, jawaban langsung pada poin yang ditanyakan. Struktur jawaban jelas dan mudah dipahami."
+        },
+        "Argumen & Bukti": {
+          "grade": "C",
+          "justification": "Argumen yang diajukan kurang detail dan tidak didukung dengan bukti atau contoh spesifik. Mahasiswa hanya menyatakan bahwa penelitian akan membuka pengembangan teknologi, tanpa menjelaskan lebih lanjut bagaimana atau mengapa. Tidak ada analisis mendalam mengenai dampak potensial dari teknologi tersebut."
+        },
+        "Gaya Bahasa & Mekanik": {
+          "grade": "A",
+          "justification": "Bahasa yang digunakan jelas dan efektif. Tidak ada kesalahan tata bahasa atau ejaan yang ditemukan. Gaya penulisan sesuai untuk konteks akademik."
+        }
+      },
+      "weighted_score": 3.2,
+      "justification": "{\"Pemahaman Konten\": {\"grade\": \"B\", \"justification\": \"Jawaban menunjukkan pemahaman yang baik tentang potensi aplikasi IoT dalam pemantauan lingkungan. Mahasiswa menyebutkan bahwa penelitiannya dapat membuka pengembangan teknologi pemantauan lingkungan berbasis IoT. Namun, penjelasan kurang mendalam mengenai bagaimana teknologi ini akan dikembangkan atau sektor mana yang akan diuntungkan secara spesifik.\"}, \"Organisasi & Struktur\": {\"grade\": \"A\", \"justification\": \"Jawaban terstruktur dengan baik dan ringkas. Meskipun singkat, jawaban langsung pada poin yang ditanyakan. Struktur jawaban jelas dan mudah dipahami.\"}, \"Argumen & Bukti\": {\"grade\": \"C\", \"justification\": \"Argumen yang diajukan kurang detail dan tidak didukung dengan bukti atau contoh spesifik. Mahasiswa hanya menyatakan bahwa penelitian akan membuka pengembangan teknologi, tanpa menjelaskan lebih lanjut bagaimana atau mengapa. Tidak ada analisis mendalam mengenai dampak potensial dari teknologi tersebut.\"}, \"Gaya Bahasa & Mekanik\": {\"grade\": \"A\", \"justification\": \"Bahasa yang digunakan jelas dan efektif. Tidak ada kesalahan tata bahasa atau ejaan yang ditemukan. Gaya penulisan sesuai untuk konteks akademik.\"}}",
+      "overall_comment": "Jawaban singkat namun menunjukkan pemahaman dasar. Perlu diperdalam lagi dengan contoh dan bukti yang lebih spesifik.",
+      "metadata": {
+        "tokens_used": 1938,
+        "api_call_time": 10.798707246780396,
+        "timestamp": "2025-12-10T23:27:38.729282"
+      }
+    }
+  ]
+}

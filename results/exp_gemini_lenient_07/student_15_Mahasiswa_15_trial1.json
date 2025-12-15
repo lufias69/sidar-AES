@@ -1,0 +1,227 @@
+{
+  "student_id": "student_15",
+  "student_name": "Mahasiswa 15",
+  "experiment_id": "exp_gemini_lenient_07",
+  "trial": 1,
+  "model": "gemini",
+  "strategy": "lenient",
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "1.\tJelaskan singkat tentang topik capstone project yang sedang kamu kerjakan. Apa masalah utama yang ingin kamu selesaikan dan apa tujuan dari proyek tersebut? (15 poin)",
+      "answer": "Saya sedang mengembangkan aplikasi untuk memantau pola tidur. Masalah yang ingin saya selesaikan adalah kebiasaan tidur yang buruk yang mempengaruhi kesehatan. Tujuan proyek ini adalah memberikan rekomendasi untuk tidur yang lebih baik berdasarkan data yang dikumpulkan.",
+      "grades": {
+        "Pemahaman Konten": {
+          "grade": "B",
+          "justification": "Mahasiswa menunjukkan pemahaman yang baik tentang topik proyek capstone mereka. Mereka mengidentifikasi masalah utama (kebiasaan tidur yang buruk) dan tujuan proyek (memberikan rekomendasi tidur). Meskipun penjelasannya cukup lengkap, detail lebih lanjut tentang bagaimana aplikasi akan mengumpulkan data dan jenis rekomendasi yang akan diberikan akan meningkatkan nilai."
+        },
+        "Organisasi & Struktur": {
+          "grade": "A",
+          "justification": "Jawaban terstruktur dengan jelas, mengidentifikasi masalah dan tujuan proyek secara langsung. Alur logika mudah diikuti dan ide-ide terorganisir dengan baik. Struktur yang ringkas dan jelas ini membuat jawaban mudah dipahami."
+        },
+        "Argumen & Bukti": {
+          "grade": "C",
+          "justification": "Penjelasan kurang detail dan dukungan kurang. Argumen tentang bagaimana aplikasi akan menyelesaikan masalah kebiasaan tidur yang buruk kurang kuat. Contoh spesifik tentang jenis data yang akan dikumpulkan dan rekomendasi yang akan diberikan akan memperkuat argumen."
+        },
+        "Gaya Bahasa & Mekanik": {
+          "grade": "A",
+          "justification": "Bahasa yang digunakan jelas dan efektif, dengan sedikit atau tanpa kesalahan tata bahasa atau ejaan. Gaya penulisan sesuai dan mudah dipahami. Kalimat-kalimatnya terstruktur dengan baik."
+        }
+      },
+      "weighted_score": 3.2,
+      "justification": "{\"Pemahaman Konten\": {\"grade\": \"B\", \"justification\": \"Mahasiswa menunjukkan pemahaman yang baik tentang topik proyek capstone mereka. Mereka mengidentifikasi masalah utama (kebiasaan tidur yang buruk) dan tujuan proyek (memberikan rekomendasi tidur). Meskipun penjelasannya cukup lengkap, detail lebih lanjut tentang bagaimana aplikasi akan mengumpulkan data dan jenis rekomendasi yang akan diberikan akan meningkatkan nilai.\"}, \"Organisasi & Struktur\": {\"grade\": \"A\", \"justification\": \"Jawaban terstruktur dengan jelas, mengidentifikasi masalah dan tujuan proyek secara langsung. Alur logika mudah diikuti dan ide-ide terorganisir dengan baik. Struktur yang ringkas dan jelas ini membuat jawaban mudah dipahami.\"}, \"Argumen & Bukti\": {\"grade\": \"C\", \"justification\": \"Penjelasan kurang detail dan dukungan kurang. Argumen tentang bagaimana aplikasi akan menyelesaikan masalah kebiasaan tidur yang buruk kurang kuat. Contoh spesifik tentang jenis data yang akan dikumpulkan dan rekomendasi yang akan diberikan akan memperkuat argumen.\"}, \"Gaya Bahasa & Mekanik\": {\"grade\": \"A\", \"justification\": \"Bahasa yang digunakan jelas dan efektif, dengan sedikit atau tanpa kesalahan tata bahasa atau ejaan. Gaya penulisan sesuai dan mudah dipahami. Kalimat-kalimatnya terstruktur dengan baik.\"}}",
+      "overall_comment": "Secara keseluruhan, jawaban ini memberikan gambaran yang baik tentang proyek capstone. Menambahkan detail lebih lanjut tentang mekanisme aplikasi dan jenis rekomendasi akan meningkatkan kualitas jawaban.",
+      "metadata": {
+        "tokens_used": 2030,
+        "api_call_time": 10.919601917266846,
+        "timestamp": "2025-12-11T00:22:02.063170"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": "2.\tSebutkan dan jelaskan tiga teknologi, alat, atau cara yang kamu pakai dalam capstone project ini. Kenapa kamu memilih yang tersebut? (15 poin)",
+      "answer": "Menggunakan sensor detak jantung, aplikasi Android, dan Firebase untuk backend. Sensor mendeteksi detak jantung untuk menganalisis kualitas tidur, Android untuk antarmuka, dan Firebase untuk penyimpanan data.",
+      "grades": {
+        "Pemahaman Konten": {
+          "grade": "B",
+          "justification": "Mahasiswa menunjukkan pemahaman yang baik tentang teknologi yang digunakan, yaitu sensor detak jantung, aplikasi Android, dan Firebase. Penjelasan cukup lengkap dalam menyebutkan fungsi masing-masing teknologi dalam proyek capstone. Namun, penjelasan lebih mendalam tentang bagaimana teknologi tersebut bekerja secara spesifik akan meningkatkan nilai."
+        },
+        "Organisasi & Struktur": {
+          "grade": "B",
+          "justification": "Jawaban terstruktur dengan baik, menyebutkan tiga teknologi secara terpisah dan memberikan penjelasan singkat untuk masing-masing. Alur logika mudah diikuti. Meskipun singkat, struktur jawaban sudah cukup jelas."
+        },
+        "Argumen & Bukti": {
+          "grade": "C",
+          "justification": "Alasan pemilihan teknologi disebutkan, tetapi kurang detail. Misalnya, mengapa Firebase dipilih dibandingkan backend lain? Penjelasan lebih mendalam tentang keunggulan masing-masing teknologi dalam konteks proyek akan memperkuat argumen."
+        },
+        "Gaya Bahasa & Mekanik": {
+          "grade": "B",
+          "justification": "Bahasa yang digunakan jelas dan mudah dipahami. Tidak ada kesalahan tata bahasa atau ejaan yang signifikan. Gaya penulisan sudah cukup baik untuk menjawab pertanyaan ini."
+        }
+      },
+      "weighted_score": 2.9,
+      "justification": "{\"Pemahaman Konten\": {\"grade\": \"B\", \"justification\": \"Mahasiswa menunjukkan pemahaman yang baik tentang teknologi yang digunakan, yaitu sensor detak jantung, aplikasi Android, dan Firebase. Penjelasan cukup lengkap dalam menyebutkan fungsi masing-masing teknologi dalam proyek capstone. Namun, penjelasan lebih mendalam tentang bagaimana teknologi tersebut bekerja secara spesifik akan meningkatkan nilai.\"}, \"Organisasi & Struktur\": {\"grade\": \"B\", \"justification\": \"Jawaban terstruktur dengan baik, menyebutkan tiga teknologi secara terpisah dan memberikan penjelasan singkat untuk masing-masing. Alur logika mudah diikuti. Meskipun singkat, struktur jawaban sudah cukup jelas.\"}, \"Argumen & Bukti\": {\"grade\": \"C\", \"justification\": \"Alasan pemilihan teknologi disebutkan, tetapi kurang detail. Misalnya, mengapa Firebase dipilih dibandingkan backend lain? Penjelasan lebih mendalam tentang keunggulan masing-masing teknologi dalam konteks proyek akan memperkuat argumen.\"}, \"Gaya Bahasa & Mekanik\": {\"grade\": \"B\", \"justification\": \"Bahasa yang digunakan jelas dan mudah dipahami. Tidak ada kesalahan tata bahasa atau ejaan yang signifikan. Gaya penulisan sudah cukup baik untuk menjawab pertanyaan ini.\"}}",
+      "overall_comment": "Jawaban sudah cukup baik dalam mengidentifikasi dan menjelaskan teknologi yang digunakan. Penjelasan lebih detail dan argumen yang lebih kuat akan meningkatkan kualitas jawaban.",
+      "metadata": {
+        "tokens_used": 1983,
+        "api_call_time": 10.525166511535645,
+        "timestamp": "2025-12-11T00:22:12.610873"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": "3. Jelaskan manfaat atau kegunaan hasil capstone projectmu bagi orang lain atau bidang yang kamu tekuni. (10 poin)",
+      "answer": "Membantu orang memantau dan meningkatkan kualitas tidur mereka, yang penting untuk kesehatan jangka panjang.",
+      "grades": {
+        "Pemahaman Konten": {
+          "grade": "B",
+          "justification": "Jawaban menunjukkan pemahaman yang baik tentang manfaat proyek capstone, yaitu meningkatkan kualitas tidur. Namun, penjelasan masih bisa lebih mendalam dengan menyebutkan mekanisme bagaimana proyek tersebut memantau dan meningkatkan kualitas tidur. Jawaban ini memenuhi kriteria 'Pemahaman konsep baik' dan 'Penjelasan cukup lengkap'."
+        },
+        "Organisasi & Struktur": {
+          "grade": "A",
+          "justification": "Jawaban ini sangat ringkas dan langsung ke poin, sehingga strukturnya jelas dan mudah dipahami. Meskipun hanya satu kalimat, ide tersampaikan dengan baik. Ini memenuhi kriteria 'Struktur sangat jelas' dan 'Alur logika mudah diikuti'."
+        },
+        "Argumen & Bukti": {
+          "grade": "C",
+          "justification": "Argumen bahwa kualitas tidur penting untuk kesehatan jangka panjang adalah benar, tetapi tidak ada bukti atau contoh spesifik yang diberikan untuk mendukung klaim ini. Jawaban ini memenuhi kriteria 'Argumen lemah atau tidak jelas' dan 'Contoh minimal atau kurang relevan'."
+        },
+        "Gaya Bahasa & Mekanik": {
+          "grade": "A",
+          "justification": "Bahasa yang digunakan jelas dan efektif. Tidak ada kesalahan tata bahasa atau ejaan. Kalimatnya sederhana namun efektif dalam menyampaikan pesan. Ini memenuhi kriteria 'Bahasa efektif, sedikit/tanpa kesalahan'."
+        }
+      },
+      "weighted_score": 3.2,
+      "justification": "{\"Pemahaman Konten\": {\"grade\": \"B\", \"justification\": \"Jawaban menunjukkan pemahaman yang baik tentang manfaat proyek capstone, yaitu meningkatkan kualitas tidur. Namun, penjelasan masih bisa lebih mendalam dengan menyebutkan mekanisme bagaimana proyek tersebut memantau dan meningkatkan kualitas tidur. Jawaban ini memenuhi kriteria 'Pemahaman konsep baik' dan 'Penjelasan cukup lengkap'.\"}, \"Organisasi & Struktur\": {\"grade\": \"A\", \"justification\": \"Jawaban ini sangat ringkas dan langsung ke poin, sehingga strukturnya jelas dan mudah dipahami. Meskipun hanya satu kalimat, ide tersampaikan dengan baik. Ini memenuhi kriteria 'Struktur sangat jelas' dan 'Alur logika mudah diikuti'.\"}, \"Argumen & Bukti\": {\"grade\": \"C\", \"justification\": \"Argumen bahwa kualitas tidur penting untuk kesehatan jangka panjang adalah benar, tetapi tidak ada bukti atau contoh spesifik yang diberikan untuk mendukung klaim ini. Jawaban ini memenuhi kriteria 'Argumen lemah atau tidak jelas' dan 'Contoh minimal atau kurang relevan'.\"}, \"Gaya Bahasa & Mekanik\": {\"grade\": \"A\", \"justification\": \"Bahasa yang digunakan jelas dan efektif. Tidak ada kesalahan tata bahasa atau ejaan. Kalimatnya sederhana namun efektif dalam menyampaikan pesan. Ini memenuhi kriteria 'Bahasa efektif, sedikit/tanpa kesalahan'.\"}}",
+      "overall_comment": "Jawaban ini ringkas dan jelas, namun dapat ditingkatkan dengan memberikan detail lebih lanjut tentang bagaimana proyek capstone tersebut bekerja dan memberikan bukti pendukung untuk klaim yang dibuat.",
+      "metadata": {
+        "tokens_used": 1976,
+        "api_call_time": 10.917574167251587,
+        "timestamp": "2025-12-11T00:22:23.552215"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": "1.Ceritakan tahap-tahap pengerjaan capstone project dari awal sampai sekarang. Sebutkan juga hal penting atau target yang sudah kamu capai. (15 poin)",
+      "answer": "Mengembangkan aplikasi dengan Android Studio, menghubungkan sensor dengan aplikasi, dan mengintegrasikan dengan Firebase untuk penyimpanan data.",
+      "grades": {
+        "Pemahaman Konten": {
+          "grade": "C",
+          "justification": "Jawaban menunjukkan pemahaman dasar tentang komponen-komponen yang terlibat dalam proyek capstone, seperti penggunaan Android Studio, sensor, dan Firebase. Namun, jawaban ini kurang mendalam karena tidak menjelaskan tahap-tahap pengerjaan secara rinci atau target spesifik yang telah dicapai. Mahasiswa hanya menyebutkan alat dan teknologi yang digunakan, tetapi tidak menjelaskan prosesnya."
+        },
+        "Organisasi & Struktur": {
+          "grade": "D/E",
+          "justification": "Jawaban sangat singkat dan tidak memiliki struktur yang jelas. Tidak ada urutan logis atau transisi antar ide. Jawaban ini hanya berupa daftar singkat komponen, bukan narasi yang terstruktur."
+        },
+        "Argumen & Bukti": {
+          "grade": "D/E",
+          "justification": "Tidak ada argumen atau bukti yang disajikan dalam jawaban ini. Mahasiswa tidak memberikan contoh spesifik atau analisis tentang bagaimana komponen-komponen tersebut diintegrasikan. Jawaban ini hanya berupa pernyataan tanpa dukungan."
+        },
+        "Gaya Bahasa & Mekanik": {
+          "grade": "B",
+          "justification": "Bahasa yang digunakan jelas dan mudah dipahami. Tidak ada kesalahan tata bahasa atau ejaan yang signifikan. Namun, gaya penulisan sangat sederhana dan kurang bervariasi."
+        }
+      },
+      "weighted_score": 1.8,
+      "justification": "{\"Pemahaman Konten\": {\"grade\": \"C\", \"justification\": \"Jawaban menunjukkan pemahaman dasar tentang komponen-komponen yang terlibat dalam proyek capstone, seperti penggunaan Android Studio, sensor, dan Firebase. Namun, jawaban ini kurang mendalam karena tidak menjelaskan tahap-tahap pengerjaan secara rinci atau target spesifik yang telah dicapai. Mahasiswa hanya menyebutkan alat dan teknologi yang digunakan, tetapi tidak menjelaskan prosesnya.\"}, \"Organisasi & Struktur\": {\"grade\": \"D/E\", \"justification\": \"Jawaban sangat singkat dan tidak memiliki struktur yang jelas. Tidak ada urutan logis atau transisi antar ide. Jawaban ini hanya berupa daftar singkat komponen, bukan narasi yang terstruktur.\"}, \"Argumen & Bukti\": {\"grade\": \"D/E\", \"justification\": \"Tidak ada argumen atau bukti yang disajikan dalam jawaban ini. Mahasiswa tidak memberikan contoh spesifik atau analisis tentang bagaimana komponen-komponen tersebut diintegrasikan. Jawaban ini hanya berupa pernyataan tanpa dukungan.\"}, \"Gaya Bahasa & Mekanik\": {\"grade\": \"B\", \"justification\": \"Bahasa yang digunakan jelas dan mudah dipahami. Tidak ada kesalahan tata bahasa atau ejaan yang signifikan. Namun, gaya penulisan sangat sederhana dan kurang bervariasi.\"}}",
+      "overall_comment": "Jawaban ini sangat singkat dan kurang detail. Mahasiswa perlu memberikan penjelasan yang lebih lengkap dan terstruktur tentang tahap-tahap pengerjaan proyek capstone.",
+      "metadata": {
+        "tokens_used": 1969,
+        "api_call_time": 11.128210544586182,
+        "timestamp": "2025-12-11T00:22:34.702916"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": "3. Apakah ada perubahan pada rencana (ingin mengubah project) atau cara pengerjaan selama proyek berjalan? Jika iya, jelaskan apa yang berubah dan bagaimana pengaruhnya ke hasil proyek. (10 poin)",
+      "answer": "Menambah fitur untuk menganalisis pola tidur dalam jangka waktu lebih panjang.",
+      "grades": {
+        "Pemahaman Konten": {
+          "grade": "C",
+          "justification": "Jawaban menunjukkan pemahaman dasar bahwa ada perubahan dalam rencana proyek, yaitu penambahan fitur. Namun, jawaban tidak menjelaskan secara detail bagaimana penambahan fitur ini mempengaruhi hasil proyek. Mahasiswa perlu menjelaskan lebih lanjut dampak penambahan fitur tersebut terhadap hasil akhir proyek."
+        },
+        "Organisasi & Struktur": {
+          "grade": "D/E",
+          "justification": "Jawaban sangat singkat dan tidak memiliki struktur yang jelas. Tidak ada transisi atau alur logika yang dapat diikuti. Jawaban hanya berupa satu kalimat tanpa elaborasi lebih lanjut."
+        },
+        "Argumen & Bukti": {
+          "grade": "D/E",
+          "justification": "Tidak ada argumen atau bukti yang diberikan dalam jawaban. Mahasiswa hanya menyebutkan penambahan fitur tanpa memberikan penjelasan atau alasan yang mendukung. Tidak ada analisis yang dilakukan mengenai pengaruh perubahan tersebut."
+        },
+        "Gaya Bahasa & Mekanik": {
+          "grade": "B",
+          "justification": "Bahasa yang digunakan jelas dan mudah dipahami, meskipun sangat singkat. Tidak ada kesalahan tata bahasa atau ejaan yang signifikan. Namun, gaya penulisan sangat minimalis dan kurang deskriptif."
+        }
+      },
+      "weighted_score": 1.8,
+      "justification": "{\"Pemahaman Konten\": {\"grade\": \"C\", \"justification\": \"Jawaban menunjukkan pemahaman dasar bahwa ada perubahan dalam rencana proyek, yaitu penambahan fitur. Namun, jawaban tidak menjelaskan secara detail bagaimana penambahan fitur ini mempengaruhi hasil proyek. Mahasiswa perlu menjelaskan lebih lanjut dampak penambahan fitur tersebut terhadap hasil akhir proyek.\"}, \"Organisasi & Struktur\": {\"grade\": \"D/E\", \"justification\": \"Jawaban sangat singkat dan tidak memiliki struktur yang jelas. Tidak ada transisi atau alur logika yang dapat diikuti. Jawaban hanya berupa satu kalimat tanpa elaborasi lebih lanjut.\"}, \"Argumen & Bukti\": {\"grade\": \"D/E\", \"justification\": \"Tidak ada argumen atau bukti yang diberikan dalam jawaban. Mahasiswa hanya menyebutkan penambahan fitur tanpa memberikan penjelasan atau alasan yang mendukung. Tidak ada analisis yang dilakukan mengenai pengaruh perubahan tersebut.\"}, \"Gaya Bahasa & Mekanik\": {\"grade\": \"B\", \"justification\": \"Bahasa yang digunakan jelas dan mudah dipahami, meskipun sangat singkat. Tidak ada kesalahan tata bahasa atau ejaan yang signifikan. Namun, gaya penulisan sangat minimalis dan kurang deskriptif.\"}}",
+      "overall_comment": "Jawaban ini terlalu singkat dan kurang detail. Mahasiswa perlu memberikan penjelasan yang lebih komprehensif mengenai perubahan dalam rencana proyek dan dampaknya.",
+      "metadata": {
+        "tokens_used": 1947,
+        "api_call_time": 10.469873428344727,
+        "timestamp": "2025-12-11T00:22:45.193421"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": "1.\tTulislah Konsep kerangka proposal penelitian dari capstone project kamu yang mencakup:\n1.\tLatar belakang masalah\n2.\tMasalah penelitian (rumusan masalah)\n3.\tTujuan penelitian\n4.\tCara atau metode yang akan kamu gunakan \n(20 poin)",
+      "answer": "Latar belakang masalah: Pola tidur yang buruk mengganggu kesehatan. Masalah penelitian: Bagaimana memonitor kualitas tidur secara efektif. Tujuan penelitian: Membuat aplikasi untuk memantau dan memberikan rekomendasi tidur yang lebih baik. Metode: Penggunaan sensor detak jantung dan aplikasi mobile berbasis Android.",
+      "grades": {
+        "Pemahaman Konten": {
+          "grade": "B",
+          "justification": "Mahasiswa menunjukkan pemahaman yang cukup baik tentang komponen-komponen proposal penelitian, seperti latar belakang masalah, rumusan masalah, tujuan, dan metode. Meskipun penjelasannya ringkas, poin-poin penting telah diidentifikasi. Mahasiswa perlu mengembangkan setiap bagian lebih lanjut untuk mencapai pemahaman yang mendalam."
+        },
+        "Organisasi & Struktur": {
+          "grade": "B",
+          "justification": "Jawaban mahasiswa terstruktur dengan baik, mengikuti urutan yang diminta dalam soal. Setiap komponen (latar belakang, masalah, tujuan, metode) dipisahkan dengan jelas. Transisi antar bagian cukup baik, meskipun bisa ditingkatkan dengan menambahkan kalimat penghubung yang lebih halus."
+        },
+        "Argumen & Bukti": {
+          "grade": "C",
+          "justification": "Argumen yang disajikan masih sangat dasar dan memerlukan elaborasi lebih lanjut. Contoh yang diberikan (penggunaan sensor detak jantung) relevan, tetapi tidak dijelaskan secara detail bagaimana sensor tersebut akan diimplementasikan. Analisis yang lebih mendalam tentang keefektifan metode yang diusulkan akan meningkatkan nilai pada kriteria ini."
+        },
+        "Gaya Bahasa & Mekanik": {
+          "grade": "B",
+          "justification": "Bahasa yang digunakan jelas dan mudah dipahami. Terdapat beberapa kesalahan minor dalam tata bahasa atau ejaan, tetapi tidak mengganggu pemahaman secara keseluruhan. Gaya penulisan cukup efektif untuk menyampaikan ide-ide dasar."
+        }
+      },
+      "weighted_score": 2.9,
+      "justification": "{\"Pemahaman Konten\": {\"grade\": \"B\", \"justification\": \"Mahasiswa menunjukkan pemahaman yang cukup baik tentang komponen-komponen proposal penelitian, seperti latar belakang masalah, rumusan masalah, tujuan, dan metode. Meskipun penjelasannya ringkas, poin-poin penting telah diidentifikasi. Mahasiswa perlu mengembangkan setiap bagian lebih lanjut untuk mencapai pemahaman yang mendalam.\"}, \"Organisasi & Struktur\": {\"grade\": \"B\", \"justification\": \"Jawaban mahasiswa terstruktur dengan baik, mengikuti urutan yang diminta dalam soal. Setiap komponen (latar belakang, masalah, tujuan, metode) dipisahkan dengan jelas. Transisi antar bagian cukup baik, meskipun bisa ditingkatkan dengan menambahkan kalimat penghubung yang lebih halus.\"}, \"Argumen & Bukti\": {\"grade\": \"C\", \"justification\": \"Argumen yang disajikan masih sangat dasar dan memerlukan elaborasi lebih lanjut. Contoh yang diberikan (penggunaan sensor detak jantung) relevan, tetapi tidak dijelaskan secara detail bagaimana sensor tersebut akan diimplementasikan. Analisis yang lebih mendalam tentang keefektifan metode yang diusulkan akan meningkatkan nilai pada kriteria ini.\"}, \"Gaya Bahasa & Mekanik\": {\"grade\": \"B\", \"justification\": \"Bahasa yang digunakan jelas dan mudah dipahami. Terdapat beberapa kesalahan minor dalam tata bahasa atau ejaan, tetapi tidak mengganggu pemahaman secara keseluruhan. Gaya penulisan cukup efektif untuk menyampaikan ide-ide dasar.\"}}",
+      "overall_comment": "Secara keseluruhan, mahasiswa telah menunjukkan pemahaman dasar tentang kerangka proposal penelitian. Pengembangan lebih lanjut pada setiap bagian akan menghasilkan proposal yang lebih komprehensif.",
+      "metadata": {
+        "tokens_used": 2092,
+        "api_call_time": 10.988017559051514,
+        "timestamp": "2025-12-11T00:22:56.203117"
+      }
+    },
+    {
+      "question_id": 7,
+      "question": "2.\tJelaskan bagaimana proposal penelitianmu bisa membantu mengembangkan ilmu pengetahuan atau teknologi di bidangmu. (10 poin)",
+      "answer": "Penelitian ini dapat membantu mengembangkan aplikasi kesehatan untuk pola tidur yang lebih baik, yang penting untuk kualitas hidup yang lebih sehat.",
+      "grades": {
+        "Pemahaman Konten": {
+          "grade": "B",
+          "justification": "Jawaban menunjukkan pemahaman dasar tentang bagaimana penelitian dapat berkontribusi pada pengembangan aplikasi kesehatan. Meskipun singkat, jawaban tersebut relevan dengan pertanyaan. Namun, kurangnya detail dan kedalaman membuat jawaban ini tidak bisa dinilai A."
+        },
+        "Organisasi & Struktur": {
+          "grade": "A",
+          "justification": "Jawaban ini sangat ringkas dan langsung pada intinya, sehingga strukturnya jelas dan mudah dipahami. Meskipun hanya satu kalimat, ide yang disampaikan terorganisir dengan baik. Tidak ada transisi yang diperlukan karena hanya ada satu ide utama."
+        },
+        "Argumen & Bukti": {
+          "grade": "C",
+          "justification": "Argumen yang diajukan kurang detail dan tidak didukung oleh bukti atau contoh spesifik. Pernyataan bahwa aplikasi kesehatan untuk pola tidur yang lebih baik penting untuk kualitas hidup yang lebih sehat adalah argumen yang umum, tetapi tidak ada elaborasi lebih lanjut. Tidak ada analisis mendalam tentang bagaimana penelitian secara spesifik akan berkontribusi."
+        },
+        "Gaya Bahasa & Mekanik": {
+          "grade": "A",
+          "justification": "Bahasa yang digunakan jelas dan efektif. Tidak ada kesalahan tata bahasa atau ejaan. Kalimatnya sederhana namun menyampaikan pesan dengan baik."
+        }
+      },
+      "weighted_score": 3.2,
+      "justification": "{\"Pemahaman Konten\": {\"grade\": \"B\", \"justification\": \"Jawaban menunjukkan pemahaman dasar tentang bagaimana penelitian dapat berkontribusi pada pengembangan aplikasi kesehatan. Meskipun singkat, jawaban tersebut relevan dengan pertanyaan. Namun, kurangnya detail dan kedalaman membuat jawaban ini tidak bisa dinilai A.\"}, \"Organisasi & Struktur\": {\"grade\": \"A\", \"justification\": \"Jawaban ini sangat ringkas dan langsung pada intinya, sehingga strukturnya jelas dan mudah dipahami. Meskipun hanya satu kalimat, ide yang disampaikan terorganisir dengan baik. Tidak ada transisi yang diperlukan karena hanya ada satu ide utama.\"}, \"Argumen & Bukti\": {\"grade\": \"C\", \"justification\": \"Argumen yang diajukan kurang detail dan tidak didukung oleh bukti atau contoh spesifik. Pernyataan bahwa aplikasi kesehatan untuk pola tidur yang lebih baik penting untuk kualitas hidup yang lebih sehat adalah argumen yang umum, tetapi tidak ada elaborasi lebih lanjut. Tidak ada analisis mendalam tentang bagaimana penelitian secara spesifik akan berkontribusi.\"}, \"Gaya Bahasa & Mekanik\": {\"grade\": \"A\", \"justification\": \"Bahasa yang digunakan jelas dan efektif. Tidak ada kesalahan tata bahasa atau ejaan. Kalimatnya sederhana namun menyampaikan pesan dengan baik.\"}}",
+      "overall_comment": "Jawaban ini ringkas dan relevan, tetapi perlu diperluas dengan detail dan bukti yang lebih spesifik untuk mencapai nilai yang lebih tinggi. Usaha mahasiswa patut diapresiasi.",
+      "metadata": {
+        "tokens_used": 1973,
+        "api_call_time": 10.956104278564453,
+        "timestamp": "2025-12-11T00:23:07.183302"
+      }
+    }
+  ]
+}

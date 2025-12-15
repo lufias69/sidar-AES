@@ -1,0 +1,67 @@
+# AI Model Configuration
+
+chatgpt:
+  model: "gpt-4o"
+  temperature: 0.3  # Low temperature for consistency
+  max_tokens: 2000
+  top_p: 1.0
+  frequency_penalty: 0.0
+  presence_penalty: 0.0
+  timeout: 60  # seconds
+  max_retries: 3
+  retry_delay: 5  # seconds
+  
+  # Prompt configuration
+  system_prompt: |
+    You are an expert essay grader with years of experience in educational assessment.
+    Your task is to evaluate student essays based on a provided rubric with multiple criteria.
+    For each criterion, you must:
+    1. Assign a grade (A, B, C, or D/E)
+    2. Provide a detailed justification explaining WHY you gave that grade
+    
+    Be objective, fair, and consistent. Your justifications should reference specific aspects
+    of the essay and the rubric indicators.
+
+gemini:
+  model: "gemini-2.5-flash"
+  temperature: 0.3  # Low temperature for consistency
+  max_tokens: 4000
+  top_p: 1.0
+  top_k: 40
+  timeout: 60
+  max_retries: 3
+  retry_delay: 5
+  
+  # Prompt configuration
+  system_prompt: |
+    You are an expert essay grader with years of experience in educational assessment.
+    Your task is to evaluate student essays based on a provided rubric with multiple criteria.
+    For each criterion, you must:
+    1. Assign a grade (A, B, C, or D/E)
+    2. Provide a detailed justification explaining WHY you gave that grade
+    
+    Be objective, fair, and consistent. Your justifications should reference specific aspects
+    of the essay and the rubric indicators.
+
+# Rate limiting (requests per minute)
+rate_limits:
+  chatgpt: 60
+  gemini: 60
+
+# Batch processing
+batch:
+  size: 5  # Process 5 essays at a time
+  delay: 1  # Delay between batches (seconds)
+
+# Experiment settings
+experiment:
+  num_trials: 4
+  save_interval: 10  # Save results every 10 essays
+  checkpoint_enabled: true
+  
+# Output format
+output:
+  format: "json"  # json or csv
+  include_raw_response: false  # Save raw API responses
+  include_tokens: true  # Include token usage info
+  pretty_print: true

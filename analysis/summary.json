@@ -1,0 +1,48 @@
+{
+  "baseline": {
+    "total_tasks": 140,
+    "total_students": 10,
+    "grade_distribution": {
+      "D": 72,
+      "B": 40,
+      "C": 26,
+      "A": 2
+    }
+  },
+  "experiments": {
+    "total_experiments": 31,
+    "total_tasks_attempted": 2004,
+    "total_tasks_completed": 1958,
+    "total_tasks_failed": 45,
+    "overall_success_rate": 97.70459081836327
+  },
+  "by_model": {
+    "chatgpt": {
+      "experiments": 16,
+      "completed_tasks": 1084,
+      "failed_tasks": 36
+    },
+    "gemini": {
+      "experiments": 15,
+      "completed_tasks": 874,
+      "failed_tasks": 9
+    }
+  },
+  "by_strategy": {
+    "few-shot": {
+      "experiments": 3,
+      "completed_tasks": 210,
+      "failed_tasks": 0
+    },
+    "lenient": {
+      "experiments": 25,
+      "completed_tasks": 1538,
+      "failed_tasks": 45
+    },
+    "zero-shot": {
+      "experiments": 3,
+      "completed_tasks": 210,
+      "failed_tasks": 0
+    }
+  }
+}

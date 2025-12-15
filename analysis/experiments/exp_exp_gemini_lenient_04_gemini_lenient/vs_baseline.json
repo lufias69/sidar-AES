@@ -1,0 +1,8 @@
+{
+  "matched_tasks": 140,
+  "accuracy": 38.57142857142858,
+  "mean_score_difference": 0.6714285714285714,
+  "mae": 0.82,
+  "rmse": 1.0120700145176291,
+  "correlation": 0.5016482908386225
+}

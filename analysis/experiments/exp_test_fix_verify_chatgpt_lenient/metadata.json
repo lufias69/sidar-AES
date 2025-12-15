@@ -1,0 +1,9 @@
+{
+  "experiment_id": "test_fix_verify",
+  "model": "chatgpt",
+  "strategy": "lenient",
+  "total_tasks": 70,
+  "completed_tasks": 34,
+  "failed_tasks": 36,
+  "success_rate": 48.57142857142857
+}

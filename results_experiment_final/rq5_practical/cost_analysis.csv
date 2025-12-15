@@ -1,0 +1,7 @@
+model,strategy,n_essays,total_tokens,mean_tokens_per_essay,median_tokens_per_essay,total_cost_usd,cost_per_essay_usd,cost_per_100_essays_usd
+chatgpt,few-shot,770,1568672,2037.0,1998.0,8.6277,0.011205,1.1205
+chatgpt,lenient,804,1665448,2071.0,2065.0,9.16,0.011393,1.1393
+chatgpt,zero-shot,770,1533361,1991.0,1985.0,8.4335,0.010953,1.0953
+gemini,few-shot,695,1445720,2080.0,2070.0,0.2385,0.000343,0.0343
+gemini,lenient,734,1459298,1988.0,1980.0,0.2408,0.000328,0.0328
+gemini,zero-shot,700,1369802,1957.0,1938.0,0.226,0.000323,0.0323

@@ -1,0 +1,7 @@
+model,strategy,n_samples,exact_agreement_pct,adjacent_agreement_pct,cohen_kappa,qwk,mae,rmse,bias
+chatgpt,few-shot,910,60.88,92.53,0.4239,0.5827,0.4569,0.7107,-0.1949
+chatgpt,lenient,936,36.11,88.25,0.0361,0.2909,0.6885,0.8578,0.4654
+chatgpt,zero-shot,910,62.42,92.75,0.4456,0.6001,0.4424,0.6982,-0.2178
+gemini,few-shot,834,44.84,91.85,0.2168,0.4689,0.6312,0.7959,-0.0633
+gemini,lenient,868,47.47,88.25,0.1894,0.3115,0.762,0.9644,0.4394
+gemini,zero-shot,840,46.67,96.9,0.2335,0.4568,0.5852,0.7459,0.0443

@@ -1,0 +1,60 @@
+================================================================================
+LENIENT STRATEGY DATA EXTRACTION SUMMARY
+================================================================================
+
+Extraction Date: 2025-12-13 16:19:14
+
+OVERALL STATISTICS
+--------------------------------------------------------------------------------
+Total Records: 1538
+Students: 16
+Questions: 7
+Trials: 1
+Models: chatgpt, gemini
+
+MODEL BREAKDOWN
+--------------------------------------------------------------------------------
+
+CHATGPT:
+  Records: 804
+  Trials: [np.int64(1)]
+  Students: 15
+  Questions: [np.int64(1), np.int64(2), np.int64(3), np.int64(4), np.int64(5), np.int64(6), np.int64(7)]
+
+GEMINI:
+  Records: 734
+  Trials: [np.int64(1)]
+  Students: 11
+  Questions: [np.int64(1), np.int64(2), np.int64(3), np.int64(4), np.int64(5), np.int64(6), np.int64(7)]
+
+================================================================================
+GRADE DISTRIBUTION
+================================================================================
+
+AES Grades:
+  N/A: 1538 (100.0%)
+
+Expert Grades:
+  A: 20 (1.3%)
+  B: 865 (56.2%)
+  C: 475 (30.9%)
+  D: 136 (8.8%)
+
+================================================================================
+QUALITY METRICS
+================================================================================
+
+Exact Agreement: 0/1538 (0.0%)
+Missing Expert Grades: 42
+Missing AES Grades: 1538
+
+================================================================================
+DATA FILES GENERATED
+================================================================================
+
+1. lenient_full_data.csv - Full dataset (1538 records)
+2. lenient_chatgpt.csv - ChatGPT only (804 records)
+3. lenient_gemini.csv - Gemini only (734 records)
+4. lenient_summary.txt - This summary file
+
+================================================================================

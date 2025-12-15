@@ -1,0 +1,28 @@
+{
+  "total_tasks": 140,
+  "total_students": 10,
+  "questions_per_student": [
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14,
+    14
+  ],
+  "grade_distribution": {
+    "D": 72,
+    "B": 40,
+    "C": 26,
+    "A": 2
+  },
+  "score_statistics": {
+    "mean": 2.005714285714286,
+    "std": 0.8706048033036904,
+    "min": 1.0,
+    "max": 3.9
+  }
+}

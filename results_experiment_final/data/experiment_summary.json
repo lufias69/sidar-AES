@@ -1,0 +1,76 @@
+{
+  "total_experiments": 66,
+  "total_gradings": 4473,
+  "models": [
+    "chatgpt",
+    "gemini"
+  ],
+  "strategies": [
+    "few-shot",
+    "lenient",
+    "zero-shot"
+  ],
+  "experiments_by_model_strategy": {
+    "chatgpt_few-shot": {
+      "experiments": 11,
+      "gradings": 770
+    },
+    "chatgpt_lenient": {
+      "experiments": 12,
+      "gradings": 804
+    },
+    "chatgpt_zero-shot": {
+      "experiments": 11,
+      "gradings": 770
+    },
+    "gemini_few-shot": {
+      "experiments": 10,
+      "gradings": 695
+    },
+    "gemini_lenient": {
+      "experiments": 12,
+      "gradings": 734
+    },
+    "gemini_zero-shot": {
+      "experiments": 10,
+      "gradings": 700
+    }
+  },
+  "students": {
+    "total": 16,
+    "ids": [
+      "student_00",
+      "student_01",
+      "student_02",
+      "student_03",
+      "student_04",
+      "student_05",
+      "student_06",
+      "student_07",
+      "student_08",
+      "student_09",
+      "student_12",
+      "student_13",
+      "student_14",
+      "student_15",
+      "student_16",
+      "unknown"
+    ]
+  },
+  "questions": {
+    "total": 7,
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  "date_range": {
+    "first": "2025-12-10T13:38:04.812811",
+    "last": "2025-12-15T11:41:22.647692"
+  }
+}

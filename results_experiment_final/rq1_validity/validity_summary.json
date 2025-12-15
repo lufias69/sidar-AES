@@ -1,0 +1,43 @@
+{
+  "overall": {
+    "total_samples": 5298,
+    "models": [
+      "chatgpt",
+      "gemini"
+    ],
+    "strategies": [
+      "few-shot",
+      "lenient",
+      "zero-shot"
+    ],
+    "grade_distribution_gold": {
+      "1.1": 1556,
+      "3.2": 1366,
+      "1.8": 734,
+      "2.0": 650,
+      "3.0": 364,
+      "2.7": 250,
+      "1.2": 126,
+      "3.1": 120,
+      "3.9": 120,
+      "2.2": 6,
+      "1.0": 6
+    }
+  },
+  "by_model": {
+    "chatgpt": {
+      "n_samples": 2756,
+      "mean_exact_agreement": 53.13666666666668,
+      "mean_adjacent_agreement": 91.17666666666666,
+      "mean_qwk": 0.49123333333333336,
+      "best_strategy": "zero-shot"
+    },
+    "gemini": {
+      "n_samples": 2542,
+      "mean_exact_agreement": 46.326666666666675,
+      "mean_adjacent_agreement": 92.33333333333333,
+      "mean_qwk": 0.41240000000000004,
+      "best_strategy": "few-shot"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+model,strategy,qwk,mae,cost_per_essay_usd,mean_time_seconds,score_balanced,accuracy_rank,cost_rank,speed_rank,overall_rank
+chatgpt,few-shot,0.5827,0.4569,0.011205,5.15,0.5789605746907092,2.0,5.0,2.0,2.0
+chatgpt,lenient,0.2909,0.6885,0.011393,7.67,0.4175505492977333,6.0,6.0,3.0,4.0
+chatgpt,zero-shot,0.6001,0.4424,0.010953,5.11,0.6059620596205962,1.0,4.0,1.0,1.0
+gemini,few-shot,0.4689,0.6312,0.000343,18.61,0.375501105698446,3.0,3.0,6.0,5.0
+gemini,lenient,0.3115,0.762,0.000328,9.82,0.26425480214698654,5.0,2.0,4.0,6.0
+gemini,zero-shot,0.4568,0.5852,0.000323,12.05,0.46766366800314396,4.0,1.0,5.0,3.0

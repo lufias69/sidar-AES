@@ -1,0 +1,262 @@
+{
+  "default": {
+    "name": "Default Essay Rubric",
+    "description": "Standard rubric for general essay assessment with 4 criteria",
+    "criteria": {
+      "Pemahaman Konten": {
+        "weight": 0.60,
+        "description": "Kedalaman dan keakuratan pemahaman terhadap materi",
+        "grades": {
+          "A": {
+            "description": "Akurat, mendalam, lengkap.",
+            "points": 4,
+            "indicators": [
+              "Pemahaman konsep sangat mendalam",
+              "Tidak ada kesalahan konseptual",
+              "Menjelaskan dengan detail dan lengkap",
+              "Menunjukkan insight tingkat lanjut"
+            ]
+          },
+          "B": {
+            "description": "Akurat, cukup mendalam, sebagian besar lengkap.",
+            "points": 3,
+            "indicators": [
+              "Pemahaman konsep baik",
+              "Kesalahan minor jika ada",
+              "Penjelasan cukup lengkap",
+              "Menunjukkan pemahaman yang solid"
+            ]
+          },
+          "C": {
+            "description": "Ada beberapa ketidakakuratan/kurang lengkap.",
+            "points": 2,
+            "indicators": [
+              "Pemahaman dasar ada tetapi tidak mendalam",
+              "Beberapa kesalahan konseptual",
+              "Penjelasan kurang lengkap",
+              "Beberapa bagian penting terlewat"
+            ]
+          },
+          "D/E": {
+            "description": "Banyak ketidakakuratan/salah paham.",
+            "points": 1,
+            "indicators": [
+              "Kesalahpahaman fundamental",
+              "Banyak ketidakakuratan",
+              "Penjelasan sangat minimal atau salah",
+              "Tidak menunjukkan pemahaman yang memadai"
+            ]
+          }
+        }
+      },
+      "Organisasi & Struktur": {
+        "weight": 0.20,
+        "description": "Struktur esai, koherensi, dan alur logika",
+        "grades": {
+          "A": {
+            "description": "Terorganisir, koheren, struktur jelas.",
+            "points": 4,
+            "indicators": [
+              "Struktur sangat jelas (intro, body, conclusion)",
+              "Transisi antar paragraf smooth",
+              "Alur logika mudah diikuti",
+              "Ide terorganisir dengan sangat baik"
+            ]
+          },
+          "B": {
+            "description": "Cukup terorganisir, transisi memadai.",
+            "points": 3,
+            "indicators": [
+              "Struktur jelas meski ada minor issues",
+              "Transisi umumnya baik",
+              "Alur logika dapat diikuti",
+              "Organisasi cukup efektif"
+            ]
+          },
+          "C": {
+            "description": "Struktur agak kacau, transisi kurang.",
+            "points": 2,
+            "indicators": [
+              "Struktur kurang jelas",
+              "Transisi lemah atau tidak ada",
+              "Alur logika kadang membingungkan",
+              "Beberapa ide loncat-loncat"
+            ]
+          },
+          "D/E": {
+            "description": "Tidak terorganisir, sulit diikuti.",
+            "points": 1,
+            "indicators": [
+              "Tidak ada struktur yang jelas",
+              "Tidak ada transisi",
+              "Alur logika kacau",
+              "Sangat sulit diikuti"
+            ]
+          }
+        }
+      },
+      "Argumen & Bukti": {
+        "weight": 0.10,
+        "description": "Kualitas argumen, penggunaan bukti dan contoh",
+        "grades": {
+          "A": {
+            "description": "Penjelasan sangat detail, didukung contoh relevan & analisis.",
+            "points": 4,
+            "indicators": [
+              "Argumen sangat kuat dan well-supported",
+              "Contoh spesifik dan relevan",
+              "Analisis mendalam",
+              "Bukti dari sumber terpercaya"
+            ]
+          },
+          "B": {
+            "description": "Penjelasan jelas, didukung detail cukup, analisis dasar.",
+            "points": 3,
+            "indicators": [
+              "Argumen cukup kuat",
+              "Contoh memadai",
+              "Analisis dasar ada",
+              "Dukungan bukti cukup"
+            ]
+          },
+          "C": {
+            "description": "Penjelasan kurang detail/jelas, dukungan kurang.",
+            "points": 2,
+            "indicators": [
+              "Argumen lemah atau tidak jelas",
+              "Contoh minimal atau kurang relevan",
+              "Analisis superficial",
+              "Bukti kurang memadai"
+            ]
+          },
+          "D/E": {
+            "description": "Tidak ada penjelasan/detail tidak relevan.",
+            "points": 1,
+            "indicators": [
+              "Tidak ada argumen yang jelas",
+              "Tidak ada contoh atau tidak relevan",
+              "Tidak ada analisis",
+              "Tidak ada bukti pendukung"
+            ]
+          }
+        }
+      },
+      "Gaya Bahasa & Mekanik": {
+        "weight": 0.10,
+        "description": "Kualitas bahasa, tata bahasa, ejaan, dan gaya penulisan",
+        "grades": {
+          "A": {
+            "description": "Bahasa efektif, sedikit/tanpa kesalahan.",
+            "points": 4,
+            "indicators": [
+              "Bahasa akademik yang sangat efektif",
+              "Hampir tidak ada kesalahan tata bahasa",
+              "Ejaan sempurna",
+              "Variasi kalimat baik"
+            ]
+          },
+          "B": {
+            "description": "Bahasa jelas, beberapa kesalahan minor.",
+            "points": 3,
+            "indicators": [
+              "Bahasa jelas dan efektif",
+              "Beberapa kesalahan minor",
+              "Ejaan umumnya benar",
+              "Kalimat cukup bervariasi"
+            ]
+          },
+          "C": {
+            "description": "Bahasa kurang jelas, sering ada kesalahan.",
+            "points": 2,
+            "indicators": [
+              "Bahasa kadang tidak jelas",
+              "Cukup banyak kesalahan",
+              "Beberapa kesalahan ejaan",
+              "Kalimat monoton"
+            ]
+          },
+          "D/E": {
+            "description": "Kesalahan fatal mengganggu pemahaman.",
+            "points": 1,
+            "indicators": [
+              "Bahasa sangat tidak jelas",
+              "Banyak kesalahan fatal",
+              "Kesalahan ejaan berulang",
+              "Mengganggu pemahaman"
+            ]
+          }
+        }
+      }
+    },
+    "scale": {
+      "A": 4,
+      "B": 3,
+      "C": 2,
+      "D/E": 1
+    },
+    "metadata": {
+      "version": "1.0",
+      "created": "2025-12-10",
+      "author": "AES Research Team",
+      "notes": "Default rubric with justification support"
+    }
+  },
+  "custom_example": {
+    "name": "Custom Rubric Example",
+    "description": "Example of how to create a custom rubric",
+    "criteria": {
+      "Critical Thinking": {
+        "weight": 0.40,
+        "description": "Ability to analyze and evaluate",
+        "grades": {
+          "A": {
+            "description": "Excellent critical analysis",
+            "points": 4,
+            "indicators": ["Deep analysis", "Multiple perspectives", "Strong evaluation"]
+          },
+          "B": {
+            "description": "Good critical thinking",
+            "points": 3,
+            "indicators": ["Clear analysis", "Some perspectives", "Basic evaluation"]
+          },
+          "C": {
+            "description": "Limited critical thinking",
+            "points": 2,
+            "indicators": ["Superficial analysis", "Single perspective", "Weak evaluation"]
+          },
+          "D/E": {
+            "description": "No critical thinking evident",
+            "points": 1,
+            "indicators": ["No analysis", "No evaluation", "Descriptive only"]
+          }
+        }
+      },
+      "Creativity": {
+        "weight": 0.30,
+        "description": "Originality and innovative thinking",
+        "grades": {
+          "A": {"description": "Highly creative and original", "points": 4, "indicators": []},
+          "B": {"description": "Some creativity shown", "points": 3, "indicators": []},
+          "C": {"description": "Limited creativity", "points": 2, "indicators": []},
+          "D/E": {"description": "No creativity", "points": 1, "indicators": []}
+        }
+      },
+      "Research Skills": {
+        "weight": 0.30,
+        "description": "Quality of research and sources",
+        "grades": {
+          "A": {"description": "Excellent research", "points": 4, "indicators": []},
+          "B": {"description": "Good research", "points": 3, "indicators": []},
+          "C": {"description": "Limited research", "points": 2, "indicators": []},
+          "D/E": {"description": "Poor or no research", "points": 1, "indicators": []}
+        }
+      }
+    },
+    "scale": {
+      "A": 4,
+      "B": 3,
+      "C": 2,
+      "D/E": 1
+    }
+  }
+}
