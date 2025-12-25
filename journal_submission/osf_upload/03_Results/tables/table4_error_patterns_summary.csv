@@ -1,0 +1,7 @@
+Model,Strategy,Accuracy_pct,Adjacent_Errors_pct,Major_Errors_pct,Overall_Bias,Bias_Direction
+chatgpt,few-shot,60.9,31.6,7.5,-0.19,Undergrading
+chatgpt,lenient,36.1,52.1,11.8,0.47,Overgrading
+chatgpt,zero-shot,62.4,30.3,7.2,-0.22,Undergrading
+gemini,few-shot,44.8,47.0,8.2,-0.06,Minimal
+gemini,lenient,47.5,40.8,11.8,0.44,Overgrading
+gemini,zero-shot,46.7,50.2,3.1,0.04,Minimal

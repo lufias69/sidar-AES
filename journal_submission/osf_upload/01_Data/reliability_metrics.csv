@@ -1,0 +1,7 @@
+model,strategy,pearson_r,pearson_p,icc_value,icc_ci_lower,icc_ci_upper,fleiss_kappa,mae,coefficient_variation,exact_match_pct,n_trials
+chatgpt,lenient,0.76,<0.001,0.942,0.918,0.961,0.818,0.38,0.048,36.1,10
+gemini,lenient,0.89,<0.001,,,,0.79,0.28,0.042,47.5,10
+chatgpt,zero-shot,0.69,<0.001,0.969,0.95,0.982,0.838,0.65,0.031,62.4,1
+gemini,zero-shot,0.75,<0.001,0.832,0.789,0.868,0.53,0.46,0.054,46.7,1
+chatgpt,few-shot,0.73,<0.001,,,,0.79,0.64,0.047,38.2,1
+gemini,few-shot,0.61,<0.001,,,,0.346,0.61,0.062,42.9,1

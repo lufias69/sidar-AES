@@ -1,0 +1,7 @@
+Model,Strategy,Pearson_r,MAE,Exact_Match_pct
+chatgpt,lenient,0.76,0.38,36.1
+gemini,lenient,0.89,0.28,47.5
+chatgpt,zero-shot,0.69,0.65,62.4
+gemini,zero-shot,0.75,0.46,46.7
+chatgpt,few-shot,0.73,0.64,38.2
+gemini,few-shot,0.61,0.61,42.9

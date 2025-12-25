@@ -1,0 +1,7 @@
+model,strategy,n_samples,mae,rmse,bias,negligible_pct,minor_pct,major_pct,critical_pct,over_grading_pct,accurate_pct,under_grading_pct
+chatgpt,few-shot,910,0.4569,0.7107,-0.1949,60.0,23.96,8.57,7.47,14.07,60.88,25.05
+chatgpt,lenient,936,0.6885,0.8578,0.4654,36.11,35.68,16.45,11.75,55.13,36.32,8.55
+chatgpt,zero-shot,910,0.4424,0.6982,-0.2178,60.22,23.96,8.57,7.25,12.75,62.42,24.84
+gemini,few-shot,834,0.6312,0.7959,-0.0633,40.05,40.77,11.75,7.43,26.14,41.97,31.89
+gemini,lenient,868,0.762,0.9644,0.4394,47.0,20.74,20.51,11.75,46.08,47.0,6.91
+gemini,zero-shot,840,0.5852,0.7459,0.0443,45.48,28.81,22.38,3.33,32.86,45.95,21.19
